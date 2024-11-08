@@ -106,7 +106,7 @@ Dziękuję za Twą uwagę oraz czas, jak również życzę powodzenia i dużo do
 
 [2]: https://play.google.com/store/apps/details?id=com.atistudios.mondly.languages
 
-[3]: www.jezykiobce.pl
+[3]: https://www.jezykiobce.pl
 
 [4]: https://play.google.com/store/apps/details?id=pl.idedyk.android.japaneselearnhelper
 
@@ -116,8 +116,8 @@ Dziękuję za Twą uwagę oraz czas, jak również życzę powodzenia i dużo do
 
 [7]: https://learnjapaneseonline.info/2014/12/06/the-key-to-japanese-kanji-pronunciation-meet-the-sound-sisterhoods/
 
-[8]: www.youtube.com/playlist?list=PL8yelphAn7syIYcbBx9fNtccmt7_O6khl
+[8]: https://www.youtube.com/playlist?list=PL8yelphAn7syIYcbBx9fNtccmt7_O6khl
 
-[9]: www.jaktamjaponski.blogspot.com
+[9]: https://www.jaktamjaponski.blogspot.com
 
 [10]: https://t.me/NaukaJaponskiego

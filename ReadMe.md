@@ -7,7 +7,7 @@
 
 ## 1. Japoński dla początkujących.
 
-Uczę się japońskiego od czerwca 2023 roku, póki co z pomocą aplikacji [Busuu][1], [Mondly][2], podręczników [„Japoński nie gryzie”][3] oraz „Język japoński dla początkujących” (Ewa Krassowska-Mackiewicz). Niezmiernie przydatne są mi również programy: [Mały, skromny japoński pomocnik][4] Fryderyka Mazurka oraz [Kanji Dojo][5] Yaroslava Shuliaka.
+Uczę się japońskiego od czerwca 2023 roku, póki co z pomocą aplikacji [Busuu][1], [Mondly][2], [DuoLingo][11], podręczników [„Japoński nie gryzie”][3] oraz „Język japoński dla początkujących” (Ewa Krassowska-Mackiewicz). Niezmiernie przydatne są mi również programy: [Mały, skromny japoński pomocnik][4] Fryderyka Mazurka, [Kanji Dojo][5] Yaroslava Shuliaka oraz Tango Vincenta.
 
 Niniejszą bazę stworzyłem, by przyswajać nabytą wiedzę.
 
@@ -35,6 +35,12 @@ Mając to na uwadze, w Kanji staram się zapisywać tylko te słowa, względem k
 W sporadycznych przypadkach umyślnie rezygnuję z zapisu Kanji (lub poprzedzam ów zapis (prawie samą) Kaną) nawet gdy z pewnością jest poprawny, z uwagi na nieodpowiednie czytanie tegoż zapisu przez syntezator mowy.
 
 5. Fragmenty niektórych polskich zdań ująłem w nawiasy, wskazując w ten sposób ich domyślny (wypływający z kontekstu, a nie z dosłownego japońskiego zapisu) charakter.
+
+6. Zdania opatrzone tagiem „hybrydowe”, to zdania, których pierwsza część napisana jest nieformalnie, a druga formalnie.
+
+7. Zdania nieopatrzone tagiem „hybrydowe” lub „nieformalnie” są napisane formalnie.
+
+8. Pomimo iż zdania pytające formalne winny być zwieńczone japońską kropką, miast znaku zapytania - w Ankim stosuję ów znak mimo wszystko, gdyż jest niezbędny dla syntezatora mowy, by zdanie zostało wypowiedziane jako pytanie.
 
 
 **Jak aktywować japońską wymowę?**
@@ -121,3 +127,5 @@ Dziękuję za Twą uwagę oraz czas, jak również życzę powodzenia i dużo do
 [9]: https://www.jaktamjaponski.blogspot.com
 
 [10]: https://t.me/NaukaJaponskiego
+
+[11]: https://play.google.com/store/apps/details?id=com.duolingo

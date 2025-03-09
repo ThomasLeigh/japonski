@@ -13,7 +13,7 @@ Niniejszą bazę stworzyłem, by przyswajać nabytą wiedzę.
 
 Jest to baza przede wszystkim robocza, tj. odpowiada mojemu **bieżącemu** stanowi wiedzy (poziom początkujący), jak również rozbudowuję ją oraz doskonalę każdego dnia - stąd może posiadać pewne niedociągnięcia. Stwierdziłem jednak, iż lepiej opublikować ją już dziś, niż czekać dłuższy czas na jej doszlifowanie podyktowane znacznie wyższym stopniem kompetencji, nabytej po dłuższym czasie nauki. Baza rozwija się więc wraz ze mną - a jeśli i Ty również interesujesz się japońskim, chcesz stawiać w nim pierwsze kroki, może być pomocna i Tobie.
 
-Kolekcja składa się przede wszystkim ze słownictwa oraz przykładowych zdań - zapisanych w pierwszej mierze w alfabecie łacińskim, gdyż myślę iż jest to najprzystępniejsze (a może być i wręcz nieocenione) dla początkujących. Sukcesywnie i powolutku uzupełniam poszczególne pozycje o dodatkowy zapis czy to w Kana, czy w Kanji.
+Kolekcja składa się przede wszystkim ze słownictwa oraz przykładowych zdań - zapisanych w pierwszej mierze w alfabecie łacińskim, gdyż myślę iż jest to najprzystępniejsze (a może być i wręcz nieocenione) dla początkujących. Sukcesywnie i powolutku uzupełniam poszczególne pozycje o dodatkowy zapis czy to w Kanie, czy w Kanji.
 
 Jako smaczki, tu i ówdzie pomiędzy słownictwem i zdaniami umieszczam ciekawostki dot. czy to języka, czy Japonii, japońskiej kultury - co może stanowić przyjemne i interesujące urozmaicenie nauki :) .
 
@@ -22,7 +22,7 @@ Jeżeli baza przypadnie Ci do gustu, zdecydowanie polecam ponowne odwiedzanie te
 
 **Zwróć uwagę:**
 
-1. Partykułę dopełnienia bliższego (を) zapisuję w transkrypcji łacińskiej czasem jako „-wo” (a nie „-o”) - robię tak tylko wtedy, gdy spotkam się z wymową danego zdania, w której wyraźnie słychać dźwięk „ło”, a nie samo „o”.
+1. Partykułę dopełnienia bliższego 「を」 zapisuję w transkrypcji łacińskiej czasem jako 「-wo」 (a nie 「-o」) - robię tak tylko wtedy, gdy spotkam się z wymową danego zdania, w której wyraźnie słychać dźwięk „ło”, a nie samo „o”.
 
 2. Wszystkie partykuły zapisuję wg zasad transkrypcji Hepburna - tj. jako doklejone do wyrazów których dotyczą, myślnikami.
 
@@ -34,6 +34,8 @@ Mając to na uwadze, w Kanji staram się zapisywać tylko te słowa, względem k
 
 W sporadycznych przypadkach umyślnie rezygnuję z zapisu Kanji (lub poprzedzam ów zapis (prawie samą) Kaną) nawet gdy z pewnością jest poprawny, z uwagi na nieodpowiednie czytanie tegoż zapisu przez syntezator mowy.
 
+Dla większej autentyczności imiona również zapisałem w Kanji - użyłem na te potrzeby rzeczywistych wariantów imion, często wybieranych przez samych Japończyków (jako źródło obrałem serwis [NazukePon][12]).
+
 5. Fragmenty niektórych polskich zdań ująłem w nawiasy, wskazując w ten sposób ich domyślny (wypływający z kontekstu, a nie z dosłownego japońskiego zapisu) charakter.
 
 6. Zdania opatrzone tagiem „hybrydowe”, to zdania, których pierwsza część napisana jest nieformalnie, a druga formalnie.
@@ -41,6 +43,8 @@ W sporadycznych przypadkach umyślnie rezygnuję z zapisu Kanji (lub poprzedzam 
 7. Zdania nieopatrzone tagiem „hybrydowe” lub „nieformalnie” są napisane formalnie.
 
 8. Pomimo iż zdania pytające formalne winny być zwieńczone japońską kropką, miast znaku zapytania - w Ankim stosuję ów znak mimo wszystko, gdyż jest niezbędny dla syntezatora mowy, by zdanie zostało wypowiedziane jako pytanie.
+
+9. Niektórym pozycjom towarzyszą przekreślone synonimy lub warianty bliskoznaczne, o które nie chodzi w bieżącym przypadku.
 
 
 **Jak aktywować japońską wymowę?**
@@ -129,3 +133,5 @@ Dziękuję za Twą uwagę oraz czas, jak również życzę powodzenia i dużo do
 [10]: https://t.me/NaukaJaponskiego
 
 [11]: https://play.google.com/store/apps/details?id=com.duolingo
+
+[12]: https://en.pon-navi.net/nazuke/

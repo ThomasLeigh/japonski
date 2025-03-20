@@ -46,6 +46,10 @@ Dla większej autentyczności imiona również zapisałem w Kanji - użyłem na 
 
 9. Niektórym pozycjom towarzyszą przekreślone synonimy lub warianty bliskoznaczne, o które nie chodzi w bieżącym przypadku.
 
+10. Zapożyczenia z angielskiego zacząłem oznaczać tagiem flagi USA.
+
+11. Część pozycji opatrzyłem wyróżnieniem pogrubioną czcionką akcentowanej części wyrazu.
+
 
 **Jak aktywować japońską wymowę?**
 

@@ -42,13 +42,11 @@ Dla większej autentyczności imiona również zapisałem w Kanji - użyłem na 
 
 7. Zdania nieopatrzone tagiem „hybrydowe” lub „nieformalnie” są napisane formalnie.
 
-8. Pomimo iż zdania pytające formalne winny być zwieńczone japońską kropką, miast znaku zapytania - w Ankim stosuję ów znak mimo wszystko, gdyż jest niezbędny dla syntezatora mowy, by zdanie zostało wypowiedziane jako pytanie.
+8. Niektórym pozycjom towarzyszą przekreślone synonimy lub warianty bliskoznaczne, aby wskazać, o które odpowiedzi nie chodzi w danym pytaniu.
 
-9. Niektórym pozycjom towarzyszą przekreślone synonimy lub warianty bliskoznaczne, aby wskazać, o które odpowiedzi nie chodzi w danym pytaniu.
+9. Zapożyczenia z angielskiego zacząłem oznaczać tagiem flagi USA.
 
-10. Zapożyczenia z angielskiego zacząłem oznaczać tagiem flagi USA.
-
-11. Część pozycji opatrzyłem wyróżnieniem pogrubioną czcionką akcentowanej tonicznie części wyrazu.
+10. Część pozycji opatrzyłem wyróżnieniem pogrubioną czcionką akcentowanej tonicznie części wyrazu.
 
 
 **Jak aktywować japońską wymowę?**

@@ -7,9 +7,7 @@
 
 ## 1. Japoński dla początkujących.
 
-Uczę się japońskiego od czerwca 2023 roku, póki co z pomocą aplikacji [Busuu][1], [Mondly][2], [DuoLingo][11], podręczników [„Japoński nie gryzie”][3] oraz „Język japoński dla początkujących” (Ewa Krassowska-Mackiewicz). Niezmiernie przydatne są mi również programy: [Mały, skromny japoński pomocnik][4] Fryderyka Mazurka, [Kanji Dojo][5] Yaroslava Shuliaka oraz Tango Vincenta.
-
-Niniejszą bazę stworzyłem, by przyswajać nabytą wiedzę.
+Uczę się japońskiego od czerwca 2023 roku. Niniejszą bazę stworzyłem, by przyswajać nabytą wiedzę (wyczerpującą oraz aktualną listę źródeł z których korzystam, znajdziesz tu:  https://jaktamjaponski.blogspot.com/2025/01/co-i-dlaczego-polecam-do-nauki.html ).
 
 Jest to baza przede wszystkim robocza, tj. odpowiada mojemu **bieżącemu** stanowi wiedzy (poziom początkujący), jak również rozbudowuję ją oraz doskonalę każdego dnia - stąd może posiadać pewne niedociągnięcia. Stwierdziłem jednak, iż lepiej opublikować ją już dziś, niż czekać dłuższy czas na jej doszlifowanie podyktowane znacznie wyższym stopniem kompetencji, nabytej po dłuższym czasie nauki. Baza rozwija się więc wraz ze mną - a jeśli i Ty również interesujesz się japońskim, chcesz stawiać w nim pierwsze kroki, może być pomocna i Tobie.
 
@@ -59,7 +57,6 @@ Będzie działać z tymi kartami, które posiadają również zapis w systemach 
 4. Cofnij kilka razy, aż ujrzysz suwak „Prędkość mowy” (lub „Szybkość mówienia”) - dopasuj do Własnych preferencji.
 5. W Anki wejdź w menu i wybierz „Ustawienia”, następnie „Zaawansowane”.
 6. Zaznacz „Przetwarzanie tekstu na mowę”. Od tej pory przy pierwszym użyciu bazy program zapyta o wybór języka - polecam wybrać opcję „Nie mów” dla polskiej strony karty, „Japoński” dla japońskiej. W razie pomyłki użyj opcji „Zresetuj język” (pod „Przetwarzaniem tekstu na mowę”).
-
 
 
 ## 2. Kana (Hiragana i Katakana) oraz Kanji ze skojarzeniami.

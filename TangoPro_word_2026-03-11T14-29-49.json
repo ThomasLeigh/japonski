@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "entityType": "word",
-  "exportDate": "2026-03-11T13:23:48.129Z",
+  "exportDate": "2026-03-11T14:29:49.128Z",
   "itemCount": 2043,
   "filters": {
     "tags": [],
@@ -11820,7 +11820,8 @@
       "reading": "シンガポール",
       "meaning": "miasto-państwo, położone w pobliżu południowego krańca Półwyspu Malajskiego, w południowo-wschodniej Azji",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 714
     },

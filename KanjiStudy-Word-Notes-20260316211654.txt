@@ -1,0 +1,338 @@
+1000060 Podwaja znak go poprzedzający (nigdy nie zapisujemy tego samego znaku Kanji dwa razy pod rząd).\n\nSymbol ten nie gwarantuje powtórzenia głoski.\n\nJest to czasami używana kolokwialna nazwa tego symbolu, podyktowana jego podobieństwem do znaków no (ノ) i ma (マ) Katakany.
+1000930 Używane przy wejściu np. do sklepu, restauracji, itp.
+1001390 Klasyczne zimowe danie. Można je często znaleźć przy kasie w konbini!\n\n[źródło »](https://dashboard.mailerlite.com/forms/393326/89154125835535536/share)
+1001620 By ochronić ryż przed zepsuciem - stąd: nadzieniem mogą być ryby, wodorosty. krewetki, ikra - ale i np. morelą japońska (umeboshi), pikle, itp.\n\nPrzechowuje się je w specjalnych opakowaniach, aby wodorosty (nori) pozostały chrupiące.
+1001830 Spoza własnej rodziny lub własna rodzina - nieformalnie.
+1001990 Honoryfikatywnie; lub własna rodzina nieformalnie.
+1002100 Dosł. „tam, gdzie myjesz ręce”.
+1002120 dzielnicowy
+1002590 Honoryfikatywnie - lub własna rodzina nieformalnie.
+1002650 Honoryfikatywnie - lub własna rodzina nieformalnie.\n\nPo urodzeniu dziecka mąż i żona zaczynają zwracać się do siebie per 「okaasan」 i 「otousan」.
+1002690 W japońskim buddyzmie kilkudniowy odpowiednik Święta Zmarłych, podczas którego oddaje się cześć duchom przodków.\n\nW tym okresie Japończycy odwiedzają i porządkują groby rodzinne i składają na nich ofiary.\n\nZwyczaj ten przekształcił się w święta jednoczenia rodziny.\n\nWg wierzeń Japończyków, w tym czasie duchy przodków powracają na Ziemię, aby odwiedzić swoich krewnych.\n\nW miastach, dzielnicach i osiedlach odbywają się lokalne festiwale połączone z tradycyjnymi tańcami.\n\nPod koniec tego święta na rzeki, jeziora i morza puszcza się lampiony, aby zaprowadziły dusze zmarłych z powrotem do ich krainy.
+1002770 modne, szykowne
+1003430 Przekonanie lub pewność względem jakiegoś faktu - np. rezultatu w przyszłości lub sytuacji.\n\nSłówko (dźwięko)naśladowcze.
+1004500 Coś fizycznie bliskiego mówcy i statusie osoby równej lub wyższej.\n\n[źródło](https://www.japonski-pomocnik.pl/wordDictionary)
+1006380 Wydłużony wariant: stanowczo.
+1007390 Pochodzenie tego słówka jest niepewne. Najciekawszą teorią jest błędne (możliwe humorystycznie) odczytanie słowa 「田舎」 (「inaka」 - wieś) jako 田(だ) (da) + 舎(しゃ) (sha).\n\nInne teorie wskazują np. na możliwe pochodzenie od słówka 「don kusai」 (niezdarny, głupi, tępy).
+1007670 To pożywny i bardzo wysokokaloryczny hotpot (który tradycyjnie jedzą zapaśnicy sumo, aby utrzymać masę ciała). Jest bogaty w białko i warzywa zalane aromatycznym bulionem, co czyni go doskonałym wyborem na mroźne dni.\n\n[źródło »](https://dashboard.mailerlite.com/forms/393326/89154125835535536/share)
+1008420 W stopniu ok. 60%; uprzejmie, np. w prognozach pogody, czy programach informacyjnych.
+1008910 Jeden i ten sam zapis w Kanji, czytany dwojako:\n\n- 「いかが」 używane jest głównie w uprzejmych, formalnych sytuacjach, brzmi grzeczniej i bardziej oficjalnie - np. 「お飲み物はいかがですか」 („Czy napój będzie w porządku?”),\n\n- 「どう」 jest bardziej potoczne i używane w codziennych rozmowach, neutralne i swobodne, np. 「どう思う？」 („Co sądzisz?”);\n\n[źródło »](https://t.me/askplexbot)
+1009970 Nieco bardziej formalne niż "-kara"; powszechnie używane po formie nieoficjalnej, do uprzejmych próśb.
+1012840 slang
+1021160 Por. "Inglez", "Inglês".
+1038050 Może serwować zarówno herbatę i kawę, jak i gotowane jedzenie oraz alkohol; opisywana również jako bar z hostessami, serwujący zachodnie napoje alkoholowe.
+1050390 Por: “copo”; hol: “kop”.
+1066590 Popularne zwłaszcza na Hokkaido.\n\n[źródło »](https://dashboard.mailerlite.com/forms/393326/89154125835535536/share)
+1095910 Gdy jego pan odszedł z tego świata, Hachi nie przestał czekać na niego, jak co dzień, przy stacji kolejowej. Trwało to lat 10.\n\nDziś na owej stacji (Shibuya) znajduje się jego pomnik, a miejsce tym bardziej należy do popularnych miejsc spotkań.\n\nNa podstawie tej prawdziwej historii nakręcono kilka filmów - o jednym z nich opowiadam [w tej audycji](https://jaktamjaponski.blogspot.com/2024/07/poznawaj-kulture-japonii-odc-1.html ).
+1150410 W szerokim, uniwersalnym sensie – może być romantyczna, rodzicielska, do przyjaciół, zwierząt, idei, a nawet rzeczy. To uczucie głębokie, często bezinteresowne, związane z troską i dawaniem.\n\n[źródło »](https://t.me/askplexbot)
+1151220 Jak marzanna barwierska.
+1152680 Ryż, zwilżony octem, formuje się w dłoni w **owalne paluszki o wielkości łatwej do zjedzenia jednym kęsem**, a następnie kładzie się na nie tej samej wielkości kawałek ryby, owoców morza, czy japońskiego omletu.\n\nPomiędzy ryż i rybę dodaje się odrobinę zielonego chrzanu wasabi. Sushi bez wasabi jest nazywane sabinuki (bez wasabi).\n\n\n[źródło »](https://pl.m.wikipedia.org/wiki/Sushi)
+1171770 [źródło »](https://www.japonski-pomocnik.pl/wordDictionary)
+1175340 Przetrwanie zimy - różne strategie, które organizmy (tak rośliny, jak zwierzęta) stosują, aby przetrwać trudne warunki zimowe (np. przez migrację, zmiany w diecie lub inne formy przetrwania).\n\n[źródło »](https://t.me/GPT4Telegrambot)
+1175570 Użyte Kanji, to współczesna uproszczona forma 圓 (z Jinmeiyou).
+1179330 Dlaczego w wyrazie tym występuje znak Kanji oznaczający „z tyłu”? Jest to spowodowane tym, że kiedyś żony o wyższym statusie społecznym miały pokój znajdujący się na tyłach domu. Stąd wyraz ten oznaczał „żonę” - mieszkającą z tyłu domu.
+1181720 Skonstruowane z grubszego papieru nałożonego na drewnianą ramę.\n\nCzasami umieszcza się na nich misterny wzór, dzięki czemu stają się centralnym punktem pokoju.\n\nSą nieprzezroczyste, stąd zwykle używa się ich do przedzielenia pomieszczeń lub jako drzwi do szafy.
+1182580 Do 1879 roku istniało tam niepodległe królestwo Riukiu.\n\nJedyna prefektura całkowicie usytuowana w strefie klimatu podzwrotnikowego.\n\nOdnotowuje się tu najwięcej tajfunów - gdyż ich charakterystyczną cechą jest, że kierują się zawsze z południa ku północy (choć w zależności od tego, na jaki teren trafią, mogą potem zmienić swój tor).
+1183450 W budynkach lub na dworze organizowane są kąpiele.\n\nW całym kraju są tysiące kąpielisk, nawet w Tokio.\n\nNiektóre turystyczne regiony słyną z gorących źródeł - np. Hakone, Atami, czy Kusatsu, gdzie przy kąpieliskach położone są tradycyjne japońskie hotele i sklepy z pamiątkami.\n\nPo kąpieli ludzie często ubierają yukatę (lekkie, codzienne kimono) i spacerują po okolicy.
+1185940 W przypadku Tokio nisko położony obszar wschodniej części, w pobliżu Zatoki Tokijskiej - w tym Asakusa, Shitaya, Kanda, Fukugawa, Honjo, Nihonbashi, Kyobashi i okolice.
+1187210 <a href="https://youtu.be/GlP-cPloqtY" >Zabawny przykład użycia »</a>
+1188490 Z przeczącą formą czasownika.
+1189030 Z przeczącą formą czasownika.
+1191320 Japońskie lato zaczyna się w porze deszczowej (梅雨 - tsuyu) i zazwyczaj trwa miesiąc. Pomimo tego, że nikt nie przepada za tą wilgotną porą roku, jest to sezon pięknych hortensji.\n\nPo tym jak na początku lipca kończy się 梅雨, w miejscowych świątyniach i kościołach obchodzi się zazwyczaj letnie 祭り (matsuri), czyli festiwale z ulicznymi stoiskami i fajerwerkami. Ludzie często ubierają wówczas yukatę (lekkie kimono).
+1193420 Tradycyjna forma dramatu i muzyki, wykonywana przez męskich aktorów, w makijażu (głównie w kolorze białym i czerwonym).\n\nZnany jest z przesadnie wystylizowanej gry aktorskiej i czytania tekstu oraz efektownych kostiumów i makijażu.\n\nTradycyjnie jest to forma teatralna przeznaczona wyłącznie dla mężczyzn.
+1193540 Znakomici pływacy; mają na głowach miejsce wypełnione wodą i uwielbiają jeść ogórki.
+1194360 Pod spodem znajduje się źródło ciepła (tradycyjnie węglowe, ale w dzisiejszych czasach często elektryczne).\n\nAby zeń skorzystać, siada się na podłodze i przykrywa dolną część ciała kocem. Gruby koc utrzymuje ciepło i ogrzewa Cię w mroźne, zimowe dni.\n\nKiedy robi się cieplej, możesz ściągnąć futon i używać go jako zwykłego, niskiego stołu.\n\nlub\n\nW dawnej Japonii palenisko w środku izby, umieszczone poniżej poziomu podłogi, otoczone niskim stołem.
+1194480 Podwójne „k” w cyfrach 1, 6, 10 oraz opcjonalnie 8.\n\n「Ka」 jest tu najczęściej zapisywane w sposób historyczny: małym znakiem ヶ Katakany, pomiędzy liczebnikiem, a członem oznaczającym miesiąc.\n\n<hr>\n<sup>źródło: Język japoński dla początkujących (Ewa Krassowska-Mackiewicz)</sup>
+1195970 Przyrostek do:\n- tematu ~masu czasownika,\n- przymiotników ~i (usuwając jedno い),\n- przymiotników -na (dodając po nich, bez potrzeby uwzględniania -na);
+1198180 * **z partykułą 「-ni」** spotkanie przypadkowe, natknięcie się na kogoś,\n\n* **z partykułą 「-to」** celowe, umówione spotkanie lub częste spotykanie się z kimś;
+1198550 Firma, spółka, korporacja.
+1198600 Na powitanie lub znak wdzięczności.\n\nźródło: https://www.japonski-pomocnik.pl/wordDictionary
+1198660 Np. spotkania, przyjęcia, koncertu, itd.
+1199330 Np. raz, dwa razy, trzy razy...
+1200640 Istnieją jego różne rodzaje – niektóre mają warstwę samoprzylepną, dzięki czemu można je umieścić między ubraniami, np. na dolnej części pleców lub brzucha, co według wielu osób zapewnia najlepszy efekt. Dostępne są także specjalne ogrzewacze do butów, które skutecznie chronią stopy przed zimnem. Mimo niewielkich rozmiarów potrafią generować ciepło przez kilka godzin, a ich temperatura bywa na tyle wysoka, że zaleca się unikanie bezpośredniego kontaktu ze skórą.\n\n[źródło »](https://dashboard.mailerlite.com/forms/393326/89154125835535536/share)
+1201260 Ponieważ Japonia leży na wyspach i z jej perspektywy każdy kraj położony jest za morzem / oceanem, niniejszego określenia można używać zamiennie z 「kaigai」.
+1202130 Słówko należące do ogłoszonej w Japonii pod koniec roku 2024 r. listy Top 10 słówek najlepiej oddających wydarzenia, trendy i wypowiedzi mijającego roku.\n\n[źródło »](https://xyeopd.clicks.mlsend.com/td/cl/eyJ2Ijoie1wiYVwiOjM5MzMyNixcImxcIjoxNDA1MTk1MDc2ODk5OTc5NzYsXCJyXCI6MTQwNTE5NTIwODkwNTIwNzI2fSIsInMiOiI1ZmM4NDgwZTI1NWMyYTRiIn0)
+1203620 Ponieważ Japonia leży na wyspach i z jej perspektywy każdy kraj położony jest za morzem / oceanem, niniejszego określenia można używać zamiennie z 「kaigai」.
+1204260 Dot. słów pochodzenia zwłaszcza zachodniego - ale nie chińskiego.\n\nObecnie słówka takie zapisuje się Katakaną.\n\nZalicza się je do kategorii kun'yomi.\n\nNp. 「pēji 」(頁; „strona”) albo 「mētoru」 (米; „metr”).\n\n[źródło »](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+1205770 Alternatywny zapis: 「確かに」. Więcej na ten temat [tutaj »](https://jaktamjaponski.blogspot.com/2025/04/inna-twarz-japonskiego-czyz-nie.html)
+1206650 W Japonii rok szkolny i rok obrotowy zaczyna się w kwietniu, a kończy w marcu, kiedy kwitną wiśnie. Dlatego wiśnia jest roślinnym symbolem ukończenia szkoły, a także nowego początku.\n\n<a href="https://play.google.com/store/apps/details?id=com.busuu.android.enc ">źródło »</a>
+1208460 <b>Fleksja </b>(odmiana ogólnie): <b>koniugacja </b>(odmiana czasowników), <b>deklinacja </b>(odmiana innych części mowy).
+1213140 Kolejna warstwa zapożyczeń z języka chińskiego („czytania Chińczyków (Hanów)”).\n\n#### Okres czasu:\n**VII - X w. n.e.**\n\n#### Źródło:\nMisje wysyłane do **Chang’anu** (長安) - stolicy dynastii Tang (唐).\n\n#### Jakość:\n**„Prawdziwe i nieskażone”** (w przeciwieństwie do Go’on, które było tylko „naśladownictwem koreańskiego naśladownictwa”).\n\n> Większość używanych dziś on’yomi należy do tej warstwy zapożyczeń.\n\n\n[źródło » ](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+1213170 Zostały zaadoptowane do japońskiego pisma, funkcjonując w nim już przez 1500 lat. Wielu z nich używa się w innym sensie, niż w języku chińskim, a niektóre z nich uproszczono wizualnie na inny sposób, niż ich odpowiedniki w Chińskiej Republice Ludowej.\n\nZapisuje się w nich większość rzeczowników oraz tematów fleksyjnych przymiotników i czasowników, dość często również przysłówki.\n\nW odbiorze Japończyków zapis w tych znakach nadaje wrażenie **mocy**.\n\n> „(...) chińskie znaki stanowiły integralną część japońskiej kultury przez okres około 1500 lat, a ich waga nie słabnie do dziś. Wiele znaków używanych jest w znaczeniu innym, niż w języku chińskim, a niektóre zostały uproszczone w kształcie na sposób odmienny, niż ich uproszczone odpowiedniki w chińskich tekstach w Chińskiej Republice Ludowej. Z tychże przyczyn, podczas gdy japońskie słowo kanji (漢字) powszechnie i zasadnie tłumaczone jest, jako ‚chińskie znaki’, w kontekście języka japońskiego równie zasadnym jest przedstawiać je w zamian, jako ‚znaki japońskie’ (...)”.\n\n(“The Complete Guide to Japanese Kanji”, Christopher Seeley, Kenneth G. Henshall, Jiageng Fan)
+1217700 Słówko często używane do wyrażania chęci do ciężkiej pracy oraz zdolności do znoszenia i pokonywania trudności, które mogą się pojawić.
+1222820 Na potrzeby haiku owe sezonowa słówka zbierane są w specjalistycznych słownikach, zwanych saijiki oraz kiyose (ten pierwszy zwykle dodatkowo ilustruje użycie sezonowych słówek w przykładowych haiku).
+1223350 Szczególnie pamięci o osobie lub wydarzeniu.
+1224890 Z przyjaciółmi, członkami rodziny i osobami od nas młodszymi.
+1225710 Jego głównym wydarzeniem jest wielka parada, podczas której misternie udekorowane platformy i artyści przemierzają miasto.\n\n[źródło »](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+1225780 Motywem jest chęć uzyskania zamierzonego przez autora efektu literackiego lub poetyckiego (często to gra słów, metafora albo nawet kontrast - żeby dodać głębię, ukryty sens lub zabawić się formą).\n\n**Dodane przez autora znaczenie** może (choć nie musi) być synonimem, pojęciem powiązanym względem pierwowzoru. \n\n**Nowe czytanie** natomiast nie musi mieć żadnego związku z oficjalnymi czytaniami Kanji, których dotyczy – wręcz przeciwnie, często specjalnie łamie te zasady, by uzyskać konkretny efekt literacki lub emocjonalny.\n\n[źródło »](https://t.me/askplexbot)
+1225910 Sprowadza się do 9 lat (6 w podstawówce + 3 w szkole średniej niższego stopnia, którą niektórzy przyrównują do polskiego gimnazjum albo „młodzieżowego liceum”).
+1226440 Może podawać tylko herbatę, kawę i jedzenie które nie wymaga gotowania; staromodny wyraz.
+1230770 Pomimo bycia w użytku już nawet od wieków (tak w Japonii, jak Chinach) owe **uproszczone wersje** (Shinjitai) **uważano za nieeleganckie, a wręcz nieokrzesane**.\n\nSzczęśliwie w Japonii:\n\n1. Uproszczenia przeprowadzono **na mniejszą skalę, jak i mniej drastycznie** (w porównaniu z analogicznym procesem w Chinach).\n2. Wraz z wprowadzeniem przez rząd wersji uproszczonych **nie zakazano** dalszego korzystania z wersji tradycyjnych (stąd mogą być nadal używane, gdy przykładowo jakiś autor chce zeń skorzystać, a wydawca się zgadza).\n3. W przeciwieństwie do Chin, gdzie w latach 50'tych XX wieku uproszczeniu podległy również wszystkie nazwiska - w Japonii **znaki używane w nazwiskach i nazwach własnych zostały z owej „reformy” wyłączone**. Dzięki temu tradycyjne wersje znaków przetrwały w Japonii po dziś dzień (patrz: Jinmeiyō Kanji) - choć współcześnie i je czasem zastępuje się ich uproszczonymi odpowiednikami.
+1233320 Szczególnie Kioto.
+1238410 「-ni kyoumi-ga arimasu.」\n\nlub\n\n「czasownik w formie słownikowej koto-ni kyoumi-ga arimasu.」\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)
+1238460 Tradycyjnie spożywany 31 grudnia (mówi się, że długi makaron zapewnia długie życie i dobrobyt w nadchodzącym roku).
+1241450 Rodzaj cytry, zwykle z 13-stoma strunami.\n\nDo gry umieszczana jest poziomo na podłodze - grający klęka lub siada na niskim stołeczku po prawej stronie instrumentu.
+1243710 Pol. Kiusiu.
+1246880 W ramach noworocznego tradycyjnego japońskiego jedzenia wyraz życzeń **majątku** dla rodziny.
+1247250 Do osoby młodszej lub o niższej lub równej pozycji społecznej od mówcy - mężczyzny.
+1247590 [źródło » ](https://pl.wikipedia.org/wiki/Riukiu)
+1250450 Zwróćmy uwagę, że w terminie\n\n「keiyou doushi」 (tłumaczonym w uproszczeniu, jako „przymiotnik odrzeczownikowy”)\n\nmożemy dopatrzyć się zlepku słów\n\n「keiyoushi」 („przymiotnik”)\n\noraz \n\n「doushi」 („czasownik”):\n\n形容動詞\n↧\n形容詞\n+\n動詞\n\nA więc dosłownie będzie to bardziej „przymiownik” (zlepienie „przymiotnik”+„czasownik”). Pochodzenia tej osobliwej nazwy moglibyśmy doszukać się w części japońskich rzeczowników (dziś znanych jako „rzeczowniki -na ”/ „na-rzeczowniki”), do których dostawiano np.\n\n「-ni aru」, później skrócone do » 「-naru」, jeszcze później do samego » 「-na」,\n\nopisując tym samym, że coś **stało się** (naru) lub **jest** (aru) jakieś, nabyło jakąś cechę (np. od rzeczownika „spokój” » dosł. „stało się spokojem” - w domyśle: „spokojne”). „Stać się” / „być” (「naru」 / 「aru」) to **czasowniki**, natomiast „spokój” pełni tu domyślnie rolę opisową, do tej pory właściwą **przymiotnikom** (stąd rzeczowniki -na zwane bywają quasi-przymiotnikami). Stąd właśnie termin „rzeczownik odczasownikowy”, to w języku japońskim dosłownie „przymiownik” (zlepek japońskich słów „przymiotnik” i „czasownik” - patrz wyżej).
+1250750 Zbiór japońskich zwrotów grzecznościowych.
+1254790 Rzeczownik / czasownik suru - w przeciwieństwie do rzeczownika "kekkon shiki".
+1254810 Rzeczownik - w przeciwieństwie do 「kekkon」 - rzeczownika / czasownika suru.
+1255630 Popularna, sezonowa czynność w Japonii, szczególnie podczas ósmego miesiąca kalendarza księżycowego.\n\n[źródło »](https://www.japonski-pomocnik.pl/wordDictionary)
+1257900 W Internecie, słowniku, bazach danych, dokumentach, itp.
+1258810 przyrostek
+1260230 Np. 「itadaku」.
+1266650 Np. do anonimowego pisania na forum internetowym.
+1269130 Odbiorcą jestem ja lub członek mojej rodziny.
+1269180 <b>Najstarsza</b> warstwa zapożyczeń z języka chińskiego <small>(„czytania Chińczyków (Hanów)”).</small>\n<sup>Okres czasu:</sup>\n<b>V / VI w. n.e.</b>\n\n<sup>Źródło:</sup>\n<b>Region Wu (okolice dzisiejszego Szanghaju i Nankinu)</b> - nie jest pewne, czy bezpośrednio z Chin, czy wyłącznie poprzez Koreę (wraz z buddyjskimi misjonarzami koreańskimi).\n\n<sup>Jakość:</sup>\n<b>Możliwość „skażenia” wymowy pierwotnej naleciałościami koreańskimi</b> (tak też później było to postrzegane w Japonii).\n\n\nźródło:\nhttps://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/
+1270450 Różne dania pakowane w specjalne pudełka, każde danie niesie ze sobą specjalne życzenia pomyślności dla rodziny.
+1270580 Zwykle dawany dzieciom przez rodzinę lub gości (np. specjalne koperty, w których znajdują się pieniądze.
+1275780 Recenzja; przekaz ustny; komentarz na forum internetowym lub stronie WWW.
+1281000 <a href="https://jaktamjaponski.blogspot.com/2026/03/nareszcie-mam-pomys.html">moja krótka audycja na ten temat »</a>
+1281020 Czasownik ten oznacza wykorzystanie procesów logicznych do tworzenia pomysłów, wyciągania wniosków lub podejmowania decyzji.\n\nOznacza myślenie „głową”, w sposób logiczny, z wykorzystaniem intelektu - gdy masz jakiś pomysł, dochodzisz do pewnego wniosku, podejmujesz decyzję lub dokonujesz oceny.\n\n<a href="https://play.google.com/store/apps/details?id=com.busuu.android.enc">źródło »</a>
+1281690 Np. wiersz 「sa 」w Kanie (sa, shi, su, se, so).
+1283500 Coś jak polskie liceum; dla dzieci w wieku 15 - 18 lat; etap nieobowiązkowej edukacji.
+1283860 Coś jak polskie liceum; dla dzieci w wieku 15 - 18 lat; etap nieobowiązkowej edukacji.
+1286240 W Japonii:\n<ul><li>Zgromadzenie Narodowe&nbsp;(1947-),</li><li>Cesarskie Zgromadzenie&nbsp;(1889-1947);</li></ul><hr>\n<sup>źródło: <a href="https://www.japonski-pomocnik.pl/wordDictionary">Mały Skromny Japoński Pomocnik »</a></sup>
+1286650 Stworzone od początku przez Japończyków (jako przeciwieństwo znaków zapożyczonych z Chin).\n\nCo ciekawe, niektóre z nich posiadają tylko czytanie on...
+1289470 Nieco oficjalnie.
+1294940 Dwa 「s」 w cyfrach 1, 8, 10.
+1295060 Kiedy chcemy przeprosić lub zwrócić na siebie czyjąś uwagę.
+1303170 Rdzennie japońskie słowo, które zwykle odnosi się do mniejszych pasm górskich, jak również ma łagodniejszy wydźwięk.
+1303190 Stanowi bezpośrednie zapożyczenie z języka chińskiego, z którego zawsze korzysta się w przypadku oficjalnych nazw łańcuchów górskich (np. 「日高山脈」 / 「Hidaka Sanmyaku」 - Góry Hidaka).
+1303450 W zależności od regionu i tradycji mają one różne nazwy np. bara-zushi lub bara-chirashi. Regułą jest jednak podkład z ryżu nawilżonego octem (czasem sake) i nałożonych „luźno” dodatków.\n\nźródło:\nhttps://pl.m.wikipedia.org/wiki/Sushi
+1306570 Potrawa kuchni japońskiej.
+1307130 Stanowią ważną część japońskiej kultury, a każda z nich jest uroczyście obchodzona.
+1307200 Położona w południowo-zachodniej części Wysp Japońskich, między Morzem Wewnętrznym, a Oceanem Spokojnym.
+1310460 Kobiety zamiast tego słowa używają raczej 「oishii」.
+1310730 Jedyny czasownik kończący się na ~nu.
+1311110 „Jeśli nie chcesz mówić 「watashi」, to przynajmniej mów 「atai」!”
+1315720 W znaczeniu posiadania tego czasownika używa się w konstrukcji czynności ciągłej - 「motte imasu」.\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)
+1319210 * **shichi** - przed godziną i miesiącem lipcem, jak i w dniach miesiąca od 11 do 31,\n\n* **nanatsu / nano** - przed latami i minutami oraz podając rok;
+1329015 Popularne na całym świecie; ofiaruje się je bogom Shinto podczas różnych tradycyjnych religijnych ceremonii.\n\nPopularne określenie z 「o,」 znaczy to samo - ale o łagodniejszym wydźwięku.
+1332650 W Japonii znana z 紅葉 (kouyou) - liści zmieniających kolor. Wszystkie drzewa naraz (głównie klony) stają się czerwone.\n\nWiele osób uważa, że świątynie i góry pokryte czerwonymi liśćmi są najpiękniejszym widokiem, jaki można zobaczyć w Japonii.
+1336660 Nazwa pochodzi od przykładowych wyrazów, które odczytywane są właśnie w taki mieszany sposób: 「juubako」 (wielowarstwowe pudełko na jedzenie) - pierwszy znak odczytuje się **on**, a drugi **kun**.\n\n[źródło »](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+1337830 Ogólną zasadą, którą należy się kierować podczas odczytywania złożeń jest wybieranie czytań z jednej grupy (czyli tylko np. kan’on), choć oczywiście – jak przy każdej regule – zdarzają się wyjątki.\n\nZłożenia, w których jeden ze znaków odczytywany jest po japońsku, z reguły w całości mają brzmienie kun. Nie jest to jednak sztywna reguła i zdarzają się wyrazy o czytaniu mieszanym.\n\n\n[źródło »](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+1339160 Wykorzystywany do przygotowywania zup.
+1341000 W Japonii znana z kwitnących wiśni (桜 - sakura). Bardzo popularne jest urządzanie お花見, czyli pikniku lub przyjęcia, podczas którego ludzie gromadzą się pod kwitnącym drzewem wiśni, aby podziwiać kwiaty podczas jedzenia i picia.
+1344130 Używa się w niej narzędzi pisarskich, takich jak pędzla i sumi, (tuszu zrobionego z sadzy).\n\nKaligrafia ta może być formą medytacji lub sztuki, w której emocje wyrażane są pociągnięciami pędzla.\n\nDobrzy kaligrafowie mogą zdobywać „dany” (stopnie), podobnie jak ma to miejsce w karate i judo.
+1344330 [źródło » ](https://pl.wikipedia.org/wiki/Riukiu)
+1347640 Charakterystyczną zasadą jest możliwość umieszczenia zbitych bierek z powrotem na planszy. Bierki są oznaczane japońskimi znakami (Kanji).
+1347810 Pada dość słabo, ale krople są zwykłego rozmiaru (nie aż tak mikroskopijne.\n\n[źródło »](https://t.me/askplexbot)
+1347870 Dla dzieci w wieku 6-12 lat; etap obowiązkowej edukacji.
+1348560 Posiada jadalne strąki, nasiona i kiełki. Gatunek uprawiany w krajach Dalekiego Wschodu: Japonii, Chinach, Korei. Aklimatyzowana i wprowadzona do uprawy w USA.
+1349400 Wnęka w ścianie, udekorowana (zwykle sezonowymi) kwiatami, obrazami, zabytkową ceramiką, meblami lub kakejiku - wiszącym zwojem, na którym umieszcza się kaligrafię lub obraz.
+1351980 Data określająca do kiedy towar może być wystawiany na półce sklepowej.
+1352090 Skonstruowane przez nałożenie cienkiego papieru woskowanego na drewnianą ramę.\n\nPapier woskowany jest półprzezroczysty, więc przepuszcza światło słoneczne. Stąd drzwi takie wstawia się zwykle w zewnętrznej ścianie budynku, gdzie pełnią też funkcję okna.
+1352710 „Góra i dół” - np. garnitur.
+1353320 Mówiąc o kimś.
+1355120 Do pociągu, na pokład, itp.
+1356150 Wprowadzony w 1981 r. pełny zbiór opiewał 1945 znaków, w 2010 r. zaktualizowano go do 2136 znaków - rosnąca tendencja sugerowałaby „rosnące zapotrzebowanie na nowe znaki w kontekście nowoczesnego języka japońskiego i technologii”. (źródło: @GPT4Telegrambot )\n\nRatyfikowana przez japońskie Ministerstwo Edukacji, nauczana w większości w okresie obowiązkowej edukacji (9 lat w obowiązkowej, 3 w nieobowiązkowej - szkole średniej wyższego stopnia).
+1356750 Roślinę (sito rozpierzchłe) suszy się i tka, dzięki czemu mata jest miękka i wygodna do stania, czy leżenia.\n\nMa wyraźny zapach, który wielu Japończyków opisuje jako zielonkawy, słodki i nostalgiczny.\n\nWchodząc do pomieszczenia wyłożonego tą matą zdejmujemy również kapcie.\n\nTymi matami (a nie m²) mierzy się rozmiar pomieszczeń w Japonii: licznik 畳 (じょう), zwykle 1,8/0,9 m.
+1358780 Mówisz słówko, a następny gracz kolejne, rozpoczynające się od ostatniej sylaby poprzedniego (Twojego), itd.
+1361150 Z racji tej, że Kanji można odczytać na kilka sposobów, przy trudniejszych znakach pojawia się wymowa zapisana (zwykle) Hiraganą.\n\nZapisuje się nią również nietradycyjne czytania złożeń znaków, nazwisk lub nazw własnych.
+1364670 Przy wejściu znajduje się duża brama (zwykle czerwona lub biała.
+1364790 Oparta na mitologii japońskiej, charakteryzująca się politeizmem oraz różnorodnością przejawów i kultów m.in. animizmu i szamanizmu.\n\n**Najważniejsze** jest zachowanie równowagi i harmonii między światem bogów, naturą i człowiekiem.
+1372950 W ramach noworocznego tradycyjnego japońskiego jedzenia wyraz życzeń **płodności** dla rodziny.
+1373440 Obchodzone w Japonii 3 marca.\n\nRodziny w których są dziewczynki, wystawiają w domu lalki hina i modlą się o zdrowy rozwój córek.
+1374530 Opis intensywności pragnienia lub zachęty.
+1374550 Używane często w codziennych, nieformalnych rozmowach - w przeciwieństwie do bardziej formalnego 「subarashii」.\n\nPierwotnie słówko to znaczyło „Tak przerażające, że ciarki　przechodzą”.
+1375750 Odbywa się co roku, w drugi poniedziałek stycznia. Biorą w nim udział wszyscy obchodzący 20-ste urodziny pomiędzy kwietniem minionego roku, a marcem danego roku.\n\nMłode kobiety zakładają na tę okazję piękne, bogato zdobione kimono z długimi rękawami, zwane furisode.
+1385200 Stanowiło dowód niewinności samobójcy i okazania szczerości jego zamiarów. Po śmierci był oczyszczany z wszelkich zarzutów.\n\nRytuał ten był przywilejem, prawem i obowiązkiem klasy samurajów. Dokonywany uroczyście, w odświętnych, białych szatach, często w obecności zaproszonych gości, prawie zawsze w obecności specjalnego asystenta - kaishakunina (najczęściej towarzysza broni samuraja, jego przyjaciela lub wasala). Miał on obowiązek ścięcia mieczem głowy samobójcy, aby skrócić jego męki. Cięcie powinno być wykonane bardzo precyzyjnie, tak aby głowa pozostała przytwierdzona do ciała fragmentem skóry i nie potoczyła się po ziemi.\n\n[źródło »](https://pl.wikipedia.org/wiki/Seppuku)
+1386340 Mówi się, że podczas zmian pór roku mogą wystąpić katastrofy, nieszczęścia i choroby - więc aby wypędzić złe duchy, odprawia się rytuał, podczas którego w domu rozrzuca się ziarna soi. Ludzie zjadają też tyle samo prażonych ziaren, ile wynosi ich wiek i modlą się o szczęście i zdrowie.
+1387990 Dodane do imienia i/lub nazwiska, aby zwrócić się do nauczyciela; słówka tego można używać względem każdego, kto uczy lub posiada określone kwalifikacje w danym zawodzie - np. prawnik, lekarz.
+1388740 Inne formy przy liczbach: 3000, 8000.
+1395620 Z przeczącą formą czasownika.
+1397300 Słówko bardziej formalne.
+1406410 Np. mówiąc o członkach cudzej rodziny.
+1407980 Słówko bardziej powszechne w mówionym japońskim.
+1414170 W Japonii hucznie obchodzi się 20-ste urodziny, chociaż skończenie 18 lat uznaje się za osiągnięcie pełnoletności. To właśnie w tym wieku można kupić telefon komórkowy, wynająć mieszkanie, uzyskać kartę kredytową i pobrać się bez zgody rodziców.
+1414390 Czy to wiosenne, czy takie które Japończycy robią w swoich domach na koniec roku.\n\nTe ostatnie stanowią tradycję shintoistyczną, mającą na celu powitanie boga nowego roku w ich domach.
+1416280 Okrągła, pomalowana na czerwono, w kształcie Bodhidharmy - z pustym okiem, które ma być uzupełnione, gdy życzenie danej osoby zostanie spełnione.
+1416840 Zdarza się, że partykuła 「-ka」 występuje po pytajnikach, nadając im charakter zaimków nieokreślonych.\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)
+1416860 Z przeczącą formą czasownika.
+1418630 Pierwotnie jedna z odmian waka) powstała około VI wieku.
+1419240 Robione z mochiko, czyli mąki ryżowej - zbliżone do mochi.
+1419890 (Krótka) zasłona, rodzaj kotary zawieszonej przy wejściu do sklepu, zwykle oznaczając iż jest otwarty.\n\nOryginalnie miał zastosowanie praktyczne: chronił przed światłem lub kurzem, a także zapobiegał zaglądaniu do środka.\n\nNastępnie wykształciło się jego symboliczne zastosowanie i często miał na sobie nazwę lub logo sklepu, a jego kolor oznaczał rodzaj branży.\n\nlub\n\nDzielona zasłona używana do dzielenia przestrzeni w domu.
+1421290 Japończykom najbardziej znana jest mapa, pośrodku której jest Pacyfik, a Japonia znajduje się w centrum świata.\n\n[źródło »](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+1421630 「恥ずかしいセリフ禁止！」
+1422770 Zajęcia uczą przyrządzania japońskiej herbaty matcha, etykiety, gościnności, a także filozofii zen.\n\nTradycyjnie odbywa się w japońskich herbaciarniach, czyli niewielkich pomieszczeniach, w których znajdują się maty tatami, a uczestnicy ceremonii ubrani są w kimona.
+1423000 Ubranie <u>powyżej</u> pasa; na górną część ciała lub całe ciało.
+1423240 Szczególnie o pełnej długości.
+1423650 Odpowiednik polskiego gimnazjum, choć niektórzy przyrównują do „młodzieżowego liceum”; szkoła dla dzieci w wieku 12-15 lat; etap obowiązkowej edukacji.
+1424310 Zwłaszcza w formalnych kontekstach, takich jak dokumenty, publikacje czy wizytówki.\n\nW mniej formalnych sytuacjach miast tego używa się spacji.
+1424690 W Japonii okresy Kamakura i Muromachi.
+1427370 Np. 「~masu」, 「~desu」.
+1432250 Grzyb jadalny, jak i leczniczy, po pieczarkach najczęściej uprawiany na świecie.\n\nMożna je spożywać na świeżo, suszone, jak i marynować. Obróbce cieplnej należy poddawać bardzo krótko, gdyż w przeciwnym razie twardnieją.\n\nWystępuje w Azji Wschodniej, w Chinach, Japonii, na Półwyspie Indochińskim.\n\nW Chinach i Japonii grzyb ten jest grzybem uprawianym w szklarniach i na wolnym powietrzu. W Europie podjęto próby uprawy w Eberswalde w Niemczech.\n\nGrzyb nadrzewny. Owocniki wyrastają w grupach, na martwym drewnie liściastym - stąd uprawia się go również na martwych kłodach drzewnych.\n\n[źródło »](https://pl.wikipedia.org/wiki/Twardnik_japo%C5%84ski)
+1434130 Piękny i pełen wdzięku ptak. W japońskiej kulturze od zawsze **symbol szczęścia i długowieczności**. Żurawie pojawiają się w wielu japońskich opowieściach ludowych i są często używane w japońskiej sztuce i wzornictwie.\n\nMówi się też, że jeśli złożymy tysiąc żurawi z papieru origami, to spełnią się nasze życzenia...
+1435650 Proponowane w restauracji zestawienie potraw.
+1440590 Potrawa kuchni japońskiej, pochodząca z Portugalii (por. “tempero”).
+1442500 Forma adresu używana w pismach urzędowych i biznesowych oraz w listach do podwładnych (przyrostek; uprzejmie).\n\n<hr>\n<sup>źródło: <a href="https://www.japonski-pomocnik.pl/wordDictionary">Mały Skromny Japoński Pomocnik »</a></sup>
+1446070 Pomimo tego, że zima w japońskich miastach nie należy do obfitujących w tradycyjne wydarzenia, w niektórych częściach północnej Japonii (w których występują opady śniegu) obchodzi się ją hucznie.\n\nFestiwale śniegu, podczas których buduje się skomplikowane rzeźby ze śniegu oraz igloo, noszą nazwę Kamakura i odbywają się w regionach ze śniegiem.
+1446150 Hibernacja - proces, w którym niektóre zwierzęta (takie jak niedźwiedzie, żółwie czy niektóre gatunki gryzoni) wchodzą w stan głębokiego snu w celu oszczędzania energii podczas zimy. Hibernacja jest procesem bioloficznym, który wiąże się z obniżeniem tempa metabolizmu oraz temperatury ciała.\n\n[źródło »](https://t.me/GPT4Telegrambot)
+1446650 Najnowsza warstwa zapożyczeń z języka chińskiego <small>(„czytania Chińczyków (Hanów)”).</small>\n<sup>Okres czasu:</sup>\n<strong>X - XVII w. n.e.</strong> <small>(czasy dynastii Song (宋; X-XIII w. n.e.; dlatego bywa czasem nazywana sō’on 宋音), Yuan (元; XIII-XIV w. n.e.) i Ming (明; XIV-XVII w. n.e.)).</small>\n<sup>Źródło:</sup>\nKontakty kupców z Chinami oraz <strong>mnisi propagujący zen</strong>.\n\n<sup>Jakość:</sup>\nTe czytania często występują w bardzo specjalistycznych znaczeniach, nierzadko związanych ściśle z buddyzmem zen.\n\n<hr />\n<sup><a href="https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/" />źródło »</a></sup>
+1447690 Położone na południowo-wschodnim wybrzeżu wyspy Honsiu - i zarazem największy obszar metropolitalny na świecie.\n\nNa zapis w Kanji składają się znaki „wschód” i „stolica ” - jako że dawno temu stolicę Japonii przeniesiono z zachodu na wschód.
+1448030 Np. „Azja Południowo-Wschodnia”.
+1448590 Pierwsza sylaba to kun’yomi, druga – on’yomi.\n\nNazwa pochodzi od przykładowych wyrazów, które odczytywane są właśnie w taki mieszany sposób: yutou (pojemnik na gorącą wodę; pierwszy znak odczytuje się kun, a drugi – on).\n\nźródło:\nhttps://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/
+1449280 Jej pierwowzorem był zbiór 1962 znaków, opracowany w 1922 r. - następcą zaś zbiór Jouyou z 1981 r. (wstępnie 1945 znaków - w 2010 r. 2136).\n\nChoć inicjatywa ta miała za zadanie zredukowanie liczby Kanji, jak i zdefiniowanie, które z nich mogą być używane w oficjalnych dokumentach rządowych - miało to tak naprawdę stanowić krok pośredni ku docelowemu, kompletnemu wyeliminowaniu Kanji z japońskiego pisma (pod wpływem perswazji Amerykanów po wygranej przez nich wojnie).\n\nChoć na ów zbiór złożyły się znaki powszechnie używane (w tym uproszczone wersje obecne we współczesnej literaturze) - finalna lista nie była wyczerpująca: wielu Kanji, które używano powszechnie w tamtym czasie (jak i dzisiaj), **nie uwzględniono**.\n\n[źródło 1 »](https://en.wikipedia.org/wiki/T%C5%8Dy%C5%8D_kanji), [źródło 2 »](https://en.wikipedia.org/wiki/Japanese_script_reform)
+1450030 W ramach noworocznego tradycyjnego japońskiego jedzenia wyraz życzeń **zdrowia** dla rodziny.
+1450690 Z cyframi 1, 8 i 10.
+1451150 Odnosi się do **samej czynności pracy**, niezależnie od tego, czy robisz to zawodowo, wolontariacko, czy nawet wykonujesz obowiązki domowe; mniej formalne określenie.\n\n[źródło »](https://t.me/askplexbot)
+1451490 zoo, ogród zoologiczny
+1454510 **Czuć się** w czymś dobrym, mocnym - skromniejszy sposób na ocenę własnych lub cudzych kompetencji na bazie **subiektywnego** odczucia pewno?ci / komfortu w ich względzie.
+1456420 Możliwa wymowa "doksho".
+1457730 Dialekt Kansai; używane głównie przez kobiety i dzieci.
+1467630 Warzywo (cebulowate) o długich, zielonych liściach oraz białej, grubej łodydze. W smaku łagodniejsze niż tradycyjna cebula.\n\nMożna je stosować na surowo lub gotować, a jego liście są często używane jako przyprawa lub dekoracja potraw.
+1470120 Uznana za jedną z najstarszych sztuk scenicznych na świecie, a przez UNESCO za „niematerialne dziedzictwo kulturowe”. Składa się z elementów dramatu, muzyki i tańca\n\nW przewodnikach, tekstach, czy książkach można spotkać czasami także zapis noh lub Noh (np. National Noh Theatre) w wyniku tradycyjnego stosowania dawnej transkrypcji, dziś już nie używanej. Zarówno ō w nō, jak i h w Noh mają znaczenie przedłużenia samogłoski o.\n\n[źródło »](https://pl.wikipedia.org/wiki/N%C5%8D)
+1471900 Nie rymowany epigram 3-wersowy (5+7+5 sylab).\n\nGatunek ów powstał w XVII w., uprawiany do dziś.
+1481280 Jadalny gatunek małża, odżywia się filtrując wodę; wysoko ceniony pod względem kulinarnym (mięso zawiera wiele żelaza).\n\nO długości przeciętnie 10-15 cm; górna połówka muszli płaska, zwykle czerwonawobrązowa - dolna wypukła i jasnokremowa lub brązowa.
+1482110 Chociaż oznacza zapadnięcie zmroku, tego słówka **nie używa się** do określenia pory dnia.
+1487820 > „Skrótowe znaki do przepisywania” - uproszczone formy znaków używane przy przepisywaniu rękopisów, by szybciej przepisywać tekst ręcznie, niekoniecznie tak artystyczne jak w kursywie.\n\n[źródło »](https://en.wikipedia.org/wiki/Ryakuji)\n\n\nWiększość z nich nie jest obecna w zbiorze Kentei, jak i oficjalnie uznana.\n\n[źródło »](https://t.me/askplexbot)
+1488000 Inne formy przy liczbach: 300, 600, 800.
+1488400 Bardzo wiele, intensywnie.
+1490230 Z wyłączeniem drobnych dolegliwości, np. zwykłego przeziębienia.
+1495770 Np. bielizna, maseczka, biżuteria, zegarek, zestaw słuchawkowy, szkła kontaktowe.\n\nZamiast tego czasownika możemy użyć 「suru 」 w stosunku do wszystkich noszonych przez nas akcesoriów.\n\n[źródło »](https://play.google.com/store/apps/details?id=com.busuu.android.enc)
+1496800 3776 m n.p.m.\n\nPołożona między prefekturą Shizuoki, a Yamanashi - i widać ją również w niektórych miejscach Tokio.\n\nJednym z powodów, dla którego ludzie tak chętnie wspinają się na jej szczyt, jest chęć doświadczenia goraikou, czyli najsłynniejszego wschodu słońca w Japonii!\n\nOstatnia erupcja góry Fudżi (aktywnego wulkanu) miała miejsce w 1707 r.
+1496890 Wyjmowany z szafy ściennej, układany bezpośrednio na podłodze bawełniany materac do spania, wypełniony wełną, bawełną, włóknem kokosowym lub poliestrem - wraz z kołdrą.
+1497680 Pokornie, formalnie; z 「oya」 - bardziej oficjalnie - oznacza czy to Twojego Tatę, czy tatę kogoś innego).
+1498620 Wywodzą się z buddyzmu (zen), sintoizmu i konfucjanizmu.\n\nPrzykładowe ilustracje:\n\nChoć wychowanie samurajskie nosiło cechy surowości, starano się w dzieciach wzbudzać wrażliwość na przyrodę, sztukę, uczyć empatii.\n\nJōchō Yamamoto stwierdza:\n> „Należy wciąż hartować swoje męstwo, usiłować przewyższać w nim innych i nigdy nie czuć się gorszym od tego, czy tamtego wojownika”.\n\nSporządzanie pisemnych umów wojownicy niekiedy traktowali jako ubliżanie ich honorowi. Wypowiedziane przez siebie słowo uważali za wystarczające „pokwitowanie”.\n\n[źródło »](https://pl.wikipedia.org/wiki/Bushid%C5%8D)
+1499320 「部」 zazwyczaj nie czytamy jako 「へ」.
+1499400 Są to cząstki Kanji, które w połączeniu z innymi częściami Kanji tworzą bardziej złożone Kanji.\n\nWiele pierwiastków posiada również swoje własne znaczenie, a każde Kanji w których występuje ten sam pierwiastek, ma zwykle znaczenie mające z nim związek.
+1500150 Taka chusta służy do...dbania o rzeczy - można nią ładnie opakować książki, które chcesz oddać do biblioteki albo lunchbox. Można też ją po prostu włożyć do ramki i powiesić na ścianie :) .\n\nźródła:\n[Mały Skromny Japoński Pomocnik »](https://www.japonski-pomocnik.pl/wordDictionary) + [newsletter Warszawskiej Szkoły Języka Japońskiego - zapiszesz się tu »](https://dashboard.mailerlite.com/forms/393326/89154125835535536/share)
+1501220 Słowo to pojawiło się historycznie o 200–300 lat wcześniej (w starych japońskich kronikach wojennych) niż seppuku.\n\nMoże mieć czasem zabarwienie prostactwa lub wulgarności, stosowane jest w języku angielskim, ale rzadko przez współczesnych Japończyków. Słowniki japońskie spod hasła harakiri kierują do słowa seppuku.\n\n[źródło »](https://pl.wikipedia.org/wiki/Seppuku)
+1502430 > „**Ceną** zaś **rzeczy** jest ilość tego, co nazwałbym życiem, które należy za nią wymienić – natychmiast albo w ostatecznym rozrachunku”.\n\n(Henry David Thoreau, _Walden_)
+1502840 「F」 tylko z cyframi 2, 5, 7, 9.
+1504900 Wulgaryzm rodzaju „cholera”, „psia krew”, itp.
+1505990 Zapis bardziej popularny i współczesny. ; Zapis bardziej literacki, staroświecki (częściej w tekstach klasycznych lub formalnych; pierwsze kanji 併 oznacza „łączyć” lub „obok siebie”, więc tutaj może podkreślać połączenie dwóch myśli (np. kontrastu w zdaniu)).\n\n[źródło »](https://t.me/askplexbot)
+1507090 Powstał poprzez uproszczenie wybranych Kanji.\n\nSkłada się z 46 liter i - jako sylabariusz - **reprezentuje tylko dźwięki**.\n\nW odbiorze Japończyków zapis w tym sylabariuszu nadaje wrażenie **miękkości**.\n\n**Służy do:**\n* zapisu słów **pochodzenia japońskiego**,\n* **głównie do celów gramatycznych** (np. wszystkich partykuł, końcówek fleksyjnych, itp.),\n* **zapisu wymowy słów** reprezentowanych przez wyjątkowo trudne lub rzadkie Kanji,\n* zapisu **wyrażeń potocznych**,\n* zapisu **onomatopei**;
+1511600 Powstał poprzez uproszczenie wybranych Kanji (często stanowiąc po prostu ich fragmenty).\n\nSkłada się z 46 liter i - jako sylabariusz - <strong>reprezentuje tylko dźwięki</strong>.\n\nW odbiorze Japończyków zapis w tym sylabariuszu nadaje wrażenie <strong>twardości</strong>.\n\n<strong>Służy do:</strong>\n* <strong>zapisu słownictwa zapożyczonego</strong> z innych języków - lub nazw niejapońskich (imion i nazwisk obcych, często nazw krajów),\n\n* <strong>wyróżnienia danych wyrazów</strong> (analogicznie do np. kursywy);
+1513060 Można je kupić w punktach gastronomicznych lub przygotowywać samemu.\n\nTradycyjnie składa się z ryżu, ryby lub mięsa, a także z pikli i gotowanych warzyw.
+1513065 Można je kupić w punktach gastronomicznych lub przygotowywać samemu.\n\nTradycyjnie składa się z ryżu, ryby lub mięsa, a także z pikli i gotowanych warzyw.
+1515120 Pokornie; ale z 「oya」 - bardziej oficjalnie - oznacza czy to Twoją Mamę, czy mamę kogoś innego.
+1516925 Przyrostek czasowników: 「~kata」 zamiast 「~masu」).
+1520810 Położona na **północnym** jej krańcu, w pobliżu Rosji. Stolicą jest Sapporo.\n\nJej klimat jest umiarkowany, morski. **Lato** jest tu **chłodniejsze** niż w pozostałych regionach Japonii, co przyciąga turystów z pozostałych jej części. **Zima** jest dosyć **surowa** i trwa 4–5 miesięcy, na ogół z bardzo obfitymi opadami śniegu.\n\n[źródło »](\nhttps://pl.wikipedia.org/wiki/Hokkaido)
+1522050 Z przeczącą formą czasownika.
+1522150 Np. długopis, butelka, patyk, kij, wędka, cała bagietka, drzewo, linia narysowana na papierze, kosmyk włosów...); Inne warianty przy cyfrach 1, 3, 6, 8 i 10.
+1523060 Plus opcjonalnie ni + przymiotnik.
+1524610 Np. cała pizza, kartka papieru, talerz, kromka chleba, koszulka, moneta, obraz, deska do krojenia.
+1525220 **Na potrzeby ceremonii** pochodzi z pierwszego zbioru najdelikatniejszych liści, ma intensywnie zielony kolor, aksamitną, kremową konsystencję i łagodny, słodkawy smak z wyraźnym umami. Pije się ją bez dodatków.\n\n**W wersji kulinarnej** jest produkowana z późniejszych, dojrzalszych liści, przez co jest ciemniejsza, bardziej gorzka i mniej delikatna – idealnie nadaje się do gotowania, pieczenia czy smoothie, gdzie jej wyrazisty smak nie ginie wśród innych składników.\n\n[źródło »](https://t.me/askplexbot)
+1527080 Uzyskiwana w wyniku zmieszania lekko sfermentowanego ryżu przy pomocy pleśni ryżowej z wódką ryżową.
+1528180 Szósty znak w chińskim zodiaku. W tym systemie każdy rok jest przypisany do jednego z 12 zwierząt oraz jednego z pięciu żywiołów, co tworzy 60-letni cykl.
+1528190 Węże zrzucają skórę, aby rosnąć, co symbolizuje „nowe początki” oraz „przyszłość pełną perspektyw”. Termin ten odnosi się do roku w cyklu 12-letnim, który jest częścią tradycyjnego chińskiego zodiaku. W tym systemie każdy rok jest przypisany do jednego z 12 zwierząt oraz jednego z pięciu żywiołów, co tworzy 60-letni cykl.\n\nWęża przypisuje się do lat, które występują co 12 lat, a zatem lata takie jak 1929, 1941, 1953, 1965, 1977, 1989, 2001, 2013 i 2025 to lata węża.\n\nTermin ten ma swoje korzenie w tradycjach chińskich, które wpłynęły na kulturę japońską, zwłaszcza w kontekście astrologii i kalendarzy. Japończycy przyjęli wiele chińskich koncepcji, w tym system zodiaku, i dostosowali je do swojej kultury.\n\n**źródła:**\n\n* [źródło »](https://xyeopd.clicks.mlsend.com/td/cl/eyJ2Ijoie1wiYVwiOjM5MzMyNixcImxcIjoxNDA1MTk1MDc2ODk5OTc5NzYsXCJyXCI6MTQwNTE5NTIwODkwNTIwNzI2fSIsInMiOiI1ZmM4NDgwZTI1NWMyYTRiIn0)\n\n* [Czat GPT na Telegramie »](https://t.me/GPT4Telegrambot)
+1528410 Mandarynki i kotatsu stanowią ważną część japońskiej kultury, ponieważ występujące w sezonie zimowym mandarynki są łatwe do jedzenia, pełne witamin i wilgoci, których potrzebujesz zimą.
+1531120 Pada jeszcze lżej, niż 「kosame」, a krople są bardzo malutkie, prawie jak mgła (średnica poniżej 0,5 mm).\n\n[źródło »](https://t.me/askplexbot)
+1531630 Np. nanori dla znaku 希 to nozomi. Nozomi w sensie „nadzieja” (rzeczownik pospolity) piszemy 望み. Z kolei w przypadku znaku 心 (kokoro; serce) nanori to mune, makoto i mi.\n\n[źródło » ](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+1537300 Najpopularniejszy sport w Japonii - choć wielu dorosłych Japończyków preferuje golf.
+1538160 Możliwa wymowa „ksuri”.
+1540170 Zwróć uwagę, że słówko to zapisuje się za pomocą <b>dwóch Kanji</b>. Jest to najpopularniejszy sposób na określenie „przyjaciela”.\n\n<b>Pierwsze</b> Kanji również znaczy „przyjaciel”, jednak rzadziej używa się go samodzielnie.\n\nChociaż <b>drugi znak</b> zazwyczaj sprawia, że rzeczownik żywotny (czyli istoty żywe: ludzie, zwierzęta, owady) przyjmuje formę liczby mnogiej, 「tomodachi」 można stosować w odniesieniu do jednego, jak i wielu przyjaciół.\n\n<hr>\n<sup><a href="https://play.google.com/store/apps/details?id=com.busuu.android.enc">źródło »</a></sup>
+1542790 Zwykle od 15:00 do 18:00; popularne określenie pory dnia.
+1545260 W Japonii nieobowiązkowa edukacja od trzeciego do szóstego roku życia (do szkoły podstawowej).
+1545790 Przyrostek honoryfikatywny.
+1547720 Kanji obecne w tym słówku zestawia się z rzeczownikami, aby pokazać, że będą miały miejsce w przyszłości.
+1550260 Dosł. „ukryte pieniądze”.\n\nSłówko należące do ogłoszonej w Japonii pod koniec roku 2024 r. listy Top 10 słówek najlepiej oddających wydarzenia, trendy i wypowiedzi mijającego roku.\n\n[źródło »](https://xyeopd.clicks.mlsend.com/td/cl/eyJ2Ijoie1wiYVwiOjM5MzMyNixcImxcIjoxNDA1MTk1MDc2ODk5OTc5NzYsXCJyXCI6MTQwNTE5NTIwODkwNTIwNzI2fSIsInMiOiI1ZmM4NDgwZTI1NWMyYTRiIn0)
+1558390 [źródło » ](https://pl.wikipedia.org/wiki/Riukiu)
+1558800 To złożenie znaków koi (romantyczna, namiętna miłość, często z tęsknotą i pożądaniem) oraz ai – razem oznacza miłość romantyczną, czyli zakochanie, związek dwojga ludzi, często z nutą pasji i ekscytacji.\n\n[źródło »](https://t.me/askplexbot)
+1558920 Kiedy nie chcemy podawać płci naszego partnera; miłość romantyczna, choć nie tak głęboka jak 「ai」, która jest określeniem na miłość ogólnie.
+1559690 By uniknąć trudniejszych w wymowie połączeń fonetycznych, mogą rozwinąć się w języku nowe dźwięki, które będą wstawiane pomiędzy elementy takiego połączenia, by ułatwić jego wymowę.\n\nW języku japońskim (wg jednej z teorii) pierwotnie wykorzystywano ten koncept by można było udrożnić od siebie niektóre wyrazy złożone od jednego -powtórzonego - wyrazu (np. 「hitobito」 vs 「hito hito」).\n\nWyrazy złożone składające się ze słów pochodzenia chińskiego zwykły nie przejawiać tego zjawiska (z uwagi na to iż, w przeciwieństwie do słów rdzennie japońskich, mogą rozpoczynać się od udźwięcznionych głosek, stąd istniałoby ryzyko wieloznaczności).
+1562000 > „Słowo to (...) po raz pierwszy użyte zostało przez poetę Ki no Tsurayuki.「Wa」 znaczy „Japonia”, „dawna Japonia”, „w stylu japońskim”, 「ka」 – „poezja”, „wiersz”, „pieśń”. Prawdopodobnie Tsurayuki chciał zaznaczyć różnicę między poezją w swym języku ojczystym a poezją chińską zwaną kanshi (漢詩), z której czerpał inspirację, a która była dobrze znana wyedukowanym sferom japońskiego społeczeństwa”.\n\n[źródło »](https://pl.wikipedia.org/wiki/Waka_(poezja))
+1562970 Popularne danie w Japonii.
+1576870 Najczęściej używane przez mężczyzn; **podkreśla męskość bardzo zdecydowanie**.
+1577120 To samo co 「Doushite?」.
+1577490 Zarówno względem ludzi, jak i rzeczy.
+1577980 Względem czegoś ożywionego lub ruchomego, przemieszczającego się (np. przemieszczający się robot).
+1578780 W Japonii liście klonów czerwienieją w listopadzie.
+1579100 Zazwyczaj, gdy zdanie dot. czynności wykonanej.
+1579450 Podobny do lutni, z pudełkiem rezonansowym z drewna i skóry kota (lub syntetyku), używany w muzyce folkowej, kabuki czy bunraku – gra się na nim paznokciami lub pałeczką.\n\nDosł: „struny trzech smaków” - pochodzi od trzech strun instrumentu, gdzie „trzy smaki” to poetycka aluzja do trzech różnych tonów lub „smaków dźwiękowych” (gruby bas, średni i wysoki), które dają bogatą paletę melodyczną.\n\n<hr>\n<sup><a href="https://t.me/askplexbot">źródło »</a></sup>
+1579640 Japońskie święto w lipcu lub sierpniu.\n\nlub\n\nObchodzone 7 lipca (gdy zbliżają się do siebie dwie gwiazdy północnego nieba - Wega i Altair - rozdzielone przez Drogę Mleczną).\n\nOpiera się na legendzie o przeklętych kochankach, którzy spotykają się tylko raz w roku, w tym dniu.\n\nLudzie zapisują swe marzenia na kolorowych paskach papieru, które wieszają na gałęziach drzew bambusowych.
+1581310 Czegoś, lub opowiedzenie się po czyjejś stronie.
+1582620 Np. „wiatr południowo-wschodni”.
+1582960 W Japonii od początku czerwca aż do połowy lipca.
+1583370 Inne warianty przy cyfrach 1, 3, 6, 8 i 10.
+1583680 Często mylnie używa się tego określenia jako synonimu samuraja. Tymczasem był to szerszy termin.\n\n[źródło »](https://pl.wikipedia.org/wiki/Bushi)
+1584930 Z przeczącą formą czasownika.\n\nMimo że istnieją w japońszczyźnie takie zwroty, jak: 「kirai desu」 czy 「iya desu」 („nienawidzę”) - zazwyczaj zastępuje się je neustralnymi konstrukcjami, znaczącymi np. „nie za bardzo lubię”, „zbytnio nie przepadam za...”.\n\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)
+1588720 W ramach noworocznego tradycyjnego japońskiego jedzenia wyraz życzeń **długowieczności** dla rodziny.
+1589350 rzeczownik + 「da -to」\n\nlub\n\nczasownik, przymiotnik + 「-to」
+1589590 **Dosadniej** niż 「saigo」(„najbardziej z tyłu”), gdyż dosłownie pokrywa się z użytym Kanji.
+1592910 Symbol majowego (piąty mają) japońskiego Dnia Dziecka.
+1595650 W postaci, przeważnie surowych: owoców morza, wodorostów nori, kawałków ryb, warzyw, grzybów, a także omletu japońskiego (tamago-yaki), tofu, ziarna sezamowego (goma).\n\n[źródło »](https://pl.m.wikipedia.org/wiki/Sushi)
+1595990 Stosowany w pomieszczeniach z tatami: by usiąść w ten sposób, klękasz na podłodze i kontynuujesz opuszczanie ciała, aż oprzesz je na piętach. W tym momencie czubki stóp powinny być ułożone płasko na podłodze.\n\nPod kolana możesz włożyć płaską poduszkę, zwaną 「座布団」 (「zabuton」).
+1596780 Ogólnie przyjmuje się, że w rejonie Oceanu Spokojnego sezon tajfunów trwa od maja do listopada, ale najbardziej intensywne miesiące ich występowania to sierpień i wrzesień.\n\nJapończycy nie nadają imion tajfunom, tylko je numerują. W ciągu jesieni nadchodzi ich kilkanaście, czasem nawet ponad 20.\n\nNajwięcej tajfunów odnotowuje się w najbardziej tropikalnej części Japonii, czyli na Okinawie.
+1597110 W przeciwieństwie do prywatnych myśli.
+1598550 Np. na wycieczkę lub wypad.
+1598680 Oryginalnie składał się z dwóch wyrazów: 「とき 」+ 「とき」 („czas” + „czas”). W miarę upływu czasu dźwięk w drugim wyrazie uległ zmianie.
+1599200 Hol. "Duits".
+1601340 Ogólne określenie kolacji między zmierzchem, a wschodem słońca.
+1601350 Zapytałem AI:\n\nTen japoński okrzyk wyrażający radość, sukces można zapisywać jako 「万歳」 lub 「万才」. Czy prawidłową jest moja interpretacja, że pierwszy zapis odpowiada bardziej sytuacji, w której celebrujemy sukces, <b>wieńcząc rok w którym miał miejsce</b> (a więc akcent znaczenia tego zapisu odnosi się do zakończenia roku, który okazał się pomyślny) - podczas gdy drugi zapis jest <b>bardziej uniwersalny</b>&nbsp;i kładzie akcent znaczeniowy bardziej na <b>cieszenie się, radość z czyjegoś talentu, uzdolnienia</b>?\n\nOdpowiedź <sup><a href="https://t.me/GPT4Telegrambot">źródło »</a></sup>:\n\nTwoja interpretacja jest bardzo trafna. Różnice między zapisami 「万歳」 i 「万才」 rzeczywiście mogą mieć subtelne różnice w znaczeniu i kontekście użycia.\n<ol><li>「万歳」: Ten zapis jest bardziej powszechnie używany w kontekście celebrowania sukcesów, osiągnięć lub radosnych wydarzeń. Może być używany podczas różnych uroczystości, takich jak Nowy Rok, święta, czy inne okazje, <b>które mają związek z zakończeniem roku</b> lub osiągnięciem ważnych celów. Dosłownie tłumaczy się jako „dziesięć tysięcy lat”, co można interpretować jako życzenie długiego życia i pomyślności.</li><li>「万才」: Ten zapis, choć wymawia się tak samo, może być używany w kontekście uznawania talentu lub umiejętności danej osoby. <b>Skupia się bardziej na podkreśleniu zdolności i osiągnięć jednostki</b>, co może być użyteczne w sytuacjach, gdzie chcemy wyrazić radość z powodu czyjegoś talentu lub sukcesu.\n</li></ol>W praktyce jednak oba zapisy mogą być używane zamiennie w wielu kontekstach i często nie ma ścisłego rozróżnienia między nimi w codziennym użyciu. Niemniej jednak Twoje spostrzeżenia dotyczące ich konotacji są słuszne!
+1602150 Szczególnie w zachodnim kontekście, opowieściach, itp.
+1604130 Każda prefektura ma swój wyjątkowy festiwal.
+1604135 Każda prefektura ma swój wyjątkowy festiwal.
+1607050 Ma nieco bardziej formalny odcień niż 「watashitachi」. Używa się wtedy, gdy przemawiamy w imieniu grupy. Zazwyczaj nie bywa używane przez kobiety.
+1607260 Np. obuwie, skarpetki, spodnie, spódnicę.
+1607440 Głos podczas śpiewu.
+1621920 Pol. Biła.
+1623450 Możliwa wymowa „daifku”.
+1637780 Zmienia dźwięk 「h」 w dźwięk 「p」.
+1643130 Pochodzi od 人. Występuje po lewej stronie znaku.
+1652350 Została przeniesiona do Tokio); wciąż znajduje się tam wiele świątyń i kaplic.
+1665520 Podawane w formie **wałeczków ryżu owiniętych prasowanymi algami morskimi** (nori), z wasabi, sosem sojowym i marynowanym imbirem.\n\nPowstają w wyniku ułożenia ryżu i dodatków na arkuszu nori (stąd nazywane także nori-maki) oraz jego zwinięciu razem ze składnikami.\n\nDo zawijania używa się bambusowej maty (makisu) – powstaje rulon, który kroi się na mniejsze kawałki.\n\n[źródło » ](https://pl.m.wikipedia.org/wiki/Sushi)
+1698850 Może być tworzone, w domowym zakresie, przez osoby spożywające: na stół podaje się tacę z przygotowanymi składnikami, z których <b>każdy biesiadnik sam komponuje swoje sushi.</b>\n\nPrzed zwinięciem nori w kształt rożka układa się na nim: ryż, wąsko pokrojone kawałki ryb lub owoców morza, warzyw, japońskiego omletu (tamago-yaki), grzybów. Ryż można posypać ziarnem sezamowym, a nori zastąpić liściem zielonej sałaty.\n\n[źródło »"](https://pl.m.wikipedia.org/wiki/Sushi)
+1720240 Źródła swe ma czy to w spontanicznym piśmie odręcznym (略字 / ryakuji, z czasów jeszcze przed wojną), czy w bardziej przemyślanej, umyślnej procedurze.\n\n[źródło »](https://en.wikipedia.org/wiki/Shinjitai)
+1745480 Szczególnie w odniesieniu do 16-go dnia według miesiąca księżycowego.\n\n<hr>\n<sup>źródło: <a href="https://www.japonski-pomocnik.pl/wordDictionary">Mały Skromny Japoński Pomocnik »</a></sup>
+1779520 Ryż w occie i plasterki surowego tuńczyka zawinięte w wodorosty.
+1806020 Zwykle ilustrujący ich zastosowanie w przykładowych utworach.\n\n* 「kigo」
+1884150 ⻌ - występuje po lewej dolnej stronie znaku.
+1891810 「tabako」 jest starszym i mocno już zaadoptowanym zapożyczeniem z portugalskiego (“tabaco”, “tobacco”), stąd często zapisywanym w Kanji, miast Kany.
+1932300 Czyli on’yomi, które z powodu wcześniejszych błędów czy przekręceń nie są prawidłowe, ale ze względu na usus językowy zostały uznane za dopuszczalne.\n\nNp. 珠 (perła):\n- su (go’on),\n- shu (kan’on),\n- ju, zu (kan’yōon);\n\nW przypadku tego znaku w Jōyō znalazło się tylko kan’on.\n\n\n[źródło »](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)
+2008220 Dosłownie oznacza życzenie dobrego nastroju, samopoczucia.\n\nSłowo 「gokigen」 oznacza „nastrój” lub „samopoczucie”, a końcówka 「好う / 良う」 to archaiczne formy przymiotników „dobry” 「好い / 良い」.\n\n「御機嫌好う」: starsza, bardziej literacka forma, rzadziej używana w codziennym języku, ale spotykana np. w literaturze lub formalnych listach.\n\n[źródło »](https://t.me/askplexbot)
+2015980 Popularny japoński przysmak. Może mieć różne warianty nadzienia, w zależności od regionu: np. orzechy, białą fasolę (shiro-an), zieloną fasolę (uguisu-an), sezam (goma-an) i kasztany (kuri-an).
+2036380 Dziś służy jako radosny okrzyk na zawodach sportowych, festiwalach czy w firmach, tracąc wojenny wydźwięk, z którego się wywodzi (bojowy okrzyk wojenny z okresu Sengoku w Japonii).\n\nPoczątki sięgają czasów, gdy wojny przeszły od pojedynków do dużych bitew zespołowych, wymagających jedności – dowódca wołał 「Ei ei!」 (coś jak „Czy jesteście gotowi walczyć?”]), a żołnierze odpowiadali 「Ō!」 („Tak, jesteśmy!”).\n\nW kronikach zapisano to jako 「曳々応」 (「hi hi ō」 lub 「ei ei ō」), gdzie 「曳」 oznacza ciągnięcie lub wyciąganie broni, a 「応」 to odpowiedź.\n\nAlternatywna teoria etymologiczna: 「鋭々応」: 「Ei」 od 「鋭」 (ostry, zacięty), symbolizujące zapał bojowy, i 「Ō」 od 「応」 (odpowiedź). To podkreśla gotowość i entuzjazm.\n\n<hr>\n<sup><a href="https://www.perplexity.ai">źródło »</a></sup>
+2038730 Mająca miejsce od lat 1970'tych w Japonii polityka edukacyjna, postulująca większą ilość relaksu w szkolnictwie - jako remedium na stres, przemoc oraz brak dyscypliny pośród uczniów.\n\nW tym celu zmniejszono ilość godzin lekcyjnych, zniesiono obowiązek szkolny w soboty, jak również okrojono program.\n\nNiestety, inicjatywa okazała się fiaskiem: około 1999 r. zanotowano poważny spadek zdolności uczenia się pośród studentów uniwersytetów, co japońskie media otwarcie krytykowały jeszcze w 2016 r. Badanie z 2024 r. wykazało natomiast, że pokłosie „zrealksowanej edukacji” stanowi pokolenie ludzi mniej zarabiających, jak i rzadziej utrzymujących pełnowymiarowe lub wykwalifikowane zatrudnienie.\n\n<hr>\n<sup><a href="https://en.wikipedia.org/wiki/Yutori_education">źródło »</a></sup>
+2061530 Tym mianem określany jest również gatunek mangi i anime (podgatunek "okruchów życia"), przedstawiający postacie wiodące spokojną egzystencję, w uspokajających środowiskach - i mający na celu wywołanie kojącego wpływu na publiczność.
+2067900 Dodajemy zawsze, podając **godziny** lub **tygodnie**.
+2078800 Trzecie co do wielkości miasto w Japonii.
+2083100 11-31, za wyjątkiem 14, 20 i 24.
+2083900 Oszacowuje wiedzę nt. Kanji.
+2099360 Również jeden z najbardziej znanych festiwali tanecznych w Japonii, odbywający się głównie w mieście Tokushima, w prefekturze Tokushima w połowie sierpnia.
+2108140 [źródło »](https://t.me/askplexbot)
+2108150 Jest to typowy wzór dla nazwisk, złożonych słów oraz zapożyczeń.\n\n[źródło »](https://t.me/askplexbot)
+2108160 [źródło »](https://t.me/askplexbot)
+2108190 Partykuła を nieco bardziej formalna i używana w piśmie; to samo dot. każdej czynności utworzonej przez rzeczownik + 「suru.」
+2109590 <sup>źródło: <a href="https://www.japonski-pomocnik.pl/wordDictionary">Mały Skromny Japoński Pomocnik »</a></sup>
+2138430 Obchodzony w Japonii 5 maja.\n\nRodziny w których są chłopcy, wywieszają przed domami ogromne chorągwie w kształcie karpii (koi nobori), życząc synom zdrowego rozwoju.
+2143350 Prawdopodobieństwo ok. 30%; bardzo nieformalnie - między przyjaciółmi lub członkami rodziny; nie można łączyć z "-kara".
+2146040 Dosł. „nieregularna koniugacja czasowników wiersza 「sa」”.
+2149890 Dodawany po liczbie (za wyjątkiem 1 i 2).
+2157240 Np. 「勉強」 od którego można utworzyć czasownik -suru „uczyć się”: 「勉強する」.
+2160680 Dawanie rady; po czasowniku w formie 〜た (〜ない).
+2164610 Leży w środkowej części wyspy Honsiu.
+2164710 Jej stolicą jest miasto o tej samej nazwie (a tylko z przyrostkiem miasta, a nie prefektury).
+2179420 Termin słoneczny, ok. 22 listopada.
+2181100 W kulturze japońskiej jest to kwestią zachowania twarzy i taktu w relacjach z drugą osobą. Dla mieszkańców wysp zauważanie potrzeb drugiej osoby i odpowiadanie na nie jest ważnym aspektem życia w społeczeństwie. Zrozumienie, że ktoś jest niezainteresowany, zły bądź nieprzekonany bez mówienia o tym wprost jest tym, czego Japończycy uczą się od dzieciństwa.\n\n<hr>\n<sup><a href="https://japoland.pl/czwarty-sposob-czytania-po-japonsku-czyli-czytanie-z-powietrza/">źródło »</a></sup>
+2181410 Występuje po lewej stronie znaku.
+2185990 Zwykle boczek, podsmażany z kapustą pekińską, zieloną cebulką i papryką - wszystko doprawione pikantnym sosem na bazie pasty chili i fermentowanej fasoli.\n\nPopularne danie chińskie pochodzące z kuchni syczuańskiej, znane też jako „mięso dwukrotnie gotowane”.\n\nźródło: https://t.me/askplexbot
+2257740 W ludowych wierzeniach przedmioty o długiej żywotności (tj. po osiągnięciu wieku 100 lat) zostają zamieszkane przez ducha.
+2405630 Nie istnieje ich pełna, wyczerpująca lista ani ostateczny werdykt co do ich ilości. Najwyższy poziom testu Kanji Kentei opiewa na ok. 6 000 pozycji, z czego ok. połowę stanowią takie właśnie znaki.\n\nCzęsto zapożycza się je z literatury starożytnej, by zaadoptować je w nazwach tradycyjnych japońskich wyrobów cukierniczych (wagashi).\n\nMogą być również często stosowane w mandze, dla potrzeb stylistycznych: w imionach postaci, miejsc, i w innych miejscach - zwykle w towarzystwie furigany ułatwiającej ich czytanie.
+2412230 Dodawany po liczbie.
+2528530 Często używane, acz stosunkowo nowe określenie.
+2686360 Polega na rozmyciu płaszczyzny, tła poza granicą ostrości obiektywu - dzięki czemu pierwszoplanowy temat zdjęcia zostaje dodatkowo zaakcentowany (tło/inne obiekty nie odwracają od niego uwagi).
+2690730 Np. 「勉強する」 – „uczyć się”.
+2758380 <ol><li>Rozpoznaj <strong>nadal kumulujące się</strong>, a niepotrzebne dziś zasoby - i zaprzestań ich napływu.</li><li>Pożegnaj to, co <strong>wypełniło już</strong> swą rolę w Twoim życiu.</li><li>Rozpoznaj, co z powyższych zasobów jest <strong>naprawdę Twoje</strong> - a co przejęte od innych - i odłącz się od wszystkiego, co nie wypływa z Twojego Własnego serca.</li></ol>„W polskich tekstach 断捨離 bywa upraszczane do ‚minimalizmu’ albo ‚sprzątania’. To zrozumiałe, ale niepełne. Yamashita Hideko, popularyzatorka danshari w Japonii, często podkreśla, że inspiracją była dla niej joga i myśl buddyjska, a nie zachodni minimalizm. W Japonii mówi się wręcz, że danshari to „buddyzm przełożony na codzienność”, szczególnie na relację z przedmiotami.\n\n断 - zerwanie\nChodzi o świadomą decyzję, by nie wpuszczać do swojego życia rzeczy, informacji i zobowiązań, które nie są nam potrzebne tu i teraz.\n\n捨 - wyrzucanie\nChodzi o uczciwe spojrzenie na to, co mamy, i zgodę na to, że rzeczy (i nawyki) mają swój czas. W japońskich opisach często pojawia się sformułowanie: „przedmiot spełnił swoją rolę”. 捨 uczy, że trzymanie się rzeczy z przeszłości może blokować teraźniejszość. Jeśli coś nie wspiera cię teraz – możesz to pożegnać z wdzięcznością.\n\n離 - odłączanie\nW japońskim ujęciu 離 to moment, w którym przestajemy definiować siebie przez to, co posiadamy lub czego „powinniśmy” chcieć. To dystans do cudzych oczekiwań, do presji społecznej, do własnych wyobrażeń sprzed lat. Porządkując przestrzeń, uczymy się rozpoznawać, co naprawdę jest nasze, a co przejęte od innych.\n\nDanshari nie jest o stracie. Jest o wyborze. O odzyskaniu przestrzeni, energii i sprawczości. Nowy rok nie potrzebuje idealnej wersji ciebie – potrzebuje miejsca, w którym ta wersja może się pojawić”.\n\n<a href="https://wsjj.pl/blog/danshari-japonska-sztuka-robienia-miejsca-na-nowe-poczatki">źródło »</a>
+2761970 Pobieżna, pospieszna maniera zapisywania Kanji, mająca na celu przyspieszenie i ułatwienie ich kreślenia.\n\nZwane też „pismem trawiastym”, z uwagi na „trawę”, jako główne znaczenie znaku 草.\n\nZdaniem Głucha i Wiślickiego (2017) termin ten dosłownie przetłumaczyć można jako „pismo z brudnopisów”, ponieważ znak 草 został tutaj użyty w znaczeniu „początek, rozpoczynanie”, nie zaś „trawa”.\n\n[źródło 1 »](https://t.me/askplexbot), [źródło 2 »](https://pl.wikipedia.org/wiki/Pismo_trawiaste)
+2769060 Dosłownie np. „pachnący nędzą”.
+2826498 Szczególnie pierwsze trzy lub piętnaście dni; obchodzony zwykle przez pierwsze trzy dni stycznia.
+2826528 Występuje zazwyczaj przed słowami pochodzenia chińskiego, choć obecnie jest w użyciu także w przypadku wielu słów rodzimych.\n\n<hr>\n<sup>źródło: <i>Język japoński dla średniozaawansowanych</i> (Ewa Krassowska-Mackiewicz)</sup>
+2826868 Słynie z zaawansowanych technologicznie centrów rozrywki; połączona z centrum Tokio Tęczowym Mostem.
+2827768 Można w niej znaleźć wiele świątyń, a także jeleni - które w przeszłości uważano za posłańców bogów.
+2839013 Obowiązująca od 1 maja 2019 r.\n\n2020ねん - Reiwa 2ねん
+2845088 Miasto, prefektura.
+2845121 Przemysł rybny, drzewny i maszynowy. Płd.-wsch. część miasta górska.\n\nZnane przede wszystkim z widowiskowego festiwalu Nebuta Matsuri, podczas którego ulicami przechodzą ogromne, podświetlane platformy przedstawiające postacie z legend, a atmosfera przypomina karnawał.\n\nMiasto leży nad zatoką, słynie też z pysznych jabłek.\n\n[źródło »](https://www.aikoiemil.com/najwiekszy-festiwal-w-japonii-i-dlaczego-warto-wziac-w-nim-udzial-aomori-nebuta-matsuri-co-zwiedzac-w-japonii/)
+2845606 Jeden i ten sam zapis w Kanji, czytany dwojako:\n\n- 「いかが」 używane jest głównie w uprzejmych, formalnych sytuacjach, brzmi grzeczniej i bardziej oficjalnie - np. 「お飲み物はいかがですか」 („Czy napój będzie w porządku?”),\n\n- 「どう」 jest bardziej potoczne i używane w codziennych rozmowach, neutralne i swobodne, np. 「どう思う？」 („Co sądzisz?”);\n\n[źródło »](https://t.me/askplexbot)
+2845783 Praktyka buddyjska, od wieków praktykowana przez samurajów, ascetycznych japońskich buddystów i shintoistów.\n\nSzokujące, ożywcze, niezapomniane wprowadzenie do niezwykłej formy rozwoju duchowego oraz samokontroli.
+2858383 Dział nauk medycznych, zajmujący się rozpoznawaniem i leczeniem chorób ucha.
+2858384 „Jeśli nie chcesz mówić 「watashi」, to przynajmniej mów 「atai」!”
+2858450 Zwłaszcza Fuji.
+2864818 Szczególnie ślubną.
+5001664 Imię Kaguya (かぐや) jest przeważnie zapisywane pismem fonetycznym (hiraganą), przez co jest tłumaczone czasem błędnie jako Bambusowa Księżniczka (ang. The Bamboo Princess). Jednakże pojawiający się także zapis w postaci kanji 輝夜姫, sugeruje inne znaczenie, albowiem 輝 oznacza „blask”, „jasność”, „promienność”; 夜 – „noc”, „wieczór”; 姫 – „księżniczkę”, „młodą kobietę szlachetnego urodzenia”. Jest to więc takie ujęcie, które nawiązuje do jasności bijącej od niej, tak silnej, iż „rozświetlała noc”.\n\n[źródło »](https://pl.m.wikipedia.org/wiki/Opowie%C5%9B%C4%87_o_zbieraczu_bambusu)
+5229259 Wywodzi się z arysokratycznej wilii z XII-XIV w., przekszałconej z czasem w rezydencję shoguna, a następnie w świątynię.\n\nCały kompleks, którego ogrody i architektura skupiały się wokół centralnego Złotego Pawilonu, miał przywoływać raj na ziemi.\n\nZostał zbudowany do przechowywania świętych relikwii Buddy.\n\nBudynek reprezentuje tzw. kulturę Kitayama z okresu Muromachi.\n\nW 1950 roku świątynia została podpalona (spłonęła doszczętnie) przez psychicznie chorego, pogardzanego, buddyjskiego akolitę, który następnie próbował popełnić samobójstwo. Odbudowa budowli została zakończona w 1955 r., a ściany zewnętrzne pokryto płatkami złota w 1987 roku.\n\n[źródło »](https://pl.wikipedia.org/wiki/Z%C5%82oty_Pawilon)

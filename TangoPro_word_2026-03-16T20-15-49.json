@@ -1,13 +1,161 @@
 {
   "version": "1.0",
   "entityType": "word",
-  "exportDate": "2026-03-13T17:20:31.829Z",
-  "itemCount": 2047,
+  "exportDate": "2026-03-16T20:15:48.802Z",
+  "itemCount": 2063,
   "filters": {
     "tags": [],
     "sort": "sortNewestFirst"
   },
   "items": [
+    {
+      "literal": "豆乳",
+      "reading": "とうにゅう",
+      "meaning": "mleko sojowe",
+      "tags": [
+        "🍱 料理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2090
+    },
+    {
+      "literal": "此れから",
+      "reading": "これから",
+      "meaning": "odtąd, od teraz",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2089
+    },
+    {
+      "literal": "脂っこい",
+      "reading": "あぶらっこい",
+      "meaning": "tłuste",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2088
+    },
+    {
+      "literal": "湧く",
+      "reading": "わく",
+      "meaning": "odczuwać emocje (radość, odwagę itp.) ",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2087
+    },
+    {
+      "literal": "沸く",
+      "reading": "わく",
+      "meaning": "ekscytować się",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2086
+    },
+    {
+      "literal": "温水",
+      "reading": "おんすい",
+      "meaning": " ciepła woda",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2085
+    },
+    {
+      "literal": "断捨離",
+      "reading": "だんしゃり",
+      "meaning": "porządkowanie zasobów (przedmiotów, aktywności, nawyków, czasu, itd.) oraz naszego doń nastawienia",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2084
+    },
+    {
+      "literal": "寮",
+      "reading": "りょう",
+      "meaning": "akademik",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2083
+    },
+    {
+      "literal": "タガログ語",
+      "reading": "タガログご",
+      "meaning": "język tagalski",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2082
+    },
+    {
+      "literal": "言語",
+      "reading": "げんご",
+      "meaning": "język",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2081
+    },
+    {
+      "literal": "比律賓",
+      "reading": "フィリピン",
+      "meaning": "Filipiny",
+      "tags": [
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2080
+    },
+    {
+      "literal": "考え",
+      "reading": "かんがえ",
+      "meaning": "pomysł, myśl*",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2079
+    },
+    {
+      "literal": "穏やか",
+      "reading": "おだやか",
+      "meaning": "spokojne, ciche, łagodne",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2078
+    },
+    {
+      "literal": "形容動詞",
+      "reading": "けいようどうし",
+      "meaning": "przymiotnik odrzeczownikowy*",
+      "tags": [
+        "📖 便利",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2077
+    },
+    {
+      "literal": "専攻",
+      "reading": "せんこう",
+      "meaning": "specjalizacja (uniwersytecka) / kierunek studiów",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2076
+    },
+    {
+      "literal": "何年生",
+      "reading": "なんねんせい",
+      "meaning": "Uczeń której klasy?",
+      "tags": [
+        "🇯🇵🇨🇳湯桶読"
+      ],
+      "exportId": 2075
+    },
     {
       "literal": "大晦日",
       "reading": "おおみそか",
@@ -95,7 +243,7 @@
     {
       "literal": "名詞",
       "reading": "めいし",
-      "meaning": "rzeczownik",
+      "meaning": "rzeczownik („część mowy będąca nazwą”)",
       "tags": [
         "📖 便利",
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
@@ -935,7 +1083,9 @@
       "literal": "舟",
       "reading": "ふね",
       "meaning": "statek, okręt, łódź",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1966
     },
     {
@@ -967,7 +1117,9 @@
       "literal": "星",
       "reading": "ほし",
       "meaning": "gwiazda",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1962
     },
     {
@@ -1031,7 +1183,9 @@
       "literal": "曲",
       "reading": "きょく",
       "meaning": "utwór muzyczny",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1954
     },
     {
@@ -1297,7 +1451,9 @@
       "literal": "農家",
       "reading": "のうか",
       "meaning": "dom w gospodarstwie rolnym; zagroda",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1923
     },
     {
@@ -1329,7 +1485,9 @@
       "literal": "試着する",
       "reading": "しちゃくする",
       "meaning": "przymierzyć (ubranie)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1919
     },
     {
@@ -1688,7 +1846,9 @@
       "literal": "文字",
       "reading": "もじ",
       "meaning": "litera, znak",
-      "tags": [],
+      "tags": [
+        "混合読みと名乗り"
+      ],
       "exportId": 1877
     },
     {
@@ -1815,14 +1975,18 @@
       "literal": "町民",
       "reading": "ちょうみん",
       "meaning": "mieszczanie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1861
     },
     {
       "literal": "虫歯",
       "reading": "むしば",
-      "meaning": "zepsuty (spróchniały, dziurawy) ząb",
-      "tags": [],
+      "meaning": "zepsuty (spróchniały, dziurawy) ząb (漢字: „robaczywy ząb”)",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1860
     },
     {
@@ -2016,7 +2180,9 @@
       "literal": "着陸",
       "reading": "ちゃくりく",
       "meaning": "lądowanie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1837
     },
     {
@@ -2154,7 +2320,8 @@
       "reading": "おだかがた",
       "meaning": "akcent przesunięty na ostatnią sylabę, czyli ton wzrasta do końca słowa i opada zaraz po nim",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1821
     },
@@ -2190,7 +2357,9 @@
       "literal": "引っ越す",
       "reading": "ひっこす",
       "meaning": "przeprowadzać się",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1817
     },
     {
@@ -2229,7 +2398,9 @@
       "literal": "具合",
       "reading": "ぐあい",
       "meaning": "zdrowie, kondycja, stan organizmu",
-      "tags": [],
+      "tags": [
+        "🇨🇳🇯🇵 重箱読"
+      ],
       "exportId": 1812
     },
     {
@@ -2252,7 +2423,9 @@
       "literal": "風",
       "reading": "かぜ",
       "meaning": "wiatr; przeziębienie",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1809
     },
     {
@@ -2506,8 +2679,10 @@
     {
       "literal": "為る",
       "reading": "する",
-      "meaning": "uprawiać / grać\n(w odniesieniu do sportu); robić",
-      "tags": [],
+      "meaning": "uprawiać / grać (sport); robić",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1778
     },
     {
@@ -2596,8 +2771,10 @@
     {
       "literal": "履く",
       "reading": "はく",
-      "meaning": "zakładać, wkładać (poniżej pasa)*",
-      "tags": [],
+      "meaning": "zakładać, wkładać (poniżej pasa; „bliżej butów niż czapki”)*",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1767
     },
     {
@@ -2652,7 +2829,9 @@
       "literal": "今晩は",
       "reading": "こんばんは",
       "meaning": "Dobry wieczór.",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1760
     },
     {
@@ -2839,7 +3018,9 @@
       "literal": "病気",
       "reading": "びょうき",
       "meaning": "choroba*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1738
     },
     {
@@ -2933,7 +3114,9 @@
       "literal": "一泊",
       "reading": "いっぱく",
       "meaning": "pobyt na jedną noc",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1726
     },
     {
@@ -3148,7 +3331,8 @@
       "reading": "ごきげんよう",
       "meaning": "bardzo eleganckie, uprzejme powitanie lub pożegnanie*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇨🇳🇯🇵 重箱読"
       ],
       "exportId": 1700
     },
@@ -3340,7 +3524,9 @@
       "literal": "小説",
       "reading": "しょうせつ",
       "meaning": "powieść, nowela, opowiadanie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1676
     },
     {
@@ -3691,7 +3877,8 @@
       "reading": "ぐんとう",
       "meaning": "archipelag: grupa wysp tworząca krąg, mieszana grupa wysp („grono wysp”)*",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1633
     },
@@ -4195,7 +4382,9 @@
       "literal": "自販機",
       "reading": "じはんき",
       "meaning": "automat sprzedający",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1572
     },
     {
@@ -4841,7 +5030,8 @@
       "reading": "ぎむきょういく",
       "meaning": "kształcenie obowiązkowe*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1495
     },
@@ -5683,7 +5873,9 @@
       "literal": "鉄道",
       "reading": "てつどう",
       "meaning": "kolej, pociąg; transport kolejowy",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1395
     },
     {
@@ -5880,7 +6072,9 @@
       "literal": "案件",
       "reading": "あんけん",
       "meaning": "projekt; zlecenie (w kontekście ogłoszeń o pracę)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1370
     },
     {
@@ -6140,7 +6334,9 @@
       "literal": "紙幣",
       "reading": "しへい",
       "meaning": "banknot",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 9
     },
     {
@@ -6170,7 +6366,9 @@
       "literal": "医学",
       "reading": "いがく",
       "meaning": "medycyna",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 13
     },
     {
@@ -6311,7 +6509,9 @@
       "literal": "地下",
       "reading": "ちか",
       "meaning": "podziemie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 30
     },
     {
@@ -6655,7 +6855,8 @@
       "reading": "ぎおんまつり",
       "meaning": "jeden z najsłynniejszych letnich festiwali w Japonii, ma miejsce w Kioto*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇨🇳🇯🇵 重箱読"
       ],
       "exportId": 72
     },
@@ -6837,7 +7038,9 @@
       "literal": "蝶",
       "reading": "ちょう",
       "meaning": "motyl",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 95
     },
     {
@@ -6853,7 +7056,9 @@
       "literal": "授業",
       "reading": "じゅぎょう",
       "meaning": "lekcja, wykład („instruowanie w zawodzie”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 97
     },
     {
@@ -6980,7 +7185,9 @@
       "literal": "女の子",
       "reading": "おんなのこ",
       "meaning": "dziewczynka",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 113
     },
     {
@@ -7565,7 +7772,9 @@
       "literal": "美術",
       "reading": "びじゅつ",
       "meaning": "sztuka piękna",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 185
     },
     {
@@ -7644,14 +7853,18 @@
       "literal": "本島",
       "reading": "ほんとう",
       "meaning": "główna, najważniejsza wyspa",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 194
     },
     {
       "literal": "落ちる",
       "reading": "おちる",
       "meaning": "spadać",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 195
     },
     {
@@ -8010,7 +8223,8 @@
       "reading": "あめ",
       "meaning": "cukierek",
       "tags": [
-        "🍱 料理"
+        "🍱 料理",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 236
     },
@@ -8191,7 +8405,9 @@
       "literal": "理由",
       "reading": "りゆう",
       "meaning": "powód, przyczyna",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 257
     },
     {
@@ -8314,7 +8530,9 @@
       "literal": "地球温暖化",
       "reading": "ちきゅうおんだんか",
       "meaning": "globalne ocieplenie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 272
     },
     {
@@ -8391,7 +8609,9 @@
       "literal": "御来光",
       "reading": "ごらいこう",
       "meaning": "wschód słońca widziany ze szczytu wysokiej góry",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 281
     },
     {
@@ -8573,7 +8793,9 @@
       "literal": "後ろ",
       "reading": "うしろ",
       "meaning": "za, z tyłu (położenie)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 303
     },
     {
@@ -8899,7 +9121,9 @@
       "literal": "起こす",
       "reading": "おこす",
       "meaning": "obudzić (kogoś)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 341
     },
     {
@@ -8916,7 +9140,9 @@
       "literal": "前後",
       "reading": "ぜんご",
       "meaning": "z przodu i z tyłu; przed i po",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 344
     },
     {
@@ -8966,7 +9192,9 @@
       "literal": "鼻",
       "reading": "はな",
       "meaning": "nos",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 350
     },
     {
@@ -9215,7 +9443,9 @@
       "literal": "雨天",
       "reading": "うてん",
       "meaning": "deszczowa pogoda",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 378
     },
     {
@@ -9292,7 +9522,9 @@
       "literal": "族",
       "reading": "ぞく",
       "meaning": "grupa",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 387
     },
     {
@@ -9430,8 +9662,10 @@
     {
       "literal": "姫",
       "reading": "ひめ",
-      "meaning": "księżniczka (szczególnie w zachodnim kontekście, opowieściach, itp.), szlachetnie urodzona panienka",
-      "tags": [],
+      "meaning": "księżniczka*, szlachetnie urodzona panienka",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 404
     },
     {
@@ -9664,7 +9898,9 @@
       "literal": "近く",
       "reading": "ちかく",
       "meaning": "bliski, blisko, pobliże",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 431
     },
     {
@@ -9711,8 +9947,10 @@
     {
       "literal": "口調",
       "reading": "くちょう",
-      "meaning": "ton (głosu)",
-      "tags": [],
+      "meaning": "ton (głosu; „ton ust”)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 437
     },
     {
@@ -10036,7 +10274,8 @@
       "reading": "ほっきょく",
       "meaning": "Biegun Północny",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "混合読みと名乗り"
       ],
       "exportId": 476
     },
@@ -10178,7 +10417,9 @@
       "literal": "昼",
       "reading": "ひる",
       "meaning": "południe (popularnie o porze dnia)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 494
     },
     {
@@ -10534,7 +10775,9 @@
       "literal": "兄弟",
       "reading": "きょうだい",
       "meaning": "rodzeństwo (bracia lub brat, siostra)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 539
     },
     {
@@ -10745,7 +10988,8 @@
       "reading": "とこのま",
       "meaning": "tradycyjna japońska alkowa*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 564
     },
@@ -10855,7 +11099,9 @@
       "literal": "話し言葉",
       "reading": "はなしことば",
       "meaning": "język mówiony, potoczny",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 577
     },
     {
@@ -11049,7 +11295,9 @@
       "literal": "続く",
       "reading": "つづく",
       "meaning": "kontynuować",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 601
     },
     {
@@ -11850,7 +12098,8 @@
       "reading": "なのり",
       "meaning": "japońskie czytanie Kanji używane w imionach i nazwiskach, albo nazwach geograficznych*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 702
     },
@@ -12346,7 +12595,9 @@
       "literal": "目次",
       "reading": "もくじ",
       "meaning": "spis treści",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 763
     },
     {
@@ -12761,7 +13012,9 @@
       "literal": "口臭",
       "reading": "こうしゅう",
       "meaning": "nieświeży oddech",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 813
     },
     {
@@ -12972,7 +13225,9 @@
       "literal": "会社",
       "reading": "かいしゃ",
       "meaning": "miejsce pracy*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 841
     },
     {
@@ -13602,6 +13857,7 @@
       "reading": "しんぱい",
       "meaning": "zmartwienie, niepokój, troska",
       "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
         "サ変名詞"
       ],
       "exportId": 921
@@ -14046,7 +14302,9 @@
       "literal": "子犬",
       "reading": "こいぬ",
       "meaning": "szczeniak; mały pies",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 978
     },
     {
@@ -14837,7 +15095,8 @@
       "meaning": "w tym odosobnionym regionie Japonii przebiega malownicza linia kolejowa",
       "tags": [
         "🇯🇵 面白い",
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳🇯🇵 重箱読"
       ],
       "exportId": 1079
     },
@@ -15002,7 +15261,9 @@
       "literal": "可愛い",
       "reading": "かわいい",
       "meaning": "uroczy, słodki, śliczny",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1100
     },
     {
@@ -15188,7 +15449,9 @@
       "literal": "魚",
       "reading": "さかな",
       "meaning": "ryba",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1123
     },
     {
@@ -15290,7 +15553,8 @@
       "reading": "とくい",
       "meaning": "mocna strona*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1136
     },
@@ -15785,7 +16049,9 @@
       "literal": "見る",
       "reading": "みる",
       "meaning": "patrzeć, oglądać; zobaczyć",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1200
     },
     {
@@ -15870,7 +16136,9 @@
       "literal": "歌",
       "reading": "うた",
       "meaning": "piosenka; śpiew",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1211
     },
     {
@@ -15968,7 +16236,9 @@
       "literal": "上手",
       "reading": "じょうず",
       "meaning": "(obiektywnie) dobry w...*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1223
     },
     {
@@ -16226,7 +16496,9 @@
       "literal": "長い",
       "reading": "ながい",
       "meaning": "długi",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1257
     },
     {
@@ -16428,7 +16700,9 @@
       "literal": "女子高",
       "reading": "じょしこう",
       "meaning": "szkoła dla dziewcząt, żeńskie liceum",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1282
     },
     {
@@ -16834,7 +17108,7 @@
     {
       "literal": "警官",
       "reading": "けいかん",
-      "meaning": "policjant",
+      "meaning": "policjant („ostrzegający urzędnik”)",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
@@ -17000,10 +17274,10 @@
     },
     {
       "tempId": "ant_13",
-      "title": "Note for 祇園祭",
-      "content": "Jego głównym wydarzeniem jest wielka parada, podczas której misternie udekorowane platformy i artyści przemierzają miasto.\n\n[źródło »](https://play.google.com/store/apps/details?id=com.busuu.android.enc) ",
+      "title": "Dopowiedzenie.",
+      "content": "Jego głównym wydarzeniem jest wielka parada, podczas której misternie udekorowane platformy i artyści przemierzają miasto.",
       "createdAt": "2025-12-22T18:05:58.000Z",
-      "updatedAt": "2025-12-22T18:05:58.000Z"
+      "updatedAt": "2026-03-15T21:18:34.000Z"
     },
     {
       "tempId": "ant_14",
@@ -17455,10 +17729,10 @@
     },
     {
       "tempId": "ant_78",
-      "title": "Note for 床の間",
+      "title": "Dopowiedzenie.",
       "content": "Wnęka w ścianie, którą można udekorować (zwykle sezonowymi) kwiatami, obrazami, zabytkową ceramiką, meblami lub kakejiku - wiszącym zwojem, na którym umieszcza się kaligrafię lub obraz.",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-15T23:19:43.000Z"
     },
     {
       "tempId": "ant_79",
@@ -17581,10 +17855,10 @@
     },
     {
       "tempId": "ant_96",
-      "title": "Note for 名乗り",
+      "title": "Dopowiedzenie.",
       "content": "Np. nanori dla znaku 希 to nozomi. Nozomi w sensie „nadzieja” (rzeczownik pospolity) piszemy 望み. Z kolei w przypadku znaku 心 (kokoro; serce) nanori to mune, makoto i mi.\n\n[źródło » ](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/)",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-15T21:08:33.000Z"
     },
     {
       "tempId": "ant_97",
@@ -18204,10 +18478,10 @@
     },
     {
       "tempId": "ant_185",
-      "title": "Note for 人",
+      "title": "Dopowiedzenie.",
       "content": "Dodawany po liczbie (za wyjątkiem 1 i 2).",
       "createdAt": "2025-12-22T18:06:00.000Z",
-      "updatedAt": "2025-12-22T18:06:00.000Z"
+      "updatedAt": "2026-03-16T11:16:44.000Z"
     },
     {
       "tempId": "ant_186",
@@ -18275,9 +18549,9 @@
     {
       "tempId": "ant_195",
       "title": "Dopowiedzenie.",
-      "content": "Pierwsza sylaba to kun’yomi, druga – on’yomi.\n\nNazwa pochodzi od przykładowych wyrazów, które odczytywane są właśnie w taki mieszany sposób: yutou (pojemnik na gorącą wodę; pierwszy znak odczytuje się kun, a drugi – on).\n\nźródło:\nhttps://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/",
+      "content": "Pierwsza sylaba to kun’yomi, druga – on’yomi.\n\nNazwa pochodzi od przykładowych wyrazów, które odczytywane są właśnie w taki mieszany sposób: yutou (pojemnik na gorącą wodę; pierwszy znak odczytuje się kun, a drugi – on).\n\n[źródło »](https://japonia-info.pl/czytania-znakow-japonskich-dlaczego-az-tyle/ )",
       "createdAt": "2025-12-22T18:06:00.000Z",
-      "updatedAt": "2026-03-06T23:12:03.000Z"
+      "updatedAt": "2026-03-16T12:57:00.000Z"
     },
     {
       "tempId": "ant_196",
@@ -18561,10 +18835,10 @@
     },
     {
       "tempId": "ant_236",
-      "title": "Note for 義務教育",
+      "title": "Dopowiedzenie.",
       "content": "Sprowadza się do 9 lat (6 w podstawówce + 3 w szkole średniej niższego stopnia, którą niektórzy przyrównują do polskiego gimnazjum albo „młodzieżowego liceum”).",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-15T23:08:10.000Z"
     },
     {
       "tempId": "ant_237",
@@ -18750,10 +19024,10 @@
     },
     {
       "tempId": "ant_263",
-      "title": "Note for 群島",
+      "title": "Dopowiedzenie.",
       "content": "[źródło » ](https://pl.wikipedia.org/wiki/Riukiu)",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-15T21:20:40.000Z"
     },
     {
       "tempId": "ant_264",
@@ -18848,10 +19122,10 @@
     },
     {
       "tempId": "ant_277",
-      "title": "Note for 御機嫌良う",
-      "content": "Dosłownie oznacza życzenie dobrego nastroju, samopoczucia.\n\nSłowo 「gokigen」 oznacza „nastrój” lub „samopoczucie”, a końcówka 「好う / 良う」 to archaiczne formy przymiotników „dobry” 「好い / 良い」.\n\n「御機嫌良う」: archaiczna, ale nieco częściej spotykana w klasycznych tekstach lub bardzo uprzejmych sytuacjach. \n\n[źródło »](https://t.me/askplexbot)",
+      "title": "Dopowiedzenie.",
+      "content": "Dosłownie oznacza życzenie dobrego nastroju, samopoczucia.\n\nSłowo 「gokigen」 oznacza „nastrój” lub „samopoczucie”, a końcówka 「好う / 良う」 to archaiczne formy przymiotników „dobry” 「好い / 良い」.\n\n「御機嫌良う」: archaiczna, ale nieco częściej spotykana w klasycznych tekstach lub bardzo uprzejmych sytuacjach.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-15T23:21:44.000Z"
     },
     {
       "tempId": "ant_278",
@@ -18862,10 +19136,10 @@
     },
     {
       "tempId": "ant_279",
-      "title": "Note for 病気",
+      "title": "Dopowiedzenie.",
       "content": "Z wyłączeniem drobnych dolegliwości, np. zwykłego przeziębienia.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-13T23:46:44.000Z"
     },
     {
       "tempId": "ant_280",
@@ -18939,17 +19213,17 @@
     },
     {
       "tempId": "ant_290",
-      "title": "Note for 履く",
+      "title": "Dopowiedzenie.",
       "content": "Np. obuwie, skarpetki, spodnie, spódnicę.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-15T11:35:27.000Z"
     },
     {
       "tempId": "ant_291",
-      "title": "Note for 々",
+      "title": "Dopowiedzenie.",
       "content": "Podwaja znak go poprzedzający (nigdy nie zapisujemy tego samego znaku Kanji dwa razy pod rząd).\n\nSymbol ten nie gwarantuje powtórzenia głoski.\n\nJest to czasami używana kolokwialna nazwa tego symbolu, podyktowana jego podobieństwem do znaków no (ノ) i ma (マ) Katakany.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-15T21:20:08.000Z"
     },
     {
       "tempId": "ant_292",
@@ -19009,709 +19283,739 @@
     },
     {
       "tempId": "ant_300",
-      "title": "Note for 尾高型",
-      "content": "[źródło »](https://t.me/askplexbot)",
-      "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
-    },
-    {
-      "tempId": "ant_301",
       "title": "Dopowiedzenie.",
       "content": "Kiedy chcemy przeprosić lub zwrócić na siebie czyjąś uwagę.",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2026-02-27T20:26:49.000Z"
     },
     {
-      "tempId": "ant_302",
+      "tempId": "ant_301",
       "title": "Dopowiedzenie.",
       "content": "Np. bielizna, maseczka, biżuteria, zegarek, zestaw słuchawkowy, szkła kontaktowe.\n\nZamiast tego czasownika możemy użyć 「suru 」 w stosunku do wszystkich noszonych przez nas akcesoriów.",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2026-03-03T13:09:00.000Z"
     },
     {
-      "tempId": "ant_303",
+      "tempId": "ant_302",
       "title": "Dopowiedzenie.",
       "content": "Zapis bardziej popularny i współczesny.\n\n[źródło »](https://t.me/askplexbot)",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2026-03-01T19:30:01.000Z"
     },
     {
-      "tempId": "ant_304",
+      "tempId": "ant_303",
       "title": "Dopowiedzenie.",
       "content": "Zapis bardziej literacki, staroświecki (częściej w tekstach klasycznych lub formalnych; pierwsze kanji 併 oznacza „łączyć” lub „obok siebie”, więc tutaj może podkreślać połączenie dwóch myśli (np. kontrastu w zdaniu)).\n\n[źródło »](https://t.me/askplexbot)",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2026-03-06T23:17:46.000Z"
     },
     {
-      "tempId": "ant_305",
+      "tempId": "ant_304",
       "title": "Note for 検索",
       "content": "W Internecie, słowniku, bazach danych, dokumentach, itp.",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2025-12-22T18:06:01.000Z"
     },
     {
-      "tempId": "ant_306",
+      "tempId": "ant_305",
       "title": "Dopowiedzenie.",
       "content": "Bardzo wiele, intensywnie.",
       "createdAt": "2025-12-22T18:06:01.000Z",
       "updatedAt": "2026-03-12T13:04:19.000Z"
     },
     {
-      "tempId": "ant_307",
+      "tempId": "ant_306",
       "title": "Note for ダサい",
       "content": "Pochodzenie tego słówka jest niepewne. Najciekawszą teorią jest błędne (możliwe humorystycznie) odczytanie słowa 「田舎」 (「inaka」 - wieś) jako 田(だ) (da) + 舎(しゃ) (sha).\n\nInne teorie wskazują np. na możliwe pochodzenie od słówka 「don kusai」 (niezdarny, głupi, tępy).",
       "createdAt": "2025-12-22T18:06:02.000Z",
       "updatedAt": "2025-12-22T18:06:02.000Z"
     },
     {
-      "tempId": "ant_308",
+      "tempId": "ant_307",
       "title": "Dopowiedzenie.",
       "content": "Podobny do lutni, z pudełkiem rezonansowym z drewna i skóry kota (lub syntetyku), używany w muzyce folkowej, kabuki czy bunraku – gra się na nim paznokciami lub pałeczką.\n\nDosł: „struny trzech smaków” - pochodzi od trzech strun instrumentu, gdzie „trzy smaki” to poetycka aluzja do trzech różnych tonów lub „smaków dźwiękowych” (gruby bas, średni i wysoki), które dają bogatą paletę melodyczną.\n\n[źródło »](https://t.me/askplexbot)",
       "createdAt": "2025-12-22T18:06:02.000Z",
       "updatedAt": "2026-02-27T20:35:35.000Z"
     },
     {
-      "tempId": "ant_309",
+      "tempId": "ant_308",
       "title": "Dopowiedzenie.",
       "content": "Zwykle boczek, podsmażany z kapustą pekińską, zieloną cebulką i papryką - wszystko doprawione pikantnym sosem na bazie pasty chili i fermentowanej fasoli.\n\nPopularne danie chińskie pochodzące z kuchni syczuańskiej, znane też jako „mięso dwukrotnie gotowane”.\n\n[źródło »](https://t.me/askplexbot)",
       "createdAt": "2025-12-22T18:06:02.000Z",
       "updatedAt": "2026-02-13T13:29:15.000Z"
     },
     {
-      "tempId": "ant_310",
+      "tempId": "ant_309",
       "title": "Note for 短歌",
       "content": "Pierwotnie jedna z odmian waka) powstała około VI wieku.",
       "createdAt": "2025-12-22T18:06:02.000Z",
       "updatedAt": "2025-12-22T18:06:02.000Z"
     },
     {
-      "tempId": "ant_311",
+      "tempId": "ant_310",
       "title": "Note for 歌声",
       "content": "Głos podczas śpiewu.",
       "createdAt": "2025-12-22T18:06:02.000Z",
       "updatedAt": "2025-12-22T18:06:02.000Z"
     },
     {
-      "tempId": "ant_312",
+      "tempId": "ant_311",
       "title": "Dopowiedzenie.",
       "content": "Wulgaryzm rodzaju „cholera”, „psia krew”, itp.",
       "createdAt": "2025-12-24T12:21:59.000Z",
       "updatedAt": "2025-12-24T12:21:59.000Z"
     },
     {
-      "tempId": "ant_313",
+      "tempId": "ant_312",
       "title": "Dopowiedzenie.",
       "content": "Na powitanie lub znak wdzięczności.\n\n[źródło »](https://www.japonski-pomocnik.pl/wordDictionary)",
       "createdAt": "2025-12-25T15:58:37.000Z",
       "updatedAt": "2025-12-25T15:58:37.000Z"
     },
     {
-      "tempId": "ant_314",
+      "tempId": "ant_313",
       "title": "Dopowiedzenie.",
       "content": "W Japonii:\n- Zgromadzenie Narodowe (1947-),\n- Cesarskie Zgromadzenie&nbsp;(1889-1947);",
       "createdAt": "2025-12-26T15:27:35.000Z",
       "updatedAt": "2026-02-12T19:59:30.000Z"
     },
     {
-      "tempId": "ant_315",
+      "tempId": "ant_314",
       "title": "Dopowiedzenie.",
       "content": "Ubranie **powyżej** pasa; na górną część ciała lub całe ciało.",
       "createdAt": "2026-01-05T12:52:26.000Z",
       "updatedAt": "2026-01-05T12:52:26.000Z"
     },
     {
-      "tempId": "ant_316",
+      "tempId": "ant_315",
       "title": "Dopowiedzenie.",
       "content": "Por. “jorro”.",
       "createdAt": "2026-01-24T23:37:55.000Z",
       "updatedAt": "2026-01-24T23:37:55.000Z"
     },
     {
-      "tempId": "ant_317",
+      "tempId": "ant_316",
       "title": "Dopowiedzenie.",
       "content": "W ludowych wierzeniach przedmioty o długiej żywotności (tj. po osiągnięciu wieku 100 lat) zostają zamieszkane przez ducha.",
       "createdAt": "2026-01-28T16:04:19.000Z",
       "updatedAt": "2026-01-28T16:04:19.000Z"
     },
     {
-      "tempId": "ant_318",
+      "tempId": "ant_317",
       "title": "Dopowiedzenie.",
       "content": "Forma adresu używana w pismach urzędowych i biznesowych oraz w listach do podwładnych (przyrostek; uprzejmie).\n\n[źródło »](https://www.japonski-pomocnik.pl/wordDictionary)",
       "createdAt": "2026-01-28T16:27:27.000Z",
       "updatedAt": "2026-01-28T16:27:27.000Z"
     },
     {
-      "tempId": "ant_319",
+      "tempId": "ant_318",
       "title": "Dopowiedzenie.",
       "content": "Zwłaszcza nie typowo walecznych. Zorientowana jednak przede wszystkim na zniechęceniu agresora do jego zapędów bez konieczności dobywania broni.",
       "createdAt": "2026-01-28T20:15:21.000Z",
       "updatedAt": "2026-01-28T20:15:21.000Z"
     },
     {
-      "tempId": "ant_320",
+      "tempId": "ant_319",
       "title": "Dopowiedzenie.",
       "content": "[Zabawny przykład użycia »](https://youtu.be/GlP-cPloqtY)",
       "createdAt": "2026-01-29T10:42:22.000Z",
       "updatedAt": "2026-01-29T10:42:22.000Z"
     },
     {
-      "tempId": "ant_321",
+      "tempId": "ant_320",
       "title": "Dopowiedzenie.",
       "content": "Szczególnie w odniesieniu do 16-go dnia według miesiąca księżycowego.",
       "createdAt": "2026-01-29T11:05:24.000Z",
       "updatedAt": "2026-01-29T11:05:24.000Z"
     },
     {
-      "tempId": "ant_322",
+      "tempId": "ant_321",
       "title": "Źródło - MSJP.",
       "content": "[Mały Skromny Japoński Pomocnik »](https://www.japonski-pomocnik.pl/wordDictionary)",
       "createdAt": "2026-01-29T11:06:50.000Z",
       "updatedAt": "2026-01-29T11:06:50.000Z"
     },
     {
-      "tempId": "ant_323",
+      "tempId": "ant_322",
       "title": "Dopowiedzenie.",
       "content": "Mająca miejsce od lat 1970'tych w Japonii polityka edukacyjna, postulująca większą ilość relaksu w szkolnictwie - jako remedium na stres, przemoc oraz brak dyscypliny pośród uczniów.\n\nW tym celu zmniejszono ilość godzin lekcyjnych, zniesiono obowiązek szkolny w soboty, jak również okrojono program.\n\nNiestety, inicjatywa okazała się fiaskiem: około 1999 r. zanotowano poważny spadek zdolności uczenia się pośród studentów uniwersytetów, co japońskie media otwarcie krytykowały jeszcze w 2016 r. Badanie z 2024 r. wykazało natomiast, że pokłosie „zrealksowanej edukacji” stanowi pokolenie ludzi mniej zarabiających, jak i rzadziej utrzymujących pełnowymiarowe lub wykwalifikowane zatrudnienie.\n\n[źródło »](https://en.wikipedia.org/wiki/Yutori_education)",
       "createdAt": "2026-01-29T14:16:47.000Z",
       "updatedAt": "2026-01-29T14:18:55.000Z"
     },
     {
-      "tempId": "ant_324",
+      "tempId": "ant_323",
       "title": "Dopowiedzenie.",
       "content": "Np. do anonimowego pisania na forum internetowym.",
       "createdAt": "2026-01-29T14:30:44.000Z",
       "updatedAt": "2026-01-29T14:30:44.000Z"
     },
     {
-      "tempId": "ant_325",
+      "tempId": "ant_324",
       "title": "Źródło - podręczniki pani Ewy Krassowskiej-Mackiewicz.",
       "content": "Podręczniki pani Ewy Krassowskiej-Mackiewicz:\n- _Język japoński dla początkujących_,\n- _Język japoński dla średniozaawansowanych_,\n- _Podstawowe znaki japońskie_;",
       "createdAt": "2026-01-29T14:35:34.000Z",
       "updatedAt": "2026-02-23T19:52:26.000Z"
     },
     {
-      "tempId": "ant_326",
+      "tempId": "ant_325",
       "title": "Dopowiedzenie.",
       "content": "Zdziwienie, żal lub złość - trochę bardziej formalne / uprzejme od 「nande」.",
       "createdAt": "2026-01-31T19:23:51.000Z",
       "updatedAt": "2026-02-26T19:55:28.000Z"
     },
     {
-      "tempId": "ant_327",
+      "tempId": "ant_326",
       "title": "Dopowiedzenie.",
       "content": "Występuje zazwyczaj przed słowami pochodzenia chińskiego, choć obecnie jest w użyciu także w przypadku wielu słów rodzimych.",
       "createdAt": "2026-01-31T19:26:53.000Z",
       "updatedAt": "2026-01-31T19:26:53.000Z"
     },
     {
-      "tempId": "ant_328",
+      "tempId": "ant_327",
       "title": "Dopowiedzenie.",
       "content": "Przyrostek honoryfikatywny.",
       "createdAt": "2026-01-31T19:32:15.000Z",
       "updatedAt": "2026-01-31T19:32:15.000Z"
     },
     {
-      "tempId": "ant_329",
+      "tempId": "ant_328",
       "title": "Dopowiedzenie.",
       "content": "「tabako」 jest starszym i mocno już zaadoptowanym zapożyczeniem z portugalskiego (“tabaco”, “tobacco”), stąd często zapisywanym w Kanji, miast Kany.",
       "createdAt": "2026-02-01T19:46:30.000Z",
       "updatedAt": "2026-02-01T19:46:30.000Z"
     },
     {
-      "tempId": "ant_330",
+      "tempId": "ant_329",
       "title": "Dopowiedzenie.",
       "content": "Czegoś, lub opowiedzenie się po czyjejś stronie.",
       "createdAt": "2026-02-10T19:46:10.000Z",
       "updatedAt": "2026-02-10T19:46:10.000Z"
     },
     {
-      "tempId": "ant_331",
+      "tempId": "ant_330",
       "title": "Banzai!",
       "content": "Zapytałem AI:\n\nTen japoński okrzyk wyrażający radość, sukces można zapisywać jako 「万歳」 lub 「万才」. Czy prawidłową jest moja interpretacja, że pierwszy zapis odpowiada bardziej sytuacji, w której celebrujemy sukces, **wieńcząc rok w którym miał miejsce** (a więc akcent znaczenia tego zapisu odnosi się do zakończenia roku, który okazał się pomyślny) - podczas gdy drugi zapis jest **bardziej uniwersalny** i kładzie akcent znaczeniowy bardziej na **cieszenie się, radość z czyjegoś talentu, uzdolnienia**?\n\nOdpowiedź [źródło »](https://t.me/GPT4Telegrambot):\n\nTwoja interpretacja jest bardzo trafna. Różnice między zapisami 「万歳」 i 「万才」 rzeczywiście mogą mieć subtelne różnice w znaczeniu i kontekście użycia.\n\n1. 「万歳」: Ten zapis jest bardziej powszechnie używany w kontekście celebrowania sukcesów, osiągnięć lub radosnych wydarzeń. Może być używany podczas różnych uroczystości, takich jak Nowy Rok, święta, czy inne okazje, **które mają związek z zakończeniem roku** lub osiągnięciem ważnych celów. Dosłownie tłumaczy się jako „dziesięć tysięcy lat”, co można interpretować jako życzenie długiego życia i pomyślności.\n\n2. 「万才」: Ten zapis, choć wymawia się tak samo, może być używany w kontekście uznawania talentu lub umiejętności danej osoby. **Skupia się bardziej na podkreśleniu zdolności i osiągnięć jednostki**, co może być użyteczne w sytuacjach, gdzie chcemy wyrazić radość z powodu czyjegoś talentu lub sukcesu.\n\nW praktyce jednak oba zapisy mogą być używane zamiennie w wielu kontekstach i często nie ma ścisłego rozróżnienia między nimi w codziennym użyciu. Niemniej jednak Twoje spostrzeżenia dotyczące ich konotacji są słuszne!",
       "createdAt": "2026-02-11T20:25:25.000Z",
       "updatedAt": "2026-02-11T20:31:06.000Z"
     },
     {
-      "tempId": "ant_332",
+      "tempId": "ant_331",
       "title": "Źródło - AI.",
       "content": "> Informacje zaczerpnięte od AI pochodzą z następujących źródeł (cześć z nich nie jest już dostępna):\n- [AI bot na Telegramie »](https://t.me/askplexbot)\n- [Perplexity »](https://www.perplexity.ai)",
       "createdAt": "2026-02-13T13:42:25.000Z",
       "updatedAt": "2026-03-03T15:25:07.000Z"
     },
     {
-      "tempId": "ant_333",
+      "tempId": "ant_332",
       "title": "Zobacz też...",
       "content": "[hataraku / 働く](app://study/word/103)",
       "createdAt": "2026-02-15T20:01:57.000Z",
       "updatedAt": "2026-02-15T20:01:57.000Z"
     },
     {
-      "tempId": "ant_334",
+      "tempId": "ant_333",
       "title": "Dopowiedzenie.",
       "content": "W kulturze japońskiej jest to kwestią zachowania twarzy i taktu w relacjach z drugą osobą. Dla mieszkańców wysp zauważanie potrzeb drugiej osoby i odpowiadanie na nie jest ważnym aspektem życia w społeczeństwie. Zrozumienie, że ktoś jest niezainteresowany, zły bądź nieprzekonany bez mówienia o tym wprost jest tym, czego Japończycy uczą się od dzieciństwa.\n\n[źródło »](https://japoland.pl/czwarty-sposob-czytania-po-japonsku-czyli-czytanie-z-powietrza/)",
       "createdAt": "2026-02-17T20:16:35.000Z",
       "updatedAt": "2026-02-17T20:16:35.000Z"
     },
     {
-      "tempId": "ant_335",
+      "tempId": "ant_334",
       "title": "Dopowiedzenie.",
       "content": "W przeciwieństwie do bardziej precyzyjnych yutou / juubako yomi.",
       "createdAt": "2026-02-17T23:42:13.000Z",
       "updatedAt": "2026-02-17T23:42:13.000Z"
     },
     {
-      "tempId": "ant_336",
+      "tempId": "ant_335",
       "title": "Dopowiedzenie.",
       "content": "Dialekt Kansai; używane głównie przez kobiety i dzieci.",
       "createdAt": "2026-02-20T11:28:36.000Z",
       "updatedAt": "2026-02-20T11:28:36.000Z"
     },
     {
-      "tempId": "ant_337",
+      "tempId": "ant_336",
       "title": "Dopowiedzenie.",
       "content": "Zwróć uwagę, że słówko to zapisuje się za pomocą **dwóch Kanji**. Jest to najpopularniejszy sposób na określenie „przyjaciela”.\n\n**Pierwsze** Kanji również znaczy „przyjaciel”, jednak rzadziej używa się go samodzielnie.\n\nChociaż **drugi znak** zazwyczaj sprawia, że rzeczownik żywotny (czyli istoty żywe: ludzie, zwierzęta, owady) przyjmuje formę liczby mnogiej, 「tomodachi」 można stosować w odniesieniu do jednego, jak i wielu przyjaciół.",
       "createdAt": "2026-02-21T19:26:38.000Z",
       "updatedAt": "2026-02-21T19:27:52.000Z"
     },
     {
-      "tempId": "ant_338",
+      "tempId": "ant_337",
       "title": "Źródło - Busuu.",
       "content": "[Busuu »](https://play.google.com/store/apps/details?id=com.busuu.android.enc)",
       "createdAt": "2026-02-21T19:29:02.000Z",
       "updatedAt": "2026-02-21T19:29:02.000Z"
     },
     {
-      "tempId": "ant_339",
+      "tempId": "ant_338",
       "title": "Dopowiedzenie.",
       "content": "Przekonanie lub pewność względem jakiegoś faktu - np. rezultatu w przyszłości lub sytuacji.\n\nSłówko (dźwięko)naśladowcze.",
       "createdAt": "2026-02-22T14:49:15.000Z",
       "updatedAt": "2026-02-22T14:49:15.000Z"
     },
     {
-      "tempId": "ant_340",
+      "tempId": "ant_339",
       "title": "Dopowiedzenie.",
       "content": "Autor kanału „Japolski” na YouTube.",
       "createdAt": "2026-02-23T19:55:39.000Z",
       "updatedAt": "2026-02-23T19:55:39.000Z"
     },
     {
-      "tempId": "ant_341",
+      "tempId": "ant_340",
       "title": "Dopowiedzenie.",
       "content": "> “My name us read as Rio. As you said, 「桜」 is read 「ou」, but when it is used in names, it is often simply read as 「o」. I don't know reasons, but I think it might be related to easiness of pronunciation.”",
       "createdAt": "2026-02-23T20:00:08.000Z",
       "updatedAt": "2026-02-23T20:01:56.000Z"
     },
     {
-      "tempId": "ant_342",
+      "tempId": "ant_341",
       "title": "Skąd ~su w wymowie?",
       "content": "",
       "createdAt": "2026-02-24T12:13:17.000Z",
       "updatedAt": "2026-02-24T12:13:17.000Z"
     },
     {
-      "tempId": "ant_343",
+      "tempId": "ant_342",
       "title": "Skąd ~na w czytaniu?",
       "content": "",
       "createdAt": "2026-02-24T12:26:56.000Z",
       "updatedAt": "2026-02-24T12:26:56.000Z"
     },
     {
-      "tempId": "ant_344",
+      "tempId": "ant_343",
       "title": "Dopowiedzenie.",
       "content": "[kigo / 季語 »](app://study/word/1422)",
       "createdAt": "2026-02-24T12:35:28.000Z",
       "updatedAt": "2026-02-24T12:35:28.000Z"
     },
     {
-      "tempId": "ant_345",
+      "tempId": "ant_344",
       "title": "Skąd ~tsuki w czytaniu?",
       "content": "",
       "createdAt": "2026-02-24T20:36:16.000Z",
       "updatedAt": "2026-02-24T20:36:16.000Z"
     },
     {
-      "tempId": "ant_346",
+      "tempId": "ant_345",
       "title": "Skąd czytanie?",
       "content": "",
       "createdAt": "2026-02-25T00:13:29.000Z",
       "updatedAt": "2026-02-25T00:13:29.000Z"
     },
     {
-      "tempId": "ant_347",
+      "tempId": "ant_346",
       "title": "Prawdopodobieństwo.",
       "content": "# 100%\n↓\n## > 80% - najbardziej prawdopodobne\n↳\n- ### **たぶん + でしょう / だろう** (coś jest bardzo prawdopodobne, ale nadal nie całkowicie pewne; potocznie)\n↓\n## > 60% - zapewne\n↳\n- ### **たぶん**\n↓\n## 60% - prawdopodobnie / prawda? / czyż nie?\n↳\n- ### **でしょう, でしょ** (uprzejmie, np. w prognozach pogody, czy programach informacyjnych; przypuszczalna forma grzecznościowego 「です」)\n↓\n## 30% - być może\n↳\n- ### **かもしれません** (uprzejmie)\n↳\n- ### **かもしれない**\n↳\n- ### **かも** (bardzo nieformalnie; nie można łączyć z 「-から」)\n↓\n# 0%",
       "createdAt": "2026-02-25T14:45:53.000Z",
       "updatedAt": "2026-02-26T19:52:59.000Z"
     },
     {
-      "tempId": "ant_348",
+      "tempId": "ant_347",
       "title": "Dlaczego?",
       "content": "# formalnie\n↓\n## 何故？(なぜ？)\n↳ (najbardziej formalne i racjonalne, bez emocji)\n↓\n## 如何して？(どうして？)\n↳ (zdziwienie, żal lub złość) - trochę bardziej formalne / uprzejme)\n↓\n## 何で？(なんで？)\n↳ (najbardziej potocznie)\n↓\n# potocznie",
       "createdAt": "2026-02-26T19:54:29.000Z",
       "updatedAt": "2026-02-26T19:54:29.000Z"
     },
     {
-      "tempId": "ant_349",
+      "tempId": "ant_348",
       "title": "Skąd ~gane w czytaniu?",
       "content": "",
       "createdAt": "2026-02-27T00:11:44.000Z",
       "updatedAt": "2026-02-27T00:11:44.000Z"
     },
     {
-      "tempId": "ant_350",
+      "tempId": "ant_349",
       "title": "Dopowiedzenie.",
       "content": "「kappa」 jest starszym i mocno już zaadoptowanym zapożyczeniem z portugalskiego (“capa”), stąd często zapisywanym w Kanji, miast Kany.",
       "createdAt": "2026-02-27T00:13:41.000Z",
       "updatedAt": "2026-02-27T00:13:41.000Z"
     },
     {
-      "tempId": "ant_351",
+      "tempId": "ant_350",
       "title": "Skąd ~bata w czytaniu?",
       "content": "",
       "createdAt": "2026-02-27T15:06:35.000Z",
       "updatedAt": "2026-02-27T15:06:35.000Z"
     },
     {
-      "tempId": "ant_352",
+      "tempId": "ant_351",
       "title": "Skąd ~so w czytaniu?",
       "content": "",
       "createdAt": "2026-03-02T13:05:51.000Z",
       "updatedAt": "2026-03-02T13:05:51.000Z"
     },
     {
-      "tempId": "ant_353",
+      "tempId": "ant_352",
       "title": "Skąd ~tou w czytaniu?",
       "content": "",
       "createdAt": "2026-03-02T13:17:05.000Z",
       "updatedAt": "2026-03-02T13:17:05.000Z"
     },
     {
-      "tempId": "ant_354",
+      "tempId": "ant_353",
       "title": "Skąd czytanie?",
       "content": "",
       "createdAt": "2026-03-02T15:24:32.000Z",
       "updatedAt": "2026-03-02T15:24:32.000Z"
     },
     {
-      "tempId": "ant_355",
+      "tempId": "ant_354",
       "title": "Dopowiedzenie.",
       "content": "[Wiki »](https://pl.wikipedia.org/wiki/Tomio_Okamura)\n\n[Japończycy na świecie »](https://jaktamjaponski.blogspot.com/2026/01/japonczycy-na-swiecie.html)",
       "createdAt": "2026-03-02T19:41:27.000Z",
       "updatedAt": "2026-03-02T19:41:27.000Z"
     },
     {
-      "tempId": "ant_356",
+      "tempId": "ant_355",
       "title": "Dopowiedzenie.",
       "content": "[Wiki »](https://pl.wikipedia.org/wiki/Alberto_Fujimori)\n\n[Japończycy na świecie »](https://jaktamjaponski.blogspot.com/2026/01/japonczycy-na-swiecie.html)",
       "createdAt": "2026-03-02T19:43:00.000Z",
       "updatedAt": "2026-03-02T19:43:00.000Z"
     },
     {
-      "tempId": "ant_357",
+      "tempId": "ant_356",
       "title": "Dopowiedzenie.",
       "content": "Japoński tytuł książki: 「Koe ni dashite yomitai nihongo」; premiera w 2001 r.\n\nOpowiadam o niej w końcówce [tej audycji](https://jaktamjaponski.blogspot.com/2025/12/zapozyczenia-z-angielskiego-w-japonskim.html).",
       "createdAt": "2026-03-02T19:47:48.000Z",
       "updatedAt": "2026-03-02T19:48:40.000Z"
     },
     {
-      "tempId": "ant_358",
+      "tempId": "ant_357",
       "title": "Skąd Ron~ w czytaniu?",
       "content": "",
       "createdAt": "2026-03-04T00:28:49.000Z",
       "updatedAt": "2026-03-04T00:28:49.000Z"
     },
     {
-      "tempId": "ant_359",
+      "tempId": "ant_358",
       "title": "やまなみ - dopowiedzenie.",
       "content": "Rdzennie japońskie słowo, które zwykle odnosi się do mniejszych pasm górskich, jak również ma łagodniejszy wydźwięk.",
       "createdAt": "2026-03-04T19:36:36.000Z",
       "updatedAt": "2026-03-04T19:45:30.000Z"
     },
     {
-      "tempId": "ant_360",
+      "tempId": "ant_359",
       "title": "Skąd ~nami w czytaniu?",
       "content": "",
       "createdAt": "2026-03-04T19:37:41.000Z",
       "updatedAt": "2026-03-04T19:37:41.000Z"
     },
     {
-      "tempId": "ant_361",
+      "tempId": "ant_360",
       "title": "さんみゃく - dopowiedzenie.",
       "content": "Stanowi bezpośrednie zapożyczenie z języka chińskiego, z którego zawsze korzysta się w przypadku oficjalnych nazw łańcuchów górskich (np. 「日高山脈」 / 「Hidaka Sanmyaku」 - Góry Hidaka).",
       "createdAt": "2026-03-04T19:45:04.000Z",
       "updatedAt": "2026-03-04T19:45:53.000Z"
     },
     {
-      "tempId": "ant_362",
+      "tempId": "ant_361",
       "title": "Dopowiedzenie.",
       "content": "Dziś służy jako radosny okrzyk na zawodach sportowych, festiwalach czy w firmach, tracąc wojenny wydźwięk, z którego się wywodzi (bojowy okrzyk wojenny z okresu Sengoku w Japonii).\n\nPoczątki sięgają czasów, gdy wojny przeszły od pojedynków do dużych bitew zespołowych, wymagających jedności – dowódca wołał 「Ei ei!」 (coś jak „Czy jesteście gotowi walczyć?”]), a żołnierze odpowiadali 「Ō!」 („Tak, jesteśmy!”).\n\nW kronikach zapisano to jako 「曳々応」 (「hi hi ō」 lub 「ei ei ō」), gdzie 「曳」 oznacza ciągnięcie lub wyciąganie broni, a 「応」 to odpowiedź.\n\nAlternatywna teoria etymologiczna: 「鋭々応」: 「Ei」 od 「鋭」 (ostry, zacięty), symbolizujące zapał bojowy, i 「Ō」 od 「応」 (odpowiedź). To podkreśla gotowość i entuzjazm.",
       "createdAt": "2026-03-04T20:53:31.000Z",
       "updatedAt": "2026-03-04T20:53:31.000Z"
     },
     {
-      "tempId": "ant_363",
+      "tempId": "ant_362",
       "title": "Po co drugi znak?",
       "content": "",
       "createdAt": "2026-03-05T11:54:59.000Z",
       "updatedAt": "2026-03-05T11:54:59.000Z"
     },
     {
-      "tempId": "ant_364",
+      "tempId": "ant_363",
       "title": "Skąd i~ w czytaniu?",
       "content": "",
       "createdAt": "2026-03-06T10:35:00.000Z",
       "updatedAt": "2026-03-06T10:35:00.000Z"
     },
     {
-      "tempId": "ant_365",
+      "tempId": "ant_364",
       "title": "Skąd ~re w czytaniu?",
       "content": "",
       "createdAt": "2026-03-07T12:50:11.000Z",
       "updatedAt": "2026-03-07T12:50:11.000Z"
     },
     {
-      "tempId": "ant_366",
+      "tempId": "ant_365",
       "title": "Skąd shika~ w czytaniu?",
       "content": "",
       "createdAt": "2026-03-08T19:48:04.000Z",
       "updatedAt": "2026-03-08T19:48:04.000Z"
     },
     {
-      "tempId": "ant_367",
+      "tempId": "ant_366",
       "title": "Dopowiedzenie.",
       "content": "Np. 「勉強」 od którego można utworzyć czasownik -suru „uczyć się”: 「勉強する」.",
       "createdAt": "2026-03-10T10:09:14.000Z",
       "updatedAt": "2026-03-10T10:09:14.000Z"
     },
     {
-      "tempId": "ant_368",
+      "tempId": "ant_367",
       "title": "Dopowiedzenie.",
       "content": "Np. 「勉強する」 – „uczyć się”.",
       "createdAt": "2026-03-10T11:57:37.000Z",
       "updatedAt": "2026-03-10T11:57:37.000Z"
     },
     {
-      "tempId": "ant_369",
+      "tempId": "ant_368",
       "title": "Wiśnie, a rok szkolny.",
       "content": "W Japonii rok szkolny i rok obrotowy zaczyna się w kwietniu, a kończy w marcu, kiedy kwitną wiśnie. Dlatego wiśnia jest roślinnym symbolem ukończenia szkoły, a także nowego początku.",
       "createdAt": "2026-03-10T12:23:29.000Z",
       "updatedAt": "2026-03-10T12:23:29.000Z"
     },
     {
-      "tempId": "ant_370",
+      "tempId": "ant_369",
       "title": "Dopowiedzenie.",
       "content": "**Fleksja** (odmiana ogólnie): **koniugacja** (odmiana czasowników), **deklinacja** (odmiana innych części mowy).",
       "createdAt": "2026-03-10T20:31:59.000Z",
       "updatedAt": "2026-03-10T20:31:59.000Z"
     },
     {
-      "tempId": "ant_371",
+      "tempId": "ant_370",
       "title": "Dopowiedzenie.",
       "content": "Np. wiersz 「sa 」w Kanie (sa, shi, su, se, so).",
       "createdAt": "2026-03-10T20:49:26.000Z",
       "updatedAt": "2026-03-10T20:49:26.000Z"
     },
     {
-      "tempId": "ant_372",
+      "tempId": "ant_371",
       "title": "Skąd he~ w czytaniu?",
       "content": "",
       "createdAt": "2026-03-11T10:19:17.000Z",
       "updatedAt": "2026-03-11T10:19:17.000Z"
     },
     {
-      "tempId": "ant_373",
+      "tempId": "ant_372",
       "title": "Dopowiedzenie.",
       "content": "+ 「-suru」 - pójść na herbatę (kolokwializm)",
       "createdAt": "2026-03-11T12:16:21.000Z",
       "updatedAt": "2026-03-11T12:16:21.000Z"
     },
     {
-      "tempId": "ant_374",
+      "tempId": "ant_373",
       "title": "Dopowiedzenie.",
       "content": "Dosł. „nieregularna koniugacja czasowników wiersza 「sa」”.",
       "createdAt": "2026-03-12T11:23:44.000Z",
       "updatedAt": "2026-03-12T11:23:44.000Z"
     },
     {
-      "tempId": "ant_375",
+      "tempId": "ant_374",
       "title": "Dopowiedzenie.",
       "content": "Ogólnie przyjmuje się, że w rejonie Oceanu Spokojnego sezon tajfunów trwa od maja do listopada, ale najbardziej intensywne miesiące ich występowania to sierpień i wrzesień.\n\nJapończycy nie nadają imion tajfunom, tylko je numerują. W ciągu jesieni nadchodzi ich kilkanaście, czasem nawet ponad 20.\n\nNajwięcej tajfunów odnotowuje się w najbardziej tropikalnej części Japonii, czyli na Okinawie.",
       "createdAt": "2026-03-12T12:34:06.000Z",
       "updatedAt": "2026-03-12T12:34:06.000Z"
     },
     {
-      "tempId": "ant_376",
+      "tempId": "ant_375",
       "title": "Dopowiedzenie.",
       "content": "Czasownik ten oznacza wykorzystanie procesów logicznych do tworzenia pomysłów, wyciągania wniosków lub podejmowania decyzji.\n\nOznacza myślenie „głową”, w sposób logiczny, z wykorzystaniem intelektu - gdy masz jakiś pomysł, dochodzisz do pewnego wniosku, podejmujesz decyzję lub dokonujesz oceny.",
       "createdAt": "2026-03-12T12:46:13.000Z",
       "updatedAt": "2026-03-12T12:46:13.000Z"
     },
     {
-      "tempId": "ant_377",
+      "tempId": "ant_376",
       "title": "Skąd ~ru~ w czytaniu?",
       "content": "",
       "createdAt": "2026-03-13T13:53:27.000Z",
       "updatedAt": "2026-03-13T13:53:27.000Z"
+    },
+    {
+      "tempId": "ant_377",
+      "title": "Dopowiedzenie.",
+      "content": "Szczególnie w zachodnim kontekście, opowieściach, itp.",
+      "createdAt": "2026-03-13T23:34:27.000Z",
+      "updatedAt": "2026-03-13T23:34:27.000Z"
+    },
+    {
+      "tempId": "ant_378",
+      "title": "Czym jest „przymiownik”?",
+      "content": "Zwróćmy uwagę, że w terminie\r\n\r\n「keiyou doushi」 (tłumaczonym w uproszczeniu, jako „przymiotnik odrzeczownikowy”)\r\n\r\nmożemy dopatrzyć się zlepku słów\r\n\r\n「keiyoushi」 („przymiotnik”)\r\n\r\noraz \r\n\r\n「doushi」 („czasownik”):\r\n\r\n形容動詞\r\n↧\r\n形容詞\r\n+\r\n動詞\r\n\r\nA więc dosłownie będzie to bardziej „przymiownik” (zlepienie „przymiotnik”+„czasownik”). Pochodzenia tej osobliwej nazwy moglibyśmy doszukać się w części japońskich rzeczowników (dziś znanych jako „rzeczowniki -na ”/ „na-rzeczowniki”), do których dostawiano np.\r\n\r\n「-ni aru」, później skrócone do » 「-naru」, jeszcze później do samego » 「-na」,\r\n\r\nopisując tym samym, że coś **stało się** (naru) lub **jest** (aru) jakieś, nabyło jakąś cechę (np. od rzeczownika „spokój” » dosł. „stało się spokojem” - w domyśle: „spokojne”). „Stać się” / „być” (「naru」 / 「aru」) to **czasowniki**, natomiast „spokój” pełni tu domyślnie rolę opisową, do tej pory właściwą **przymiotnikom** (stąd rzeczowniki -na zwane bywają quasi-przymiotnikami). Stąd właśnie termin „rzeczownik odczasownikowy”, to w języku japońskim dosłownie „przymiownik” (zlepek japońskich słów „przymiotnik” i „czasownik” - patrz wyżej).",
+      "createdAt": "2026-03-14T20:30:50.000Z",
+      "updatedAt": "2026-03-14T20:30:50.000Z"
+    },
+    {
+      "tempId": "ant_379",
+      "title": "Dopowiedzenie.",
+      "content": "[moja krótka audycja na ten temat »](https://jaktamjaponski.blogspot.com/2026/03/nareszcie-mam-pomys.html)",
+      "createdAt": "2026-03-14T20:43:10.000Z",
+      "updatedAt": "2026-03-14T20:43:52.000Z"
+    },
+    {
+      "tempId": "ant_380",
+      "title": "Czym naprawdę jest danshari?",
+      "content": "1. Rozpoznaj **nadal kumulujące się**, a niepotrzebne dziś zasoby - i zaprzestań ich napływu.\r\n2. Pożegnaj to, co **wypełniło już** swą rolę w Twoim życiu.\r\n3. Rozpoznaj, co z powyższych zasobów jest **naprawdę Twoje** - a co przejęte od innych - i odłącz się od wszystkiego, co nie wypływa z Twojego Własnego serca.\r\n\r\n> „W polskich tekstach 断捨離 bywa upraszczane do ‚minimalizmu’ albo ‚sprzątania’. To zrozumiałe, ale niepełne. Yamashita Hideko, popularyzatorka danshari w Japonii, często podkreśla, że inspiracją była dla niej joga i myśl buddyjska, a nie zachodni minimalizm. W Japonii mówi się wręcz, że danshari to „buddyzm przełożony na codzienność”, szczególnie na relację z przedmiotami.\r\n\r\n> 断 - zerwanie\r\n> Chodzi o świadomą decyzję, by nie wpuszczać do swojego życia rzeczy, informacji i zobowiązań, które nie są nam potrzebne tu i teraz.\r\n\r\n> 捨 - wyrzucanie\r\n> Chodzi o uczciwe spojrzenie na to, co mamy, i zgodę na to, że rzeczy (i nawyki) mają swój czas. W japońskich opisach często pojawia się sformułowanie: „przedmiot spełnił swoją rolę”. 捨 uczy, że trzymanie się rzeczy z przeszłości może blokować teraźniejszość. Jeśli coś nie wspiera cię teraz – możesz to pożegnać z wdzięcznością.\r\n\r\n> 離 - odłączanie\r\n> W japońskim ujęciu 離 to moment, w którym przestajemy definiować siebie przez to, co posiadamy lub czego „powinniśmy” chcieć. To dystans do cudzych oczekiwań, do presji społecznej, do własnych wyobrażeń sprzed lat. Porządkując przestrzeń, uczymy się rozpoznawać, co naprawdę jest nasze, a co przejęte od innych.\r\n\r\n\r\n> Danshari nie jest o stracie. Jest o wyborze. O odzyskaniu przestrzeni, energii i sprawczości. Nowy rok nie potrzebuje idealnej wersji ciebie – potrzebuje miejsca, w którym ta wersja może się pojawić”.\r\n\r\n\r\n[źródło »](https://wsjj.pl/blog/danshari-japonska-sztuka-robienia-miejsca-na-nowe-poczatki)",
+      "createdAt": "2026-03-15T13:13:49.000Z",
+      "updatedAt": "2026-03-15T13:17:04.000Z"
     }
   ],
   "annotations": {
+    "断捨離": [
+      "ant_380"
+    ],
+    "考え": [
+      "ant_379"
+    ],
+    "形容動詞": [
+      "ant_378"
+    ],
     "サ行変格活用": [
-      "ant_374"
+      "ant_373"
     ],
     "行": [
-      "ant_371"
-    ],
-    "活用": [
       "ant_370"
     ],
-    "サ変動詞": [
-      "ant_368"
+    "活用": [
+      "ant_369"
     ],
-    "サ変名詞": [
+    "サ変動詞": [
       "ant_367"
     ],
-    "考える": [
-      "ant_376",
-      "ant_338"
-    ],
-    "鋭々応": [
-      "ant_362",
-      "ant_332"
-    ],
-    "曳々応": [
-      "ant_362",
-      "ant_332"
-    ],
-    "山脈": [
-      "ant_359",
-      "ant_360",
-      "ant_361"
-    ],
-    "齋藤 孝": [
-      "ant_357"
-    ],
-    "藤森 謙也": [
-      "ant_356"
-    ],
-    "岡村富夫": [
-      "ant_355"
-    ],
-    "浅葱": [
-      "ant_345"
-    ],
-    "理桜": [
-      "ant_341"
-    ],
-    "勝人": [
-      "ant_340"
-    ],
-    "湯桶": [
-      "ant_322"
-    ],
-    "混合読み": [
-      "ant_335"
-    ],
-    "空気を読む": [
-      "ant_334"
-    ],
-    "万才": [
-      "ant_331",
-      "ant_322"
-    ],
-    "万歳": [
-      "ant_322",
-      "ant_331"
-    ],
-    "下駄": [
-      "ant_322"
-    ],
-    "様": [
-      "ant_328"
-    ],
-    "御": [
-      "ant_327",
-      "ant_325"
-    ],
-    "如何して": [
-      "ant_326",
-      "ant_348",
-      "ant_332"
-    ],
-    "固定": [
-      "ant_324"
-    ],
-    "ゆとり教育": [
-      "ant_323"
-    ],
-    "有明": [
-      "ant_321",
-      "ant_322"
-    ],
-    "殿": [
-      "ant_318"
-    ],
-    "付喪神": [
-      "ant_317"
-    ],
-    "居合道": [
-      "ant_319"
-    ],
-    "国会": [
-      "ant_314",
-      "ant_322"
-    ],
-    "会釈": [
-      "ant_313"
-    ],
-    "糞": [
-      "ant_312"
-    ],
-    "歌声": [
-      "ant_311"
-    ],
-    "短歌": [
-      "ant_310"
-    ],
-    "回鍋肉": [
-      "ant_309"
-    ],
-    "三味線": [
-      "ant_308"
-    ],
-    "ダサい": [
-      "ant_307"
-    ],
-    "羽織": [
-      "ant_322"
-    ],
-    "百倍": [
-      "ant_306"
-    ],
-    "検索": [
-      "ant_305"
-    ],
-    "併し": [
-      "ant_304",
+    "サ変名詞": [
       "ant_366"
     ],
+    "考える": [
+      "ant_375",
+      "ant_337"
+    ],
+    "鋭々応": [
+      "ant_361",
+      "ant_331"
+    ],
+    "曳々応": [
+      "ant_361",
+      "ant_331"
+    ],
+    "山脈": [
+      "ant_358",
+      "ant_359",
+      "ant_360"
+    ],
+    "齋藤 孝": [
+      "ant_356"
+    ],
+    "藤森 謙也": [
+      "ant_355"
+    ],
+    "岡村富夫": [
+      "ant_354"
+    ],
+    "浅葱": [
+      "ant_344"
+    ],
+    "理桜": [
+      "ant_340"
+    ],
+    "勝人": [
+      "ant_339"
+    ],
+    "湯桶": [
+      "ant_321"
+    ],
+    "混合読み": [
+      "ant_334"
+    ],
+    "空気を読む": [
+      "ant_333"
+    ],
+    "万才": [
+      "ant_330",
+      "ant_321"
+    ],
+    "万歳": [
+      "ant_321",
+      "ant_330"
+    ],
+    "下駄": [
+      "ant_321"
+    ],
+    "様": [
+      "ant_327"
+    ],
+    "御": [
+      "ant_326",
+      "ant_324"
+    ],
+    "如何して": [
+      "ant_325",
+      "ant_347",
+      "ant_331"
+    ],
+    "固定": [
+      "ant_323"
+    ],
+    "ゆとり教育": [
+      "ant_322"
+    ],
+    "有明": [
+      "ant_320",
+      "ant_321"
+    ],
+    "殿": [
+      "ant_317"
+    ],
+    "付喪神": [
+      "ant_316"
+    ],
+    "居合道": [
+      "ant_318"
+    ],
+    "国会": [
+      "ant_313",
+      "ant_321"
+    ],
+    "会釈": [
+      "ant_312"
+    ],
+    "糞": [
+      "ant_311"
+    ],
+    "歌声": [
+      "ant_310"
+    ],
+    "短歌": [
+      "ant_309"
+    ],
+    "回鍋肉": [
+      "ant_308"
+    ],
+    "三味線": [
+      "ant_307"
+    ],
+    "ダサい": [
+      "ant_306"
+    ],
+    "羽織": [
+      "ant_321"
+    ],
+    "百倍": [
+      "ant_305"
+    ],
+    "検索": [
+      "ant_304"
+    ],
+    "併し": [
+      "ant_303",
+      "ant_365"
+    ],
     "然し": [
-      "ant_303"
+      "ant_302"
     ],
     "然う": [
-      "ant_352"
+      "ant_351"
     ],
     "着ける": [
-      "ant_302",
-      "ant_338"
+      "ant_301",
+      "ant_337"
     ],
     "済みません": [
-      "ant_301"
+      "ant_300"
     ],
     "中高型": [
-      "ant_332"
+      "ant_331"
     ],
     "尾高型": [
-      "ant_300"
+      "ant_331"
     ],
     "頭高型": [
       "ant_299"
@@ -19721,13 +20025,13 @@
     ],
     "達磨": [
       "ant_297",
-      "ant_377"
+      "ant_376"
     ],
     "宜しく": [
       "ant_296"
     ],
     "内": [
-      "ant_336"
+      "ant_335"
     ],
     "恋愛": [
       "ant_295"
@@ -19784,13 +20088,14 @@
       "ant_278"
     ],
     "御機嫌良う": [
-      "ant_277"
+      "ant_277",
+      "ant_331"
     ],
     "御機嫌好う": [
       "ant_276"
     ],
     "化石": [
-      "ant_320"
+      "ant_319"
     ],
     "格好いい": [
       "ant_275"
@@ -19829,7 +20134,7 @@
       "ant_264"
     ],
     "向日葵": [
-      "ant_354"
+      "ant_353"
     ],
     "群島": [
       "ant_263"
@@ -19863,7 +20168,7 @@
     ],
     "洋杯": [
       "ant_253",
-      "ant_346"
+      "ant_345"
     ],
     "風呂敷": [
       "ant_252"
@@ -19924,7 +20229,7 @@
     ],
     "越冬": [
       "ant_233",
-      "ant_332"
+      "ant_331"
     ],
     "君": [
       "ant_232"
@@ -19934,11 +20239,11 @@
     ],
     "七夕": [
       "ant_230",
-      "ant_351"
+      "ant_350"
     ],
     "余り": [
       "ant_229",
-      "ant_325"
+      "ant_324"
     ],
     "巻き寿司": [
       "ant_228"
@@ -19977,7 +20282,7 @@
       "ant_217"
     ],
     "季寄せ": [
-      "ant_344"
+      "ant_343"
     ],
     "季語": [
       "ant_216"
@@ -19998,7 +20303,7 @@
       "ant_211"
     ],
     "倫敦": [
-      "ant_358"
+      "ant_357"
     ],
     "四季": [
       "ant_210"
@@ -20007,7 +20312,7 @@
       "ant_209"
     ],
     "お洒落": [
-      "ant_365"
+      "ant_364"
     ],
     "舊字體、旧字体": [
       "ant_208"
@@ -20056,7 +20361,9 @@
       "ant_5"
     ],
     "炬燵": [
-      "ant_6"
+      "ant_6",
+      "ant_337",
+      "ant_321"
     ],
     "会場": [
       "ant_7"
@@ -20077,15 +20384,16 @@
       "ant_12"
     ],
     "祇園祭": [
-      "ant_13"
+      "ant_13",
+      "ant_337"
     ],
     "お土産文化": [
       "ant_14",
-      "ant_338"
+      "ant_337"
     ],
     "働く": [
       "ant_15",
-      "ant_332"
+      "ant_331"
     ],
     "思う": [
       "ant_16"
@@ -20116,18 +20424,18 @@
     ],
     "お父さん": [
       "ant_24",
-      "ant_353"
+      "ant_352"
     ],
     "大人": [
       "ant_25",
-      "ant_343"
+      "ant_342"
     ],
     "半濁点": [
       "ant_26"
     ],
     "学期": [
-      "ant_369",
-      "ant_338"
+      "ant_368",
+      "ant_337"
     ],
     "小豆": [
       "ant_27"
@@ -20145,7 +20453,7 @@
       "ant_31"
     ],
     "側": [
-      "ant_330"
+      "ant_329"
     ],
     "金閣寺": [
       "ant_32"
@@ -20154,13 +20462,13 @@
       "ant_33"
     ],
     "合羽": [
-      "ant_350"
+      "ant_349"
     ],
     "交通系ICカード": [
       "ant_34"
     ],
     "掏摸": [
-      "ant_363"
+      "ant_362"
     ],
     "弾丸登山": [
       "ant_35"
@@ -20169,14 +20477,14 @@
       "ant_36"
     ],
     "煙草を吸う": [
-      "ant_329"
+      "ant_328"
     ],
     "国字": [
       "ant_37"
     ],
     "節分": [
       "ant_38",
-      "ant_338"
+      "ant_337"
     ],
     "連濁": [
       "ant_39"
@@ -20189,7 +20497,7 @@
     ],
     "英吉利": [
       "ant_42",
-      "ant_342"
+      "ant_341"
     ],
     "握り": [
       "ant_43"
@@ -20230,6 +20538,9 @@
     "輝夜姫": [
       "ant_55"
     ],
+    "姫": [
+      "ant_377"
+    ],
     "散らし寿司": [
       "ant_56"
     ],
@@ -20267,7 +20578,7 @@
       "ant_67"
     ],
     "台風": [
-      "ant_375"
+      "ant_374"
     ],
     "円": [
       "ant_68"
@@ -20327,11 +20638,11 @@
       "ant_86"
     ],
     "何で": [
-      "ant_348",
-      "ant_332"
+      "ant_347",
+      "ant_331"
     ],
     "屹度": [
-      "ant_339"
+      "ant_338"
     ],
     "握り寿司": [
       "ant_87"
@@ -20443,7 +20754,7 @@
     ],
     "冬眠": [
       "ant_121",
-      "ant_332"
+      "ant_331"
     ],
     "東京": [
       "ant_122"
@@ -20483,7 +20794,7 @@
     ],
     "でしょう": [
       "ant_134",
-      "ant_347"
+      "ant_346"
     ],
     "令和": [
       "ant_135"
@@ -20493,7 +20804,7 @@
     ],
     "愛": [
       "ant_137",
-      "ant_332"
+      "ant_331"
     ],
     "日": [
       "ant_138"
@@ -20509,7 +20820,7 @@
     ],
     "夏": [
       "ant_142",
-      "ant_338"
+      "ant_337"
     ],
     "大掃除": [
       "ant_143"
@@ -20519,17 +20830,17 @@
     ],
     "かも": [
       "ant_145",
-      "ant_347"
+      "ant_346"
     ],
     "かも知れない": [
-      "ant_347"
+      "ant_346"
     ],
     "かも知れません": [
-      "ant_347"
+      "ant_346"
     ],
     "何故": [
-      "ant_348",
-      "ant_332"
+      "ant_347",
+      "ant_331"
     ],
     "茶道": [
       "ant_146"
@@ -20545,13 +20856,13 @@
     ],
     "多分": [
       "ant_150",
-      "ant_347"
+      "ant_346"
     ],
     "端午の節句": [
       "ant_151"
     ],
     "眼鏡": [
-      "ant_349"
+      "ant_348"
     ],
     "尊敬語": [
       "ant_152"
@@ -20560,7 +20871,7 @@
       "ant_153"
     ],
     "如雨露": [
-      "ant_316"
+      "ant_315"
     ],
     "お兄さん": [
       "ant_154"
@@ -20578,7 +20889,7 @@
       "ant_158"
     ],
     "お茶": [
-      "ant_373"
+      "ant_372"
     ],
     "畳": [
       "ant_159"
@@ -20618,7 +20929,7 @@
     ],
     "抹茶": [
       "ant_171",
-      "ant_332"
+      "ant_331"
     ],
     "中世": [
       "ant_172"
@@ -20639,7 +20950,7 @@
       "ant_177"
     ],
     "下手": [
-      "ant_372"
+      "ant_371"
     ],
     "漢字": [
       "ant_178"
@@ -20663,23 +20974,23 @@
       "ant_184"
     ],
     "何時も": [
-      "ant_364"
+      "ant_363"
     ],
     "友達": [
-      "ant_337",
-      "ant_338"
+      "ant_336",
+      "ant_337"
     ],
     "人": [
       "ant_185"
     ],
     "着る": [
-      "ant_315"
+      "ant_314"
     ],
     "大阪": [
       "ant_186"
     ],
     "仕事": [
-      "ant_333"
+      "ant_332"
     ],
     "薬": [
       "ant_187"

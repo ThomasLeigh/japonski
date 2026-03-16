@@ -1,0 +1,1973 @@
+1000060 symbol powtórzenia Kanji*
+1000920 Witaj. / Cześć. (mniej formalne, wśród przyjaciół)
+1000930 Zapraszamy. ; Witamy.*
+1001390 powoli gotowane w lekkim bulionie dashi różne składniki (np. rzodkiew japońska, jajka na twardo, ciasteczka rybne czy korzeń konjaku)*
+1001620 kuleczki lub trójkąciki ryżowe, zwykle ze słonym<sup>*</sup> farszem*
+1001710 słodycze; ciasteczka
+1001770 szanowny klient
+1001820 pieniądze
+1001830 starszy brat (honoryfikatywnie)
+1001840 starszy brat (poufale)
+1001890 pikantny placek lub naleśnik, składający się z wielu różnych składników i pieczonych na rozgrzanej blasze
+1001990 (czyjaś) starsza siostra*
+1002000 (czyjeś) dziecko (honoryfikatywnie)
+1002100 toaleta; łazienka (uprzejmie)*
+1002120 policjant*
+1002320 (czyjś) dziadek
+1002330 babcia
+1002430 zielona herbata
+1002450 gadanie, (pusta) rozmowa, plotkowanie, pogawędka
+1002570 przywitanie lub pożegnanie, wraz z wyrażeniem wdzięczności za wysiłek, docenienia czyjejś pracy\n\nlub\n\nwyrażenie zadowolenia, że cos udało się zrobić\n\nlub\n\nświetna robota!\n\ndziękuję (za pomoc lub Twoją ciężką pracę)
+1002590 czyjś tata, ojciec*
+1002600 brać kąpiel
+1002610 brzuch (uprzejmie), brzuszek; żołądek
+1002650 czyjaś matka, mama*
+1002690 obchodzone w lipcu lub sierpniu (w zależności od regionu) w Japonii, buddyjskie Święto Zmarłych*
+1002970 być może (prawdopodobieństwo ok. 30%)
+1002975 być może (prawd. ok. 30%; uprzejmie)
+1003430 na pewno, z pewnością, niewątpliwie*
+1004500 ta osoba*
+1004790 odtąd, od teraz
+1004830 te
+1005010 kosz na śmieci
+1005920 Do zobaczenia jutro. / Do jutra.
+1005970 gra w papier, kamień, nożyce
+1006380 ciągle, stale, bez przerwy
+1006860 potem, później, następnie (formalnie)
+1007390 obciachowe, niemodne*
+1007670 gulasz z ryb, mięsa i warzyw tradycyjnie podawany zawodnikom sumo*
+1008190 nudny
+1008420 prawdopodobnie
+1008630 bardzo (formalnie)
+1008910 co sądzisz o...?, co powiesz,..?, jak się zapatrujesz...?*
+1009080 gdziekolwiek; wszędzie
+1009250 jak długo? / jak wiele?
+1009290 Który? (z trzech lub więcej; nie względem osób)
+1009780 w odniesieniu, odnośnie, względem
+1009970 ponieważ; dlatego, że...*
+1012170 przed (określnik czasu)
+1012520 być może, jeśli się nie mylę; jeśli, w przypadku (gdy)
+1012810 w każdym razie, tak czy owak,&nbsp;tak czy siak
+1012840 niebezpieczny; kapitalne, zdumiewające; szalony, stuknięty*
+1013100 witamy
+1015840 Azja
+1021160 Wielka Brytania; Anglia
+1021360 Włochy
+1023840 Indie
+1023890 Indonezja
+1031680 Australia
+1037050 drzewo kakaowca
+1037740 kotlet wieprzowy podany na misce ryżu
+1037870 Kanada
+1038050 kawiarnia*
+1038660 karaoke (połączenie słów "kara" (pusty) i "oke" (skrót od "orkiestra" w Katakanie) - gdyż jest to "puste" pomieszczenie wypełnione dźwiękami "orkiestry", do których śpiewasz)
+1040060 gaz
+1042530 chrześcijaństwo
+1050390 szklanka*
+1060780 Sydney
+1063410 miasto-państwo, położone w pobliżu południowego krańca Półwyspu Malajskiego, w południowo-wschodniej Azji
+1066590 grillowane baranina / jagnięcina z warzywami*
+1077750 niski (bardzo nieformalnie; czule lub dokuczliwie)
+1086880 Turcja
+1091940 Nowy Jork
+1095910 najwierniejszy psiak, jakiego widziała i zapamiętała w sercu Japonia*
+1098580 przystanek autobusowy
+1102740 Paryż
+1103480 piekarnia
+1109290 Filipiny
+1109460 Finlandia
+1113730 Brazylia
+1119720 Wietnam
+1124770 Polska
+1125940 Portugalia
+1129900 Malezja
+1130020 mango
+1133090 Meksyk
+1136850 humor
+1137570 Europa
+1146020 cytryna
+1146810 transkrypcja japońskich znaków na litery łacińskie
+1148230 Londyn
+1149730 Argentyna
+1149830 USA
+1149970 Półwysep Arabski
+1150080 alfa i omega
+1150410 miłość
+1150870 kochanka, kochanek
+1151220 ciemnoczerwony, karmazynowy*
+1151260 zły; słaby
+1151840 zły człowiek, drań, łajdak
+1152680 najpopularniejsza (obok maki-zushi) postać tej potrawy*
+1153520 cukierek
+1153670 tani
+1153890 ukojenie, spokój duszy, ulga
+1154330 ciemny
+1154830 projekt; zlecenie (w kontekście ogłoszeń o pracę)
+1155120 ponad (np. swoje oczekiwania), powyżej
+1156530 opinia („serca i umysłu widzenie”)
+1156800 znaczenie, sens
+1157000 łatwy, prosty, nieskomplikowany
+1157070 krzesło
+1157170 uprawiać / grać\n(w odniesieniu do sportu); robić
+1158870 różnica, rozbieżność, niezgodność; błąd, pomyłka
+1158880 mylić się, być błędnym, różnic się
+1159810 medycyna
+1159980 lekarz
+1160790 1
+1160820 1
+1161110 jeden ptak / królik
+1161310 jeden raz
+1161380 pierwsze piętro
+1162120 styczeń
+1163400 razem
+1163420 razem
+1163940 nieco, trochę (nieformalnie)
+1164400 jedna para
+1165670 dużo, wiele, pełno; pełne, wypełnione
+1165700 pobyt na jedną noc
+1165970 numer jeden, pierwszy, najlepszy
+1166950 rzut oka
+1167610 przelewać się (przez brzegi)
+1169250 ciągnąć
+1169340 przeprowadzać się
+1169720 grawitacja
+1169870 pić
+1169940 jedzenie i picie
+1170650 chować, skrywać, ukrywać (przed ludzkim wzrokiem), trzymać w tajemnicy
+1171010 prawo (kierunek, strona)
+1171770 rodzaj japońskiego płaszcza z długimi rękawami (czasem bez) noszona aby przykryć keikogi albo jogi
+1171810 upierzenie
+1171900 deszcz
+1171910 chmura deszczowa
+1172100 deszczowa pogoda
+1172460 kłamca, kłamczuch
+1172610 szczęście, powodzenie, postęp, osiągnięcie, rozwój
+1172660 (prze)nosić, transportować; iść (dobrze), postępować
+1172830 prowadzenie pojazdu
+1172870 kierowca, szofer
+1172910 ćwiczenia fizyczne
+1173160 obrót spraw, kolej rzeczy
+1173710 odbijać się, być odzwierciedlonym, być wyświetlanym
+1173720 film
+1173750 kino
+1174340 pływać
+1174380 angielska konwersacja
+1174420 język angielski
+1174450 Wielka Brytania, Anglia
+1175140 stacja kolejowa
+1175240 obento sprzedawane na stacji kolejowej, często jako lokalna specjalność
+1175340 przezimowanie („przejść z sukcesem zimę”)*
+1175570 jen*
+1176860 teatr
+1177350 jaskółka
+1177800 daleki, odległy
+1177930 objazd, okrężna droga
+1178120 dalekowzroczność
+1178260 wycieczka (piesza), długi spacer
+1178590 ołówek
+1178620 słone
+1178940 brudny
+1179140 siostrzeniec, bratanek
+1179320 z tyłu (czegoś)
+1179330 (czyjaś) żona (lub własna w nieoficjalnym tonie wypowiedzi)
+1180910 przejście dla pieszych
+1181500 książę, królewicz
+1181700 król (honoryfikatywnie)
+1181720 tradycyjne japońskie nieprzezroczyste drzwi przesuwne*
+1182030 żółty
+1182060 żółtko („żółty ktoś”)
+1182580 najmłodsza*, najbardziej tropikalna część Japonii, najbardziej na południu
+1182600 prefektura Okinawa
+1182700 dach
+1182710 na dachu
+1183440 ciepła woda
+1183450 gorące źródła - z nich słynie Japonia*
+1183510 temperatura
+1183590 spokojne, ciche, łagodne
+1183720 muzyka
+1184140 na dole, pod, poniżej
+1184280 uprzejmie zrobić dla kogoś, wyświadczyć przysługę; dawać, obdarować
+1184370 w dół (rzeki, zbocza, drogi, itp.)
+1185200 kiepski, słaby (w czymś), nieporadny, niewprawny; nieroztropny, nietaktowny, nierozważny, nieostrożny
+1185780 drewniane obuwie japońskie z paskami materiału, przypominające chodaki, noszone do tradycyjnych strojów japońskich
+1185930 bielizna
+1185940 nisko położona część miasta
+1186230 wulgarny, nieprzyzwoity
+1186760 chemia
+1187210 skamielina
+1188490 nic*
+1188640 Ile miesięcy?
+1188650 ile razy?
+1188760 kiedy?
+1188890 zawsze
+1188980 kto?, jaki człowiek?
+1189030 nigdzie*
+1189100 Ile osób?
+1189240 Którego dnia...?
+1189250 Ile lat?; Którego roku?
+1189360 kto? (bardziej uprzejme, niż 「dare?」)
+1191060 możliwe
+1191320 lato
+1191420 letnie wakacje
+1191460 letnie przesilenie
+1191730 dom, mieszkanie; rodzina, gospodarstwo domowe
+1192150 rodzina
+1192280 gospodarstwo domowe
+1192700 nauka, wiedza
+1193060 owoce
+1193180 piosenka; śpiew
+1193290 piosenkarka, piosenkarz
+1193420 japoński teatr klasyczny*
+1193540 mityczne wodne stworzenia („rzeczne dzieci”)*
+1193560 ogórek w makizushi
+1193610 ogień
+1193760 iskra
+1193910 wulkan
+1193950 pożar
+1194290 wtorek
+1194360 podgrzewany, niski drewniany stół, przykryty grubym kocem (futon)*
+1194480 licznik miesięcy*
+1194500 kwiat
+1194560 kwiaciarnia
+1194580 sztuczne ognie, fajerwerki
+1194660 widok kwitnących wiśni, oglądanie ich; festiwal wiosny
+1194790 bukiet / wiązka kwiatów
+1194870 wazon kwiatowy
+1195240 bakłażan
+1195430 paczka (przesyłka)
+1195970 za dużo, za (jakieś)*
+1197030 kieł
+1197120 artysta malarz
+1197320 liczba pociągnięć danego Kanji
+1197610 ekran, obraz nań; powierzchnia obrazu (zdjęcia, rysunku itp.)
+1198180 spotykać, spotkać; poznać
+1198430 rachunek
+1198550 miejsce pracy*
+1198560 pracownik firmy / biurowy
+1198600 przywitanie; lekki ukłon*
+1198660 miejsce wydarzenia*
+1198770 przewodnicząca, przewodniczący
+1199330 licznik wystąpień
+1199510 częstotliwość
+1199640 rotacja, obrót, krążenie, skręcanie, slalom
+1199890 uszkodzić, zepsuć, zniszczyć
+1199900 być popsutym
+1200220 kontuzja, uraz, zranienie
+1200490 drogie, ukochane; tęskniący za kimś, utęskniony, wytęskniony; wspominane z nostalgią
+1200640 kieszonkowy ogrzewacz dłoni („kieszonkowy piec”)*
+1200840 bramka biletowa
+1200960 japońska filozofia doskonalenia się
+1201190 morze; ocean
+1201260 za oceanem*
+1201330 marynarka wojenna
+1201620 różne wodorosty, zwykle suszone i prasowane („morskie porosty”)
+1201640 w morzu
+1201750 plaża, wybrzeże, brzeg morski
+1201970 szary
+1202130 okolica; krąg ludzi, środowisko osób o wspólnych zainteresowaniach*
+1202270 rysunek, obraz, ilustracja, szkic
+1202410 krab
+1202450 otwierać; rozpocząć (nowy rok)
+1202870 otwarcie nowego sklepu; otwarcie sklepu (w ciągu dnia)
+1202940 otwieranie i zamykanie
+1202950 udostępnienie, otwarcie
+1203090 schody, klatka schodowa
+1203130 muszla, muszelka („małża łupina”)
+1203170 małż, mięczak, skorupiak
+1203250 na zewnątrz, na dworze; zewnętrzna część, od zewnętrznej strony
+1203280 poza tym, ponadto
+1203620 zagranica*
+1203640 język obcy
+1203650 obcokrajowiec
+1203800 wychodzenie, opuszczanie (domu, biura, itp.)
+1204260 słówko obcego pochodzenia w japońskim*
+1204300 kaszel
+1204350 szkodnik (owad)
+1205770 zapewne, pewnie, chyba; na pewno, z pewnością*
+1206050 zapamiętać, przyswajać
+1206110 róg (ulicy, biurka, itp.)
+1206590 przedmiot / kierunek studiów
+1206610 konferencja akademicka
+1206650 semestr szkolny*
+1206730 szkoła
+1206800 naukowiec, uczony
+1206820 nauka, studia, uczenie się, studiowanie
+1206830 uczeń
+1206900 uczeń (ogólnie)
+1207030 rocznik w szkole
+1207230 komfort(owy)
+1207240 radosny; zabawny; przyjemny
+1207250 oczekiwanie (na coś, na co można czekać) z niecierpliwością
+1207340 instrument muzyczny
+1207590 trwać (o czasie)
+1208460 odmiana*
+1208910 torba
+1208980 spółka akcyjna
+1209240 ugryźć
+1210360 zimny (o pogodzie, klimacie)
+1210520 fala zimna, oziębienie („zimna fala”)
+1211200 zrolować; zwinąć
+1213140 (czytanie) Kan’on*
+1213170 znaki chińskiego pochodzenia, reprezentujące znaczenie
+1213400 słodkie
+1213720 reżyser
+1213870 pielęgniarka, pielęgniarz
+1213990 tablica informacyjna
+1214330 prosty, łatwy
+1214840 zwiedzanie, turystyka krajoznawcza
+1215230 pomiędzy
+1216170 Korea Południowa
+1217070 zabawka
+1217270 skała; klif, urwisko
+1217700 podjąć wysiłek, starać się (usilnie), pracować (ze wszystkich sił), dać z siebie wszystko\n\nlub\n\ntrzymać się, wytrwać (w czymś)*
+1217730 twarz
+1218380 niebezpieczne
+1218560 niebezpieczeństwo
+1218770 Z przyjemnością. / Z radością. / Chętnie.
+1219510 ucieszony (cieszyć się)
+1219770 pasożyt
+1219960 jak wiele? (względem licznika つ / małych przedmiotów)
+1219980 ile?
+1220210 biurko
+1220240 flaga
+1220560 termin, okres, limit, ramy czasowe
+1220570 oczekiwanie, spodziewanie się, nadzieja
+1220930 nastrój, samopoczucie, stan ducha, zdrowie
+1221270 wracać, wrócić, iść (do domu)
+1221330 powrót do kraju
+1221520 duch; nastrój
+1221950 temperatura powietrza
+1222170 klimat
+1222590 nastrój, samopoczucie
+1222820 słówko przywołujące na myśl konkretną porę roku, zwykle wykorzystywane w haiku*
+1222840 pora roku
+1223010 regulacje, rozporządzenia
+1223340 pamiątka
+1223350 izba pamięci, muzeum*
+1223615 ty; kochanie, skarbie (do żony); kochanie, skarbie (do męża)
+1223640 wstać, obudzić się (rozpocząć dzień)
+1223660 obudzić (kogoś)
+1224020 błyszczeć, świecić, lśnić, iskrzyć się
+1224190 mityczne stworzenia; mają rogi, ubrane są w przepaski biodrowe z tygrysiej skóry i noszą metalowe pałki
+1224260 żółw
+1224880 oficjalna, bardzo grzeczna forma przymiotnika 「ii」 / 「yoi」 („dobry”)
+1224890 Miło mi było Cię poznać.*
+1225710 jeden z najsłynniejszych letnich festiwali w Japonii, ma miejsce w Kioto*
+1225780 słówko w Kanji, którego znaczenie autor umyślnie poszerza poprzez dodanie alternatywnego czytania*
+1225910 kształcenie obowiązkowe*
+1226120 miejsce w parlamencie
+1226440 kawiarnia*
+1226510 pakować, wypełniać
+1227370 Kopę lat!
+1227500 wakacje, ferie, itp. dłuższy wypoczynek
+1227560 być nieobecnym, wziąć dzień wolnego, odpoczywać
+1227890 rozejm, zawieszenie broni
+1228040 urlop; dzień wolny od szkoły lub pracy
+1228260 palić, wdychać
+1228540 japońskie łucznictwo
+1228650 spieszyć się
+1229100 karetka pogotowia, ambulans
+1229840 płakać
+1230360 pensja, wynagrodzenie
+1230730 stare miasto, starówka
+1230770 tradycyjne formy Kanji (ogłoszone w 1946 r.) - nim uproszczono je do współczesnej postaci*
+1231490 krowa, byk
+1231580 wołowina
+1231590 mleko (krowie)
+1231690 zeszły rok, w zeszłym roku
+1233100 sklep rybny
+1233320 cesarska stolica*
+1233970 męstwo
+1236070 silny, mocny
+1236900 uczyć, nauczać
+1236950 edukacja („uczenie I wychowanie”)
+1237020 podręcznik
+1237030 kościół
+1237130 instruktor, nauczyciel, wykładowca, profesor
+1237150 klasa (pomieszczenie)
+1237680 ciasny, wąski
+1237820 klatka piersiowa
+1238410 ogólne zainteresowanie jakąś dziedziną*
+1238460 japoński makaron z mąki gryczanej*; makaron w chińskim stylu
+1239700 utwór muzyczny
+1239730 skręcać
+1240250 raj na ziemi
+1240660 bilard („kulą pchnięcie”)
+1240820 wysilać się, usiłować, starać się
+1240825 być zatrudnionym
+1241250 jednolitość, jednakowość, jednolity, równy
+1241450 japońska harfa - tradycyjny instrument Japonii*
+1241490 zakaz palenia
+1241550 zakaz, prohibicja
+1241850 pilne
+1241880 napięcie, stres, zdenerwowanie (np. nadchodzącym egzaminem)
+1242130 bliski, blisko (odległość)
+1242160 bliski, blisko, pobliże
+1242970 bogacz
+1243320 piątek
+1243490 bank
+1243500 pracownik banku
+1243530 dzielnica Tokio słynąca ze sklepów luksusowych marek
+1243600 9
+1243660 wrzesień
+1243710 trzecia pod względem powierzchni wyspa Japonii, położona na południowy zachód od największej wyspy Honsiu*
+1243850 dziewiąty dzień miesiąca
+1244470 słaby, kiepski, niezbyt dobry w; nie przepadać (za czymś)
+1245280 puste
+1245290 niebo
+1245470 powietrze
+1245570 port lotniczy, lotnisko
+1245620 karate
+1245680 błękit nieba (kolor)
+1245790 w powietrzu
+1246270 zbieg okoliczności, przypadek
+1246460 szaszłyk z mięsem i warzywami, smażony na głębokim tłuszczu\n\nlub\n\nsmażone mięso wieprzowe i negi na szaszłykach
+1246700 buty
+1246740 skarpetki
+1246850 niedźwiedź
+1246880 kasztany japońskie*
+1247250 ty (poufale)*
+1247260 Mówiąc do naszych przyjaciół lub osób od nas młodszych, zamiast 「-san」 do męskich imion możemy dodać 「-kun」.
+1247310 wy (raczej do dzieci)
+1247590 archipelag: grupa wysp tworząca krąg, mieszana grupa wysp („grono wysp”)*
+1249900 (mój) starszy brat (pokornie, formalnie)
+1249960 rodzeństwo (bracia lub brat, siostra)
+1250430 przymiotnik
+1250450 przymiotnik odrzeczownikowy*
+1250680 noszenie (przy sobie lub w dłoni); telefon komórkowy
+1250690 telefon komórkowy
+1250750 język honoryfikatywny („szacunku mowa”)*
+1251900 związać, połączyć, zapiąć
+1252090 plan
+1252330 policjant
+1252390 policja
+1252400 funkcjonariusz policji
+1252520 ostrzeżenie alarmowe („ostrzegający raport”)
+1252560 lekki
+1254730 ostatecznie, tak czy siak
+1254790 ślub; małżeństwo*
+1254810 ślub, ceremonia ślubna, uroczystości ślubne*
+1255430 miesiąc; księżyc
+1255630 oglądanie księżyca*
+1255840 koniec miesiąca
+1255890 poniedziałek
+1256910 japońska sztuka walki, bardzo popularny sport - z użyciem bambusowych mieczy
+1257040 kłótnia, sprzeczka; bójka, walka, przepychanki
+1257110 twardy (metal, kamień; drewno)
+1257240 nielubiany; znienawidzony
+1257250 nienawidzić; nie lubić
+1257540 budynek
+1257900 wyszukiwanie, sprawdzenie*
+1258330 pies
+1258380 psia buda
+1258810 prefektura (Japonii)\n\nprowincja (Chin, Hiszpanii, Włoch, itp.)\n\nokręg (np. Tajwanu, Norwegii)\n\ndepartament (Francji)\n\nwojewództwo*
+1258950 ramię
+1259290 patrzeć, oglądać; zobaczyć
+1260000 zwiedzanie, oglądanie, turystyka krajoznawcza
+1260190 skromność, skromny
+1260230 formy uniżone, pokorne w języku honoryfikatywnym, wyrażające skromność*
+1260490 klucz
+1260720 zdrowy; pełen energii; zdrowie
+1263400 drzwi wejściowe, wejście; przedpokój
+1263650 obecnie („teraźniejsze istnienie”)
+1263960 zwrot, wyrażenie
+1264420 język
+1264520 słowa i czyny, mowa i postępowanie
+1264540 język, dialekt, mowa, sposób mówienia; słowo
+1264570 mistyczna moc tkwiąca w słowach, duch języka
+1265070 stary
+1266440 (przy)wołać, wezwać
+1266650 nazwa użytkownika*
+1266840 samotna, odizolowana wyspa („osamotniona wyspa”)
+1266970 tradycyjne japońskie drzwi
+1267050 kredens, szafka
+1267280 jezioro
+1267340 lis
+1268060 5
+1268070 5 (w liczniku ogólnym)
+1268170 maj
+1268570 piąty dzień miesiąca
+1268990 po południu; wieczorem (przed godziną)
+1269060 do południa; nad ranem (przed godziną)
+1269130 da(wa)ć, podarować*
+1269180 (czytanie) Go’on*
+1269320 po, później (czas)
+1269350 później, potem
+1269410 za, z tyłu (położenie)
+1270010 młodszy wiekiem lub stażem członek grupy
+1270040 druga połowa, późniejsza połowa
+1270390 (czyjś) mąż
+1270450 tradycyjne japońskie noworoczne potrawy
+1270580 noworoczny prezent*
+1270590 posiłek, jedzenie; ryż ugotowany na sposób japoński
+1270670 przepraszam, wybacz mi, proszę o wybaczenie
+1270910 język, mowa; słowo
+1271650 karp
+1272280 ruch (drogowy, kolejowy, itp.), komunikacja
+1272730 kandydat
+1272870 honor(owy), zaszczyt(ny)
+1273270 park
+1275130 efekt, skutek, rezultat
+1275640 usta; buzia (dziecka)
+1275780 z ust do ust*
+1276110 szminka
+1276220 pretekst, wymówka, wykręt, usprawiedliwienie
+1276270 nieświeży oddech
+1276610 ton (głosu)
+1277290 słonecznik
+1277450 lubić; ulubiony; ukochany
+1277790 ulubione potrawa lub jedzenie
+1278000 kurs inżynierski
+1278410 obszerny, przestronny; szeroki
+1278590 plac, rynek, skwer; otwarta przestrzeń
+1279490 hymn szkolny; szkolna piosenka / pieśń
+1279560 korekta tekstu („korekta poprawności”)
+1279590 dyrektor szkoły
+1279990 port, przystań
+1280770 czarna herbata
+1281000 pomysł, myśl*
+1281020 zastanawiać się, wnioskować, sądzić*
+1281360 poczta, przesyłka lotnicza
+1281690 wers, wiersz, linia tekstu*
+1282790 padać (o deszczu, śniegu, itp.)
+1283190 drogi; wysoki
+1283300 wysoka cena, wysoko wycenione, kosztowne
+1283500 szkoła średnia wyższego stopnia (skrót)*
+1283510 uczeń szkoły średniej
+1283860 szkoła średnia wyższego stopnia*
+1284590 płaszcz przeciwdeszczowy
+1286220 hymn narodowy
+1286240 zgromadzenie ustawodawcze*
+1286290 flaga narodowa
+1286370 język narodowy
+1286590 krajowej (japońskiej) produkcji
+1286650 stricte japońskie Kanji*
+1286920 autostrada krajowa
+1286930 w kraju, krajowy
+1287410 czerń
+1287420 czarny (kolor)
+1288080 czarna tablica (do pisania np. kredą)
+1288550 kość
+1288850 teraz, obecnie; ten (obecny, bieżący); zaraz
+1289070 tym / następnym razem
+1289100 w tym miesiącu
+1289220 w tym tygodniu
+1289370 tym / następnym razem
+1289470 dziś wieczorem, dzisiejszy wieczór
+1289480 Dobry wieczór.
+1289520 dziś wieczorem, dziś w nocy
+1289710 zaręczyny
+1290800 lewo
+1290810 lewy i prawy; (zapewniający) kontrolę
+1291030 lewica (polityka)
+1291600 cukier
+1291620 piaszczysta plaża
+1291800 siadać, siedzieć
+1291980 płaska, zwykle prostokątna, poduszka, używana do siedzenia lub klęczenia
+1292300 znowu, jeszcze raz, powtórnie (przysłówek)
+1292490 restart, reboot, ponowne uruchomienie
+1293810 koniec, zakończenie („najbardziej z tyłu”)
+1294330 (moja) żona
+1294940 licznik wieku ludzi i zwierząt*
+1295060 Przepraszam. ; Przykro mi. *
+1295070 być przykro, odczuwać niepokój lub poczucie winy z powodu sprawiania komuś kłopotu
+1295510 szczupły
+1295530 szczegółowy
+1296300 w sytuacji, kiedy, gdy
+1296970 portfel
+1297110 wzgórze, wzniesienie, stok
+1297210 kwitnąć
+1297250 robienie, produkowanie, tworzenie, wytwarzanie
+1297510 pisarz
+1297960 wypracowanie
+1298240 ostatniego wieczoru, zeszłej nocy
+1298460 czereśnia; jadalna wiśnia
+1298790 robić zdjęcia
+1299400 magazyn (czasopismo)
+1299460 chwast, zielsko
+1299680 talerz
+1299685 talerz
+1299740 3
+1299970 trójkąt, trójkątny kształt
+1300250 marzec
+1301000 trzy osoby
+1301110 3000
+1301330 trzeci dzień miesiąca
+1301490 300
+1301940 parasol(ka)
+1302680 góra, wzgórze, pagórek
+1302870 wiśnia górska; ktoś o wyraźnie wystających lub wygiętych do przodu zębach (szczególnie górneych przednich
+1303090 górski szlak, górska droga
+1303170 łańcuch / pasmo górskie*
+1303190 łańcuch / pasmo górskie*
+1303200 koza
+1303440 ryż z różnymi dodatkami
+1303450 „sushi rozsypane, rozrzucone”: miseczka z ryżem i ułożonymi na nim kawałkami (np.) cienkiego omletu, grzybów shiitake, korzeni lotosu, krewetek, ryb, krabów, warzyw, tofu*
+1303620 spacer, przechadzka
+1304680 szkoda
+1304970 praca
+1305380 zakończyć, zrobić w całości, całkowicie\n\nlub\n\nzrobić coś nieumyślnie, przypadkiem
+1305950 sposób użycia
+1305990 użyć; skorzystać
+1306570 plasterki surowej ryby, skorupiaków lub mięczaków
+1307040 4
+1307130 cztery pory roku*
+1307180 kwiecień
+1307200 najmniejsza i najsłabiej zaludniona z czterech głównych wysp Japonii*
+1307230 4:00 / 16:00
+1307320 czwarty dzień miesiąca
+1307500 zaczynać się
+1307520 na początku, po pierwsze, zaczynając od, przede wszystkim
+1307550 zacząć, zaczynać
+1307630 (moja) starsza siostra (pokornie, formalnie)
+1307800 spółgłoska
+1307850 (własne) dziecko
+1307860 Dzień Dziecka (w Japonii 5 maja)
+1308090 miasto (przyrostek)
+1309530 myśl
+1309650 palec
+1309670 wskazywać
+1309890 opuszek palca
+1310050 pierścionek („na palcu obręcz”)
+1310460 pomyślnie, znakomicie*
+1310620 zatrzymać się, parkować
+1310640 ustać, przestać
+1310680 zatrzymać
+1310730 umierać*
+1310890 Śmierć, bóstwo śmierci, Ponury Żniwiarz
+1311110 ja; w kobiecym lub dziecięcym języku
+1311125 ja
+1311300 my
+1311530 papier
+1311600 banknot
+1311640 fiolet, purpura
+1311730 hortensja ogrodowa
+1311810 tłuste
+1312350 egzamin („próby efekt”)
+1312500 przymierzanie ubrań
+1312970 chować, hodować, karmić, trzymać
+1313000 ząb (np. grzebienia, piły, koła zębatego)
+1313580 rzecz, sprawa, kwestia
+1313850 wypadek
+1314400 biuro
+1315130 pismo odręczne, charakter pisma
+1315140 słownik
+1315240 świątynia buddyjska
+1315720 trzymać; mieć, posiadać*
+1315840 czas
+1315920 czas, okres czasu
+1316140 zegar(ek)
+1316150 sklep z zegarkami
+1316220 czas, godzina
+1316380 następne
+1317170 ucho, słuch
+1317260 kolczyki
+1318090 natura
+1318290 rower
+1318400 samochód, automobil
+1318570 automat sprzedający
+1318610 (ja) sam; siebie
+1318880 niezależność
+1318950 rzucić (np. pracę)
+1319030 jeleń
+1319210 7
+1319280 lipiec
+1319370 siedmiokrotnie
+1320230 niegrzeczność, nieuprzejmość; przepraszam; pożegnanie, do widzenia
+1320760 zdanie pytające
+1320830 Prawdę mówiąc... ; Właściwie...
+1321610 trawnik; darnina, darń
+1321820 być fotografowanym; wyjść (o zdjęciu)
+1321900 zdjęcie; fotografia (czynność)
+1322920 szef, prezes firmy
+1322990 osoba
+1323080 samochód
+1323560 pożyczać (od kogoś)
+1323940 dług, pożyczka, zobowiązanie finansowe
+1324300 młody (człowiek)
+1324350 młodzież
+1324520 słaby
+1327190 dłoń, ręka
+1327720 list
+1327790 zabieg chirurgiczny
+1328070 chiromancja (czytanie z dłoni); linie dłoni
+1328090 rękawiczki
+1328110 sposób, środek
+1328190 pomagać
+1329000 hobby, zainteresowanie
+1329015 japońskie wino ryżowe* ; ogólne określenie napojów alkoholowych
+1330290 lekcja, wykład („instruowanie w zawodzie”)
+1331670 szukanie / znalezienie zatrudnienia („usadowienie się na posadce” ^^)
+1332650 jesień*
+1332730 równonoc jesienna, przesilenie jesienne, pierwszy dzień jesieni
+1332950 ostatni przystanek, końcowa stacja, pętla („ostatni punkt”)
+1333070 uczyć, szkolić się (od nauczyciela, pod jego kierunkiem)
+1333090 tradycja, zwyczaj
+1333450 tydzień
+1333500 okres tygodnia czasu
+1333520 koniec tygodnia, weekend
+1334040 mieszkać, żyć
+1334080 adres („zamieszkania miejsce”)
+1334150 mieszkanie
+1334470 11
+1334560 19
+1334570 październik
+1334630 krzyż, kształt krzyża
+1334890 12
+1334910 grudzień
+1335000 dziesiąty dzień miesiąca
+1335070 dziesięć minut
+1335310 kuzynka
+1335440 sztuka walki stworzona w Japonii jako sport
+1335640 długość; wysokość
+1335750 ciężki
+1336650 wielowarstwowe pudełko na jedzenie („warstwowe pudełko”)
+1336660 czytanie mieszane on-kun: pierwsza sylaba to on’yomi, druga – kun’yomi*
+1337270 praca domowa, zadanie domowe
+1337300 nocleg, zakwaterowanie
+1337830 wyrazy zbudowane z kilku Kanji*
+1338180 wyjmować, wyciągać (np. prędkość), wyłożyć, zapłacić, wydawać, przepisać (np. lekarstwo), wysłać (np. list)
+1338240 wyjść, wychodzić z
+1338850 wyjście, drzwi wyjściowe
+1339160 japoński bulion z ryb i wodorostów*
+1339260 miejsce pochodzenia
+1340000 wyjazd, odjazd
+1340450 móc, potrafić, być w stanie; być gotowym, zakończonym, zrobionym; forma potencjalna 「suru」
+1340460 w miarę możliwości
+1341000 wiosna
+1341140 wiosenna bryza, wiosenny wiaterek
+1342000 literatura piękna, beletrystyka
+1342380 korzystny, dobry, OK, w porządku
+1342540 początek, rozpoczęcie
+1342550 po raz pierwszy
+1342580 wczesne lato
+1343080 pierwsza miłość
+1343100 miejsce
+1343110 przy okazji, nawiasem mówiąc, swoją drogą, a propos
+1343460 gorący (pogoda, klimat)
+1343910 sposób, styl pisania, sztuka pisania ręcznego; kaligrafia (szczególnie używane w starych podręcznikach); kolejność kresek w znaku
+1343950 pisać; malować
+1344130 kaligrafia (szczególnie Kanji) - jedna z tradycyjnych sztuk japońskich*
+1344330 archipelag: jakakolwiek grupa wysp („rozmaite wyspy”)*
+1344410 pomagać
+1344930 kobieta, żeński (bezpośrednio)
+1344970 dziewczynka
+1344980 kobieta
+1345020 królowa
+1345140 dziewczynka
+1345150 szkoła dla dziewcząt, żeńskie liceum
+1345210 bogini
+1345250 kobieta, kobiecy, żeński
+1345420 żona (szczególnie własna; „pani domu”)
+1345710 odśnieżanie („usuwanie śniegu”)
+1347640 japońskie szachy, rozgrywane na planszy 9×9*
+1347710 przyszłość
+1347750 mały, drobny
+1347810 lekki deszcz*
+1347870 szkoła podstawowa*
+1347880 uczeń podstaówki
+1348400 kamyk
+1348430 powieść, nowela, opowiadanie
+1348440 powieściopisarz
+1348460 potok, strumień, strumyk
+1348560 fasola japońska*
+1348870 trochę (formalnie)
+1348910 kilka, trochę, mało
+1349170 chłopiec; gatunek mangi dla chłopców
+1349380 podłoga
+1349400 tradycyjna japońska alkowa*
+1350080 gumka do ścierania
+1350350 strażak
+1350460 pieczone słodkie ziemniaczki
+1351000 choroba, stan chorobowy, objawy choroby
+1351830 słoń
+1351980 „Najlepiej spożyć przed...”*
+1352030 dzwon
+1352090 półprzeźroczyste tradycyjne japońskie drzwi przesuwne*
+1352130 na, nad, ponad, powyżej, na górze
+1352320 dawać
+1352570 wspinać się
+1352710 na górze i na dole; 1 i 2 tom; 2-częściowy strój*; ocena z 2-częściowego egzaminu
+1353020 niebo na dużej wysokości
+1353080 górny limit
+1353260 przełożony, szef
+1353320 (obiektywnie) dobry w...
+1353910 górny, środkowy, dolny; trzy tomy; pierwsza-druga-trzecia klasa
+1355120 jeździć, podróżować; wsiąść, wejść
+1355850 miejsce
+1356150 oficjalna lista Kanji powszechnego użycia (ok. połowa, to znaki uproszczone przez Japończyków, podobnie jak zreformowano znaki w Chinach - choć tam bardziej radykalnie)*
+1356370 informacje, wiadomości
+1356750 tradycyjna podłoga, wykonana ze słomy
+1357600 kolor
+1358280 jeść
+1358340 żywność, pożywienie
+1358490 posiłek, jedzenie, dieta
+1358550 stołówka
+1358680 żywność, artykuły spożywcze
+1358780 japońska gra w słówka*
+1358800 ogon (zwierzaka)
+1360010 (położyć się, iść) spać
+1360140 sypialnia
+1360320 zaspanie
+1360930 zmartwienie, niepokój
+1361150 sposób przeczytania Kanji, dopisany drobnym druczkiem w Kanie powyżej lub poniżej*
+1361490 nowy
+1361590 szybka kolej
+1362100 świeży
+1362360 gazeta
+1362490 las
+1362500 cisza, spokój, wyciszony
+1362530 las
+1362640 głęboki, przenikliwy
+1363250 jaskrawa, głęboka czerwień
+1363480 pełnia, środek lata
+1363740 powielanie, imitowanie; zachowanie
+1364360 poważny, pilny
+1364380 północ, środek nocy
+1364670 świątynia shintoistyczna, chram*
+1364790 tradycyjna, narodowa, rodzima religia Japonii*
+1365040 rodzic
+1365230 krewny
+1365410 najlepszy, bliski, serdeczny przyjaciel
+1366060 poruszanie się do przodu (np. pociągu)
+1366410 narodowość
+1366770 człowiek, istota ludzka, rodzaj ludzki
+1367010 popularność
+1367300 populacja, ludność
+1367800 marchew(ka)
+1368110 tłum, frekwencja
+1369380 lista 863 Kanji, które mogą być oficjalnie rejestrowane i stosowane w zapisie imion i nazwisk Japończyków
+1369510 ryksza / riksza
+1369940 pytać, dowiadywać się, dociekać
+1370420 biblioteka
+1370860 sos (szczególnie sojowy lub mirin) do zanurzania
+1371260 woda
+1371320 pływanie
+1371670 jasno-/blado-niebieski
+1371780 wodór
+1371830 kostium kąpielowy
+1371840 pod wodą, podwodny; w wodzie
+1372190 środa
+1372950 ikra śledzia*
+1372980 matematyka
+1373060 liczba, cyfra
+1373440 Dzień / Święto Dziewcząt („święto lalek”)*
+1373850 społeczeństwo, ludzkość
+1373860 świat
+1373880 najlepszy na świecie
+1374190 pokolenie, generacja
+1374530 z całą pewnością, na pewno*
+1374550 Niesamowite!; Fantastycznie!
+1375610 stać się, stawać się, zostać
+1375750 Święto Wejścia w Dorosłość
+1375760 oceny, stopnie, wyniki
+1375970 polityka („władza rządząca”)
+1375980 polityk
+1376310 gwiazda
+1376320 mgławica, galaktyka
+1376460 słoneczna, czysta (bezchmurna) pogoda
+1376550 ładna pogoda, czyste niebo
+1376640 dokładnie, z pewnością, bez wątpienia; (właśnie) wtedy, w tym momencie
+1376740 poprawna odpowiedź
+1378450 surowe (np. jajka, ryby, itp.)
+1378590 żywa istota, żywe stworzenie
+1378860 życie
+1379380 uczeń / uczennica szkoły podstawowej lub gimnazjum
+1380440 głos
+1380570 aktor(ka) podkładający głos („głosu aktor(ka)”)
+1380840 zachód geograficzny
+1380890 arbuz
+1381140 nasza era, anno domini; kalendarz zachodni (gregoriański)
+1381390 niebieski
+1381470 niebieskie, błękitne niebo
+1381550 młodość, wiosna życia
+1381750 młodzieniec
+1381770 zielenina, warzywa
+1381820 cichy, spokojny
+1382250 miejsce
+1382370 dawno temu, dawne czasy; ostatnie: dziesięć lat, dekada
+1382590 mydło
+1382830 ropa naftowa
+1382990 (na)gromadzić się
+1383060 pokrywa śnieżna
+1383240 czerwony
+1383260 niemowlę (przyjaźnie, czule)
+1383310 niemowlę (formalnie)
+1383440 bycie na czerwono, deficyt
+1383560 równik
+1383620 rumieniec, rumienienie się
+1383680 ślad
+1384830 kroić, ciąć
+1385070 znaczek pocztowy
+1385170 bilet (głównie kolejowy; „przecinany symbol”)
+1385200 japońskie rytualne samobójstwo polegające na rozcięciu mieczem lub sztyletem brzucha, gdzie – według tradycji japońskiej – mieściła się dusza*
+1386340 koniec zimy* w tradycyjnym kalendarzu japońskim (3 lub 4 lutego - obchodzone 2 lub 3-ego)\n\nlub\n\nceremonia rozrzucania fasoli\n\nlub\n\nostatni dzień dowolnej pory roku* wg tradycyjnego kalendarza japońskiego
+1386460 objaśnienie, wyjaśnienie, wytłumaczenie, naświetlenie
+1386500 śnieg, opady śniegu
+1386690 lawina śnieżna, obsunięcie się śniegu
+1386960 beznadzieja („zaprzestanie pragnień”)
+1387240 najpierw
+1387500 w zeszłym miesiącu
+1387870 w zeszłym tygodniu
+1387990 nauczyciel
+1388740 1000*
+1389070 siewka (ptak)
+1389780 specjalizacja (uniwersytecka) / kierunek studiów
+1390050 w dół rzeki, z prądem rzeki
+1390080 górny bieg rzeki, w górę rzeki, pod prąd
+1390110 krótki, nie rymowany, żartobliwy lub satyryczny wiersz japoński (17-sylabowe haiku), często upowszechniany jako aforyzm lub przysłowie
+1390800 płytki
+1390930 myć; prać
+1390980 pranie
+1390990 pralka
+1391560 japońskie pikantne krakersy ryżowe
+1391780 linia
+1392100 poczta, przesyłka morska
+1392570 przed, ...temu; przód, front
+1392910 z przodu i z tyłu; przed i po
+1394800 „(o) matko” (wyraz rozczarowania)
+1395620 w ogóle*
+1396130 wszystko, razem, ogółem
+1396840 (mój) dziadek (formalnie)
+1396850 dziadkowie
+1396860 (moja) babcia (formalnie)
+1397300 cudowny, niezwykły („pogodne z zasady”)*
+1397350 cudowny, piękny
+1399790 sprzątanie
+1400240 szybka mowa
+1401210 konsultacja, proszenie o radę
+1401360 sumo
+1401400 okno
+1401820 premier; prezes rady ministrów; szef rządu
+1402540 biegać, biec
+1402640 Hiragana, która występuje po Kanji - stanowiąca zwykle część wyrazu, która może ulec zmianie
+1402730 wysyłać (np. paczkę)
+1403830 obok, pobliże
+1404390 mój syn
+1404400 czyjś syn (honoryfikatywnie)
+1404630 stopa, noga
+1404770 odgłos kroków („stóp dźwięk”)
+1404840 kostka (u nogi)
+1404975 wczesny, szybki
+1405030 wysyłka ekspresowa („prędko przybywa”)
+1405770 grupa
+1405790 kontynuować
+1405890 ukończenie szkoły lub studiów
+1406410 formy wywyższające w języku honoryfikatywnym, wyrażające respekt
+1406820 wieś
+1406830 wieśniacy, mieszkańcy wsi
+1406840 wójt, sołtys
+1407460 wiele, dużo, mnóstwo
+1407980 chyba, przypuszczalnie, prawdopodobnie
+1408180 gruby
+1408280 japoński bęben
+1409140 ciało
+1409540 masa, waga ciała
+1409620 długość ciała (zwierzęcia)
+1410590 czekać
+1411030 mech
+1411160 pożyczać (komuś)
+1411530 dowódca, oficer dowodzenia
+1412560 piedestał, podstawa
+1412640 kuchnia
+1413070 ulewa
+1413180 wiec, zgromadzenie, konferencja; turniej, zawody
+1413190 Sylwester (31 grudnia)
+1413240 uniwersytet, uczelnia, akademia
+1413250 studia podyplomowe, magisterskie
+1413260 student
+1413610 bardzo nielubiany; nienawidzący
+1413660 ulubiony; kochany
+1413880 ambasador
+1413890 ambasada
+1413940 ważne, istotne
+1414150 w porządku, bez obaw, dobrze
+1414160 minister
+1414170 dorosły, pełnoletni*
+1414210 powódź
+1414300 donośny głos
+1414310 Ocean Atlantycki
+1414350 obfite opady śniegu
+1414390 gruntowne, większe porządki
+1414470 mniej więcej, około
+1414580 zazwyczaj
+1414650 prezydent kraju
+1414890 wielki pomnik Buddy, mający co najmniej 4,8 m. wysokości
+1415000 trudne, ciężkie, poważne; straszne; wielce, strasznie
+1415870 bardzo; dużo, sporo
+1416010 grzyby
+1416170 pukać
+1416280 japońska lalka będąca talizmanem szczęścia*
+1416400 zdjąć (ubranie, buty, czapkę, itp.)
+1416700 półka
+1416770 szop
+1416830 kto?
+1416840 ktoś*
+1416850 każdy, ktokolwiek
+1416860 nikt*
+1417330 słownictwo, zasób słów
+1418620 krótki, krótkotrwały
+1418630 krótka pieśń lub wiersz – jedna z najstarszych form poezji japońskiej
+1419080 narodziny, kreacja, tworzenie, formowanie
+1419110 urodziny
+1419240 słodkie kuleczki, tradycyjne japońskie kluski*
+1419370 grać (na instrumencie strunowym lub klawiszowym)
+1419890 sklepowa lub domowa zasłona, pomagająca separować przestrzeń*
+1419990 mężczyzna, męski (bezpośrednio)
+1420010 chłopiec
+1420020 mężczyzna
+1420070 chłopiec
+1420080 męskie liceum
+1420110 mężczyzna i kobieta
+1420410 powiadamiać, informować
+1420470 znać, poznać, wiedzieć, dowiedzieć się
+1420590 wiedza, znajomość, informacja
+1420840 podziemie
+1420900 metro
+1420970 kula ziemska
+1420980 globalne ocieplenie
+1421290 mapa*
+1421330 bóstwo opiekuńcze dzieci
+1421510 grunt
+1421540 geografia
+1421630 krępujące, zawstydzające*; zawstydzony, skrępowany
+1421700 staw, sadzawka
+1421900 modestywna forma 「suru」
+1421970 późny, powolny
+1422360 szczudła
+1422390 bambusowe zarośla
+1422720 (jasny) brąz
+1422770 japońska ceremonia parzenia i picia herbaty
+1422970 przybyć
+1423000 zakładać, ubierać się, ubrać się, nosić*
+1423240 japońskie tradycyjne ubranie
+1423280 lądowanie
+1423310 w środku, środek, średni
+1423650 szkoła średnia niższego stopnia*
+1424150 używany, z drugiej ręki
+1424270 Chiny
+1424300 Chińczyk
+1424310 ・ (środkowa kropka) - służy do rozdzielania imion od nazwisk w japońskim*
+1424410 przerwanie, zawieszenie, zatrzymanie, odwołanie (planowanego wydarzenia)
+1424690 średniowiecze
+1425540 neutralność, bezstronność
+1426250 południe (popularnie o porze dnia)
+1426290 przerwa obiadowa
+1426530 uwaga, ostrożność
+1426560 ostrzeżenie ogólne (przed burzą, nawałnicą, itp.)
+1426650 zamówienie; prośba
+1426670 uwaga
+1427340 dokładnie, precyzyjnie, w sam raz
+1427370 formy uprzejme w języku honoryfikatywnym, służące do neutralnego wyrażania grzeczności
+1428280 rano, (po)ranek (popularne określenie)
+1428390 śniadanie (formalnie)
+1428500 poranne światło słoneczne, poranne słońce
+1428820 mieszczanie
+1429010 motyl
+1429060 sprawdzać; szukać
+1429170 stan zdrowia
+1429700 latać
+1429740 lider
+1429750 długi
+1430080 najstarszy, pierwszy syn
+1430250 ptak
+1430620 od razu
+1431850 niezwykły, wyjątkowy
+1432250 twardnik japoński, twardziak jadalny*
+1432680 bolący, bolesny, zraniony, ranny
+1432710 boleć
+1432850 uczęszczać (udawać się gdzieś regularnie), kursować, dojeżdżać, chodzić, jeździć (tam i z powrotem, pomiędzy, do i z)
+1434120 wętkować
+1434130 żuraw*
+1434180 niski
+1434250 spadek, obniżka, pogorszenie, degradacja
+1435650 specjał dnia*, zestaw potraw
+1436130 ogród
+1436200 czyjś młodszy brat (honoryfikatywnie)
+1436560 zamykać się, być zamkniętym
+1437230 kapać, ściekać; przepełniać świeżością, pięknem itp.
+1437440 umiarkowany
+1437780 żelazo, stal; kolej (skrót)
+1437960 kolej, pociąg; transport kolejowy
+1438210 niebo(skłon); niebiosa
+1438480 zstąpienie z nieba
+1438690 pogoda
+1438850 mityczne stworzenie: uskrzydlony goblin o czerwonej twarzy i dużym, długim nosie, podobno mieszkający głęboko w górach
+1439080 raj, niebo, Królestwo Niebieskie
+1439170 anioł
+1440520 miska tempury
+1440590 ryby, owoce morza, warzywa - panierowane w lekkim cieście, krótko smażone na głębokim oleju
+1440670 sprzedawca
+1441140 zmiana szkoły
+1441870 przekazywać, raportować
+1442500 Pan, Pani, Panna*
+1442740 wieś, ziemia uprawna
+1442750 wieś, wiejski krajobraz
+1442810 sadzenie ryżu
+1443000 elektryczność, prąd
+1443320 elektroniczny; elektron
+1443380 mikrofalówka
+1443530 pociąg
+1443840 rozmowa telefoniczna; telefon (skrót)
+1443940 numer telefonu
+1444680 przechodzić przez
+1444780 wspinaczka górska
+1444810 rejestracja, zapis
+1444970 duże miasto
+1444980 okoliczność, warunki
+1444990 miasto, miasteczko, miejscowość
+1445160 stopień (np. kąt, temperatura, itp.); razy
+1445270 ziemia, gleba
+1445470 ziemia, grunt, działka
+1445590 sobota
+1445790 przewrócić się
+1446070 zima
+1446090 ferie zimowe
+1446150 sen zimowy*
+1446650 (czytanie) Touon*
+1447440 wschód geograficzny
+1447690 stolica i największe miasto Japonii*
+1447910 wschód i zachód (geograficzne)
+1447930 wschód, zachód, południe i północ
+1448030 południowy-wschód*
+1448290 biała brzoskwinia
+1448590 czytanie mieszane typu kun-on
+1449280 poprzedzająca Jouyou lista 1850 Kanji zalecanych do powszechnego użytku w czasopismach, dokumentach, itp., opracowana w 1946 r.*
+1449530 odpowiedź
+1450030 fasola*, groch; soja
+1450060 mleko sojowe
+1450690 licznik dużych zwierząt (np. koń, krowa, słoń, żyrafa)
+1450870 nad głową
+1450940 inicjały
+1451150 pracować*
+1451160 ruch
+1451170 poruszać (wprawiać w ruch)
+1451210 poruszać się (sam fakt poruszania się)
+1451290 klip, filmik wideo (zwłaszcza cyfrowy)
+1451380 czasownik
+1451470 zwierzę
+1451730 taki sam, identyczny
+1451750 taki sam
+1454080 droga (dosłownie i w przenośni), sposób; nauczanie, dziedzina, specjalność
+1454290 droga, ulica, szosa, autostrada
+1454510 mocna strona
+1454670 zwłaszcza, w szczególności, szczególnie
+1456360 czytać
+1456400 czytelnik
+1456420 czytać książki, czytanie książek
+1457390 świnia
+1457440 wieprzowina
+1457640 niezdarny, głupi, tępy
+1457730 wewnątrz, w środku; ja, mnie*
+1457910 rząd, rada ministrów
+1457940 premier
+1458770 wewnętrzna część
+1459720 garnek
+1459730 rozgrzewające jednogarnkowe dania
+1459870 południe geograficzne
+1460180 Biegun Południowy
+1460600 południe i północ (geograficzne)
+1460850 trudny
+1461140 2
+1461160 2
+1461410 dwa razy
+1461420 drugie piętro
+1461560 luty
+1462000 20
+1462900 drugi dzień miesiąca
+1462920 dwukrotnie (mniej / więcej)
+1463480 tętniący życiem, hałaśliwy, gwarny
+1463540 sklep mięsny
+1463740 tęcza
+1464450 zachód słońca, zmierzch
+1464470 Morze Japońskie
+1464530 język japoński
+1464670 japońskie wino ryżowe
+1464690 japońskie: jedzenie, posiłek
+1464700 Japonka, Japończyk
+1464900 niedziela
+1465590 wchodzić, wejść; być wewnątrz (np. pudełka); należeć (do czegoś)
+1465610 wkładać, włożyć
+1465850 wstąpienie na uniwersytet; rozpoczęcie szkoły
+1466130 przyjazd (do obcego państwa)
+1467630 warzywo przypominające por, o lekko słodkawym posmaku*
+1467640 kot
+1467710 gorączka
+1467720 gorący (w dotyku, jak np. gorąca herbata, czy ręka)
+1468250 kartka noworoczna
+1468380 okres roku; przez ... lat
+1468900 ~oklasista
+1469210 koniec roku
+1469850 zmartwienie, niepokój
+1470070 tradycyjna japońska potrawa przygotowywana ze sfermentowanych ziaren soi
+1470120 jeden z głównych gatunków klasycznego teatru japońskiego*
+1470370 zdolność, umiejętność
+1470620 dom w gospodarstwie rolnym; zagroda
+1470730 wieś rolna
+1471560 koń
+1471900 wiersze japońskie o różnorodnej tematyce ujętej zwięźle, dowcipnie, zazwyczaj z wyrazistą puentą*
+1471970 aktor(ka)
+1472650 wzrost
+1472800 plecy
+1473740 kupić
+1474440 cienko pokrojona wołowina, grzyby, warzywa, jadalne chryzantemy i tofu - gotowane w bulionie (sos sojowy, mirin, sake, cukier), a następnie zanurzane w miseczce z surowym jajkiem
+1474620 doktor (ekspert, osoba uczona)
+1474720 muzeum
+1474820 klaskanie dłońmi; oklaski
+1474850 zatrzymać się na noc, przenocować
+1474900 biel
+1474910 biały (kolor)
+1475160 czarno-białe
+1475200 czysta kartka
+1475220 Biała Księga (raport rządowy)
+1475330 łabędź
+1475480 cienki; wąski
+1475880 petarda
+1476410 pałeczki do jedzenia
+1476510 słoje drewna; tekstura
+1476520 pole (uprawne, ale nie ryżowe)
+1476730 sierpień
+1476920 ósmy dzień miesiąca
+1476960 warzywniak
+1477170 rozmowa
+1477310 odkrycie
+1477950 włosy
+1478750 połowa, (w) pół (do którejś)
+1479890 pół, połowa
+1481240 żagiel
+1481280 przegrzebek*
+1481640 grupa, ekipa, zespół; oddział, sekcja
+1481920 hałaśliwe; nieznośne; Bądź cicho! / Zamknij się!
+1482110 wieczór, zmrok, noc
+1482340 program (np. radiowy, telewizyjny)
+1482410 przyrostek do tworzenia liczebników porządkowych (metoda podstawowa)
+1483070 on; chłopak (partner)
+1483090 oni
+1483140 chłopak
+1483150 ona; dziewczyna (partnerka)
+1483190 smutny
+1483740 zmęczyć się, być zmęczonym
+1483920 skóra
+1484060 prywatna sekretarka
+1484150 sekret, tajemnica
+1484330 zakładać (na głowę)
+1484660 ewakuacja
+1485470 samolot
+1486360 piękny, czysty (serce, przyjaźń, itp.)
+1486440 sztuka piękna
+1486500 piękna dziewczyna
+1486650 smaczny
+1486670 piękno, upiększanie, piękny wygląd, figura
+1486680 salon piękności, damski salon fryzjerski
+1486720 nos
+1487660 potrzebny
+1487820 Kanji uproszczone w piśmie odręcznym*
+1488000 100*
+1488090 dom towarowy
+1488250 rolnik, farmer
+1488400 stokrotny, stukrotny; po stokroć*
+1488730 standardowy język japoński
+1489030 góra lodowa
+1489350 lista, wykaz
+1489510 wyrażenie
+1490220 szpital
+1490230 choroba*
+1490900 dotknięty biedą, żyjący w nędzy
+1493700 niedobór, niedostatek („niewystarczające”)
+1494860 niedogodny
+1495000 niesmaczne
+1495770 zakładać (niewielkie sztuki odzieży lub akcesoria)* ; przyczepić, przymocować, przyszyć
+1496480 mój mąż
+1496800 najwyższy szczyt i wulkan, a zarazem najważniejszy symbol Japonii
+1496840 tkanina, materiał
+1496890 tradycyjne japońskie posłanie*
+1497610 (mój) tato
+1497680 mój tato*
+1497690 (moi) ojciec i matka, (moi) rodzice
+1498380 rodzina / klasa samurajów
+1498620 etyczne, moralne i ideologiczne normy zachowania samurajów, odnoszące się do ogólnego, charakterystycznego dla Japonii, sposobu myślenia*
+1498880 japońskie sztuki walki
+1499230 winogrona
+1499290 klub; wydział (przyrostek)
+1499320 pokój (pomieszczenie)
+1499350 podwładny
+1499400 komponent (rdzeń, pierwiastek) Kanji*
+1499720 wiatr; przeziębienie
+1499830 sceneria, widok, krajobraz
+1500100 kąpiel, wanna; łazienka, łaźnia
+1500150 tobołek, chusta z materiału, o różnych rozmiarach, służąca w Japonii tradycyjnie do owijania, pakowania i przenoszenia różnego rodzaju przedmiotów*
+1500800 ćwiczenie, powtarzanie lekcji
+1500940 ubranie, odzież
+1501220 pejoratywne określenie seppuku - rzadko stosowane przez współczesnych Japończyków*
+1501320 złożony (np. czasownik)
+1501620 zapłacić
+1501680 gotować się, dojść do wrzenia; wyr(y)wać się, ekscytować
+1501930 buddyzm
+1502430 ceny („rzeczy cena”)*
+1502480 opowieść, historia, legenda
+1502800 fizyka
+1502840 licznik minut*
+1504900 gówno*
+1505090 zdanie
+1505120 kultura, cywilizacja
+1505190 literatura
+1505380 mistrz literatury
+1505390 litera, znak
+1505470 zdanie; wypracowanie; styl (pisarski)
+1505600 gramatyka
+1505790 rozumienie ze słuchu
+1505990 jednak(że), tym niemniej*
+1507090 sylabariusz służący przede wszystkim do zapisu słów rdzennie japońskich, gramatyki - i wymowy Kanji
+1507410 stolica Japonii w latach 710–740 i 745–784; położona w dzisiejszej Narze
+1508070 (s)pokój, harmonia
+1508550 zamknąć, zamykać (książkę, oczy, spotkanie, itp.)
+1508590 zamykać
+1508720 zamknięcie sklepu (na dzień); zaprzestanie, zakończenie działalności
+1508750 łuskane ziarna ryżu
+1509480 nieszczególnie, niespecjalnie
+1510640 dziwny, dziwna, dziwne
+1510650 zmieniać
+1510930 nieregularność (odmiany w gramatyce)
+1511600 sylabariusz służący przede wszystkim do zapisu zapożyczeń językowych*
+1512130 zwrócić, oddać
+1512610 przydatny, wygodny, pożyteczny
+1512670 nauka
+1512850 prawnik
+1513060 japońskie drugie śniadanie lub obiad na wynos, w specjalnym pudełku*
+1513065 japońskie drugie śniadanie lub obiad na wynos, w specjalnym pudełku*
+1514320 iść, chodzić pieszo
+1514420 chodnik, ścieżka
+1514840 grób
+1514990 (moja) mama
+1515120 moja mama*
+1516925 osoba; pani, pan (honoryfikatywnie); kierunek, strona; metoda, sposób czegoś
+1516990 kierunek, orientacja, kurs; zamiar, zamierzenie
+1517860 miód
+1519170 czapka; kapelusz
+1519210 zapominać
+1519290 zapracowany, zajęty (o kimś); pracowity (np. dzień)
+1520670 północ geograficzna
+1520810 druga pod względem wielkości wyspa Japonii*
+1520890 Biegun Północny
+1521400 ja (pół- lub nieformalnie; najczęściej używane przez mężczyzn; podkreśla męskość umiarkowanie)
+1522050 prawie nigdy, prawie w ogóle
+1522060 fosa, kanał, rów
+1522150 książka; licznik podłużnych przedmiotów*
+1522240 księgarnia
+1522250 prawdziwa intencja, opinia
+1522370 prawda, powaga, szczerość
+1522630 główna siedziba, centrala
+1522640 największa, a tym samym główna wyspa Japonii
+1522980 półka na książki
+1523040 główna, najważniejsza wyspa
+1523060 naprawdę
+1523110 dziś, dzisiaj (grzecznie)
+1523430 tłumacz pisemny
+1523730 sztuka miniaturyzowania drzew lub krzewów uprawianych w odpowiednio dobranych, płaskich pojemnikach
+1523780 tradycyjny japoński sierpniowy taniec, ku powitaniu zmarłych i świętowaniu ich obecności
+1524590 (moja) młodsza siostra
+1524600 (czyjaś) młodsza siostra (honoryfikatywnie)
+1524610 licznik płaskich przedmiotów
+1524650 co, w każdy
+1524670 za każdym razem
+1524690 co tydzień
+1524700 co rano
+1524720 codziennie, każdego dnia
+1524730 każdej nocy, każdego wieczoru
+1524930 znów, znowu, ponownie
+1525220 słynna japońska zielona kremowa herbata o smaku roślinno-umami
+1525680 do
+1526920 manga
+1527050 zupa miso
+1527080 słodka płynna przyprawa o zawartości 14% alkoholu*
+1527110 nadal, jak dotąd, dotychczas
+1527150 jeszcze nie
+1528180 wąż*
+1528190 rok Węża*
+1528410 mandarynka*
+1529330 śpiący
+1529410 sen
+1529530 zgubić (coś)
+1529560 bez (czegoś)
+1530510 bezużyteczny
+1530970 niemożliwe
+1531120 mżawka („mgiełkowy dreszczyk”)*
+1531190 moja córka
+1531200 (czyjaś) córka (honoryfikatywnie)
+1531550 wizytówka
+1531570 rzeczownik
+1531630 japońskie czytanie Kanji używane w imionach i nazwiskach, albo nazwach geograficznych*
+1531710 imię i nazwisko; nazwa
+1532160 rozkaz
+1532350 jasny; radosny, pogodny, wesoły
+1532870 ćwierkać. świergotać, wydawać dźwięk (o zwierzętach); miauczeć, szczekać
+1532940 siostrzenica; bratanica
+1533560 uciążliwy, nieznośny, męczący
+1533580 interesujące
+1533860 przędza wełniana, wełna dziewiarska, włóczka
+1534520 drzewo; drewno
+1534890 czwartek
+1535370 gałka oczna
+1535460 spis treści
+1535690 krople do oczu
+1535700 być wyraźnym, widocznym
+1535780 oczywiście, z pewnością
+1535790 słodkie kleiste, kuliste ciasteczko ryżowe
+1535880 (za)wracać
+1535910 dostawać, otrzymywać
+1536010 problem, zagadnienie, kwestia
+1536350 noc (popularne określenie)
+1536670 nocne niebo
+1536850 przekąska po kolacji; późny posiłek
+1537300 baseball
+1537360 pole, równina, preria, wrzosowisko
+1537370 warzywa
+1537980 być przydatnym, pomocnym, pożytecznym, użytecznym
+1538130 obietnica
+1538160 lekarstwo; narkotyk
+1538170 apteka, drogeria (nieformalnie)
+1538200 apteka, drogeria (formalnie)
+1538250 palec serdeczny (trzeci), czwarty w grze na fortepianie lub czwarty u nogi
+1538280 substancja chemiczna
+1538440 tańczyć
+1538870 sprowadzenie, import
+1539040 miły, życzliwy, uprzejmy, sympatyczny
+1539740 odwaga
+1540170 przyjaciółka, przyjaciel*
+1541620 sławny, słynny
+1542160 bawić się, grać
+1542430 urząd, placówka pocztowa
+1542640 wczorajszy wieczór, zeszłej nocy
+1542730 wieczorny posiłek, kolacja (formalnie)
+1542750 wieczorne, zachodzące słońce
+1542790 pod wieczór, zmierzch
+1543630 prognoza
+1543750 rezerwacja
+1545260 przedszkole*
+1545770 dzień tygodnia
+1545790 czcigodny, wielmożny, szanowny*
+1545820 sytuacja, stan (spraw), okoliczności
+1545970 pomieszczenie w zachodnim stylu
+1546000 zachodnie jedzenie
+1546020 odzież w zachodnim stylu / ubrania zza oceanu
+1546220 przygotowanie
+1546450 piec do wypalania cegły, porcelany, ceramiki
+1546880 taniec
+1547330 chcący, pragnący, życzący sobie
+1547450 brać (np. prysznic, kąpiel), polewać się (np. wodą)
+1547710 następny, przyszły
+1547720 przyjść, przyjechać, pójść*
+1547900 przyszły miesiąc
+1548010 następny / przyszły tydzień
+1548220 przyszły rok, w przyszłym roku
+1548550 spadać
+1549140 jajko
+1549460 korzyść, zysk, pożytek
+1549860 gruszka
+1549910 (z)rozumienie, wyrozumiałość
+1550140 powód, przyczyna
+1550260 łapówka, lewa kasa*
+1551300 wpaść (na moment), zatrzymywać się
+1551710 stanowisko, punkt widzenia
+1551790 wspaniały
+1552740 studia za granicą
+1552750 student zagraniczny
+1553120 podróż, wycieczka, wędrówka
+1553130 tradycyjny japoński zajazd
+1553170 podróż
+1553590 historyczne centrum zapasów sumo w Tokio
+1554230 akademik
+1554280 opłata, koszt
+1554310 danie; gotowanie
+1554370 chłodno
+1554430 pies myśliwski, gończy
+1555020 siłacz
+1555300 zieleń (kolor)
+1555320 zielony (kolor)
+1555450 leśnictwo (nauka)
+1555480 jabłko
+1555830 obok
+1556370 na przykład
+1556730 zimny (w dotyku - np. zimny lód, zimna ręka)
+1557110 lodówka
+1557600 konwalia majowa
+1557630 0
+1558050 historia
+1558390 archipelag: łańcuch, linia, łuk wysp („rząd wysp”)*
+1558800 miłość*
+1558920 sympatia, ukochana / ukochany, partner(ka)
+1559040 list miłosny
+1559160 praktyka, ćwiczenia, trening
+1559690 udźwięcznienie niektórych japońskich słówek („łączenie przez udźwięcznienie”)*
+1559900 kontakt (komunikacja)
+1561290 sześciobok, heksagon
+1561330 czerwiec
+1561470 szósty dzień miesiąca
+1561590 nagranie dźwięku
+1561920 Japonia, japoński styl
+1562000 klasyczna poezja japońska*
+1562020 tradycyjne japońskie wyroby cukiernicze
+1562060 japońska wołowina
+1562110 tradycyjny japoński pokój (pomieszczenie)
+1562140 stworzone, wykonane w Japonii („w Japonii wyprodukowane”)
+1562190 tradycyjna japońska odzież
+1562350 rozmawiać, dyskutować
+1562640 krokodyl
+1562870 zegarek na rękę
+1562970 miseczka ryżu z różnymi dodatkami (mięso, ryby, itp.) na wierzchu*
+1567450 kieszonkowiec
+1568950 smażony ryż po chińsku
+1571170 pępek
+1571460 truskawka
+1571760 róża
+1573820 nożyczki
+1574430 japońskie lub tradycyjne chińskie pierożki
+1574470 rodzaj grubego, miękkiego, japońskiego makaronu klusek z mąki pszennej
+1575200 żyrafa
+1575460 łasica
+1575680 przywiązanie (szczególnie do rzeczy), sentyment, sympatia
+1576050 przedwczoraj
+1576100 01:00 / 13:00
+1576130 jednokolorowy
+1576150 jedna osoba; (sam)odzielnie
+1576200 (przez całe) życie, przeciąg życia
+1576250 (jeden) raz
+1576260 cały, jeden dzień
+1576280 jeden rok
+1576590 okrąg
+1576630 sól
+1576760 żółty
+1576870 ja (tylko nieformalnie)*
+1576900 dźwięk, brzmienie, odgłos
+1577100 co? / ile?
+1577120 dlaczego?; jak?; po co?; z jakiego powodu?
+1577130 w każdej chwili, cały czas
+1577140 gdzie?, dokąd?
+1577200 uroczy, słodki, śliczny
+1577270 kwestia (mówiona linia tekstu), komentarz, uwaga
+1577280 wolny (mający czas)
+1577300 ujście rzeki
+1577330 ogród kwiatowy
+1577490 przystojny, atrakcyjny, stylowy, dobrze wyglądający*
+1577670 okulary
+1577980 być*
+1578010 ryba
+1578120 złoty kolor
+1578150 9
+1578240 rodzeństwo (starszy brat i młodsza siostra)
+1578780 liście zmieniające kolor na czerwony, czerwone (jesienne) liście, kolory jesieni*
+1578850 iść
+1579080 (przybliżony) czas, około, mniej więcej
+1579100 dziś rano, dzisiejszy poranek
+1579110 dzisiaj
+1579130 w tym roku
+1579140 dziś wieczorem, dziś w nocy
+1579180 lewa strona
+1579260 wczoraj
+1579350 3
+1579450 tradycyjny japoński instrument 3-strunowy*
+1579470 4
+1579490 siostry
+1579630 siódmy dzień miesiąca
+1579640 Festiwal Gwiazd*
+1579690 wynajęty dom, dom do wynajęcia
+1579720 samotny
+1579840 10
+1579850 dziesięć razy
+1580290 dziewczynka (szczególnie pomiędzy 7, a 17 rokiem życia); gatunek mangi dla dziewcząt
+1580580 głębokie: szkarłat, karmazyn
+1580600 prosto (kierunek); wyprostowany
+1580640 osoba
+1580650 ludzie
+1581270 natychmiastowe („szybkie spieszenie się”)
+1581310 strona*
+1581710 za dnia, w ciągu dnia; czas od wschodu do zachodu słońca
+1581900 golić
+1581930 (mój) młodszy brat
+1582020 Droga Mleczna („Niebiańska / Boska Rzeka”)
+1582030 cesarz (Japonii)
+1582120 sklep
+1582200 po drodze
+1582300 i inne, itp. (partykuła)
+1582310 głowa, rozum, intelekt
+1582410 wertepy, wyboje
+1582620 południowy-wschód*
+1582670 dwie osoby
+1582710 Japonia
+1582820 wejście
+1582960 pora deszczowa
+1583050 siwe / białe włosy
+1583090 8
+1583370 licznik małych zwierząt lub owadów
+1583460 rysować, szkicować, malować
+1583640 mąż i żona
+1583680 każdy, kto zajmuje się wojaczką*
+1584170 północ kraju, północne prowincje
+1584350 co miesiąc
+1584360 co roku
+1584460 10 000
+1584640 pojutrze
+1584660 jutro
+1584800 brama, wrota
+1584930 nie za bardzo, niedużo, raczej nie*
+1584990 lekkie bawełniane letnie kimono
+1585060 piorun, błyskawica, grom
+1585230 przykład
+1585310 6
+1585630 łyżka, łyżeczka
+1585650 pudełko
+1586050 japońska sztuka samoobrony, walki
+1586330 śniadanie (nieformalnie)
+1586420 ciepłe, gorące (powietrze, kolor)
+1586910 zapamiętywanie, uczenie się na pamięć
+1587040 mówić, powiedzieć
+1587610 nielubiący, niechętny, niemiły, nieprzyjemny
+1587730 zatoka, zatoczka
+1587840 pojemnik
+1587850 różny, rozmaity
+1588010 pora deszczowa, deszczowe dni
+1588060 recepcja
+1588120 spiewać
+1588320 kopiować
+1588370 jeżowiec, jeż morski
+1588550 miejsce sprzedaży, stoisko
+1588720 krewetki*
+1588880 duży
+1589340 wspomnienia
+1589350 myśleć, sądzić
+1589450 japońska sztuka składania papieru
+1589500 wysiadać (np. z samochodu)
+1589590 koniec, zakończenie*
+1589600 (s)kończyć
+1589730 zakupy
+1590090 wiszący zwój, na którym umieszcza się kaligrafię lub obraz
+1590200 kosz
+1590510 japońska sztuka układania kwiatów
+1590600 przedmiot lekcyjny
+1590950 Na zdrowie!
+1590970 doskonale
+1591110 słuchać
+1591430 samopoczucie, nastrój
+1591500 ogórek
+1591740 błyszczeć, lśnić, migotać, mienić się
+1591900 ładny; piękny; czysty
+1591990 być ostrożnym, uważnym, uważać na
+1592250 kraj, państwo
+1592270 szyja
+1592340 zachmurzenie, pochmurna pogoda
+1592500 zdrowie, kondycja, stan organizmu
+1592900 szczeniak; mały pies
+1592910 flaga w kształcie karpia („karpiowa flaga”)
+1593260 zagajnik, skupisko / kępa drzew
+1593480 straszny
+1593670 szukać
+1593710 kwiat wiśni
+1593830 różny
+1594060 szczęśliwy
+1594110 metoda, sposób, środek
+1595020 sos sojowy
+1595270 słownik
+1595650 potrawa japońska złożona z gotowanego ryżu zaprawionego octem ryżowym (su) oraz różnych dodatków*
+1595730 całkowicie
+1595990 tradycyjny sposób siedzenia Japończyków
+1596390 odkurzacz
+1596780 tajfun, huragan*
+1596910 ośmiornica
+1596920 potrawa japońska, przygotowywana z ciasta i ośmiornicy
+1597040 stać
+1597110 publiczne, oficjalne stanowisko*
+1597150 papierosy
+1597350 stopniowo
+1597790 chodzić z kimś, być w związku, spędzać czas
+1597890 robić, tworzyć, przygotowywać
+1598430 Pieczenie lub grillowanie mięsa lub ryb w specjalnej marynacie, zwanej tare (japońska technika kulinarna).\n\nlub\n\nGrillowane mięso lub tofu z glazurą.
+1598550 wybrać się, wychodzić, wyruszać, wyjechać
+1598680 czasami*
+1598750 starsza osoba
+1599120 transakcja, interes, biznes
+1599200 Niemcy*
+1599390 naprawić
+1599590 wszystko
+1599760 zapach; smród
+1600050 marzenie; życzenie
+1600430 napój; picie
+1600460 przesiadka
+1600530 środki transportu
+1600720 gwałtowny, intensywny, zacięty
+1600790 20 lat (wiek)
+1600850 dwudziesty dzień miesiąca
+1600900 rozmowa, konwersacja, dyskusja, pogawędka; opowieść
+1601260 głupiec
+1601340 kolacja*
+1601350 japoński okrzyk wyrażający radość, sukces - zwykle połączony z podniesieniem obu rąk w powietrze*\n\n<hr>\n<sup>źródło: <a href="https://www.japonski-pomocnik.pl/wordDictionary">Mały Skromny Japoński Pomocnik »</a></sup>
+1601650 szuflada
+1601690 następnie, po tym; właśnie tak, zgadza się; ciągle, nieustannie
+1601810 wąsy
+1602150 księżniczka*, szlachetnie urodzona panienka
+1602330 obiad (formalnie)
+1602340 obiad
+1602710 rodzice
+1602760 kac
+1602800 statek, okręt, łódź
+1602980 piękne, bogato zdobione kimono z długimi rękawami, zakładane przez młode kobiety na Święto Dorosłości
+1603720 panicz
+1603990 miasto, miasteczko, dzielnica
+1604050 głęboka czerń
+1604130 festiwal, uroczystość; karnawał*
+1604135 festiwal, uroczystość; karnawał*
+1604230 kulisty / okrągły (np. w kształcie dysku)
+1604300 obracać się, kręcić się, wirować
+1604350 (sam) środek, centrum
+1604570 znaleźć, odnaleźć (np. coś brakującego); dostrzec, zauważyć (np. błąd w książce)
+1604730 nazwisko
+1604850 zepsuty (spróchniały, dziurawy) ząb
+1604890 oko, wzrok
+1605210 kret
+1605410 grillowany szaszłyk z kurczaka
+1605450 potrawa smażona na ogniu (szczególnie ryba); danie z grilla
+1605630 miękki
+1605820 dobry
+1605870 często
+1606560 rozumieć
+1606590 rozstać się, zerwać
+1606680 ekscytować się
+1606685 odczuwać emocje (radość, odwagę itp.)
+1607050 my*
+1607070 wujek
+1607100 ciocia
+1607260 zakładać, wkładać (poniżej pasa)*
+1607440 śpiewający głos
+1608090 dzielnica biznesowa Tokio, z miejskim ogrodem, zwanym oazą w centrum miasta
+1609080 rzeczy do umycia (np. naczynia, pranie)
+1611020 dlaczego?, po co?, w jakim celu?, jak?
+1611030 wszystko; cokolwiek
+1611130 wszystko, całkowicie, zupełnie, kompletnie, bez wyjątku
+1611250 język mówiony, potoczny
+1611360 nocą
+1611580 naprawdę
+1612620 tu i ówdzie, tu i tam (potocznie)
+1612760 lekarz, doktor (uprzejmie)
+1621920 największe słodkowodne jezioro Japonii*
+1623450 ryżowe ciastko lub placek - nadziewane dżemem z fasoli
+1629070 lampart
+1629290 czternasty dzień miesiąca
+1629300 dwudziesty czwarty dzień miesiąca
+1629600 naleśnik w kształcie ryby, wypełniony dżemem z fasoli
+1631530 japońska szkoła obrony (zwłaszcza przed atakiem z zaskoczenia) oraz ewentualnego kontrataku, w każdych (zwłaszcza nie typowo walecznych) okolicznościach - zorientowana jednak przede wszystkim na ambicji zniechęcenia agresora do jego zapędów bez konieczności dobywania broni
+1632670 wydmuchiwać nos
+1633620 łąka
+1633690 poziom, stopień, klasa
+1634500 rzadko, okazjonalnie, sporadycznie
+1637780 znak diakrytyczny używany do tworzenia dźwięcznej Kany* - małe kółko w prawym górnym rogu litery
+1641660 brzęczenie, dzwonienie, szum w uchu
+1641750 gęsty las
+1643130 komponent Kanji, nadający mu często znaczenia związanego z osobą*
+1644480 odizolowana, odległa wyspa
+1644930 szef kuchni
+1645250 trzcina cukrowa
+1645700 przędzenie jedwabiu
+1650920 konewka (por. “jorro”)
+1652350 stolica Japonii od końca VIII w. do 1869 r.
+1652680 Francja
+1665520 „sushi zawijane”*
+1676220 puste pudełko
+1684900 muzyka klasyczna
+1694160 wschód słońca widziany ze szczytu wysokiej góry
+1698090 odzież zimowa, zimowe ubrania
+1698710 wózek ręczny; taczka
+1698850 rodzaj maki-zushi (sushi zawijanego ręcznie): rożek z wodorostów (nori), wypełniony dodatkami*
+1702280 pachnący ziemią, wiejski
+1703820 szkoła zawodowa / techniczna
+1715690 widowisko, atrakcja
+1720200 nów
+1720240 oficjalnie uznana (włączeniem do Touyou, a następnie do Jouyou) część uproszczonych wersji Kanji*
+1721230 rodzaj gofra wypełnionego dżemem z fasoli
+1723340 sklep papierniczy
+1728430 ceremonia otwarcia
+1745480 świt*
+1748740 dryfująca chmura
+1753790 przez świat (dookoła świata)
+1754080 szczypiorek
+1756600 tofu w cieście, głęboko podsmażane z cienkimi plastrami warzyw, jajkami i sezamem
+1765760 sklep z elektroniką
+1766510 myjnia samochodowa
+1766800 Hiszpania
+1775880 Rosja
+1776840 ratusz
+1779520 rolki sushi z tuńczykiem*
+1786150 silny wiatr, wichura, wicher
+1794450 sklep odzieżowy z zachodnimi ubraniami
+1804190 śnieżny krajobraz
+1806020 almanach słówek sezonowych* haiku
+1811920 rysownik mangi
+1814040 trzy minuty
+1814070 trzy lata
+1815980 kosmologia
+1825510 szpula nici
+1828510 nefrytowy kielich
+1841850 Berlin
+1844600 przedwczesna śmierć
+1845200 okrzyk wojenny / bitewny
+1845250 japoński rodzaj wołowej potrawki z dodatkiem cebuli, duszonej w umiarkowanie słodkim sosie na bazie rybnego bulionu dashi, sosu sojowego i mirinu, podawanej w misce na porcji ryżu*
+1849760 na zawsze, na wieczność
+1884150 komponent Kanji, nadający mu często znaczenia związanego z drogą, chodzeniem, ruchem lub odległością*
+1891810 palić papierosy*
+1898600 sobota i niedziela (weekend)
+1906780 kwiat rycerstwa
+1920240 jaki?; który?
+1929050 Afryka
+1929870 (duży) budynek, budynek publiczny, hala (przyrostek)
+1931280 pokaz fajerwerków / sztucznych ogni
+1932300 „czytania zwyczajowe” Kanji*
+1942230 szkoła dla chłopców
+1946540 ceremonia zamknięcia
+1956480 jedzenie, pożywienie, artykuły żywnościowe
+1960230 tłumacz ustny
+1981920 przybycie, nadejście (honoryfikatywnie)
+1983730 (jasno)brązowy
+1985310 cztery osoby
+2005860 jeszcze raz, ponownie
+2006160 Uczeń której klasy?
+2008220 bardzo eleganckie, uprzejme powitanie lub pożegnanie*
+2008530 one
+2013470 wczesna kolacja
+2013900 czerwień
+2015610 wkrótce, niebawem
+2015980 bułka drożdżowa wypełniona słodką pastą z czerwonej fasoli (anko), często podawana na ciepło*
+2016020 słodycze
+2020550 znak @
+2022640 numer (w serii)
+2027780 Chiny (dynastia Han)
+2029460 stać się lepszym, poprawić, ulepszać
+2036380 Hurra!*
+2036870 pragnienie, prośba, życzenie; proszę
+2038570 800
+2038580 osiem minut
+2038730 „zrelaksowana edukacja”*
+2056150 sześć minut
+2057830 właśnie tak, zgadza się
+2061530 kojący, relaksujący, uspokajający, uzdrawiający*
+2067900 okres czasu*
+2070970 kolejny, inny
+2077500 student studiów magisterskich, podyplomowych
+2078800 Osaka
+2078870 Rzym
+2082160 sklep, restauracja, zakład usługowy (przyrostek); ktoś kto sprzedaje lub pracuje jako...; ktoś z pewną cechą osobowości; dach
+2083100 licznik dni*; skrót na niedzielę
+2083290 woda
+2083900 test zdolności Kanji*
+2084840 licznik lat (nie chodzi o wiek)
+2088010 zamek, forteca (przyrostek w nazwach miejsc.)
+2096140 myć zęby
+2097700 udar cieplny
+2099360 taniec na powitanie duchów przodków, odwiedzających swych krewnych podczas święta O-bon*
+2100500 ten weekend
+2108140 akcent pada na jedną z środkowych sylab, po której następuje spadek tonu
+2108150 akcent, w którym ton spada zaraz po pierwszej sylabie*
+2108160 akcent przesunięty na ostatnią sylabę, czyli ton wzrasta do końca słowa i opada zaraz po nim
+2108170 akcent, w którym ton rośnie zaraz po pierwszej sylabie
+2108190 zada(wa)ć pytanie*
+2109590 drewniany pojemnik zazwyczaj lakierowany w japońskim stylu i służący do podawania gorących napojów*
+2120110 raport drogowy
+2120120 język tagalski
+2123250 jeszcze raz, ponownie
+2137720 (ah) tak?
+2138430 Dzień Chłopców
+2143010 600
+2143350 być może
+2146040 koniugacja czasowników 「-suru」*
+2146840 mądry („dobra głowa”)
+2147630 po, później (czas)
+2149890 licznik ludzi
+2153790 bardziej formalny licznik osób
+2157240 rzeczownik, od którego można tworzyć czasowniki -suru (tzw. サ変動詞)*
+2160680 Lepiej będzie, jeśli (nie)...
+2164610 drugie co do wielkości miasto w Japonii, jej największy port morski*
+2164670 tu znajduje się „pływająca”, gigantyczna brama świątyni Itsukushima, zbudowana w VI w.
+2164710 prefektura w regionie Chūbu w Japonii nad zatoką Suruga*
+2170870 nigdzie, donikąd
+2179420 mały śnieg (astronomia)*
+2181100 czytać między wierszami, odczytywać atmosferę, wyczuwać nastrój*
+2181410 komponent Kanji, nadający mu często znaczenia związanego z wyrazem lub językiem*
+2182670 oszałamiająco przystojny
+2183440 bardzo, wyjątkowo, niezwykle (potocznie)
+2184260 narty / narciarstwo wodne
+2185990 gotowana i potem podsmażana z warzywami wieprzowina*
+2199620 zielona żabka (drzewna)
+2219590 poprzedni(o)
+2220420 8000
+2220820 środek odurzający (slang)*
+2222580 starsza siostra (poufale)
+2225040 pierwszy dzień miesiąca
+2256340 zażyłość, bliskość, bliska relacja, życzliwość
+2257740 duch artefaktu*
+2262070 półtora roku
+2264760 nie pasuje (nie odpowiada komuś), niedogodne, niewygodne
+2265630 gotowanie (szczególnie smażenie)
+2267560 licznik świątyń
+2271230 świątynia buddyjska
+2271520 czasownik złożony
+2272830 bardzo
+2383390 offline
+2405630 Kanji zarówno spoza listy powszechnie używanych (Joujou), jak i dozwolonych w imionach (Jinmeiyou)*
+2406750 niezdolny do odczytania sytuacji, uchwycenia nastroju rozmowy
+2407940 rasy psów
+2412230 licznik par odzieży (np. skarpetek, butów, itp.)*
+2414530 instytucja (przyrostek)
+2427850 duży
+2453920 po tym
+2528530 (późna) kolacja
+2542450 następnie
+2551680 podlewać
+2578150 słupek, pręcik (kwiatu)
+2596010 pójść na herbatę (kolokwializm)
+2606610 zamieć śnieżna
+2620300 średnia temperatura
+2625080 słownik sezonowych słówek haiku
+2639740 opłata (np. drogowa, czy za przejście)
+2659710 wcześnie, rychło, szybko, prędko, niezwłocznie, natychmiast
+2686360 rozmazanie, nieostrość; efekt rozmycia tła w fotografii*
+2690730 utworzony z rzeczownika czasownik -suru*
+2701230 choroba (przyrostek)
+2710850 droga publiczna
+2716980 japońskie słowo zbudowane z elementów pochodzących z innych języków
+2724310 ile (dużych zwierząt)?
+2758380 porządkowanie zasobów (przedmiotów, aktywności, nawyków, czasu, itd.) oraz naszego doń nastawienia*
+2761970 Kanji zapisywane artystycznie: kursywą, płynnie i z połączeniami, niczym odręczne pociągnięcia pędzla*
+2762890 10 lat (wiek)
+2769060 obskurny, nędzny, godny pożałowania*
+2825902 grilowane plastry korzenia lotosu, bakłażanu z nadzieniem (najczęściej z mielonym mięsem)
+2826498 Nowy Rok
+2826514 Jaki kolor? / Jakiego koloru...?
+2826528 przedrostek honoryfikatywny lub modestywny*
+2826868 duża sztuczna wyspa w Zatoce Tokijskiej*
+2827768 stolica Japonii w VIII w. (794 r.).
+2834885 wieczór
+2835924 wojowniczka
+2836220 ostrzeżenie awaryjne, specjalne
+2838589 zbyt ciężko pracować, za bardzo się starać, zmuszać się
+2839013 era panowania cesarza Japonii Naruhito*
+2842390 bardzo oficjalne; zwykle bardziej formalne niż 「watashi」
+2844680 taniec masowy, w dużej grupie
+2845088 Yamaguchi
+2845115 w tym odosobnionym regionie Japonii przebiega malownicza linia kolejowa
+2845121 miasto w Japonii, w północnej części wyspy Honsiu - port handlowy i rybacki*
+2845349 09:00 / 21:00
+2845363 siódma godzina
+2845606 co sądzisz o...?, co powiesz,..?, jak się zapatrujesz...?*
+2845783 medytacja siedząc lub stojąc pod wodospadem*
+2848259 przyrządzanie słodyczy i przekąsek
+2850284 romans
+2850709 dzielnica handlowa Tokio
+2850820 Los Angeles
+2852392 urodziny
+2853416 męskie liceum
+2858383 otologia (otiatria)*
+2858384 ja - bardzo nieformalnie; używane przez młode kobiety tylko w formie mówionej
+2858450 wspinaczka na górę* bez zalecanego odpoczynku po drodze
+2862000 płatek kwiatu
+2863218 cztery minuty
+2864818 odprawiać, urządzić ceremonię*
+5001664 Księżniczka Kaguya*
+5229259 świątynia zen w Kioto - 3-piętrowa pagoda ze spiczastym dachem*
+5295347 Narodowy Instytut Języka Japońskiego i Lingwistyki

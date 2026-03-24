@@ -266,6 +266,8 @@
 1201970 szary
 1202130 okolica; krąg ludzi, środowisko osób o wspólnych zainteresowaniach*
 1202270 rysunek, obraz, ilustracja, szkic
+1202300 rysunek, obraz
+1202380 książka z obrazkami
 1202410 krab
 1202450 otwierać; rozpocząć (nowy rok)
 1202870 otwarcie nowego sklepu; otwarcie sklepu (w ciągu dnia)
@@ -280,6 +282,7 @@
 1203640 język obcy
 1203650 obcokrajowiec
 1203800 wychodzenie, opuszczanie (domu, biura, itp.)
+1203850 cudzoziemiec (szczególnie z europejskich przodków); pierwotnie outsider, osoba z zewnątrz
 1204260 słówko obcego pochodzenia w japońskim*
 1204300 kaszel
 1204350 szkodnik (owad)
@@ -355,6 +358,8 @@
 1225710 jeden z najsłynniejszych letnich festiwali w Japonii, ma miejsce w Kioto*
 1225780 słówko w Kanji, którego znaczenie autor umyślnie poszerza poprzez dodanie alternatywnego czytania*
 1225910 kształcenie obowiązkowe*
+1225920 obowiązek, poczucie obowiązku, przyzwoitość, uprzejmość
+1225930 czekoladki podarowane mężczyźnie w Walentynki z uprzejmości lub poczucia obowiązku
 1226120 miejsce w parlamencie
 1226440 kawiarnia*
 1226510 pakować, wypełniać
@@ -389,6 +394,7 @@
 1237820 klatka piersiowa
 1238410 ogólne zainteresowanie jakąś dziedziną*
 1238460 japoński makaron z mąki gryczanej*; makaron w chińskim stylu
+1238550 lustro
 1239700 utwór muzyczny
 1239730 skręcać
 1240250 raj na ziemi
@@ -451,6 +457,7 @@
 1255630 oglądanie księżyca*
 1255840 koniec miesiąca
 1255890 poniedziałek
+1256240 zdrowe (np. jedzenie)
 1256910 japońska sztuka walki, bardzo popularny sport - z użyciem bambusowych mieczy
 1257040 kłótnia, sprzeczka; bójka, walka, przepychanki
 1257110 twardy (metal, kamień; drewno)
@@ -498,8 +505,10 @@
 1270040 druga połowa, późniejsza połowa
 1270390 (czyjś) mąż
 1270450 tradycyjne japońskie noworoczne potrawy
+1270570 Pan Słońce (język dziecięcy)
 1270580 noworoczny prezent*
 1270590 posiłek, jedzenie; ryż ugotowany na sposób japoński
+1270620 zygzakowe papierowe wstęgi używane w sintoistycznych rytuałach
 1270670 przepraszam, wybacz mi, proszę o wybaczenie
 1270910 język, mowa; słowo
 1271650 karp
@@ -510,6 +519,7 @@
 1275130 efekt, skutek, rezultat
 1275640 usta; buzia (dziecka)
 1275780 z ust do ust*
+1275900 ozdobna karta tytułowa z wkomponowanym w ilustrację tytułem dzieła, nazwą autora - lub poprzedzający ją portret autora;&nbsp;frontyspis
 1276110 szminka
 1276220 pretekst, wymówka, wykręt, usprawiedliwienie
 1276270 nieświeży oddech
@@ -736,6 +746,7 @@
 1340460 w miarę możliwości
 1341000 wiosna
 1341140 wiosenna bryza, wiosenny wiaterek
+1341490 (w)pół-, quasi-, jakby-, niemal-*
 1342000 literatura piękna, beletrystyka
 1342380 korzystny, dobry, OK, w porządku
 1342540 początek, rozpoczęcie
@@ -825,6 +836,7 @@
 1364360 poważny, pilny
 1364380 północ, środek nocy
 1364670 świątynia shintoistyczna, chram*
+1364760 prywatny szintoistyczny ołtarzyk*
 1364790 tradycyjna, narodowa, rodzima religia Japonii*
 1365040 rodzic
 1365230 krewny
@@ -950,6 +962,7 @@
 1404840 kostka (u nogi)
 1404975 wczesny, szybki
 1405030 wysyłka ekspresowa („prędko przybywa”)
+1405720 typ (postaci w mandze, anime, itp.)
 1405770 grupa
 1405790 kontynuować
 1405890 ukończenie szkoły lub studiów
@@ -1148,6 +1161,7 @@
 1451470 zwierzę
 1451730 taki sam, identyczny
 1451750 taki sam
+1453580 kolega / koleżanka z pracy
 1454080 droga (dosłownie i w przenośni), sposób; nauczanie, dziedzina, specjalność
 1454290 droga, ulica, szosa, autostrada
 1454510 mocna strona
@@ -1267,6 +1281,7 @@
 1488250 rolnik, farmer
 1488400 stokrotny, stukrotny; po stokroć*
 1488730 standardowy język japoński
+1488840 (kruszony) lód
 1489030 góra lodowa
 1489350 lista, wykaz
 1489510 wyrażenie
@@ -1303,6 +1318,7 @@
 1501620 zapłacić
 1501680 gotować się, dojść do wrzenia; wyr(y)wać się, ekscytować
 1501930 buddyzm
+1502200 świątynny lub domowy buddyjski ołtarzyk*
 1502430 ceny („rzeczy cena”)*
 1502480 opowieść, historia, legenda
 1502800 fizyka
@@ -1362,6 +1378,7 @@
 1523040 główna, najważniejsza wyspa
 1523060 naprawdę
 1523110 dziś, dzisiaj (grzecznie)
+1523250 pragnienie serca, pierwszy wybór
 1523430 tłumacz pisemny
 1523730 sztuka miniaturyzowania drzew lub krzewów uprawianych w odpowiednio dobranych, płaskich pojemnikach
 1523780 tradycyjny japoński sierpniowy taniec, ku powitaniu zmarłych i świętowaniu ich obecności
@@ -1412,7 +1429,7 @@
 1535690 krople do oczu
 1535700 być wyraźnym, widocznym
 1535780 oczywiście, z pewnością
-1535790 słodkie kleiste, kuliste ciasteczko ryżowe
+1535790 fikuśne, mięciutkie i sprężyste, ryżowe kuleczki z nadzieniem*
 1535880 (za)wracać
 1535910 dostawać, otrzymywać
 1536010 problem, zagadnienie, kwestia
@@ -1516,6 +1533,7 @@
 1562870 zegarek na rękę
 1562970 miseczka ryżu z różnymi dodatkami (mięso, ryby, itp.) na wierzchu*
 1567450 kieszonkowiec
+1568370 gorzka pomarańcza*
 1568950 smażony ryż po chińsku
 1571170 pępek
 1571460 truskawka
@@ -1565,6 +1583,7 @@
 1579180 lewa strona
 1579260 wczoraj
 1579350 3
+1579430 Trzy Klejnoty - Budda, Dharma, Sangha*
 1579450 tradycyjny japoński instrument 3-strunowy*
 1579470 4
 1579490 siostry
@@ -1728,6 +1747,7 @@
 1605630 miękki
 1605820 dobry
 1605870 często
+1606090 od pokoleń, z pokolenia na pokolenie
 1606560 rozumieć
 1606590 rozstać się, zerwać
 1606680 ekscytować się
@@ -1739,6 +1759,7 @@
 1607440 śpiewający głos
 1608090 dzielnica biznesowa Tokio, z miejskim ogrodem, zwanym oazą w centrum miasta
 1609080 rzeczy do umycia (np. naczynia, pranie)
+1610170 kolor pomarańczowy
 1611020 dlaczego?, po co?, w jakim celu?, jak?
 1611030 wszystko; cokolwiek
 1611130 wszystko, całkowicie, zupełnie, kompletnie, bez wyjątku
@@ -1747,8 +1768,10 @@
 1611580 naprawdę
 1612620 tu i ówdzie, tu i tam (potocznie)
 1612760 lekarz, doktor (uprzejmie)
+1614200 tradycyjna medycyna chińska
 1621920 największe słodkowodne jezioro Japonii*
 1623450 ryżowe ciastko lub placek - nadziewane dżemem z fasoli
+1628490 tradycyjna noworoczna ozdoba z mochi*
 1629070 lampart
 1629290 czternasty dzień miesiąca
 1629300 dwudziesty czwarty dzień miesiąca
@@ -1772,6 +1795,7 @@
 1665520 „sushi zawijane”*
 1676220 puste pudełko
 1684900 muzyka klasyczna
+1691940 dekorowanie świątyni i bramy liną shimenawa na Nowy Rok
 1694160 wschód słońca widziany ze szczytu wysokiej góry
 1698090 odzież zimowa, zimowe ubrania
 1698710 wózek ręczny; taczka
@@ -1797,6 +1821,7 @@
 1779520 rolki sushi z tuńczykiem*
 1786150 silny wiatr, wichura, wicher
 1794450 sklep odzieżowy z zachodnimi ubraniami
+1799510 szintoistyczny rytuał przełamywania mochi*
 1804190 śnieżny krajobraz
 1806020 almanach słówek sezonowych* haiku
 1811920 rysownik mangi
@@ -1814,6 +1839,7 @@
 1891810 palić papierosy*
 1898600 sobota i niedziela (weekend)
 1906780 kwiat rycerstwa
+1919590 klasa, stopień, ranga, poziom
 1920240 jaki?; który?
 1929050 Afryka
 1929870 (duży) budynek, budynek publiczny, hala (przyrostek)
@@ -1917,6 +1943,7 @@
 2427850 duży
 2453920 po tym
 2528530 (późna) kolacja
+2534830 czekoladki podarowane mężczyźnie w Walentynki z prawdziwego uczucia
 2542450 następnie
 2551680 podlewać
 2578150 słupek, pręcik (kwiatu)

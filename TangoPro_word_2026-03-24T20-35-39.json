@@ -1,13 +1,303 @@
 {
   "version": "1.0",
   "entityType": "word",
-  "exportDate": "2026-03-16T20:15:48.802Z",
-  "itemCount": 2063,
+  "exportDate": "2026-03-24T20:35:38.951Z",
+  "itemCount": 2094,
   "filters": {
     "tags": [],
     "sort": "sortNewestFirst"
   },
   "items": [
+    {
+      "literal": "外人",
+      "reading": "がいじん",
+      "meaning": "cudzoziemiec (szczególnie z europejskich przodków); pierwotnie outsider, osoba z zewnątrz",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2121
+    },
+    {
+      "literal": "絵本",
+      "reading": "えほん",
+      "meaning": "książka z obrazkami",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2120
+    },
+    {
+      "literal": "義理チョコ",
+      "reading": "ぎりチョコ",
+      "meaning": "czekoladki podarowane mężczyźnie w Walentynki z uprzejmości lub poczucia obowiązku",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2119
+    },
+    {
+      "literal": "義理",
+      "reading": "ぎり",
+      "meaning": "obowiązek, poczucie obowiązku, przyzwoitość, uprzejmość",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2118
+    },
+    {
+      "literal": "口絵",
+      "reading": "くちえ",
+      "meaning": "ozdobna karta tytułowa z wkomponowanym w ilustrację tytułem dzieła, nazwą autora - lub poprzedzający ją portret autora;&nbsp;frontyspis",
+      "tags": [
+        "🇯🇵🇨🇳湯桶読"
+      ],
+      "exportId": 2117
+    },
+    {
+      "literal": "お日様",
+      "reading": "おひさま",
+      "meaning": "Pan Słońce (język dziecięcy)",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2116
+    },
+    {
+      "literal": "絵画",
+      "reading": "かいが",
+      "meaning": "rysunek, obraz",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2115
+    },
+    {
+      "literal": "本命チョコ",
+      "reading": "ほんめいチョコ",
+      "meaning": "czekoladki podarowane mężczyźnie w Walentynki z prawdziwego uczucia",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2114
+    },
+    {
+      "literal": "本命",
+      "reading": "ほんめい",
+      "meaning": "pragnienie serca, pierwszy wybór",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2113
+    },
+    {
+      "literal": "鏡開き",
+      "reading": "かがみびらき",
+      "meaning": "szintoistyczny rytuał przełamywania mochi*",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2112
+    },
+    {
+      "literal": "鏡餅",
+      "reading": "かがみもち",
+      "meaning": "tradycyjna noworoczna ozdoba z mochi*",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2111
+    },
+    {
+      "literal": "仏壇",
+      "reading": "ぶつだん",
+      "meaning": "świątynny lub domowy buddyjski ołtarzyk*",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2110
+    },
+    {
+      "literal": "神棚",
+      "reading": "かみだな",
+      "meaning": "prywatny szintoistyczny ołtarzyk*",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2109
+    },
+    {
+      "literal": "御幣",
+      "reading": "ごへい",
+      "meaning": "zygzakowe papierowe wstęgi używane w sintoistycznych rytuałach",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2108
+    },
+    {
+      "literal": "三宝",
+      "reading": "さんぼう、さんぽう",
+      "meaning": "Trzy Klejnoty - Budda, Dharma, Sangha*",
+      "tags": [
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2107
+    },
+    {
+      "literal": "豊洲市場",
+      "reading": "とよすしじょう",
+      "meaning": "hurtowy targ rybny (a także warzyw i owoców) w Tokio, na sztucznej wyspie w Zatoce Tokijskiej",
+      "tags": [
+        "🇯🇵 面白い",
+        "🗺 地理"
+      ],
+      "exportId": 2106
+    },
+    {
+      "literal": "注連飾り",
+      "reading": "しめかざり",
+      "meaning": "dekorowanie świątyni i bramy liną shimenawa na Nowy Rok",
+      "tags": [
+        "🇯🇵 面白い"
+      ],
+      "exportId": 2105
+    },
+    {
+      "literal": "代々",
+      "reading": "だいだい",
+      "meaning": "od pokoleń, z pokolenia na pokolenie",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2104
+    },
+    {
+      "literal": "橙色",
+      "reading": "だいだいいろ",
+      "meaning": "kolor pomarańczowy",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2103
+    },
+    {
+      "literal": "漢方",
+      "reading": "かんぽう",
+      "meaning": "tradycyjna medycyna chińska",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2102
+    },
+    {
+      "literal": "橙",
+      "reading": "だいだい",
+      "meaning": "gorzka pomarańcza*",
+      "tags": [
+        "🍱 料理",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2101
+    },
+    {
+      "literal": "鏡",
+      "reading": "かがみ",
+      "meaning": "lustro",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2100
+    },
+    {
+      "literal": "健康的",
+      "reading": "けんこうてき",
+      "meaning": "zdrowe (np. jedzenie)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
+        "„przymiownik”"
+      ],
+      "exportId": 2099
+    },
+    {
+      "literal": "同僚",
+      "reading": "どうりょう",
+      "meaning": "kolega / koleżanka z pracy",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2098
+    },
+    {
+      "literal": "属性",
+      "reading": "ぞくせい",
+      "meaning": "typ (postaci w mandze, anime, itp.)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2097
+    },
+    {
+      "literal": "氷",
+      "reading": "こおり",
+      "meaning": "(kruszony) lód",
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2096
+    },
+    {
+      "literal": "準",
+      "reading": "じゅん",
+      "meaning": "(w)pół-, quasi-, jakby-, niemal-*",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2095
+    },
+    {
+      "literal": "級",
+      "reading": "きゅう",
+      "meaning": "klasa, stopień, ranga, poziom",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2094
+    },
+    {
+      "literal": "文化科学宮殿",
+      "reading": "ぶんかかがくきゅうでん",
+      "meaning": "Pałac Kultury i Nauki",
+      "tags": [
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2093
+    },
+    {
+      "literal": "の中で",
+      "reading": "のなかで",
+      "meaning": "(w)śród",
+      "tags": [
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
+      "exportId": 2092
+    },
+    {
+      "literal": "次回",
+      "reading": "じかい",
+      "meaning": "następny raz (okazja)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
+      "exportId": 2091
+    },
     {
       "literal": "豆乳",
       "reading": "とうにゅう",
@@ -339,7 +629,7 @@
       "meaning": "szukanie / znalezienie zatrudnienia („usadowienie się na posadce” ^^)",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 2055
     },
@@ -421,7 +711,7 @@
       "meaning": "autor bestsellerowej książki „Japoński, który chciałoby się czytać na głos”*",
       "tags": [
         "✒️ 名前",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 2046
     },
@@ -441,7 +731,7 @@
       "meaning": "od 2025 r. przewodniczący Izby Poselskiej Czech*",
       "tags": [
         "✒️ 名前",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 2044
     },
@@ -820,7 +1110,8 @@
       "reading": "さま",
       "meaning": "czcigodny, wielmożny, szanowny*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1999
     },
@@ -868,14 +1159,18 @@
       "literal": "固定",
       "reading": "こてい",
       "meaning": "nazwa użytkownika*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1993
     },
     {
       "literal": "受付",
       "reading": "うけつけ",
       "meaning": "recepcja",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1992
     },
     {
@@ -883,7 +1178,8 @@
       "reading": "ゆとりきょういく",
       "meaning": "„zrelaksowana edukacja”*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1991
     },
@@ -905,7 +1201,9 @@
       "literal": "入江",
       "reading": "いりえ",
       "meaning": "zatoka, zatoczka",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1988
     },
     {
@@ -921,7 +1219,9 @@
       "literal": "諳記",
       "reading": "あんき",
       "meaning": "zapamiętywanie, uczenie się na pamięć",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1986
     },
     {
@@ -936,9 +1236,10 @@
     {
       "literal": "付喪神",
       "reading": "つくもがみ",
-      "meaning": "duch artefaktu („złączone z tęsknoty bóstwo”)*",
+      "meaning": "duch artefaktu (漢字: „złączone z tęsknoty bóstwo”)*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1984
     },
@@ -970,7 +1271,9 @@
       "literal": "雷",
       "reading": "かみなり",
       "meaning": "piorun, błyskawica, grom",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1980
     },
     {
@@ -1014,14 +1317,18 @@
       "literal": "監督",
       "reading": "かんとく",
       "meaning": "reżyser",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1975
     },
     {
       "literal": "俳優",
       "reading": "はいゆう",
       "meaning": "aktor(ka)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1974
     },
     {
@@ -1045,8 +1352,10 @@
     {
       "literal": "文豪",
       "reading": "ぶんごう",
-      "meaning": "mistrz literatury",
-      "tags": [],
+      "meaning": "mistrz literatury (漢字: „literacko wielki”)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1971
     },
     {
@@ -1062,21 +1371,27 @@
       "literal": "付ける",
       "reading": "つける",
       "meaning": "przyczepić, przymocować, przyszyć",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1969
     },
     {
       "literal": "何もかも",
       "reading": "なにもかも",
       "meaning": "wszystko",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1968
     },
     {
       "literal": "帆",
       "reading": "ほ",
       "meaning": "żagiel",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1967
     },
     {
@@ -1092,7 +1407,9 @@
       "literal": "輝く",
       "reading": "かがやく",
       "meaning": "błyszczeć, świecić, lśnić, iskrzyć się",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1965
     },
     {
@@ -1176,7 +1493,9 @@
       "literal": "標準語",
       "reading": "ひょうじゅんご",
       "meaning": "standardowy język japoński",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1955
     },
     {
@@ -1219,7 +1538,9 @@
       "literal": "候補",
       "reading": "こうほ",
       "meaning": "kandydat",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1950
     },
     {
@@ -1241,7 +1562,7 @@
     {
       "literal": "国会",
       "reading": "こっかい",
-      "meaning": "zgromadzenie ustawodawcze*",
+      "meaning": "zgromadzenie ustawodawcze (漢字: „państwowe spotkanie”)*",
       "tags": [
         "🇯🇵 面白い",
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
@@ -1337,7 +1658,8 @@
       "reading": "たんか",
       "meaning": "krótka pieśń lub wiersz – jedna z najstarszych form poezji japońskiej*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1936
     },
@@ -1399,7 +1721,9 @@
       "literal": "何回",
       "reading": "なんかい",
       "meaning": "ile razy?",
-      "tags": [],
+      "tags": [
+        "🇯🇵🇨🇳湯桶読"
+      ],
       "exportId": 1929
     },
     {
@@ -1537,7 +1861,9 @@
       "literal": "何者",
       "reading": "なにもの",
       "meaning": "kto?, jaki człowiek?",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1913
     },
     {
@@ -1726,7 +2052,9 @@
       "literal": "六角",
       "reading": "ろっかく",
       "meaning": "sześciobok, heksagon",
-      "tags": [],
+      "tags": [
+        "czytanie z udziałem Nanori"
+      ],
       "exportId": 1891
     },
     {
@@ -1758,7 +2086,9 @@
       "literal": "本社",
       "reading": "ほんしゃ",
       "meaning": "główna siedziba, centrala",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1887
     },
     {
@@ -1847,7 +2177,7 @@
       "reading": "もじ",
       "meaning": "litera, znak",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1877
     },
@@ -1889,7 +2219,9 @@
       "literal": "百姓",
       "reading": "ひゃくしょう",
       "meaning": "rolnik, farmer",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1872
     },
     {
@@ -1993,7 +2325,9 @@
       "literal": "害虫",
       "reading": "がいちゅう",
       "meaning": "szkodnik (owad)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1859
     },
     {
@@ -2028,7 +2362,9 @@
       "literal": "妹さん",
       "reading": "いもうとさん",
       "meaning": "(czyjaś) młodsza siostra (honoryfikatywnie)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1855
     },
     {
@@ -2139,7 +2475,9 @@
       "literal": "引き続き",
       "reading": "ひきつづき",
       "meaning": "następnie, po tym; właśnie tak, zgadza się; ciągle, nieustannie",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1842
     },
     {
@@ -2152,7 +2490,7 @@
     {
       "literal": "水着",
       "reading": "みずぎ",
-      "meaning": "kostium kąpielowy",
+      "meaning": "kostium kąpielowy (漢字: „wodne przybranie”)",
       "tags": [
         "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
@@ -2226,7 +2564,9 @@
       "literal": "被る",
       "reading": "かぶる",
       "meaning": "zakładać (na głowę)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1832
     },
     {
@@ -2340,7 +2680,8 @@
       "reading": "あたまだかがた",
       "meaning": "akcent, w którym ton spada zaraz po pierwszej sylabie*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1819
     },
@@ -2524,7 +2865,9 @@
       "literal": "学習",
       "reading": "がくしゅう",
       "meaning": "nauka, studia, uczenie się, studiowanie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1797
     },
     {
@@ -2647,7 +2990,9 @@
       "literal": "映画館",
       "reading": "えいがかん",
       "meaning": "kino",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1782
     },
     {
@@ -2756,7 +3101,9 @@
       "literal": "終点",
       "reading": "しゅうてん",
       "meaning": "ostatni przystanek, końcowa stacja, pętla („ostatni punkt”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1769
     },
     {
@@ -3054,7 +3401,9 @@
       "literal": "村人",
       "reading": "むらびと",
       "meaning": "wieśniacy, mieszkańcy wsi",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1734
     },
     {
@@ -3150,7 +3499,9 @@
       "literal": "閉会式",
       "reading": "へいかいしき",
       "meaning": "ceremonia zamknięcia",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1722
     },
     {
@@ -3205,7 +3556,9 @@
       "literal": "不足",
       "reading": "ふそく",
       "meaning": "niedobór, niedostatek („niewystarczające”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1715
     },
     {
@@ -3314,7 +3667,9 @@
       "literal": "喜んで",
       "reading": "よろこんで",
       "meaning": "Z przyjemnością. / Z radością. / Chętnie.",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1702
     },
     {
@@ -3564,7 +3919,7 @@
       "reading": "(に)ちゅうい",
       "meaning": "uwaga, ostrożność",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1671
     },
@@ -3667,7 +4022,7 @@
       "reading": "みみなり",
       "meaning": "brzęczenie, dzwonienie, szum w uchu",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1658
     },
@@ -3692,7 +4047,7 @@
       "reading": "じびき",
       "meaning": "słownik",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1655
     },
@@ -3700,7 +4055,9 @@
       "literal": "土日",
       "reading": "どにち",
       "meaning": "sobota i niedziela (weekend)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1654
     },
     {
@@ -3777,7 +4134,9 @@
       "literal": "お越し",
       "reading": "おこし",
       "meaning": "przybycie, nadejście (honoryfikatywnie)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1645
     },
     {
@@ -3896,7 +4255,8 @@
       "reading": "しょとう",
       "meaning": "archipelag: jakakolwiek grupa wysp („rozmaite wyspy”)*",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1631
     },
@@ -3906,7 +4266,8 @@
       "meaning": "trzecia pod względem powierzchni wyspa Japonii, położona na południowy zachód od największej wyspy Honsiu*",
       "tags": [
         "🇯🇵 面白い",
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1630
     },
@@ -3949,7 +4310,9 @@
       "literal": "電子",
       "reading": "でんし",
       "meaning": "elektroniczny; elektron",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1624
     },
     {
@@ -4076,7 +4439,9 @@
       "literal": "発見",
       "reading": "はっけん",
       "meaning": "odkrycie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1609
     },
     {
@@ -4195,7 +4560,9 @@
       "literal": "十九",
       "reading": "じゅうきゅう",
       "meaning": "19",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1595
     },
     {
@@ -4272,7 +4639,8 @@
       "reading": "たきぎょう",
       "meaning": "medytacja siedząc lub stojąc pod wodospadem*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵🇨🇳湯桶読"
       ],
       "exportId": 1586
     },
@@ -4289,7 +4657,9 @@
       "literal": "下品",
       "reading": "げひん",
       "meaning": "wulgarny, nieprzyzwoity",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1584
     },
     {
@@ -4323,7 +4693,7 @@
       "reading": "おうさま",
       "meaning": "król (honoryfikatywnie)",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1580
     },
@@ -4338,7 +4708,9 @@
       "literal": "王子",
       "reading": "おうじ",
       "meaning": "książę, królewicz",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1578
     },
     {
@@ -4375,7 +4747,9 @@
       "literal": "均一",
       "reading": "きんいつ",
       "meaning": "jednolitość, jednakowość, jednolity, równy",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1573
     },
     {
@@ -4499,7 +4873,8 @@
       "reading": "ねぎ",
       "meaning": "warzywo przypominające por, o lekko słodkawym posmaku*",
       "tags": [
-        "🍱 料理"
+        "🍱 料理",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1558
     },
@@ -4555,14 +4930,18 @@
       "literal": "田舎",
       "reading": "いなか",
       "meaning": "wieś, wiejski krajobraz",
-      "tags": [],
+      "tags": [
+        "czytanie z udziałem Nanori"
+      ],
       "exportId": 1551
     },
     {
       "literal": "消しゴム",
       "reading": "けしゴム",
       "meaning": "gumka do ścierania",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1550
     },
     {
@@ -4604,7 +4983,9 @@
       "literal": "十二",
       "reading": "じゅうに",
       "meaning": "12",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1545
     },
     {
@@ -4761,14 +5142,18 @@
       "literal": "辞める",
       "reading": "やめる",
       "meaning": "rzucić (np. pracę)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1526
     },
     {
       "literal": "降りる",
       "reading": "おりる",
       "meaning": "wysiadać (np. z samochodu)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1525
     },
     {
@@ -4911,7 +5296,9 @@
       "literal": "彼等",
       "reading": "かれら",
       "meaning": "oni",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1508
     },
     {
@@ -5327,7 +5714,9 @@
       "literal": "特別警報",
       "reading": "とくべつけいほう",
       "meaning": "ostrzeżenie awaryjne, specjalne",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1459
     },
     {
@@ -5491,7 +5880,9 @@
       "literal": "何年",
       "reading": "なんねん",
       "meaning": "Ile lat?; Którego roku?",
-      "tags": [],
+      "tags": [
+        "🇯🇵🇨🇳湯桶読"
+      ],
       "exportId": 1440
     },
     {
@@ -5552,7 +5943,8 @@
       "reading": "いやしけい",
       "meaning": "kojący, relaksujący, uspokajający, uzdrawiający*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵🇨🇳湯桶読"
       ],
       "exportId": 1433
     },
@@ -5636,7 +6028,7 @@
       "meaning": "słownik sezonowych słówek haiku*",
       "tags": [
         "🇯🇵 面白い",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1423
     },
@@ -5771,7 +6163,8 @@
       "reading": "カツどん",
       "meaning": "kotlet wieprzowy podany na misce ryżu",
       "tags": [
-        "🍱 料理"
+        "🍱 料理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1407
     },
@@ -5856,7 +6249,7 @@
       "meaning": "rodzaj gofra wypełnionego dżemem z fasoli",
       "tags": [
         "🍱 料理",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 1397
     },
@@ -5865,7 +6258,8 @@
       "reading": "ふりがな",
       "meaning": "sposób przeczytania Kanji, dopisany drobnym druczkiem w Kanie powyżej lub poniżej*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1396
     },
@@ -5891,7 +6285,9 @@
       "literal": "時刻",
       "reading": "じこく",
       "meaning": "czas, godzina",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1393
     },
     {
@@ -5937,7 +6333,7 @@
     {
       "literal": "河童",
       "reading": "かっぱ",
-      "meaning": "mityczne wodne stworzenia („rzeczne dzieci”)*",
+      "meaning": "mityczne wodne stworzenia (漢字: „rzeczne dzieci”)*",
       "tags": [
         "🇯🇵 面白い"
       ],
@@ -5954,7 +6350,9 @@
       "literal": "単語",
       "reading": "たんご",
       "meaning": "słownictwo, zasób słów",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1384
     },
     {
@@ -6132,7 +6530,9 @@
       "literal": "科学",
       "reading": "かがく",
       "meaning": "nauka, wiedza",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1363
     },
     {
@@ -6352,7 +6752,9 @@
       "literal": "水色",
       "reading": "みずいろ",
       "meaning": "jasno-/blado-niebieski",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 11
     },
     {
@@ -6391,7 +6793,9 @@
       "literal": "素晴らしい",
       "reading": "すばらしい",
       "meaning": "cudowny, niezwykły („pogodne z zasady”)*",
-      "tags": [],
+      "tags": [
+        "🇨🇳🇯🇵 重箱読"
+      ],
       "exportId": 16
     },
     {
@@ -6405,7 +6809,9 @@
       "literal": "教科書",
       "reading": "きょうかしょ",
       "meaning": "podręcznik",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 18
     },
     {
@@ -6501,7 +6907,8 @@
       "reading": "ちきゅう",
       "meaning": "kula ziemska",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 29
     },
@@ -6563,7 +6970,9 @@
       "literal": "内閣",
       "reading": "ないかく",
       "meaning": "rząd, rada ministrów",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 36
     },
     {
@@ -6655,7 +7064,7 @@
     {
       "literal": "総踊り",
       "reading": "そうおどり",
-      "meaning": "taniec masowy, w dużej grupie",
+      "meaning": "taniec masowy, w dużej grupie (漢字: „wszyscy tańczą”)",
       "tags": [
         "🇨🇳🇯🇵 重箱読"
       ],
@@ -6703,7 +7112,9 @@
       "literal": "文",
       "reading": "ぶん",
       "meaning": "zdanie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 53
     },
     {
@@ -6728,7 +7139,9 @@
       "literal": "教育",
       "reading": "きょういく",
       "meaning": "edukacja („uczenie I wychowanie”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 56
     },
     {
@@ -6744,7 +7157,9 @@
       "literal": "看護婦",
       "reading": "かんごふ",
       "meaning": "pielęgniarka, pielęgniarz",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 58
     },
     {
@@ -6804,7 +7219,9 @@
       "literal": "幾久しく",
       "reading": "いくひさしく",
       "meaning": "na zawsze, na wieczność",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 66
     },
     {
@@ -6992,7 +7409,9 @@
       "literal": "試験",
       "reading": "しけん",
       "meaning": "egzamin („próby efekt”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 89
     },
     {
@@ -7151,7 +7570,9 @@
       "literal": "最後",
       "reading": "さいご",
       "meaning": "koniec, zakończenie („najbardziej z tyłu”)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 109
     },
     {
@@ -7168,7 +7589,7 @@
       "reading": "ねぼう",
       "meaning": "zaspanie",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 111
     },
@@ -7240,7 +7661,9 @@
       "literal": "お疲れ様",
       "reading": "おつかれさま",
       "meaning": "przywitanie lub pożegnanie, wraz z wyrażeniem wdzięczności za wysiłek, docenienia czyjejś pracy\n\nlub\n\nwyrażenie zadowolenia, że cos udało się zrobić\n\nlub\n\nświetna robota!\n\ndziękuję (za pomoc lub Twoją ciężką pracę)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 120
     },
     {
@@ -7256,7 +7679,9 @@
       "literal": "丁度",
       "reading": "ちょうど",
       "meaning": "dokładnie, precyzyjnie, w sam raz",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 122
     },
     {
@@ -7279,7 +7704,9 @@
       "literal": "勿論",
       "reading": "もちろん",
       "meaning": "oczywiście, z pewnością",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 126
     },
     {
@@ -7321,7 +7748,9 @@
       "literal": "花瓶",
       "reading": "かびん",
       "meaning": "wazon kwiatowy",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 132
     },
     {
@@ -7330,7 +7759,7 @@
       "meaning": "ukończenie szkoły, studiów",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 133
     },
@@ -7393,14 +7822,18 @@
       "literal": "熱",
       "reading": "ねつ",
       "meaning": "gorączka",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 141
     },
     {
       "literal": "紫",
       "reading": "むらさき",
       "meaning": "fiolet, purpura",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 142
     },
     {
@@ -7441,7 +7874,9 @@
       "literal": "動",
       "reading": "どう",
       "meaning": "ruch",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 147
     },
     {
@@ -7846,7 +8281,9 @@
       "literal": "県",
       "reading": "けん",
       "meaning": "prefektura (Japonii)\n\nprowincja (Chin, Hiszpanii, Włoch, itp.)\n\nokręg (np. Tajwanu, Norwegii)\n\ndepartament (Francji)\n\nwojewództwo*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 193
     },
     {
@@ -7928,7 +8365,9 @@
       "literal": "戸棚",
       "reading": "とだな",
       "meaning": "kredens, szafka",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 203
     },
     {
@@ -7953,7 +8392,9 @@
       "literal": "噛む",
       "reading": "かむ",
       "meaning": "ugryźć",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 206
     },
     {
@@ -8260,7 +8701,9 @@
       "literal": "五日",
       "reading": "いつか",
       "meaning": "piąty dzień miesiąca",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 240
     },
     {
@@ -8303,7 +8746,7 @@
       "meaning": "rękawiczki",
       "tags": [
         "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 245
     },
@@ -8367,7 +8810,7 @@
     {
       "literal": "餅",
       "reading": "もち",
-      "meaning": "słodkie kleiste, kuliste ciasteczko ryżowe",
+      "meaning": "fikuśne, mięciutkie i sprężyste, ryżowe kuleczki z nadzieniem*",
       "tags": [
         "🍱 料理",
         "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
@@ -8514,7 +8957,9 @@
       "literal": "登録",
       "reading": "とうろく",
       "meaning": "rejestracja, zapis",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 270
     },
     {
@@ -8752,7 +9197,9 @@
       "literal": "易しい",
       "reading": "やさしい",
       "meaning": "łatwy, prosty, nieskomplikowany",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 298
     },
     {
@@ -8820,7 +9267,9 @@
       "literal": "三人",
       "reading": "さんにん",
       "meaning": "trzy osoby",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 306
     },
     {
@@ -8834,7 +9283,9 @@
       "literal": "その後",
       "reading": "そのご",
       "meaning": "potem, później, następnie (formalnie)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 308
     },
     {
@@ -8929,7 +9380,9 @@
       "literal": "回る",
       "reading": "まわる",
       "meaning": "obracać się, kręcić się, wirować",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 319
     },
     {
@@ -8937,7 +9390,7 @@
       "reading": "ろっぷん",
       "meaning": "sześć minut",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 320
     },
@@ -8962,7 +9415,9 @@
       "literal": "夏休み",
       "reading": "なつやすみ",
       "meaning": "letnie wakacje",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 323
     },
     {
@@ -8996,7 +9451,9 @@
       "literal": "弾く",
       "reading": "ひく",
       "meaning": "grać (na instrumencie strunowym lub klawiszowym)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 327
     },
     {
@@ -9080,7 +9537,9 @@
       "literal": "教室",
       "reading": "きょうしつ",
       "meaning": "klasa (pomieszczenie)",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 336
     },
     {
@@ -9185,7 +9644,9 @@
       "literal": "低い",
       "reading": "ひくい",
       "meaning": "niski",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 349
     },
     {
@@ -9274,7 +9735,9 @@
       "literal": "人々",
       "reading": "ひとびと",
       "meaning": "ludzie",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 359
     },
     {
@@ -9373,7 +9836,9 @@
       "literal": "多い",
       "reading": "おおい",
       "meaning": "wiele, dużo, mnóstwo",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 370
     },
     {
@@ -9575,7 +10040,9 @@
       "literal": "大抵",
       "reading": "たいてい",
       "meaning": "zazwyczaj",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 393
     },
     {
@@ -9647,7 +10114,9 @@
       "literal": "月",
       "reading": "つき",
       "meaning": "miesiąc; księżyc",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 402
     },
     {
@@ -9814,14 +10283,18 @@
       "literal": "待つ",
       "reading": "まつ",
       "meaning": "czekać",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 421
     },
     {
       "literal": "引き出し",
       "reading": "ひきだし",
       "meaning": "szuflada",
-      "tags": [],
+      "tags": [
+        "czytanie z udziałem Nanori"
+      ],
       "exportId": 422
     },
     {
@@ -9981,7 +10454,8 @@
       "reading": "こい",
       "meaning": "karp",
       "tags": [
-        "🍱 料理"
+        "🍱 料理",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 441
     },
@@ -10032,7 +10506,9 @@
       "literal": "終る",
       "reading": "おわる",
       "meaning": "kończyć",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 447
     },
     {
@@ -10133,7 +10609,9 @@
       "literal": "文房具屋",
       "reading": "ぶんぼうぐや",
       "meaning": "sklep papierniczy",
-      "tags": [],
+      "tags": [
+        "🇨🇳🇯🇵 重箱読"
+      ],
       "exportId": 459
     },
     {
@@ -10165,7 +10643,8 @@
       "reading": "つる",
       "meaning": "żuraw*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 463
     },
@@ -10275,7 +10754,7 @@
       "meaning": "Biegun Północny",
       "tags": [
         "🗺 地理",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 476
     },
@@ -10376,7 +10855,9 @@
       "literal": "安心",
       "reading": "あんしん",
       "meaning": "ukojenie, spokój duszy, ulga",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 489
     },
     {
@@ -10426,14 +10907,18 @@
       "literal": "自転車",
       "reading": "じてんしゃ",
       "meaning": "rower",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 495
     },
     {
       "literal": "山",
       "reading": "やま",
       "meaning": "góra, wzgórze, pagórek",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 496
     },
     {
@@ -10517,7 +11002,7 @@
       "meaning": "gadanie, (pusta) rozmowa, plotkowanie, pogawędka",
       "tags": [
         "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 506
     },
@@ -10542,7 +11027,7 @@
       "reading": "しつもん",
       "meaning": "pytanie (zdanie pytające)",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 510
     },
@@ -10696,7 +11181,8 @@
       "meaning": "drugie co do wielkości miasto w Japonii, jej największy port morski*",
       "tags": [
         "🇯🇵 面白い",
-        "🗺 地理"
+        "🗺 地理",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 529
     },
@@ -10750,7 +11236,9 @@
       "literal": "月曜日",
       "reading": "げつようび",
       "meaning": "poniedziałek",
-      "tags": [],
+      "tags": [
+        "🇨🇳🇯🇵 重箱読"
+      ],
       "exportId": 536
     },
     {
@@ -10800,7 +11288,9 @@
       "literal": "電話番号",
       "reading": "でんわばんごう",
       "meaning": "numer telefonu",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 542
     },
     {
@@ -10816,7 +11306,9 @@
       "literal": "背中",
       "reading": "せなか",
       "meaning": "plecy",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 544
     },
     {
@@ -10929,7 +11421,9 @@
       "literal": "火山",
       "reading": "かざん",
       "meaning": "wulkan",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 557
     },
     {
@@ -11151,7 +11645,9 @@
       "literal": "言う",
       "reading": "いう",
       "meaning": "mówić, powiedzieć",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 583
     },
     {
@@ -11191,7 +11687,9 @@
       "literal": "都合",
       "reading": "つごう",
       "meaning": "okoliczność, warunki",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 588
     },
     {
@@ -11204,9 +11702,10 @@
     {
       "literal": "城",
       "reading": "じょう",
-      "meaning": "zamek, forteca (przyrostek w nazwach miejsc.)",
+      "meaning": "zamek, forteca (przyrostek w nazwach miejsc)",
       "tags": [
-        "🗺 地理"
+        "🗺 地理",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 590
     },
@@ -11280,7 +11779,8 @@
       "reading": "もつ",
       "meaning": "trzymać; mieć, posiadać*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 599
     },
@@ -11323,7 +11823,7 @@
       "tags": [
         "🇯🇵 面白い",
         "🗺 地理",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 604
     },
@@ -11370,7 +11870,9 @@
       "literal": "何で",
       "reading": "なんで",
       "meaning": "dlaczego?, po co?, w jakim celu?, jak?",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 610
     },
     {
@@ -11549,7 +12051,9 @@
       "literal": "必要",
       "reading": "ひつよう",
       "meaning": "potrzebny",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 633
     },
     {
@@ -11565,7 +12069,9 @@
       "literal": "国",
       "reading": "くに",
       "meaning": "kraj, państwo",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 635
     },
     {
@@ -11631,7 +12137,9 @@
       "literal": "無駄",
       "reading": "むだ",
       "meaning": "bezużyteczny",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 643
     },
     {
@@ -11826,7 +12334,9 @@
       "literal": "字",
       "reading": "じ",
       "meaning": "pismo odręczne, charakter pisma",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 668
     },
     {
@@ -11888,7 +12398,9 @@
       "literal": "帰る",
       "reading": "かえる",
       "meaning": "wracać, wrócić, iść (do domu)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 676
     },
     {
@@ -11941,7 +12453,7 @@
       "reading": "うんてん",
       "meaning": "prowadzenie pojazdu",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 682
     },
@@ -11949,7 +12461,9 @@
       "literal": "半分",
       "reading": "はんぶん",
       "meaning": "pół, połowa",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 683
     },
     {
@@ -12002,7 +12516,9 @@
       "literal": "何頭",
       "reading": "なんとう",
       "meaning": "ile (dużych zwierząt)?",
-      "tags": [],
+      "tags": [
+        "🇯🇵🇨🇳湯桶読"
+      ],
       "exportId": 690
     },
     {
@@ -12122,8 +12638,10 @@
     {
       "literal": "弁護士",
       "reading": "べんごし",
-      "meaning": "prawnik",
-      "tags": [],
+      "meaning": "prawnik (漢字: „uczony z chroniącą mową”)",
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 705
     },
     {
@@ -12171,7 +12689,9 @@
       "literal": "少年",
       "reading": "しょうねん",
       "meaning": "chłopiec; gatunek mangi dla chłopców",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 711
     },
     {
@@ -12185,7 +12705,9 @@
       "literal": "閉まる",
       "reading": "しまる",
       "meaning": "zamykać się, być zamkniętym",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 713
     },
     {
@@ -12247,7 +12769,9 @@
       "literal": "美容",
       "reading": "びよう",
       "meaning": "piękno, upiększanie, piękny wygląd, figura",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 720
     },
     {
@@ -12383,7 +12907,9 @@
       "literal": "発音",
       "reading": "はつおん",
       "meaning": "wymowa",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 737
     },
     {
@@ -12408,7 +12934,9 @@
       "literal": "朝日",
       "reading": "あさひ",
       "meaning": "poranne światło słoneczne, poranne słońce",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 740
     },
     {
@@ -12453,7 +12981,7 @@
       "reading": "(-を)よやく",
       "meaning": "rezerwacja",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 746
     },
@@ -12469,7 +12997,8 @@
       "reading": "かげつ",
       "meaning": "licznik miesięcy*",
       "tags": [
-        "🧮 liczniki"
+        "🧮 liczniki",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 748
     },
@@ -12494,7 +13023,7 @@
       "reading": "うんどう",
       "meaning": "ćwiczenia fizyczne",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 751
     },
@@ -12510,7 +13039,8 @@
       "reading": "ローマじ",
       "meaning": "transkrypcja japońskich znaków na litery łacińskie",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 753
     },
@@ -12518,7 +13048,9 @@
       "literal": "借りる",
       "reading": "かりる",
       "meaning": "pożyczać (od kogoś)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 754
     },
     {
@@ -12550,7 +13082,9 @@
       "literal": "指す",
       "reading": "さす",
       "meaning": "wskazywać",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 758
     },
     {
@@ -12587,7 +13121,7 @@
       "meaning": "ćwiczenie, powtarzanie lekcji",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 762
     },
@@ -12635,7 +13169,8 @@
       "reading": "りょこう",
       "meaning": "podróż",
       "tags": [
-        "サ変名詞"
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
+        "rzeczownik-suru"
       ],
       "exportId": 768
     },
@@ -12653,7 +13188,8 @@
       "reading": "ねん",
       "meaning": "licznik lat (nie chodzi o wiek)",
       "tags": [
-        "🧮 liczniki"
+        "🧮 liczniki",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 770
     },
@@ -12946,7 +13482,7 @@
       "meaning": "(z)rozumienie, wyrozumiałość",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 805
     },
@@ -12970,7 +13506,9 @@
       "literal": "博士",
       "reading": "はかせ",
       "meaning": "doktor (ekspert, osoba uczona)",
-      "tags": [],
+      "tags": [
+        "czytanie z udziałem Nanori"
+      ],
       "exportId": 808
     },
     {
@@ -13046,7 +13584,9 @@
       "literal": "剃る",
       "reading": "そる",
       "meaning": "golić",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 817
     },
     {
@@ -13111,7 +13651,9 @@
       "literal": "曲がる",
       "reading": "まがる",
       "meaning": "skręcać",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 826
     },
     {
@@ -13133,7 +13675,8 @@
       "reading": "がいこく",
       "meaning": "zagranica*",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 829
     },
@@ -13218,7 +13761,9 @@
       "literal": "大学院",
       "reading": "だいがくいん",
       "meaning": "studia podyplomowe, magisterskie",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 840
     },
     {
@@ -13526,7 +14071,9 @@
       "literal": "飛行機",
       "reading": "ひこうき",
       "meaning": "samolot",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 879
     },
     {
@@ -13657,7 +14204,9 @@
       "literal": "白紙",
       "reading": "はくし",
       "meaning": "czysta kartka",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 894
     },
     {
@@ -13665,7 +14214,7 @@
       "reading": "にゅうがく",
       "meaning": "wstąpienie na uniwersytet; rozpoczęcie szkoły",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 895
     },
@@ -13740,7 +14289,9 @@
       "literal": "少女",
       "reading": "しょうじょ",
       "meaning": "dziewczynka (szczególnie pomiędzy 7, a 17 rokiem życia); gatunek mangi dla dziewcząt",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 906
     },
     {
@@ -13788,7 +14339,7 @@
       "meaning": "objaśnienie, wyjaśnienie, wytłumaczenie, naświetlenie",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 912
     },
@@ -13858,7 +14409,7 @@
       "meaning": "zmartwienie, niepokój, troska",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 921
     },
@@ -13922,7 +14473,7 @@
       "meaning": "sprzątanie",
       "tags": [
         "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk.",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 929
     },
@@ -13960,7 +14511,9 @@
       "literal": "美しい",
       "reading": "うつくしい",
       "meaning": "piękny, czysty (serce, przyjaźń, itp.)",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 934
     },
     {
@@ -13976,7 +14529,9 @@
       "literal": "お寺",
       "reading": "おてら",
       "meaning": "świątynia buddyjska",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 936
     },
     {
@@ -14344,7 +14899,7 @@
       "reading": "とけいや",
       "meaning": "sklep z zegarkami",
       "tags": [
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "exportId": 983
     },
@@ -14673,7 +15228,9 @@
       "literal": "如雨露",
       "reading": "じょうろ",
       "meaning": "konewka*",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1024
     },
     {
@@ -14748,7 +15305,7 @@
       "reading": "べんきょう",
       "meaning": "nauka",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1034
     },
@@ -14901,7 +15458,8 @@
       "meaning": "komponent Kanji, nadający mu często znaczenia związanego z wyrazem lub językiem*",
       "tags": [
         "📖 便利",
-        "🧩 部首"
+        "🧩 部首",
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
       ],
       "exportId": 1053
     },
@@ -14911,7 +15469,7 @@
       "meaning": "zielona herbata",
       "tags": [
         "🍱 料理",
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1055
     },
@@ -15158,7 +15716,7 @@
       "reading": "きんちょう",
       "meaning": "napięcie, stres, zdenerwowanie (np. nadchodzącym egzaminem)",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1087
     },
@@ -15432,7 +15990,7 @@
       "reading": "かいもの",
       "meaning": "zakupy",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1121
     },
@@ -15536,7 +16094,9 @@
       "literal": "一緒",
       "reading": "いっしょ",
       "meaning": "razem",
-      "tags": [],
+      "tags": [
+        "🇨🇳 Możliwy formalny lub specjalistyczny wydźwięk."
+      ],
       "exportId": 1134
     },
     {
@@ -15570,7 +16130,7 @@
       "reading": "りゅうがく",
       "meaning": "studia za granicą",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1138
     },
@@ -15868,7 +16428,7 @@
       "reading": "れんしゅう",
       "meaning": "praktyka, ćwiczenia, trening",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1175
     },
@@ -16009,7 +16569,7 @@
       "reading": "けんか",
       "meaning": "kłótnia, sprzeczka; bójka, walka, przepychanki",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1194
     },
@@ -16303,7 +16863,9 @@
       "literal": "歌う",
       "reading": "うたう",
       "meaning": "śpiewać",
-      "tags": [],
+      "tags": [
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
+      ],
       "exportId": 1231
     },
     {
@@ -16639,7 +17201,7 @@
       "reading": "さんぽ",
       "meaning": "spacer, przechadzka",
       "tags": [
-        "サ変名詞"
+        "rzeczownik-suru"
       ],
       "exportId": 1274
     },
@@ -16678,7 +17240,8 @@
       "reading": "わたし、わたくし、あたい、あたし",
       "meaning": "ja; zwykle bardziej formalne, bardzo oficjalne; w kobiecym lub dziecięcym języku*; bardzo nieformalnie; używane przez młode kobiety tylko w formie mówionej",
       "tags": [
-        "📖 便利"
+        "📖 便利",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1279
     },
@@ -16947,7 +17510,8 @@
       "reading": "おくさん",
       "meaning": "(czyjaś) żona (lub własna w nieoficjalnym tonie wypowiedzi)*",
       "tags": [
-        "🇯🇵 面白い"
+        "🇯🇵 面白い",
+        "🇯🇵 Możliwy łagodniejszy, swobodny wydźwięk."
       ],
       "exportId": 1314
     },
@@ -17204,10 +17768,10 @@
     },
     {
       "tempId": "ant_3",
-      "title": "Note for 素晴らしい",
+      "title": "Dopowiedzenie.",
       "content": "Słówko bardziej formalne.",
       "createdAt": "2025-12-22T18:05:58.000Z",
-      "updatedAt": "2025-12-22T18:05:58.000Z"
+      "updatedAt": "2026-03-21T00:31:04.000Z"
     },
     {
       "tempId": "ant_4",
@@ -17386,10 +17950,10 @@
     },
     {
       "tempId": "ant_29",
-      "title": "Note for 県",
+      "title": "Dopowiedzenie.",
       "content": "przyrostek",
       "createdAt": "2025-12-22T18:05:58.000Z",
-      "updatedAt": "2025-12-22T18:05:58.000Z"
+      "updatedAt": "2026-03-19T12:26:12.000Z"
     },
     {
       "tempId": "ant_30",
@@ -17617,10 +18181,10 @@
     },
     {
       "tempId": "ant_62",
-      "title": "Note for 鶴",
+      "title": "Dopowiedzenie.",
       "content": "Piękny i pełen wdzięku ptak. W japońskiej kulturze od zawsze **symbol szczęścia i długowieczności**. Żurawie pojawiają się w wielu japońskich opowieściach ludowych i są często używane w japońskiej sztuce i wzornictwie.\n\nMówi się też, że jeśli złożymy tysiąc żurawi z papieru origami, to spełnią się nasze życzenia...",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-17T15:50:12.000Z"
     },
     {
       "tempId": "ant_63",
@@ -17673,10 +18237,10 @@
     },
     {
       "tempId": "ant_70",
-      "title": "Note for 横浜",
+      "title": "Dopowiedzenie.",
       "content": "Leży w środkowej części wyspy Honsiu.",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-23T23:55:32.000Z"
     },
     {
       "tempId": "ant_71",
@@ -17785,10 +18349,10 @@
     },
     {
       "tempId": "ant_86",
-      "title": "Note for 持つ",
-      "content": "W znaczeniu posiadania tego czasownika używa się w konstrukcji czynności ciągłej - 「motte imasu」.\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)",
+      "title": "Dopowiedzenie.",
+      "content": "W znaczeniu posiadania tego czasownika używa się w konstrukcji czynności ciągłej - 「motte imasu」.",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-20T19:09:12.000Z"
     },
     {
       "tempId": "ant_87",
@@ -17897,10 +18461,10 @@
     },
     {
       "tempId": "ant_102",
-      "title": "Note for ヶ月",
-      "content": "Podwójne „k” w cyfrach 1, 6, 10 oraz opcjonalnie 8.\n\n「Ka」 jest tu najczęściej zapisywane w sposób historyczny: małym znakiem ヶ Katakany, pomiędzy liczebnikiem, a członem oznaczającym miesiąc.\n\n<hr>\n<sup>źródło: Język japoński dla początkujących (Ewa Krassowska-Mackiewicz)</sup>",
+      "title": "Dopowiedzenie.",
+      "content": "Podwójne „k” w cyfrach 1, 6, 10 oraz opcjonalnie 8.\n\n「Ka」 jest tu najczęściej zapisywane w sposób historyczny: małym znakiem ヶ Katakany, pomiędzy liczebnikiem, a członem oznaczającym miesiąc.",
       "createdAt": "2025-12-22T18:05:59.000Z",
-      "updatedAt": "2025-12-22T18:05:59.000Z"
+      "updatedAt": "2026-03-22T17:19:18.000Z"
     },
     {
       "tempId": "ant_103",
@@ -18289,10 +18853,10 @@
     },
     {
       "tempId": "ant_158",
-      "title": "Note for 言偏",
+      "title": "Dopowiedzenie.",
       "content": "Występuje po lewej stronie znaku.",
       "createdAt": "2025-12-22T18:06:00.000Z",
-      "updatedAt": "2025-12-22T18:06:00.000Z"
+      "updatedAt": "2026-03-24T00:00:38.000Z"
     },
     {
       "tempId": "ant_159",
@@ -18555,10 +19119,10 @@
     },
     {
       "tempId": "ant_196",
-      "title": "Note for 奥さん",
+      "title": "Dopowiedzenie.",
       "content": "Dlaczego w wyrazie tym występuje znak Kanji oznaczający „z tyłu”? Jest to spowodowane tym, że kiedyś żony o wyższym statusie społecznym miały pokój znajdujący się na tyłach domu. Stąd wyraz ten oznaczał „żonę” - mieszkającą z tyłu domu.",
       "createdAt": "2025-12-22T18:06:00.000Z",
-      "updatedAt": "2025-12-22T18:06:00.000Z"
+      "updatedAt": "2026-03-23T12:51:24.000Z"
     },
     {
       "tempId": "ant_197",
@@ -18667,10 +19231,10 @@
     },
     {
       "tempId": "ant_212",
-      "title": "Note for 振仮名",
+      "title": "Dopowiedzenie.",
       "content": "Z racji tej, że Kanji można odczytać na kilka sposobów, przy trudniejszych znakach pojawia się wymowa zapisana (zwykle) Hiraganą.\n\nZapisuje się nią również nietradycyjne czytania złożeń znaków, nazwisk lub nazw własnych.",
       "createdAt": "2025-12-22T18:06:00.000Z",
-      "updatedAt": "2025-12-22T18:06:00.000Z"
+      "updatedAt": "2026-03-21T00:38:01.000Z"
     },
     {
       "tempId": "ant_213",
@@ -18940,10 +19504,10 @@
     },
     {
       "tempId": "ant_251",
-      "title": "Note for 葱",
+      "title": "Dopowiedzenie.",
       "content": "Warzywo (cebulowate) o długich, zielonych liściach oraz białej, grubej łodydze. W smaku łagodniejsze niż tradycyjna cebula.\n\nMożna je stosować na surowo lub gotować, a jego liście są często używane jako przyprawa lub dekoracja potraw.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-23T00:33:46.000Z"
     },
     {
       "tempId": "ant_252",
@@ -18968,10 +19532,10 @@
     },
     {
       "tempId": "ant_255",
-      "title": "Note for 滝行",
+      "title": "Dopowiedzenie.",
       "content": "Praktyka buddyjska, od wieków praktykowana przez samurajów, ascetycznych japońskich buddystów i shintoistów.\n\nSzokujące, ożywcze, niezapomniane wprowadzenie do niezwykłej formy rozwoju duchowego oraz samokontroli.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-22T17:20:25.000Z"
     },
     {
       "tempId": "ant_256",
@@ -19003,17 +19567,17 @@
     },
     {
       "tempId": "ant_260",
-      "title": "Note for 九州",
+      "title": "Dopowiedzenie.",
       "content": "Pol. Kiusiu.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-21T00:24:20.000Z"
     },
     {
       "tempId": "ant_261",
-      "title": "Note for 諸島",
+      "title": "Dopowiedzenie.",
       "content": "[źródło » ](https://pl.wikipedia.org/wiki/Riukiu)",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-22T17:14:34.000Z"
     },
     {
       "tempId": "ant_262",
@@ -19227,10 +19791,10 @@
     },
     {
       "tempId": "ant_292",
-      "title": "Note for 此方",
-      "content": "Coś fizycznie bliskiego mówcy i statusie osoby równej lub wyższej.\n\n[źródło](https://www.japonski-pomocnik.pl/wordDictionary)",
+      "title": "Dopowiedzenie.",
+      "content": "Coś fizycznie bliskiego mówcy i statusie osoby równej lub wyższej.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-21T00:26:51.000Z"
     },
     {
       "tempId": "ant_293",
@@ -19276,10 +19840,10 @@
     },
     {
       "tempId": "ant_299",
-      "title": "Note for 頭高型",
-      "content": "Jest to typowy wzór dla nazwisk, złożonych słów oraz zapożyczeń.\n\n[źródło »](https://t.me/askplexbot)",
+      "title": "Dopowiedzenie.",
+      "content": "Jest to typowy wzór dla nazwisk, złożonych słów oraz zapożyczeń.",
       "createdAt": "2025-12-22T18:06:01.000Z",
-      "updatedAt": "2025-12-22T18:06:01.000Z"
+      "updatedAt": "2026-03-20T19:10:39.000Z"
     },
     {
       "tempId": "ant_300",
@@ -19346,10 +19910,10 @@
     },
     {
       "tempId": "ant_309",
-      "title": "Note for 短歌",
+      "title": "Dopowiedzenie.",
       "content": "Pierwotnie jedna z odmian waka) powstała około VI wieku.",
       "createdAt": "2025-12-22T18:06:02.000Z",
-      "updatedAt": "2025-12-22T18:06:02.000Z"
+      "updatedAt": "2026-03-22T17:16:02.000Z"
     },
     {
       "tempId": "ant_310",
@@ -19847,9 +20411,129 @@
       "content": "1. Rozpoznaj **nadal kumulujące się**, a niepotrzebne dziś zasoby - i zaprzestań ich napływu.\r\n2. Pożegnaj to, co **wypełniło już** swą rolę w Twoim życiu.\r\n3. Rozpoznaj, co z powyższych zasobów jest **naprawdę Twoje** - a co przejęte od innych - i odłącz się od wszystkiego, co nie wypływa z Twojego Własnego serca.\r\n\r\n> „W polskich tekstach 断捨離 bywa upraszczane do ‚minimalizmu’ albo ‚sprzątania’. To zrozumiałe, ale niepełne. Yamashita Hideko, popularyzatorka danshari w Japonii, często podkreśla, że inspiracją była dla niej joga i myśl buddyjska, a nie zachodni minimalizm. W Japonii mówi się wręcz, że danshari to „buddyzm przełożony na codzienność”, szczególnie na relację z przedmiotami.\r\n\r\n> 断 - zerwanie\r\n> Chodzi o świadomą decyzję, by nie wpuszczać do swojego życia rzeczy, informacji i zobowiązań, które nie są nam potrzebne tu i teraz.\r\n\r\n> 捨 - wyrzucanie\r\n> Chodzi o uczciwe spojrzenie na to, co mamy, i zgodę na to, że rzeczy (i nawyki) mają swój czas. W japońskich opisach często pojawia się sformułowanie: „przedmiot spełnił swoją rolę”. 捨 uczy, że trzymanie się rzeczy z przeszłości może blokować teraźniejszość. Jeśli coś nie wspiera cię teraz – możesz to pożegnać z wdzięcznością.\r\n\r\n> 離 - odłączanie\r\n> W japońskim ujęciu 離 to moment, w którym przestajemy definiować siebie przez to, co posiadamy lub czego „powinniśmy” chcieć. To dystans do cudzych oczekiwań, do presji społecznej, do własnych wyobrażeń sprzed lat. Porządkując przestrzeń, uczymy się rozpoznawać, co naprawdę jest nasze, a co przejęte od innych.\r\n\r\n\r\n> Danshari nie jest o stracie. Jest o wyborze. O odzyskaniu przestrzeni, energii i sprawczości. Nowy rok nie potrzebuje idealnej wersji ciebie – potrzebuje miejsca, w którym ta wersja może się pojawić”.\r\n\r\n\r\n[źródło »](https://wsjj.pl/blog/danshari-japonska-sztuka-robienia-miejsca-na-nowe-poczatki)",
       "createdAt": "2026-03-15T13:13:49.000Z",
       "updatedAt": "2026-03-15T13:17:04.000Z"
+    },
+    {
+      "tempId": "ant_381",
+      "title": "Dopowiedzenie.",
+      "content": "準一級 - Prawie Pierwszy Poziom (Kanji Kentei)",
+      "createdAt": "2026-03-18T16:34:16.000Z",
+      "updatedAt": "2026-03-18T16:34:16.000Z"
+    },
+    {
+      "tempId": "ant_382",
+      "title": "Skąd czytania atai i atashi?",
+      "content": "",
+      "createdAt": "2026-03-19T11:42:55.000Z",
+      "updatedAt": "2026-03-19T11:42:55.000Z"
+    },
+    {
+      "tempId": "ant_383",
+      "title": "Skąd całe czytanie?",
+      "content": "",
+      "createdAt": "2026-03-19T14:12:04.000Z",
+      "updatedAt": "2026-03-19T14:12:04.000Z"
+    },
+    {
+      "tempId": "ant_384",
+      "title": "Dopowiedzenie.",
+      "content": "Bardzo popularny japoński przysmak, którym Japończycy delektują się praktycznie cały rok - choć bywają specjalne okazje (takie jak np. Nowy Rok, dni poprzedzające Święto Dziewcząt, rozpoczęcie wiosny / kwitnięcie wiśni, czy Dzień Dziecka), gdy przygotowuje się je w większych ilościach, jako część tradycji.\r\n\r\n**W kwestii przepisu**, najogólniej mówiąc, istnieją dwa sposoby przyrządzania: tradycyjny oraz współczesny.\r\n\r\n**Tradycyjna procedura** sprowadza się do ugotowania na parze moczonego uprzedniej nocy ryżu oraz jego ubijania, by wreszcie uformować zeń pożądany kształt.\r\n\r\n**Współczesna procedura** jest o wiele prostsza i krótsza, a polega na wyrobieniu ciasta z dedykowanej mąki ryżowej (podobnie do dango), po czym gotowania go na płycie kuchennej lub w mikrofali, do osiągnięcia charakterystycznej konsystencji oraz barwy.\r\n\r\nDo obu procedur dochodzi oczywiście jeszcze kwestia przygotowania nadzienia - które może być tak słodkie, jak i np. warzywne. Co więcej, przysmak ten w kuchni japońskiej spożywa się tak samodzielnie, jak i w roli składnika części zup.\r\n\r\nCo ciekawe, historia tego przysmaku sięga VI wieku, kiedy to dzięki rozpopularyzowaniu glinianych / ceramicznych naczyń do gotowania na parze (głównie na wschodzie Japonii) bardziej rozpowszechniło się jego przyrządzanie w domu.\r\n \r\nDo XVII wieku (gdy zaczęto sprowadzać wyroby cukiernicze z Portugalii) większość mochi nie zawierało słodzika.\n\n[źródło »](https://en.wikipedia.org/wiki/Mochi)",
+      "createdAt": "2026-03-19T22:46:12.000Z",
+      "updatedAt": "2026-03-19T22:46:44.000Z"
+    },
+    {
+      "tempId": "ant_385",
+      "title": "Skąd ~su~ w wymowie?",
+      "content": "",
+      "createdAt": "2026-03-20T19:03:07.000Z",
+      "updatedAt": "2026-03-20T19:03:07.000Z"
+    },
+    {
+      "tempId": "ant_386",
+      "title": "Skąd ~se w czytaniu?",
+      "content": "",
+      "createdAt": "2026-03-23T00:43:01.000Z",
+      "updatedAt": "2026-03-23T00:43:01.000Z"
+    },
+    {
+      "tempId": "ant_387",
+      "title": "Skąd czytanie?",
+      "content": "",
+      "createdAt": "2026-03-23T00:44:27.000Z",
+      "updatedAt": "2026-03-23T00:44:27.000Z"
+    },
+    {
+      "tempId": "ant_388",
+      "title": "Dopowiedzenie.",
+      "content": "Azjatycka odmiana gorzkiej pomarańczy, pochodząca z Himalajów. Wiosną owoce te tracą żółtawy odcień i robią się bardziej zielone.\n\nBardzo gorzka, stąd zwykle nie spożywana - lecz wykorzystywana w medycynie: suszone pestki służą jako środek wykrztuśny, a także przeczyszczający - skórka dojrzałego owocy jest stosowana jako aromatyczny środek pobudzający pracę żołądka oraz wykrztuśny.\n\nJedna z etymologii nazwywskazuje na słowo 「代々」 („od pokoleń”), jako że owoce - jeśli nie zerwane - mogą pozostawać na drzewie latami, stąd drzewo może rodzić owoce dłużej niż przez jeden sezon, latami.\n\nOwoców używa się również jako noworocznej ozdoby (np. przy&nbsp;注連飾り /&nbsp;Shimekazari)&nbsp;jako symbol rodziny, która będzie trwać przez pokolenia.\n\n[źródło »](https://en.wikipedia.org/wiki/Daidai)",
+      "createdAt": "2026-03-23T10:36:26.000Z",
+      "updatedAt": "2026-03-23T10:37:11.000Z"
+    },
+    {
+      "tempId": "ant_389",
+      "title": "Dopowiedzenie.",
+      "content": "Budda, nauki Buddy oraz społeczność mnichów i mniszek.",
+      "createdAt": "2026-03-23T13:07:09.000Z",
+      "updatedAt": "2026-03-23T13:07:09.000Z"
+    },
+    {
+      "tempId": "ant_390",
+      "title": "Dopowiedzenie.",
+      "content": "W domu mieszkalnym, ale także w sklepie, restauracji czy firmie. Ma najczęściej postać miniaturowego chramu, z bramą torii i sznurem shimenawa.\n\nJest on uznawany za miejsce zamieszkania czczonego w lokalnym chramie bóstwa, jak również bywa wykorzystywany do obrzędów związanych z <strong>kultem przodków</strong>. Na ołtarzyku przechowywane są rozmaite <strong>amulety </strong>(o-fuda). Codziennie stawia się na nim ofiarę, złożoną zazwyczaj z ryżu i sake.\n\n[źródło »](https://pl.wikipedia.org/wiki/Kamidana)",
+      "createdAt": "2026-03-23T13:17:52.000Z",
+      "updatedAt": "2026-03-23T13:18:59.000Z"
+    },
+    {
+      "tempId": "ant_391",
+      "title": "Dopowiedzenie.",
+      "content": "Zdobi się go kwiatami, ryżem, warzywami, często ulubionymi potrawami przodków.\n\nNajprostszym hołdem przy butsudan jest złożenie ukłonu, klaśnięcie, uderzenie w gong i zapalenie trociczki. Przy różnych okazjach zaprasza się mnicha, który przy butsudanie recytuje sutry.\n\n[źródło »](https://pl.wikipedia.org/wiki/Butsudan )",
+      "createdAt": "2026-03-23T20:57:08.000Z",
+      "updatedAt": "2026-03-23T20:57:08.000Z"
+    },
+    {
+      "tempId": "ant_392",
+      "title": "Dopowiedzenie.",
+      "content": "Składa się zwykle z dwóch płaskich, owalnych mochi, ułożonych jeden na drugim, plus inne elementy dekoracyjne (m.in. gorzka pomarańcza, suszone wodorosty, itd.).\n\nMówi się, że para dyskoidalnych mochi symbolizuje mijające oraz nadchodzące lata, ludzkie serce, “yin” i “yang”, czy też Księżyc i Słońce. Gorzka pomarańcza - 「daidai」 - symbolizuje natomiast ciągłość rodziny z pokolenia na pokolenie.\n\nObecnie ozdobę tą - jako ofiarę dla odwiedzających w Nowy Rok bóstw [źródło »](https://en.wikipedia.org/wiki/Kagami_biraki) - umieszcza się na własnym szintoistycznym, czy buddyjskim ołtarzu (kamidana / butsudan), jak również w ozdobnej alkowie głównego pomieszczenia w domu (tokonoma). Trzywarstwowym wariantem, poza wspomnianymi ołtarzykami, przyozdabia się środek kuchni (okudokazari) lub miejsce przy oknie.\n\nSpożywa się ją w ramach szintoistycznego rytuału Kagami Biraki, przypadającego 11 stycznia (liczby nieparzyste są w Japonii kojarzone z pomyślnością). [źródło »](https://en.wikipedia.org/wiki/Kagami_biraki)\n\nWywodzi się z czasów samurajów: by powitać Nowy Rok, samuraj przyozdabiał dekorację japońskimi zbroją oraz mieczami, następnie umieszczał w tokonomie, by modlić się o dobrobyt rodziny w Nowym Roku.\n\nGdy po okresie noworocznym spożywano niniejsze mochi, unikano przecinania ich nożem, by nie sprofanować bóstwa. Gdy naturalnie wyschło i popękało, rozbijano je drewnianym młotkiem.\n\n[źródło »](https://en.wikipedia.org/wiki/Kagami_mochi) + [źródło »](https://en.wikipedia.org/wiki/Mochi)",
+      "createdAt": "2026-03-23T21:11:32.000Z",
+      "updatedAt": "2026-03-23T21:11:58.000Z"
+    },
+    {
+      "tempId": "ant_393",
+      "title": "Dopowiedzenie.",
+      "content": "Przypada 11 stycznia (liczby nieparzyste są w Japonii kojarzone z pomyślnością). Tego dnia usuwa się ozdobne mochi, a następnie rozbija na mniejsze kawałki przed spożyciem. Do tego czasu mochi jest już zwykle dość kruche, a na jego powierzchni pojawiają się pęknięcia. Mochi nie kroi się nożem, gdyż niesie to ze sobą negatywne konotacje (zerwanie więzi) - stąd rozbija się je rękoma lub młotkiem.&nbsp;Wiele japońskich sztuk walki organizuje tą ceremonię, aby uczcić pierwszy trening w nowym roku. [źródło »](https://en.wikipedia.org/wiki/Kagami_biraki)\n\nTermin ten odnosi się również do otwierania beczki sake na przyjęciach i uroczystościach (wesela, wydarzenia sportowe, parapetówy, otwarcie nowych firm i inne warte świętowania okazje).",
+      "createdAt": "2026-03-23T21:22:42.000Z",
+      "updatedAt": "2026-03-23T21:22:42.000Z"
+    },
+    {
+      "tempId": "ant_394",
+      "title": "Skąd ~shi w czytaniu?",
+      "content": "",
+      "createdAt": "2026-03-23T23:52:53.000Z",
+      "updatedAt": "2026-03-23T23:52:53.000Z"
     }
   ],
   "annotations": {
+    "鏡開き": [
+      "ant_393"
+    ],
+    "鏡餅": [
+      "ant_392"
+    ],
+    "仏壇": [
+      "ant_391"
+    ],
+    "神棚": [
+      "ant_390"
+    ],
+    "三宝": [
+      "ant_389",
+      "ant_321"
+    ],
+    "橙": [
+      "ant_388"
+    ],
+    "準": [
+      "ant_381"
+    ],
     "断捨離": [
       "ant_380"
     ],
@@ -19917,6 +20601,9 @@
     ],
     "空気を読む": [
       "ant_333"
+    ],
+    "無し": [
+      "ant_394"
     ],
     "万才": [
       "ant_330",
@@ -20043,7 +20730,8 @@
       "ant_293"
     ],
     "此方": [
-      "ant_292"
+      "ant_292",
+      "ant_321"
     ],
     "々": [
       "ant_291"
@@ -20182,6 +20870,9 @@
     "筆写略字": [
       "ant_249"
     ],
+    "鴻巣市": [
+      "ant_385"
+    ],
     "草書体": [
       "ant_248"
     ],
@@ -20269,6 +20960,9 @@
     "懐炉": [
       "ant_221"
     ],
+    "雪崩": [
+      "ant_383"
+    ],
     "是非": [
       "ant_220"
     ],
@@ -20309,7 +21003,8 @@
       "ant_210"
     ],
     "河童": [
-      "ant_209"
+      "ant_209",
+      "ant_337"
     ],
     "お洒落": [
       "ant_364"
@@ -20461,6 +21156,9 @@
     "お母さん": [
       "ant_33"
     ],
+    "餅": [
+      "ant_384"
+    ],
     "合羽": [
       "ant_349"
     ],
@@ -20560,7 +21258,8 @@
       "ant_61"
     ],
     "鶴": [
-      "ant_62"
+      "ant_62",
+      "ant_337"
     ],
     "お年玉": [
       "ant_63"
@@ -20635,7 +21334,8 @@
       "ant_85"
     ],
     "持つ": [
-      "ant_86"
+      "ant_86",
+      "ant_324"
     ],
     "何で": [
       "ant_347",
@@ -20693,7 +21393,8 @@
       "ant_101"
     ],
     "ヶ月": [
-      "ant_102"
+      "ant_102",
+      "ant_324"
     ],
     "っヶ月": [
       "ant_103"
@@ -20718,6 +21419,9 @@
     ],
     "人偏": [
       "ant_110"
+    ],
+    "博士": [
+      "ant_386"
     ],
     "弁当": [
       "ant_111"
@@ -20967,6 +21671,9 @@
     "今晩": [
       "ant_182"
     ],
+    "昨日": [
+      "ant_387"
+    ],
     "焼き": [
       "ant_183"
     ],
@@ -21002,7 +21709,8 @@
       "ant_189"
     ],
     "私": [
-      "ant_190"
+      "ant_190",
+      "ant_382"
     ],
     "お正月": [
       "ant_191"

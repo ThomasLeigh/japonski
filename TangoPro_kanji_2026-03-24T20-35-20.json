@@ -1,13 +1,470 @@
 {
   "version": "1.0",
   "entityType": "kanji",
-  "exportDate": "2026-03-16T20:15:31.485Z",
-  "itemCount": 4330,
+  "exportDate": "2026-03-24T20:35:19.563Z",
+  "itemCount": 4371,
   "filters": {
     "tags": [],
     "sort": "sortNewestFirst"
   },
   "items": [
+    {
+      "literal": "沚",
+      "kunyomi": "なぎさ",
+      "onyomi": "シ",
+      "meaning": "brzeg, wybrzeże, mielizna, płycizna",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4371
+    },
+    {
+      "literal": "沍",
+      "kunyomi": "さえる, こおる, ひえる",
+      "onyomi": "ゴ, コ",
+      "meaning": "zamykanie się, zamarzanie, zastyganie, krzepnięcie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4370
+    },
+    {
+      "literal": "沂",
+      "kunyomi": "",
+      "onyomi": "ギ, キ, ギン",
+      "meaning": "nazwa chińskiej rzeki",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4369
+    },
+    {
+      "literal": "汪",
+      "kunyomi": "",
+      "onyomi": "オウ",
+      "meaning": "całkowicie zalany*, obszar wody, szeroki, głęboki",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "ひろ",
+      "exportId": 4368
+    },
+    {
+      "literal": "汢",
+      "kunyomi": "ねた",
+      "onyomi": "",
+      "meaning": "bagno, moczary, mokradło, podmokły teren",
+      "tags": [
+        "🌸 国字",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4367
+    },
+    {
+      "literal": "汕",
+      "kunyomi": "",
+      "onyomi": "サン",
+      "meaning": "pływająca ryba, ryba w sieci",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4366
+    },
+    {
+      "literal": "汞",
+      "kunyomi": "みずがね",
+      "onyomi": "コウ",
+      "meaning": "rtęć",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4365
+    },
+    {
+      "literal": "氤",
+      "kunyomi": "",
+      "onyomi": "イン",
+      "meaning": "ożywiony, energiczny",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4364
+    },
+    {
+      "literal": "氛",
+      "kunyomi": "",
+      "onyomi": "フン",
+      "meaning": "powietrze, atmosfera, pogoda",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4363
+    },
+    {
+      "literal": "气",
+      "kunyomi": "いき",
+      "onyomi": "キ, ケ",
+      "meaning": "duch; para wodna (komponent)",
+      "tags": [
+        "🌊検定の表外字",
+        "🧩 部首"
+      ],
+      "nanori": "",
+      "exportId": 4362
+    },
+    {
+      "literal": "氓",
+      "kunyomi": "たみ",
+      "onyomi": "ボウ",
+      "meaning": "ludzie, lud, naród",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4361
+    },
+    {
+      "literal": "氈",
+      "kunyomi": "もうせん",
+      "onyomi": "セン",
+      "meaning": "wełniana tkanina lub dywanik*",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4360
+    },
+    {
+      "literal": "麾",
+      "kunyomi": "さしまねく, さしずばた",
+      "onyomi": "キ",
+      "meaning": "skinąć, polecenie, komenda, rozkazywać, dowództwo",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4359
+    },
+    {
+      "literal": "毯",
+      "kunyomi": "",
+      "onyomi": "タン",
+      "meaning": "wełniany dywanik*",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4358
+    },
+    {
+      "literal": "毳",
+      "kunyomi": "けば, むくげ",
+      "onyomi": "ゼイ, セイ, セツ",
+      "meaning": "puch, meszek",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4357
+    },
+    {
+      "literal": "每",
+      "kunyomi": "つね",
+      "onyomi": "マイ, バイ",
+      "meaning": "każdy",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "",
+      "exportId": 4356
+    },
+    {
+      "literal": "毫",
+      "kunyomi": "ごうも, すこし",
+      "onyomi": "ゴウ, コウ",
+      "meaning": "cienkie włosy, szczotka, pędzel; wcale nie, bynajmniej, skądże, gdzie by tam",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4355
+    },
+    {
+      "literal": "毟",
+      "kunyomi": "むしる",
+      "onyomi": "",
+      "meaning": "rwanie, zrywanie, zbieranie, skubanie",
+      "tags": [
+        "🌸 国字",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4354
+    },
+    {
+      "literal": "毓",
+      "kunyomi": "そだつ, そだてる, はぐくむ",
+      "onyomi": "イク",
+      "meaning": "wychowywanie, dorastanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "りゅう",
+      "exportId": 4353
+    },
+    {
+      "literal": "毋",
+      "kunyomi": "はは, ぼ, ない, なかれ",
+      "onyomi": "ブ, ム",
+      "meaning": "nie być, nie (musieć) robić; matka (komponent)",
+      "tags": [
+        "🌊検定の表外字",
+        "🧩 部首"
+      ],
+      "nanori": "",
+      "exportId": 4352
+    },
+    {
+      "literal": "毆",
+      "kunyomi": "なぐる, たたく",
+      "onyomi": "オウ, ク",
+      "meaning": "bić, uderzanie, trafienie, walka na pięści, bójka, bijatyka, burda, awantura*",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4351
+    },
+    {
+      "literal": "殼",
+      "kunyomi": "から",
+      "onyomi": "カク, コク, バイ",
+      "meaning": "łupina, łuska, skorupa orzecha",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4350
+    },
+    {
+      "literal": "殷",
+      "kunyomi": "さかん",
+      "onyomi": "イン, アン",
+      "meaning": "kwitnienie, rozkwitanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4349
+    },
+    {
+      "literal": "殳",
+      "kunyomi": "また, ほこ",
+      "onyomi": "シュ",
+      "meaning": "pika (włócznia); znowu wietrznie (komponent)",
+      "tags": [
+        "🌊検定の表外字",
+        "🧩 部首"
+      ],
+      "nanori": "",
+      "exportId": 4348
+    },
+    {
+      "literal": "殱",
+      "kunyomi": "つくす, ほろぼす",
+      "onyomi": "セン",
+      "meaning": "masakra, rzeź, jatka, pogrom",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4347
+    },
+    {
+      "literal": "殲",
+      "kunyomi": "つくす, ほろぼす",
+      "onyomi": "セン",
+      "meaning": "masakra, rzeź, jatka, pogrom*",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4346
+    },
+    {
+      "literal": "殯",
+      "kunyomi": "かりもがり",
+      "onyomi": "ヒン",
+      "meaning": "kłamanie w oświadczeniu / orzeczeniu; niepogrzebana trumna",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4345
+    },
+    {
+      "literal": "殫",
+      "kunyomi": "つきる",
+      "onyomi": "タン",
+      "meaning": "stanie się wyczerpanym, zmęczonym, przemęczonym; wszystko",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4344
+    },
+    {
+      "literal": "殪",
+      "kunyomi": "たおす",
+      "onyomi": "エイ",
+      "meaning": "umieranie, pochowanie, pogrzebanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4343
+    },
+    {
+      "literal": "殤",
+      "kunyomi": "わかじに",
+      "onyomi": "ショウ",
+      "meaning": "umieranie w młodym wieku",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4342
+    },
+    {
+      "literal": "殞",
+      "kunyomi": "おちる, しぬ",
+      "onyomi": "イン, ウン",
+      "meaning": "upadanie, umieranie, umarcie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4341
+    },
+    {
+      "literal": "殕",
+      "kunyomi": "ねる",
+      "onyomi": "フ",
+      "meaning": "pleśnieć",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4340
+    },
+    {
+      "literal": "殘",
+      "kunyomi": "のこる, のこす, そこなう, のこり",
+      "onyomi": "ザン",
+      "meaning": "pozostałość, resztki, saldo",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4339
+    },
+    {
+      "literal": "殍",
+      "kunyomi": "うえじに",
+      "onyomi": "ヒョウ, フ",
+      "meaning": "umieranie z głodu",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4338
+    },
+    {
+      "literal": "殃",
+      "kunyomi": "わざわい",
+      "onyomi": "オウ, ヨウ",
+      "meaning": "niepowodzenie, nieszczęście, katastrofa, klęska, kataklizm",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4337
+    },
+    {
+      "literal": "殄",
+      "kunyomi": "たつ, つきる, つくす",
+      "onyomi": "テン",
+      "meaning": "wszystko, zupełnie, kompletnie, całkowicie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4336
+    },
+    {
+      "literal": "殀",
+      "kunyomi": "わかじに",
+      "onyomi": "ヨウ",
+      "meaning": "umieranie młodo",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4335
+    },
+    {
+      "literal": "歿",
+      "kunyomi": "しぬ",
+      "onyomi": "ボツ",
+      "meaning": "umieranie*",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4334
+    },
+    {
+      "literal": "歹",
+      "kunyomi": "",
+      "onyomi": "ガツ, ガチ, タイ",
+      "meaning": "naga kość; zły, błędny, nieprawidłowy, niewłaściwy; śmierć (komponent)",
+      "tags": [
+        "🌊検定の表外字",
+        "🧩 部首"
+      ],
+      "nanori": "",
+      "exportId": 4333
+    },
+    {
+      "literal": "歸",
+      "kunyomi": "かえる, かえす, おくる, とつぐ",
+      "onyomi": "キ",
+      "meaning": "powrót do domu*, przybywanie / przyjeżdżanie / (do)prowadzenie do; skutkowanie, spowodowanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4332
+    },
+    {
+      "literal": "歡",
+      "kunyomi": "よろこぶ",
+      "onyomi": "カン",
+      "meaning": "radość, uciecha, zachwyt, przyjemność, rozkosz",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4331
+    },
     {
       "literal": "歟",
       "kunyomi": "や, か",
@@ -290,7 +747,7 @@
       "literal": "櫑",
       "kunyomi": "さかだる",
       "onyomi": "ライ",
-      "meaning": "ozdobna beczka wina; ozdobna rękojeść miecza",
+      "meaning": "ozdobna beczka wina*; ozdobna rękojeść miecza",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10792,7 +11249,7 @@
       "literal": "揖",
       "kunyomi": "",
       "onyomi": "イツ, ユ, シュウ, ユウ",
-      "meaning": "ukłon ze złączonymi rękoma; zjednoczenie, zbieranie się",
+      "meaning": "ukłon ze złączonymi rękoma*; zjednoczenie, zbieranie się",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -16194,7 +16651,7 @@
       "literal": "信",
       "kunyomi": "",
       "onyomi": "シン",
-      "meaning": "wiara; prawda; wierność; zaufanie",
+      "meaning": "wiara*; prawda; wierność; zaufanie",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -19094,7 +19551,7 @@
       "literal": "釧",
       "kunyomi": "くしろ, うでわ",
       "onyomi": "セン",
-      "meaning": "bransoletka",
+      "meaning": "bransoletka*",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -20309,7 +20766,7 @@
       "literal": "征",
       "kunyomi": "",
       "onyomi": "セイ",
-      "meaning": "opanowanie, podbijanie, zniewolenie, atakowanie rebeliantów; ściąganie podatków",
+      "meaning": "opanowanie, podbijanie*, zniewolenie, atakowanie rebeliantów; ściąganie podatków",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -27981,7 +28438,7 @@
       "literal": "魁",
       "kunyomi": "さきがけ, かしら",
       "onyomi": "カイ",
-      "meaning": "pionier, prekursor",
+      "meaning": "pionier, prekursor*",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -38009,8 +38466,8 @@
     },
     {
       "literal": "豪",
-      "kunyomi": "ゴウ",
-      "onyomi": "えらい",
+      "kunyomi": "えらい",
+      "onyomi": "ゴウ",
       "meaning": "przemożny, wielki, potężny,; prześciganie; Australia",
       "tags": [
         "🏡 常用漢字",
@@ -45459,7 +45916,7 @@
       "meaning": "dobry, miły, przyjemny; wykwalifikowany, zręczny",
       "tags": [
         "🏡 常用漢字",
-        "混合読みと名乗り"
+        "czytanie z udziałem Nanori"
       ],
       "nanori": "",
       "exportId": 647
@@ -51094,9 +51551,121 @@
       "content": "Gatunek drzewa.",
       "createdAt": "2026-03-13T10:19:19.000Z",
       "updatedAt": "2026-03-13T10:19:19.000Z"
+    },
+    {
+      "tempId": "ant_436",
+      "title": "Skojarzenie.",
+      "content": "Miotła zamarła w dłoni sprzątającej obejście matki, gdy spostrzegła długo niewidzianego syna, który właśnie powrócił do domu.",
+      "createdAt": "2026-03-17T11:46:41.000Z",
+      "updatedAt": "2026-03-17T11:46:41.000Z"
+    },
+    {
+      "tempId": "ant_437",
+      "title": "Skojarzenie.",
+      "content": "Znów zawinięty w całun.",
+      "createdAt": "2026-03-17T11:47:47.000Z",
+      "updatedAt": "2026-03-17T11:47:47.000Z"
+    },
+    {
+      "tempId": "ant_438",
+      "title": "Skojarzenie.",
+      "content": "Bransoletki z kolorowych mulin z moich czasów szkolnych.",
+      "createdAt": "2026-03-17T12:03:01.000Z",
+      "updatedAt": "2026-03-17T12:03:01.000Z"
+    },
+    {
+      "tempId": "ant_439",
+      "title": "Dopowiedzenie.",
+      "content": "Odmiana z czworgiem osób.",
+      "createdAt": "2026-03-20T10:32:41.000Z",
+      "updatedAt": "2026-03-21T07:45:06.000Z"
+    },
+    {
+      "tempId": "ant_440",
+      "title": "Skojarzenie.",
+      "content": "Podbój „w słusznej sprawie”.",
+      "createdAt": "2026-03-20T10:40:58.000Z",
+      "updatedAt": "2026-03-20T10:40:58.000Z"
+    },
+    {
+      "tempId": "ant_441",
+      "title": "Skojarzenie.",
+      "content": "Splecione palce.",
+      "createdAt": "2026-03-20T10:47:39.000Z",
+      "updatedAt": "2026-03-20T10:47:39.000Z"
+    },
+    {
+      "tempId": "ant_442",
+      "title": "Skojarzenie.",
+      "content": "Beczka bogato zrobiona cekinami.",
+      "createdAt": "2026-03-20T10:51:29.000Z",
+      "updatedAt": "2026-03-20T10:51:29.000Z"
+    },
+    {
+      "tempId": "ant_443",
+      "title": "Skojarzenie.",
+      "content": "Lucyfer „Gwiazda Zaranna”",
+      "createdAt": "2026-03-20T19:22:09.000Z",
+      "updatedAt": "2026-03-20T19:22:09.000Z"
+    },
+    {
+      "tempId": "ant_444",
+      "title": "Skojarzenie.",
+      "content": "Dużo zgiełku.",
+      "createdAt": "2026-03-21T07:48:10.000Z",
+      "updatedAt": "2026-03-21T07:48:10.000Z"
+    },
+    {
+      "tempId": "ant_445",
+      "title": "Skojarzenie.",
+      "content": "Lubię kontemplować wdzięczność siedząc na wełnianym dywaniku o brzasku.",
+      "createdAt": "2026-03-22T14:18:13.000Z",
+      "updatedAt": "2026-03-22T14:20:55.000Z"
+    },
+    {
+      "tempId": "ant_446",
+      "title": "Skojarzenie.",
+      "content": "Wełniany dywanik jest bardzo ciepły.",
+      "createdAt": "2026-03-22T14:19:42.000Z",
+      "updatedAt": "2026-03-22T14:19:42.000Z"
+    },
+    {
+      "tempId": "ant_447",
+      "title": "Skojarzenie.",
+      "content": "Brać coś na słowo.",
+      "createdAt": "2026-03-23T11:52:41.000Z",
+      "updatedAt": "2026-03-23T11:52:41.000Z"
+    },
+    {
+      "tempId": "ant_448",
+      "title": "Skojarzenie.",
+      "content": "Panowanie wody.",
+      "createdAt": "2026-03-24T12:06:28.000Z",
+      "updatedAt": "2026-03-24T12:06:28.000Z"
     }
   ],
   "annotations": {
+    "汪": [
+      "ant_448"
+    ],
+    "氈": [
+      "ant_445"
+    ],
+    "毯": [
+      "ant_446"
+    ],
+    "毆": [
+      "ant_444"
+    ],
+    "殲": [
+      "ant_439"
+    ],
+    "歿": [
+      "ant_437"
+    ],
+    "歸": [
+      "ant_436"
+    ],
     "欅": [
       "ant_435"
     ],
@@ -51105,6 +51674,9 @@
     ],
     "櫟": [
       "ant_433"
+    ],
+    "櫑": [
+      "ant_442"
     ],
     "檳": [
       "ant_393"
@@ -51612,6 +52184,9 @@
     "輿": [
       "ant_216"
     ],
+    "揖": [
+      "ant_441"
+    ],
     "鑓": [
       "ant_215"
     ],
@@ -51699,6 +52274,9 @@
     "樗": [
       "ant_190"
     ],
+    "信": [
+      "ant_447"
+    ],
     "昭": [
       "ant_283"
     ],
@@ -51741,6 +52319,9 @@
     "旭": [
       "ant_180"
     ],
+    "釧": [
+      "ant_438"
+    ],
     "丹": [
       "ant_362"
     ],
@@ -51755,6 +52336,9 @@
     ],
     "逐": [
       "ant_309"
+    ],
+    "征": [
+      "ant_440"
     ],
     "潔": [
       "ant_178"
@@ -51929,6 +52513,9 @@
     ],
     "菰": [
       "ant_128"
+    ],
+    "魁": [
+      "ant_443"
     ],
     "鰹": [
       "ant_127"

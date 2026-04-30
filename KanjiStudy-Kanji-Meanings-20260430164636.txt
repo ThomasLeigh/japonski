@@ -68,7 +68,7 @@
 亙 sfera, zakres, zasięg; osiągać, sięgać; przedłużać, rozciągać, rozszerzać; pokrycie, powłoka, okładka, osłonka
 些 troszeczkę, nieco, czasami, niekiedy
 亜 Azja; ranga następna; następowanie
-亞 ranga*, szereg; podążanie, postępowanie, następowanie
+亞 ranga 💡, szereg; podążanie, postępowanie, następowanie
 亟 szybki, prędkl, nagły
 亠 pokrywka od czajnika
 亡 nieboszczyk, zmarły; umieranie
@@ -102,18 +102,18 @@
 仗 laska, kij
 付 przyleganie, przywieranie, przymocowanie, przyczepianie, przyklejanie; łączenie, odnoszenie się do, dodawanie, dołączanie
 仙 pustelnik, czarodziej, guślarz; cent
-仞 sążeń*
+仞 sążeń 📖
 仟 1000
 代 zamiennik, substytut, zamienianie, przerabianie, konwertowanie, zastępowanie; okres, czas, epoka, wiek, licznik dekad, epok, wieków, itp., pokolenie, generacja; opłata
 令 rozkaz, prawa, polecenie, dekret; dobry
 以 za pomocą; ponieważ, z powodu, z racji, z uwagi na; w porównaniu z
-仭 sążeń*
+仭 sążeń 📖
 仮 pozór, tymczasowy, (okres) przejściowy; przybrane (imię), nieformalny
 仰 twarzą / patrzenie do góry / w górę; poleganie na; respekt, podziw, poważanie, szacunek; szukanie; picie; branie
 仲 pośrednik; relacja, stosunek, związek
-件 sprawa*, kwestia, rzecz
+件 sprawa 💡, kwestia, rzecz
 价 człowiek z Kanji na skorupiaka
-任 odpowiedzialność*, obowiązek, misja, powierzenie, mianowanie, wyznaczanie
+任 odpowiedzialność 💡, obowiązek, misja, powierzenie, mianowanie, wyznaczanie
 企 podjęcie / zobowiązanie się; program, projekt, szkic, plan(owanie); próba, próbowanie, usiłowanie
 伉 ten sam rodzaj, identyczny typ; porównywanie z
 伊 Włochy; ten
@@ -130,7 +130,7 @@
 伴 towarzyszenie, towarzysz, osoba towarzysząca; przyprowadzanie
 伶 aktor
 伸 rozszerzenie, rozszerzanie, rozciąganie, rozciągnięcie, wydłużanie, przedłużanie, zwiększanie
-伺 składanie uszanowania, odwiedzanie, wizyta; pytanie, zadawanie pytania; błaganie, napraszanie się
+伺 składanie uszanowania, odwiedzanie, wizyta 💡; pytanie, zadawanie pytania; błaganie, napraszanie się
 似 stawanie się; zostawianie; przypominanie, podróbka, falsyfikat, imitowanie, naśladowanie; odpowiedni, nadający się
 伽 opieka, pielęgniarstwo; artysta
 佃 uprawiane pole ryżowe
@@ -139,7 +139,7 @@
 位 stopień, ranga, pozycja, szczebel; tron, korona; około, parę
 低 dolny, niski; skromny, pokorny
 住 mieszkanie, zamieszkiwanie, przebywanie, życie
-佐 asystent, pomoc(nik)
+佐 asystent 💡, pomoc(nik)
 佑 pomoc, asysta
 体 ciało; substancja; obiekt; rzeczywistość; licznik  obrazów
 何 co?; ile?
@@ -151,13 +151,13 @@
 佝 durny, głupi, niemądry; pochylony
 佞 pochlebstwo, nieszczerość, fałszywość, hipokryzja
 佩 odzież, ubranie; noszenie (miecza)
-佯 udawanie*, symulowanie; fałszywy, oszukańczy, kłamliwy
+佯 udawanie 🐑🐺, symulowanie; fałszywy, oszukańczy, kłamliwy
 佰 100; przywódca stu osób; wschodnio-zachodnia ścieżka pomiędzy polami ryżowymi
 佳 doskonały, znakomity, wspaniały, piękny, przyjemny; wykwalifikowany, zręczny, dobry
 併 łączenie, dołączanie; zbieranie, gromadzenie; zjednoczenie; spółdzielnia
 佶 zdrowy, poprawny, właściwy
 佻 lekkomyślność, frywolność, pustota, błahość
-佼 (prze)piękny, wspaniały, śliczny; sprytny, zdolny, bystry; oszukiwanie, zwodzenie, okłamywanie; chytry, przebiegły, cwany*
+佼 (prze)piękny, wspaniały, śliczny; sprytny, zdolny, bystry; oszukiwanie, zwodzenie, okłamywanie; chytry, przebiegły, cwany 💡
 使 używanie, korzystanie; wysyłanie na misję, posłaniec, kurier, wysłannik, ambasador; rozkaz, polecenie; sprawa, cel
 侃 silny, mocny, solidny; słuszny, prawy, sprawiedliwy; miłujący pokój
 來 przychodzenie, podchodzenie, zbliżanie się; stawanie się, zostanie; następny; z powodu, powód, przyczyna
@@ -172,7 +172,7 @@
 依 poleganie na, zależenie od; wskutek tego, w rezultacie, w konsekwencji, dlatego (też), z powodu
 侠 chłopczyca; rycerskość, rycerstwo
 価 wartość, cena
-侫 pochlebstwo, nieszczerość, fałszywość*
+侫 pochlebstwo, nieszczerość, fałszywość 💡
 侭 tak to jest; ponieważ
 侮 pogarda, pogardzanie, gardzenie; lekceważenie
 侯 markiz, władca, pan, daimyo
@@ -213,19 +213,19 @@
 倏 szybki, prędki, natychmiastowy, bezzwłoczny
 們 końcówka liczby mnogiej
 倒 obalenie, upadek, zawalenie się, popsucie się; powalenie, pokonanie
-倔 uparty, oporny, hardy, zacięty*
+倔 uparty, oporny, hardy, zacięty 💡
 倖 szczęście, radość, pomyślność, powodzenie
 候 klimat, pora roku, sezon, pogoda; czekanie na, spodziewanie się, oczekiwanie na
-倚 opieranie się o*, bycie zależny od
+倚 opieranie się o 💡, bycie zależny od
 借 (wy)pożyczanie, wynajmowanie
 倡 prostytutka; aktor
 倣 naśladowanie, imitowanie
 値 cena, koszt, wartość
-倥 prostacki*, chamski, gburowaty, niekulturalny; pilny, nagły, naglący
+倥 prostacki 💡, chamski, gburowaty, niekulturalny; pilny, nagły, naglący
 倦 tracenie zainteresowania, męczenie się (czymś)
-倨 duma*, pycha, buta; kucanie z wyciągniętymi nogami
-倩 ostrożnie, starannie*, uważnie, bacznie, troskliwie, dokładnie
-倪 spojrzenie; gapienie się*
+倨 duma 💡, pycha, buta; kucanie z wyciągniętymi nogami
+倩 ostrożnie, starannie 💡, uważnie, bacznie, troskliwie, dokładnie
+倪 spojrzenie 💡; gapienie się
 倫 etyka, zasada, obowiązek
 倬 duży, wielki, ogromny; jasny, przejrzysty; niezwykły, wybitny
 倭 Yamato, starożytna Japonia
@@ -248,7 +248,7 @@
 偵 szpieg(owanie)
 偶 przypadkowo, przez przypadek; liczba parzysta, para, mężczyzna i kobieta, ten sam rodzaj
 偸 kradzież
-偽 fałsz, kłamstwo, kłamanie, okłamywanie, oszukiwanie, udawanie, podrabianie, fałszowanie, falsyfikat
+偽 fałsz, kłamstwo 💡, kłamanie, okłamywanie, oszukiwanie, udawanie, podrabianie, fałszowanie, falsyfikat
 傀 duży, wielki
 傅 korepetytor
 傍 świadek zdarzenia, przechodzień, obserwator; strona; poza, oprócz; podczas, w trakcie; pobliże; trzecia osoba
@@ -270,15 +270,15 @@
 僊 pustelnik
 働 praca, pracowanie
 像 statua, posąg, pomnik; obraz(ek), rysunek, wizerunek, podobizna, portret
-僑 uchodźca, emigrant*, osoba mieszkająca za granicą; (tym)czasowy, chwilowy dom
+僑 uchodźca, emigrant 💡, osoba mieszkająca za granicą; (tym)czasowy, chwilowy dom
 僕 ja, mnie; służący
 僖 przyjemność, radość
 僚 kolega, towarzysz; urzędnik
-僞 kłamstwo*, fałsz, okłamywanie, oszukiwanie, udawanie
-僣 chełpliwie; uzurpowanie*
-僥 szczęście*, powodzenie; dążenie; szukanie; ochota, pragnienie
+僞 kłamstwo 💡, fałsz, okłamywanie, oszukiwanie, udawanie
+僣 chełpliwie; uzurpowanie 💡
+僥 szczęście 💡, powodzenie; dążenie; szukanie; ochota, pragnienie
 僧 kapłan (buddyjski), mnich
-僭 chełpliwie; uzurpowanie*
+僭 chełpliwie; uzurpowanie 💡
 僮 dziecko*; sługa, służący; głupota
 僵 upadek, upadanie, zapadnięcie, runięcie*
 價 cena, wartość
@@ -293,14 +293,14 @@
 儕 towarzysz, osoba towarzysząca, kompan
 儖 brzydki, szpetny, paskudny
 儘 tak to jest, ponieważ
-儚 przemijalny, przelotny*; kapryśny, zmienny
+儚 przemijalny, przelotny 💡; kapryśny, zmienny
 償 rekompensata, zadośćuczynienie, wynagradzanie, odkupienie, odpłacanie
 儡 porażka, klęska, przegrana, niepowodzenie*
 優 czułość, delikatność, łagodność; prześciganie, górowanie, przewyższanie, wyższość, przewaga; aktor
 儲 bycie pożytecznym; korzystnym; zysk
-儷 towarzysz, kompan*
+儷 towarzysz, kompan 💡
 儺 egzorcyzm, zaklęcie
-儻 przodowanie, przewyższanie, wyróżnianie się*; jeżeli; (być) może, chyba
+儻 przodowanie, przewyższanie, wyróżnianie się 💡; jeżeli; (być) może, chyba
 儼 poważny; nie(na)ruszony, niezmieniony, nietknięty; majestatyczny
 儿 nogi (komponent)
 兀 wysoki i równy, szczytny, wyniosły, wzniosły; łysy; niebezpieczny, groźny
@@ -321,10 +321,10 @@
 兔 królik, zając
 党 partia polityczna, frakcja, klika
 兜 hełm, kask
-兢 staranny, dbały*, ostrożny, uważny, dyskretny, rozsądny
+兢 staranny, dbały 💡, ostrożny, uważny, dyskretny, rozsądny
 入 wchodzenie, wkładanie
 全 cały, całość, całkowity, całkowicie, kompletny, pełny
-兩 stara japońska moneta*; obaj, oboje, (oby)dwa; licznik pojazdów
+兩 stara japońska moneta 💡; obaj, oboje, (oby)dwa; licznik pojazdów
 兪 odpowiedź pozytywna, twierdząca; zrelaksowany, rozluźniony; łatwo
 八 8
 公 publiczny, oficjalny; książę; urzędnik, rządowy
@@ -336,30 +336,30 @@
 具 narzędzie, przyrząd; sposób, środek, środki; składnik, element; licznik zbroji, kombinezonów, zestawów mebli
 典 kodeks, prawo, reguła, księga; ceremonia, uroczystość
 兼 jednocześnie, równocześnie, i, oraz; najpierw, przedtem, uprzednio, z wyprzedzeniem, z góry, zawczasu
-冀 mieć nadzieję*, życzenie; prowincja Hebei
+冀 mieć nadzieję 💡, życzenie; prowincja Hebei
 冂 odwrócone pudełko (komponent)
 内 wewnątrz, w środku, pomiędzy, w obrębie; dom
 円 koło, okrągły; jen*
 冉 czerwony; orzechowy, brązowy
 冊 tom (książki), wolumen licznik książek
-册 licznik książek; tom*, wolumen
+册 licznik książek; tom 💡, wolumen
 再 znowu, jeszcze raz, drugi raz, powtórnie; dwa razy, dwukrotnie
-冏 jasny, pogodny*, świetlany; bystry
+冏 jasny, pogodny 🌞, świetlany; bystry
 冐 ryzyko; odważny, dzielny, mężny; stawianie czoła, przeciwstawianie się; atak choroby; uszkodzenie, szkoda, uszczerbek; bezcześcić, profanowanie; przyjmowanie nazwiska
-冑 hełm*, kask
+冑 hełm 💡, kask
 冒 ryzyko; stawianie czoła, przeciwstawianie / odważenie się; uszkodzenie, szkoda; przyjmowanie (imienia)
 冓 łączenie razem, składanie; wewnętrzny pałac
-冕 korona*
+冕 korona 💡
 冖 komponent w kształcie korony 「wa」
 冗 zbędny, nadmierny, bezużyteczny
 写 kopia, kopiowanie, bycie fotografowanym, opisywanie
 冠 korona; najlepszy, niezrównany
 冢 pagórek, górka, kopiec
-冤 fałszywe oskarżenie*; nienawiść
+冤 fałszywe oskarżenie 💡; nienawiść
 冥 ciemny, mroczny, ponury
 冦 nieprzyjaciel, wróg, przeciwnik; zemsta, odwet; niechęć, uraz; spór, niezgoda, waśń, zatarg
 冨 wzbogacanie, użyźnianie; bogaty, zamożny, zasobny, majętny
-冩 pisanie*; rysowanie, szkic(owanie); komponowanie, układanie, tworzenie
+冩 pisanie 💡; rysowanie, szkic(owanie); komponowanie, układanie, tworzenie
 冪 wykładnik, eksponent, potęga
 冫 dwukreskowy komponent wody lub lód
 冬 zima
@@ -368,22 +368,22 @@
 冲 otwarte morze; wzniesienie się wysoko w kierunku nieba
 决 postanowienie, (z)decydowanie, rozstrzygnięcie, określanie, sądzenie, osądzanie, ocenianie
 冴 czysty, niezmącony; zimny, chłodny; zręczny
-况 jeszcze więcej, jeszcze mniej*
+况 jeszcze więcej, jeszcze mniej 💡
 冶 roztapianie, topienie, wytapianie, rozpuszczanie
 冷 zimno, zimny, chłód, chłodny
 冽 zimny, chłodny
 凄 zadziwiający, tajemniczy, zagadkowy; dziwaczny, dziwny; groźny, straszny
-凅 zamieranie, zanikanie, usychanie*, więdnąć, osłabnięcie; kulanie
+凅 zamieranie, zanikanie, usychanie 💡, więdnąć, osłabnięcie; kulanie
 准 quasi-, jakby-, niemal-, pół-; wspólnik, partner
 凉 miły i chłodny / zimny	
-凋 usychanie, więdnięcie*, słabnięcie
-凌 znieść*; (prze)trwanie, pomaganie komuś wybrnąć, zażegnanie; przeciwstawianie się, postępowanie wbrew; uraz, obraza; przewyższanie, przekraczanie
+凋 usychanie, więdnięcie 💡, słabnięcie
+凌 znieść 💡; (prze)trwanie, pomaganie komuś wybrnąć, zażegnanie; przeciwstawianie się, postępowanie wbrew; uraz, obraza; przewyższanie, przekraczanie
 凍 zamarzanie, zamrażanie, chłodzenie, krzepnięcie, zastyganie
 凖 odpowiedni do, proporcjonalny do; dostosowanie, dopasowanie; imitowanie, naśladowanie
 凛 chłodny, chłodno, zimny, zimno, surowy, srogi
 凜 zimny, chłodny, surowy, wymagający, rygorystyczny
 凝 krzepnienie, zastyganie, zamarzanie, zesztywnienie, zdrętwienie; być wchłoniętym / pochłoniętym
-几 stół* (komponent), jego obudowa; wietrzny
+几 stół 💡 (komponent), jego obudowa; wietrzny
 凡 powszechny, pospolity, zwykły, zwyczajny, przeciętny, średni
 処 rozmieszczanie, umieszczenie, rozkładanie; kierowanie, zarządzanie; radzenie sobie, radzić sobie; zajmowanie się (czymś); skazywanie, potępianie; zachowywanie się
 凧 latawiec
@@ -398,7 +398,7 @@
 凹 wklęsłe, dziura, jama, wydrążenie
 出 wyjście, wychodzenie, wyjeżdżanie; wydawanie, publikowanie; wystawanie, sterczenie
 函 pudełko (archaiczny)
-凾 pudło, pudełko*, skrzynia 
+凾 pudło, pudełko 💡, skrzynia 
 刀 miecz, szabla, nóż, ostrze
 刃 ostrze, miecz
 刄 ostrze, miecz
@@ -406,7 +406,7 @@
 切 cięcie, przecinanie; bycie ostrym
 刈 zbieranie plonów; cięcie, przycinanie, obcinanie
 刊 publikowanie; drążenie, rycie, grawerowanie
-刋 cięcie, krojenie; struganie, ciosanie*
+刋 cięcie, krojenie; struganie, ciosanie 💡
 刎 ścięcie głowy
 刑 kara(nie), wyrok
 刔 wykopanie; wyskubanie; żłobienie, dłubanie
@@ -416,8 +416,8 @@
 別 oddzielny, odrębny, oddzielanie, rozchodzenie się, rozgałęzienie się, rozwidlenie się; inny, różny; dodatkowy; specjalnie, odrębnie
 刧 pogróżka, groźba; zagrożenie, niebezpieczeństwo; podeszły, dlugi wiek
 利 korzyść, zysk, pożytek
-刪 ścięcie, skrócenie, redukowanie*, ograniczanie, zmniejszanie
-刮 zdrapywanie, zeskrobywanie*
+刪 ścięcie, skrócenie, redukowanie 💡, ograniczanie, zmniejszanie
+刮 zdrapywanie, zeskrobywanie 💡
 到 przybycie, przyjazd; osiąganie, dochodzenie, zdobywanie, doprowadzenie do
 刳 jasny, czysty, pogodny; spokojny; chłodny
 制 system, prawo, reguła, zasada, przepis
@@ -430,14 +430,14 @@
 剄 ścięcie, obcięcie głowy
 則 reguła, zasada, prawo, przepis; stosowanie się; bazowanie / opieranie / wzorowanie się na
 削 heblowanie, temperowanie, ostrzenie, struganie, ciosanie, przycinanie, golenie
-剋 zwycięstwo*, wygrana, wiktoria
+剋 zwycięstwo 💡, wygrana, wiktoria
 剌 przeciwny, przeciwstawny; stronniczy, tendencyjny, uprzedzony
 前 przed(tem), poprzednio; przód
-剏 zaczynanie*, rozpoczynanie; bycie uszkodzony, zniszczony; rozbicie, niszczenie; upadanie, spadanie
+剏 zaczynanie 💡, rozpoczynanie; bycie uszkodzony, zniszczony; rozbicie, niszczenie; upadanie, spadanie
 剔 (prze)cięcie, krojenie
 剖 dzielenie, podzielenie, oddzielenie
-剛 siła, silny*
-剞 rzeźbienie*, drążenie, krajanie, ciosanie, krojenie, rycie
+剛 siła, silny 💡
+剞 rzeźbienie 💡, drążenie, krajanie, ciosanie, krojenie, rycie
 剣 szabla, miecz, ostrze; wskazówka zegarka
 剤 lek(arstwo), dawka
 剥 odpadanie, odejście, znikanie, odbarwienie, płowienie, obieranie
@@ -447,11 +447,11 @@
 剰 nadwyżka, nadmiar; poza tym, ponadto
 剱 miecz
 割 proporcja, stosunek, stosunkowo; (po)dzielenie, cięcie, oddzielanie, rozdzielenie
-剳 sierp*; zostanie, pozostawianie
+剳 sierp 💡; zostanie, pozostawianie
 剴 kosa; stosowność, odpowiedniość, dogodność
 創 geneza, początek, rodowód; rana, zranienie; start, zaczynanie, zapoczątkowanie
 剽 groźba, zagrożenie, niebezpieczeństwo
-剿 (z)niszczenie*, burzenie
+剿 (z)niszczenie 💡, burzenie
 劃 (po)dzielenie, podział, rozdzielenie
 劇 dramat, sztuka
 劈 (z)łamanie, rozbicie; rozdzielenie, rozdzielanie; drżenie
@@ -468,15 +468,15 @@
 努 ciężko pracowanie, harowanie, wysilanie / staranie się ze wszystkich sił; pilny, staranny, sumienny
 劫 zagrożenie, niebezpieczeństwo; długie wieki
 劬 stawać się zmęczony; pracować pracowicie, skrzętnie
-劭 rekomendowany; piękny*; ciężka praca
+劭 rekomendowany; piękny 💡; ciężka praca
 励 zachęcanie, mobilizowanie, inspirowanie; dodawanie otuchy; pilny, staranny, sumienny
 労 praca, harówka, trud, wysiłek, kłopot; podziękowanie / nagradzanie za
 劵 stawanie się zmęczony; stop, zatrzymywanie, przerwa
 効 skuteczność, efektywność, korzyść, pożytek, zasługa
-劼 bycie ostrożnym*, uważnym, starannym; twardy, trudny, ciężki; staranie się, zmaganie się
+劼 bycie ostrożnym 💡, uważnym, starannym; twardy, trudny, ciężki; staranie się, zmaganie się
 劾 krytyka, potępienie; dochodzenia kryminalne
 勁 silny, mocny
-勃 nagłość, raptowność; wzrost, wzrastanie, podnoszenie się
+勃 nagłość 💡, raptowność; wzrost, wzrastanie, podnoszenie się
 勅 cesarskie zarządzenie
 勇 heroizm, odwaga, męstwo; dodawanie otuchy; być w dobrym nastroju
 勉 wysiłek, staranie; pilny, staranny, sumienny, gorliwy; zachęcanie, mobilizowanie
@@ -493,12 +493,12 @@
 勢 siła (militarna / wojskowa), moc, energia
 勣 wartość, zaleta; zasługa, osiągnięcie, dokonanie, wyczyn
 勤 pracowitość, sumienność; zatrudnienie, praca; wysiłek; służenie
-勦 niszczenie*, burzenie; kraść, okradanie
+勦 niszczenie 💡, burzenie; kraść, okradanie
 勧 namawianie, przekonywanie, perswadowanie, rekomendowanie, polecanie, radzenie, zachęcanie, proponowanie, oferowanie
 勲 chwalebny czyn; wartość, zaleta, zasługa
 勳 chwalebny czyn, zasługa; zaleta, wartość; ranga
 勵 staranie się; zachęcanie, mobilizowanie; walczenie, zmaganie się; dążenie
-勸 namawianie, przekonywanie, perswadowanie*; rekomendowanie, polecanie, radzenie, udzielanie rady, zachęcanie, proponowanie, oferowanie
+勸 namawianie, przekonywanie, perswadowanie 💡; rekomendowanie, polecanie, radzenie, udzielanie rady, zachęcanie, proponowanie, oferowanie
 勹 komponent opakowania, owijania
 勺 chochla; ⅒ go
 勾 bycie zgiętym / wygiętym; zbocze, stok, spadek (terenu), pochyłość, nachylenie; schwytanie, złapanie
@@ -508,8 +508,8 @@
 包 (o)pakowanie, owijanie, pokrywa, powłoka, ukrywanie, skrywanie
 匆 pędzenie, gonienie, gnanie, spieszenie się' bycie zdenerwowanym
 匈 hałas, wrzawa, zgiełk; zawierucha, chaos; odmęt; Węgry
-匍 pełzanie, czołganie się, raczkowanie*
-匏 tykwa*
+匍 pełzanie, czołganie się, raczkowanie 💡
+匏 tykwa 📖
 匐 pełzanie, czołganie się
 匕 łyżka, łyżeczka (komponent); katakanowe 「hi」
 化 zmienianie się, przemienianie się, przybieranie formy; wpływ, oddziaływanie; oczarowanie, zaczarowanie; łudzenie, zwodzenie
@@ -519,7 +519,7 @@
 匝 krążenie, obejście, omijanie
 匠 rzemieślnik, stolarz, cieśla
 匡 poprawianie, korygowanie; pomaganie, asystowanie
-匣 pudło, pudełko*, skrzynia 
+匣 pudło, pudełko 💡, skrzynia 
 匪 negacja, (za)przeczenie; niegodziwy, nikczemny człowiek
 匯 wir, (za)wirowanie, kłębowisko
 匱 skrzynia, kufer, pudełko na ryż
@@ -551,7 +551,7 @@
 占 wróżenie, wróżbiarstwo, przepowiadanie, przewidywanie, odgadywanie; zajmowanie, branie; mieć
 卦 wróżenie, wróżba, przepowiednia
 卩 pieczęć (komponent)
-卮 duży kielich*; trafny, właściwy, stosowny, odpowiedni
+卮 duży kielich 💡; trafny, właściwy, stosowny, odpowiedni
 卯 znak dla królika albo zająca; czwarty znak w chińskim horoskopie; 5-7 godzina rano, wschód
 印 pieczątka, pieczęć, symbol, znak towarowy; odcisk, ślad, dowód, dowody, pamiątka; Indie
 危 niebezpieczny; strach, lęk; niespokojny, zaniepokojony
@@ -570,7 +570,7 @@
 原 łąka; oryginalny, pierwotny, prymitywny; pole, równina, preria, tundra, pustkowie, odludzie
 厠 wychodek, toaleta, ubikacja
 厥 to, tamto
-厦 dom*
+厦 dom 💡
 厨 kuchnia
 厩 stodoła, obora, stajnia
 厭 zmęczenie się; nasycanie, zaspokojenie; znudzenie; nie lubić; niemiły, nieprzyjemny; niepożądany
@@ -580,7 +580,7 @@
 厶 ja, siebie; 「mu」 w Katakanie
 去 miniony czas, przeszłość; opuszczanie, wychodzenie, wyjeżdżanie; upływanie, (prze)mijanie; eliminowanie, wykluczanie; rozwód
 参 skonsternowany, kompletnie zaskoczony; 3 (w dokumentach); iść, przychodzenie, odwiedzanie, wizyta; bycie pokonanym, umrzeć; bycie szalenie zakochanym; uczestniczenie, branie udziału w
-參 3; iść, nadejście, przyjście, przybycie, odwiedzanie, wizytowanie*
+參 3; iść, nadejście, przyjście, przybycie, odwiedzanie, wizytowanie 💡
 又 lub znowu; co więcej, ponadto; z drugiej strony, natomiast
 叉 rozwidlenie w drodze; krocze
 及 wyciąganie; wywieranie, powodowanie
@@ -672,16 +672,16 @@
 咋 (o)krzyk; żucie; jeść
 和 harmonia; japoński styl, Japonia; pokój, ugoda, łagodzenie
 咎 wina, odpowiedzialność; krytyka, upomnienie, nagana, reprymenda
-咏 recytacja, recytowanie*; wiersz, poemat; piosenka, pieśń; komponowanie
+咏 recytacja, recytowanie 💡; wiersz, poemat; piosenka, pieśń; komponowanie
 咐 wianie, dmuchanie; powiedzenie, komenda, polecenie; dowodzenie, rozkazywanie, kazanie
 咒 zaklęcie, urok, przekleństwo, klątwa, czar
 咢 jawnie, otwarcie
 咤 trzaskanie (językiem); ganienie, łajanie, karcenie; żal, litość, współczucie; beknięcie
 咥 śmiech; żucie, gryzienie, jedzenie
-咨 prowadzenie dochodzenia, dochodzenie*, dociekanie, badanie
+咨 prowadzenie dochodzenia, dochodzenie 💡, dociekanie, badanie
 咫 krótki; okres, przedział, rozpiętość
 咬 gryzienie, kąsanie, żucie, przeżuwanie; roztrzaskanie o
-咯 kłótnia*, spór, sprzeczka, waśń
+咯 kłótnia 💡, spór, sprzeczka, waśń
 咲 kwitnienie, zakwitanie, rozkwitanie, kwiat
 咳 kaszel, kaszlanie, kaszlenie
 咸 wszystko; taki sam, identyczny
@@ -705,7 +705,7 @@
 哭 płakanie, szlochanie, lamentowanie; jęczenie, stękanie
 哮 ryk, ryczenie, ryknięcie, wrzeszczenie, wycie, warczenie
 哲 filozofia, mądrość; jasny
-哺 ssanie piersi*, karmienie piersią
+哺 ssanie piersi 💡, karmienie piersią
 哽 łkanie, szlochanie; zat(y)kanie, zapychanie
 唄 piosenka, ballada (wykonywana na shamisenie)
 唆 kuszenie, nakłanianie, nęcenie, namawianie, zachęcanie, promowanie
@@ -714,21 +714,21 @@
 唐 dynastia Tang, Chiny; obcy, zagraniczny
 唔 czytający głos
 唖 niemy; milczący
-售 sprzedaż, sprzedawanie; bycie popularnym*
+售 sprzedaż, sprzedawanie; bycie popularnym 💡
 唯 wyłącznie, jedynie, tylko, zaledwie, po prostu
 唱 intonowanie, recytowanie, wzywanie; wrzeszczenie, krzyczenie
 唳 płacz, krzyk; gęganie ptaka; odgłos cykady (rodzaj pluskwiaka)
 唸 jęk, jęczenie; ryk, ryczenie
 唹 (u)śmiech
 唾 ślina, plwocina
-啀 awantura, kłótnia*, sprzeczka; warczenie / ryczenie na
+啀 awantura, kłótnia 💡, sprzeczka; warczenie / ryczenie na
 啄 dziobać
 啅 hałaśliwy, krzykliwy; dziobanie; ćwierkanie, świergotanie, szczebiotanie; cykanie 
 商 zawieranie porozumienia; sprzedawanie, handlowanie
-啌 rozgniewany / wściekły głos*; płukanie gardła; gardło
+啌 rozgniewany / wściekły głos 💡; płukanie gardła; gardło
 問 pytanie, pytać, szukanie odpowiedzi; problem
 啓 ujawnienie, wyjawienie, odsłonięcie, otwarcie, mówienie
-啖 jeść*
+啖 jeść 💡
 啗 nęcenie, kuszenie, wabienie
 啜 ssanie, sączenie
 啝 nadążanie; następowanie; płaczące dziecko
@@ -759,7 +759,7 @@
 單 jeden, pojedynczy; prosty
 喰 jedzenie; picie; otrzymanie ciosu / uderzenia
 営 obóz, obozowisko*; wykonywać; budować; zarządzać (interesem, biznesem), prowadzić (interesem, biznesem)
-嗄 ochrypły*, ochrypnięty, zachrypły
+嗄 ochrypły 💡, ochrypnięty, zachrypły
 嗅 zapach, woń
 嗇 skąpy, chciwy, chytry, oszczędny
 嗔 bycie złym, rozgniewanym, rozzłoszczonym, wściekłym
@@ -775,16 +775,16 @@
 嘆 wzdychanie (z podziwu), westchnięcie, jęczenie, martwienie się, lament(owanie), rozpaczanie
 嘉 klaskanie, chwalenie, wychwalanie, pochwała, szacunek, estyma; szczęśliwy, zadowolony; pomyślny, obiecujący
 嘔 (mający uczucie) mdłości, wymiotowanie, rzyganie
-嘖 łajanie*, besztanie, strofowanie, karanie; męczenie, dręczenie, nękanie
+嘖 łajanie 💡, besztanie, strofowanie, karanie; męczenie, dręczenie, nękanie
 嘗 (jeden) raz, jednokrotnie; przed, zanim, niegdyś, poprzednio, dawniej; kiedykolwiek; nigdy; eks-, były; lizanie; spalanie, wypalanie; smak, gust; gardzenie, pogardzanie
-嘘 kłamstwo, oszustwo, fałsz*
+嘘 kłamstwo, oszustwo, fałsz 💡
 嘛 pszenica
 嘩 hałasujący, hałaśliwy
 嘯 ryk, wycie; recytować emocjonalnie;\nudawanie obojętności, bierności
 嘱 powierzanie; prośba, wniosek, żądanie; wysyłanie komunikatu
 嘲 obraza, zniewaga, wyśmiewanie, wykpienie, szydzenie
 嘴 dziób, dzióbek
-嘶 rżenie*
+嘶 rżenie 💡
 嘸 jak; naprawdę, rzeczywiście, istotnie, ośmielę się powiedzieć; zapewne, przypuszczam
 噂 pogłoska, plotka, wieść
 噌 hałaśliwy, burzliwy
@@ -800,7 +800,7 @@
 噸 tonaż
 噺 rozmowa
 嚀 życzliwość, uprzejmość, dobroć
-嚆 wołanie*, wzywanie; nazywanie
+嚆 wołanie 💡, wzywanie; nazywanie
 嚇 groźny, grożenie, straszenie; godność, powaga, majestat, wspaniałość, wielkość
 嚊 oddychanie przez nos; parskanie, prychanie; żona (własna); starsza pani
 嚏 kichnięcie
@@ -813,7 +813,7 @@
 嚶 świergot, świergotanie, ćwierkanie, ptaki śpiewające razem
 嚼 gryzienie, kąsanie
 囀 śpiewanie, ćwierkanie, świergotanie, szczebiotanie; cykanie
-囁 szept, szeptanie*
+囁 szept, szeptanie 💡
 囂 hałaśliwy, burzliwy, szumny, głośny, krzykliwy
 囃 granie (muzyki), akompaniament, wybijanie rytmu, przyklaskiwanie; droczenie się, przekomarzanie; gwizdy, drwiny, szyderstwo
 囈 durna, głupia rozmowa
@@ -868,14 +868,14 @@
 坡 grobla, zapora, tama, wał; zbocze, brzeg, skarpa
 坤 znak wróżenia; ląd, ziemia
 坦 poziom; szeroki, obszerny
-坩 dzban, garnek*
+坩 dzban, garnek 💡
 坪 obszar składający się z dwóch mat tsubu*
 坿 zbocze, stok, wzgórze, pagórek, górka
 垂 spuszczanie, (za)wieszanie
-垈 bagno, moczary, mokradła, tereny podmokłe, błotniste pola*
+垈 bagno, moczary, mokradła, tereny podmokłe, błotniste pola 💡
 垉 zawalenie się, runięcie, upadek, rozbicie
 型 forma, typ, model
-垓 granica*, brzeg; klatka schodowa; setki trylionów
+垓 granica 💡, brzeg; klatka schodowa; setki trylionów
 垠 granica, kres, ograniczenie, limit
 垢 brud, zanieczyszczenie, woskowina
 垣 (żywo)płot; mur
@@ -894,10 +894,10 @@
 埖 śmieci, śmiecie, odpady, odpadki
 埜 otwarta przestrzeń, pole, teren, obszar, pustynia, pustkowie, odludzie
 域 zakres, przedział, region, limity, ograniczenia, etap, faza, poziom, stopień
-埠 nadbrzeże, przystań*
-埣 jałowa ziemia*
-埴 glina
-執 chwytanie, łapanie; branie do serca*
+埠 nadbrzeże, przystań 💡
+埣 jałowa ziemia 💡
+埴 glina 💡
+執 chwytanie, łapanie; branie do serca 💡
 培 hodowanie, wychowywanie, pielęgnowanie, opiekowanie się, uprawianie ziemi
 基 podstawa, podstawy, fundament(y); pierwiastek; licznik maszyn
 埼 półwysep, cypel, przylądek
@@ -950,7 +950,7 @@
 墫 filiżanka, miseczka, czarka, kielich, puchar
 墮 pogarszanie się, (pod)upadanie
 墳 grób, grobowiec, kopiec
-墸 (za)wahanie się*
+墸 (za)wahanie się 👻
 墹 strome: zbocze, pochyłość
 墺 ląd, brzeg, wybrzeże; Austria
 墻 płot, ogrodzenie
@@ -965,12 +965,12 @@
 壕 rów, wykop, ziemianka, okop, schron przeciwlotniczy
 壗 strome zbocze
 壘 fort; wał / mur (obronny), ściana; baza (baseball)
-壙 dziura*, dół, otwór, jama
+壙 dziura 💡, dół, otwór, jama
 壜 fiolka, flakonik, naczynko, butelka, słoik
 壞 burzenie, niszczenie, rozbijanie, demolowanie
 壟 wzgórek, kopiec, kurhan, grób; rów przy polu ryżowym
 壤 gleba, ziemia, grunt; piasek gliniasty, glina; bogaty
-壥 piękna rezydencja; sklep*
+壥 piękna rezydencja; sklep 👻
 士 mężczyzna; uczony; samuraj (komponent)
 壬 dziewiąty kalendarzowy znak
 壮 zdrowy, silny, krzepki, rosły, mocny, męskość; dobrobyt, pomyślność
@@ -979,12 +979,12 @@
 壱 1 (w dokumentach)
 売 sprzedawanie
 壷 dzban, wazon, garnek; swój cel
-壹 numer jeden*
+壹 numer jeden 💡
 壺 dzban, dzbanek
 壻 zięć
-壼 pałacowy korytarz* lub przejście
+壼 pałacowy korytarz 💡 lub przejście
 壽 długowieczność, długotrwałość*; gratulacje
-夂 późny, spóźniony, opóźniony; zima (komponent)
+夂 późny, spóźniony, opóźniony; zima 🧩
 変 niezwykły, niespotykany; dziwny; zmiana
 夊 zima (odmiana komponentu)
 夏 lato
@@ -1016,14 +1016,14 @@
 奉 obrządek, praktyki religijne, ofiarowanie, prezent
 奎 gwiazda; bóg literatury
 奏 granie muzyki; mówienie do władcy, składanie sprawozdania cesarzowi; kompletny, pełny
-奐 jasny*, wyraźny, czysty
+奐 jasny 💡, wyraźny, czysty
 契 przysięga, przyrzeczenie, zobowiązanie, obietnica, obiecywanie, ślubowanie
 奔 biegać, bieganina, krzątanina
 奕 duży, wielki
 套 narastanie, nagromadzenie; wielki i długi; banalny, pospolity, oklepany
 奘 duży, wielki, ogromny
 奚 posługacz, służący, sługa; co, dlaczego
-奠 decyzja*, postanowienie, rozstrzygnięcie, orzeczenie
+奠 decyzja 💡, postanowienie, rozstrzygnięcie, orzeczenie
 奢 luksus, ekstrawagancja, rozrzutność, brak umiaru
 奥 serce, wnętrze
 奧 serce, wnętrze
@@ -1041,12 +1041,12 @@
 妃 królowa; księżniczka
 妄 zwodzenie; niepotrzebny; bez upoważnienia, nieostrożny, nierozważny, lekkomyślny
 妊 ciąża*
-妍 piękno*, uroda, urok, wspaniałość, okazałość
+妍 piękno 💡, uroda, urok, wspaniałość, okazałość
 妓 rozciąganie; śpiewająca dziewczyna; gejsza; prostytutka
 妖 atrakcyjny, czarujący, uroczy, urzekający; klęska, katastrofa, nieszczęście, kataklizm
 妙 znakomity, wyborny, wyśmienity; dziwny, dziwaczny, cudaczny; tajemnica, zagadka; cud, doskonały; delikatny, czarujący, uroczy
-妛 pogarda, gardzenie, pogardzenie; brzydki, paskudny, okropny; jaki sam jak*
-妝 (wy)strojenie się*, ubranie się elegancko
+妛 pogarda, gardzenie, pogardzenie; brzydki, paskudny, okropny; jaki sam jak 👻
+妝 (wy)strojenie się 💡, ubranie się elegancko
 妣 matka, mama
 妥 spokój, spokojny; satysfakcjonujący, zadowalający
 妨 przeszkadzanie, niepokojenie, zakłócanie; zapobieganie, uniemożliwianie, hamowanie, utrudnianie
@@ -1059,7 +1059,7 @@
 姉 starsza siostra
 始 zaczynanie, rozpoczynanie
 姐 starsza siostra; służąca
-姑 teściowa*
+姑 teściowa 💡
 姓 nazwisko
 委 komitet, komisja; powierzanie, oddawanie (pod opiekę); poświęcanie; odrzucanie
 姙 bycie w ciąży*, zachodzenie w ciążę
@@ -1067,14 +1067,14 @@
 姜 chińskie nazwisko; imbir
 姥 stara kobieta
 姦 nikczemny, niegodziwy; krzywda, nieszczęście; uwodzenie, kuszenie, nęcenie; gwałt; hałasujący
-姨 młodsza siostra*
+姨 młodsza siostra 💡
 姪 siostrzenica; bratanica
 姫 księżniczka, szlachetnie urodzona panienka
 姶 przystojny, atrakcyjny, urodziwy; spokój, cisza
-姻 małżeństwo*
+姻 małżeństwo 💡
 姿 figura, forma, kształt
 威 budzenie grozy, groźba, zastraszanie, straszenie; godność, powaga, majestat, autorytet
-娃 piękny*, ładny
+娃 piękny 💡, ładny
 娉 zapytanie o imię / poślubienie kobiety; przystojny, atrakcyjny
 娑 stara kobieta
 娘 córka; panienka, dziewczyna
@@ -1093,12 +1093,12 @@
 婆 stara kobieta, babcia, baba, mamka
 婉 pełen gracji / wdzięku, powabny, elegancki
 婚 małżeństwo
-婢 służąca*
+婢 służąca 💡
 婦 dama, pani, kobieta, żona, panna młoda
-婪 pragnienie, patrzenie z zazdrością*
+婪 pragnienie, patrzenie z zazdrością 💡
 婬 sprośność, lubieżność, obleśność, wyuzdanie, rozwiązłość
 媒 pośrednik, mediator
-媚 pochlebianie, schlebianie, flirtowanie, kokietowanie*; humor, nastrój
+媚 pochlebianie, schlebianie, flirtowanie, kokietowanie 💡; humor, nastrój
 媛 piękna kobieta, księżniczka
 媼 matka, babcia, starsza kobieta
 媽 matka, mama, klacz, kobyła
@@ -1106,11 +1106,11 @@
 嫁 zamążpójście, wychodzenie za mąż; panna młoda*
 嫂 żona starszego brata
 嫉 zazdrość, zawiść
-嫋 giętki, sprężysty, elastyczny*; miękki, delikatny, łagodny; smukły, szczupły
+嫋 giętki, sprężysty, elastyczny 💡; miękki, delikatny, łagodny; smukły, szczupły
 嫌 nie lubić, nie znosić, nie cierpieć, nienawidzić
 嫐 igraszki, figle, harce, zabawa, bawienie się / granie z
 嫖 swawolny, figlarny, hedonistyczny
-嫗 starsza kobieta, matka*
+嫗 starsza kobieta, matka💡 
 嫡 prawowita żona; dziecko z legalnego związku, bezpośredni potomek
 嫣 piękno, uroda
 嫦 nazwa własna
@@ -1118,17 +1118,17 @@
 嫺 czysty, oczyszczony, rafinowany; elegancki, wytworny, szykowny, wykwintny, wyrafinowany; wykwalifikowany, zręczny
 嫻 elegancki, wytworny, wykwintny, wyrafinowany; zręczny, umiejętny, wprawny
 嬉 zadowolony, usatysfakcjonowany; radowanie się
-嬋 ładne, piękne, wspaniałe*
+嬋 ładne, piękne, wspaniałe 💡
 嬌 atrakcyjny, pociągający, przyciągający, urodziwy*
 嬖 miła, sympatyczna osoba
 嬢 dziewczyna, panna, panienka, młoda kobieta, córka
-嬪 panna młoda*; małżeństwo, ślub
+嬪 panna młoda 👰; małżeństwo, ślub
 嬬 kochanka*; słaby, wątły, marny
-嬰 krzyżyk (znak chromatyczny w notacji muzycznej); dziecko
+嬰 krzyżyk ♯; dziecko
 嬲 wyśmiewanie, kpienie, drwienie, drażnienie, dokuczanie, droczenie
 嬶 żona (wulgarnie)
 嬾 leniwy, ospały, powolny, ociężały
-孀 wdowa*
+孀 wdowa 💡
 孃 dziewczyna, panna, córka
 孅 delikatny, wrażliwy, czuły
 子 dziecko; znak szczura; okres od godziny 23 do 1; pierwszy znak chińskiego zodiaku
@@ -1140,11 +1140,11 @@
 孚 szczery; odżywianie; przykrywanie, pokrywanie, zakrywanie
 孛 kometa; ciemność, zmrok, zaciemnienie
 孜 pracowitość, pilność
-孝 nabożność synowska, szacunek dziecka / wobec rodziców
+孝 nabożność synowska / córczyna, szacunek dziecka
 孟 szef, naczelnik, dowódca; początek, rozpoczęcie
 季 pora roku
 孤 sierota, sam, osamotniony
-孥 (żona i) dziecko*; służący, sługa, niewolnik
+孥 (żona i) dziecko 💡; służący, sługa, niewolnik
 学 nauka, uczenie się; badanie
 孩 dziecko; dzieciństwo, niemowlęctwo
 孫 wnuk, wnuczek, wnuczka, potomek, potomstwo
@@ -1153,7 +1153,7 @@
 孳 wzrost, przyrost, zwiększanie; dziecko misia / niedźwiedzia
 孵 wylęganie się, wysiadywanie (jajek), inkubowanie, rozwijanie się
 學 wiedza; nauka, uczenie się; szkoła
-孺 dziecko*
+孺 dziecko 💡
 宀 kształt korony (komponent)
 它 inny
 宅 (nasz) dom, mieszkanie, rezydencja; mój mąż
@@ -1165,7 +1165,7 @@
 宍 mięsień; mięso
 宏 szeroki, przestronny, obszerny, rozległy
 宕 jaskinia, grota
-宗 religia, wyznanie, denominacja*, sekta; główny punkt, sedno, istota, esencja; źródło, pochodzenie
+宗 religia, wyznanie, denominacja 📖, sekta; główny punkt, sedno, istota, esencja; źródło, pochodzenie
 官 biurokrata, urzędnik; rząd, organ
 宙 powietrze, przestrzeń, niebo; zapamiętywanie; przedział czasu
 定 ustalanie, określanie; postanawianie, decydowanie
@@ -1224,7 +1224,7 @@
 専 specjalny, ekskluzywny, doborowy, wyjątkowy; głównie, wyłącznie, jedynie
 尃 ogłaszanie, oświadczanie, zapowiadanie
 射 strzał, strzelanie, łucznictwo; świecenie do; do, w kierunku
-尅 podbijanie, pokonywanie*, (z)niszczenie, opanowywanie
+尅 podbijanie, pokonywanie 💡, (z)niszczenie, opanowywanie
 将 przywódca, dowódca, lider, szef, general, admirał; lub, i znowu; wkrótce, niedługo; od teraz, od tego momentu; prawie
 將 dowódca, generał, admirał, komandor
 專 specjalny, ekskluzywny, doborowy, wyjątkowy; głównie; wyłącznie, jedynie
@@ -1257,7 +1257,7 @@
 居 mieszkanie, rezydowanie, przebywanie, bycie (obecnym), istnienie
 屆 osiąganie, zdobywanie, przybywanie, przejeżdżanie, przychodzenie; raport(owanie), sprawozdanie, powiadamianie, zawiadamianie; wysyłanie, przesyłanie
 屈 skręcanie, zginanie, schylanie, kucanie; wzdryganie; poddawanie się
-届 dostarczanie, doręczanie; osiąganie, zdobywanie, przybywanie, przychodzenie; raport(owanie), sprawozdanie, powiadamianie, przekazywanie, przesyłanie
+届 dostarczanie 💡, doręczanie; osiąganie, zdobywanie, przybywanie, przychodzenie; raport(owanie), sprawozdanie, powiadamianie, przekazywanie, przesyłanie
 屋 dach, dom; sklep, sprzedawca
 屍 zwłoki, trup, ciało
 屎 kał, kupa, gówno, stolec
@@ -1272,7 +1272,7 @@
 層 warstwa, klasa społeczna; piętro
 履 wykonywanie, dokonywanie; kompletny; obuwie, buty; zakładanie (na stopy), noszenie (na stopach)
 屬 rodzaj, klasa, kategoria; podwładny; urzędnik; (przy)należenie, przyłączony, stowarzyszony
-屮 lewa ręka; stara trawa (komponent)
+屮 lewa ręka; stara trawa (🧩)
 屯 koszary, obóz; posterunek policji, komisariat; tona
 山 góra
 屶 używany w nazwach własnych
@@ -1293,7 +1293,7 @@
 岸 plaża
 岻 nazwa góry
 岼 płaski teren w trakcie wchodzenia na górę
-岾 góra
+岾 góra 💡
 峅 świątynia w górach
 峇 górska jaskinia
 峙 wieża; wzrost, wzrastanie
@@ -1308,15 +1308,15 @@
 島 wyspa
 峺 zatykanie, blokowanie, tarasowanie, wstrzymywanie, utrudnianie
 峻 wysoki, stromy
-峽 wąwóz, parów; przesmyk, jar, cieśnina
+峽 wąwóz, parów; przesmyk, jar, cieśnina 💡
 崇 adorowanie, wielbienie, respekt, podziw, szacunek, poważanie
 崋 nazwa góry
 崎 cypel, przylądek
 崑 nazwa miejsca
-崔 klif, urwisko, przepaść, skarpa
-崕 klif, urwisko, skarpa, przepaść
+崔 klif, urwisko, przepaść, skarpa 💡
+崕 klif, urwisko, skarpa 💡, przepaść
 崖 klif, (skalne) urwisko, skarpa, przepaść
-崗 wzgórze*
+崗 wzgórze 💡
 崘 góra Kunlunu w Jiangsu
 崙 nazwa miejsca
 崚 góry górujące w rzędzie
@@ -1328,8 +1328,8 @@
 嵌 wchodzenie do; nałożenie, nakładanie; stosowanie
 嵎 wnęka / wgłębienie górskie
 嵐 burza, nawałnica
-嵒 skała, kamień, głaz*
-嵜 cypel*; stromy
+嵒 skała, kamień, głaz 💡
+嵜 cypel 📖; stromy
 嵩 pogarszanie / nasilanie / powiększanie się, wzrastanie, rosnąć
 嵬 wysoki i płaski
 嵯 stromy, urwisty; skalisty, nierówny, wyboisty
@@ -1341,13 +1341,13 @@
 嶋 wyspa
 嶌 wyspa
 嶐 kształt góry
-嶝 wzgórze, górka; ścieżka pod górę*
+嶝 wzgórze, górka; ścieżka pod górę 💡
 嶢 wysoki, górujący, strzelisty, wyniosły
 嶬 wysoki, stromy, spadzisty, urwisty
 嶮 niedostępne / niezdobyte / strome miejsce; bystre oczy
 嶷 rozsądny, mądry, roztropny, rozumny
 嶺 szczyt, wierzchołek
-嶼 wyspa*
+嶼 wyspa 💡
 嶽 szczyt
 巉 rosnąć stromo, gwałtownie; strome wzniesienie
 巌 głaz, skała, kamień; grań
@@ -1369,7 +1369,7 @@
 己 (własne) ja, ego, jaźń, osobowość
 已 zatrzymywanie; poprzednio, przedtem, już, dawno temu
 巳 znak na węża; godzina 9-11 (rano); szósty znak w chińskim zodiaku
-巵 duża czara*; trafny, właściwy, pasujący, odpowiedni
+巵 duża czara 💡; trafny, właściwy, pasujący, odpowiedni
 巷 rozstaj dróg, rozwidlenie drogi; teatr, scena, arena
 巻 zwój, tom, książka; zwijanie (w rulon), nakręcanie; zawiązywanie; część; licznik tekstów (lub zwojów książek)
 巽 południowy wschód
@@ -1379,7 +1379,7 @@
 帆 żagiel, żeglowanie
 帋 papier, dokument, pismo; stacjonarny, nieruchomy, niezmienny, stały
 希 nadzieja; proszenie, błaganie, prośba, modlenie się; rozcieńczanie (kwasu), rzadki; kilka, parę; fenomenalny, wyjątkowy, nadzwyczajny; Grecja
-帑 skarbnica pieniędzy*
+帑 skarbnica pieniędzy 💡
 帖 libra (miara papieru); pęk wodorostów; licznik ekranów; notatnik
 帙 okładka japońskiej książki
 帚 miotła
@@ -1399,7 +1399,7 @@
 幃 torba, torebka, worek
 幄 kurtyna, zasłona, kotara, firanka
 幅 wiszący zwój; szerokość
-幇 pomoc*
+幇 pomoc 💡
 幌 baldachim, okap, zasłona, markiza, kurtyna, daszek, dach
 幎 (p)okrycie / warstwa tkaniny
 幔 kurtyna, zasłona, kotara, firanka
@@ -1446,10 +1446,10 @@
 廁 toaleta, ubikacja; mieszanie / łączenie z
 廂 okap dachu, baldachim, dach, daszek (czapki); korytarz, przedpokój
 廃 uchylanie, znoszenie; przestarzały, ustanie; wyrzucenie, pozbywanie się, porzucenie, opuszczenie
-廈 dom*
+廈 dom 💡
 廉 okazja; powód, przyczyna; zarzut, oskarżenie, podejrzenie; sprawa, kwestia; wyjaśnienie, wytłumaczenie; czystość, klarowność, uczciwość; niska cena, tani; wypoczęty, pełen sił; zadowolony, spokojny
 廊 korytarz, hol; wieża
-廏 stodoła, obora*, stajnia
+廏 stodoła, obora 💡, stajnia
 廐 stajnia, stodoła, obora
 廓 ogrodzone miejsce; dzielnica (czerwonych latarni), część miasta
 廖 pusty; imię, nazwa
@@ -1499,7 +1499,7 @@
 弦 cięciwa (łuku); przeciwprostokątna
 弧 łuk, sklepienie łukowe; ukłon
 弩 łuk (strzała)
-弭 przestawanie, przerywanie, zaprzestanie, zaniechanie; nacięcie, w którym troczek* przymocowany jest do łuku
+弭 przestawanie, przerywanie, zaprzestanie, zaniechanie; nacięcie, w którym troczek 📖 przymocowany jest do łuku
 弯 krzywa, łuk, rozciągnięcie łuku
 弱 słaby, słabnąć
 張 licznik smyczków i instrumentów strunowych; rozciąganie się, rozprzestrzenianie; stawianie (namiotu) 
@@ -1519,7 +1519,7 @@
 彙 ten sam rodzaj; kolekcjonowanie, zbieranie, klasyfikowanie, kategoria; jeż
 彜 zasada moralna
 彝 zasada moralna
-彡 3; ozdoba do włosów; krótkie włosy (komponent)
+彡 3; ozdoba do włosów; krótkie włosy (🧩)
 形 kształt, forma, styl
 彦 chłopak, chłopiec, chłopczyk
 彩 kolorowanie, malowanie, barwienie; farba, makijaż
@@ -1533,9 +1533,9 @@
 彷 błądzenie, wałęsanie się, wędrowanie
 役 obowiązek; wojna, walka, bitwa, kampania, służba; urząd, pozycja, rola
 彼 on, tamten, to
-彿 ciemno, blado, mgliście, niewyraźnie*
+彿 ciemno, blado, mgliście, niewyraźnie 💡
 往 podróż; przegonienie, przepędzenie; (wy)puszczanie; wyjście, odejście, odjazd; przed, zanim, niegdyś, poprzednio
-征 opanowanie, podbijanie*, zniewolenie, atakowanie rebeliantów; ściąganie podatków
+征 opanowanie, podbijanie 💡, zniewolenie, atakowanie rebeliantów; ściąganie podatków
 徂 iść, pójść, jechać
 徃 podróż(owanie); przegonienie, przepędzenie, wyganianie; iść
 径 średnica; ścieżka, droga; metoda
@@ -1550,7 +1550,7 @@
 徒 na piechotę, pieszo, piechotą; próżność, marność , bezcelowość, bezużyteczność; ulotna rzecz; grupa, partia, gang
 従 towarzyszenie; przestrzeganie, bycie posłusznym, poddawanie się (czemuś), (za)stosowanie się; drugorzędny, podporządkowany
 得 korzyść, zysk; dostawanie; znajdowanie, zarabianie, zdobywanie; móc, potrafić, zdolny do, bycie w stanie
-徘 wędrowanie*, przemierzanie, błąkanie, szwendanie się
+徘 wędrowanie 💡, przemierzanie, błąkanie, szwendanie się
 徙 ruch, posunięcie
 從 od; (po)przez; skąd, z czego
 徠 skłanianie, nakłanianie, namawianie, zachęcacie do przyjścia
@@ -1570,7 +1570,7 @@
 必 niezmiennie, zawsze, pewny, pewien, nieunikniony, nieuchronny
 忌 żałoba, lament; nienawidzić, czuć wstręt do czegoś, obrzydliwy, wstrętny; rocznica śmierci
 忍 ścierpienie, znoszenie, wytrzymywanie, przetrzymywanie; ukrywanie, skrywanie, zakradanie się; szpieg
-忖 przypuszczenie*, domysł, (do)mniemanie
+忖 przypuszczenie 💡, domysł, (do)mniemanie
 志 intencja, zamiar, zamierzenie, postanowienie, ambicja, plan; motyw, powód, nadzieje
 忘 zapominanie
 忙 zajęty, zapracowany; niespokojny, nerwowy
@@ -1581,17 +1581,17 @@
 快 radosny, pogodny, przyjemny, miły, wygodny
 忰 cierpienie; doświadczanie;\nstanie się chudym, wynędzniałym, wycieńczonym; mizerny, wynędzniały
 忱 szczery, serdeczny
-念 życzenie, pragnienie*; rozum, myśl; pomysł; zmysł; uczucie; uwaga
+念 życzenie, pragnienie 💡; rozum, myśl; pomysł; zmysł; uczucie; uwaga
 忸 wstyd, zawstydzenie, hańba
 忻 radowanie, cieszenie / weselenie się, otwieranie własnego serca
 忽 za moment, za chwilę, zaraz; natychmiast, od razu; nagle, bez uprzedzenia; zaniedbanie, lekceważenie
 忿 bycie złym, rozgniewanym, rozzłoszczonym, wściekłym
 怎 dlaczego, czemu, jak
 怏 niezadowolenie, niechęć, uraz, żal
-怐 niemądry. głupi, durny; obawianie / banie / lękanie się*
+怐 niemądry. głupi, durny; obawianie / banie / lękanie się 💡
 怒 złość, zezłoszczenie, gniew, rozgniewanie, bycie urażonym
 怕 strach, przestraszenie*, lęk; pełen obaw, zmartwienie
-怖 straszny, przerażający, okropny; banie się, bycie przerażonym, przestraszonym*
+怖 straszny, przerażający, okropny; banie się, bycie przerażonym, przestraszonym 💡
 怙 zależeć, poleganie / liczenie na; ojciec
 怛 bycie smutnym, przygnębionym*, przybitym; strach, lęk
 怜 mądry
@@ -1599,28 +1599,28 @@
 怠 zaniedbanie, zaniedbywanie, lekceważenie, lenistwo*
 怡 radowanie / cieszenie / bawienie się
 急 spieszenie się, pilny, nagły, niespodziewany, gwałtowny; nagły wypadek, sytuacja awaryjna
-怦 w pośpiechu*; pobudzony, podniecony, podekscytowany, zdenerwowany
+怦 w pośpiechu 💡; pobudzony, podniecony, podekscytowany, zdenerwowany
 性 płeć, rodzaj; seks; temperament; natura
 怨 niechęć, uraz, ukazywanie urazu, niechęci; bycie zazdrosnym, zawistnym
 怩 wstyd*, zawstydzenie, hańba
 怪 podejrzliwy, nieufny; tajemniczy; zjawa, duch, upiór, widmo
-怫 złość*, gniew
-怯 tchórzostwo, tchórzliwość*, cofanie się (ze strachu); wzdryganie / wahanie się
-怱 pędzenie, spieszenie się, gnanie*; bycie zdenerwowanym
-怺 znoszenie*, cierpienie, wytrzymywanie
+怫 złość 💡, gniew
+怯 tchórzostwo, tchórzliwość 💡 , cofanie się (ze strachu); wzdryganie / wahanie się
+怱 pędzenie, spieszenie się, gnanie 💡; bycie zdenerwowanym
+怺 znoszenie 💡, cierpienie, wytrzymywanie
 恁 w ten sposób, taki sposób
 恂 szczery; strach, lęk; nagły, niespodziewany; mruganie
 恃 poleganie na*, zależeć od
 恆 stały, trwały, regularny
 恊 grożenie, zagrażanie, straszenie
 恋 miłość, romans, zakochanie, tęsknienie za; ulubieniec, ulubienica
-恍 niejasny*, niezrozumiały; starczy, zniedołężniały; głupi, tępy; żart, dowcip
+恍 niejasny 💡, niezrozumiały; starczy, zniedołężniały; głupi, tępy; żart, dowcip
 恐 strach, lęk*, obawa, trwoga
 恒 niezmienność, stałość, zawsze
 恕 wybaczenie, przebaczenie, darowanie; tolerowanie, pozwalanie
 恙 choroba
-恚 złość, gniew*
-恟 strach*, lęk, obawa
+恚 złość, gniew 💡
+恟 strach 💡, lęk, obawa
 恠 podejrzany; podejrzliwy; tajemnica, zagadka; misterium; zjawa, widmo, duch, upiór
 恢 szeroki, obszerny, rozległy, ogromny; powiększanie, rozszerzanie
 恣 egoistyczny, samolubny; samowolny
@@ -1632,12 +1632,12 @@
 恫 bolesny; strachliwy, bojaźliwy; straszny
 恬 opanowanie, spokój
 恭 respekt, podziw, poważanie, pełen szacunku
-息 oddech, oddychanie, syn, odsetki, natura, odpoczynek, dobieranie końca
+息 oddech, oddychanie; syn; odsetki; natura; odpoczynek; dobieganie końca
 恰 tak jak, jak gdyby, jakby; szczęśliwie, na szczęście
 恵 przysługa; przychylność, błogosławieństwo, łaska, dobroć, życzliwość
 恷 bycie przeciwieństwem do / odwrotnością do; dobry, zacny, miły; ładny
 悁 złość, gniew; zmartwienie, niepokój; niecierpliwość, zniecierpliwienie
-悃 szczerość*
+悃 szczerość 💡
 悄 niepokój, zaniepokojenie, obawa, lęk
 悉 wszystko, całkowicie, zupełnie, w pełni, kompletnie; zużywanie, wyczerpanie; zaprzyjaźnienie się; serwowanie, podawanie, służenie
 悋 skąpy, chytry
@@ -1645,19 +1645,19 @@
 悍 szorstki; niezgrabny, niezręczny, niekształtny; gwałtowny, raptowny, agresywny
 悒 być przygnębionym, przybitym*
 悔 żal, smutek, ubolewanie, żałowanie, okazywanie skruchy
-悖 bycie przeciwieństwem*, odwrotnością
-悗 bycie zakłopotanym, zmieszanym*
+悖 bycie przeciwieństwem 💡, odwrotnością
+悗 bycie zakłopotanym, zmieszanym 💡
 悚 obawa, strach, lęk
 悛 poprawianie, korygowanie; nowelizowanie, zmienianie
 悟 oświecenie, olśnienie; postrzeganie, dostrzeganie, uświadamianie sobie, zdawanie sobie sprawy, rozumienie
 悠 trwałość*, ciągłość, niezmienność; daleki, odległy; długi czas; czas wolny, rekreacja
-患 chory, choroba, cierpienie na / z powodu
+患 chory, choroba, cierpienie na / z powodu 💡
 悦 ekstaza, uniesienie, radość, zachwyt
 悧 mądry, inteligentny, bystry, sprytny
 悩 kłopot, zmartwienie, niepokój, cierpienie, ból, rozpacz, choroba
 悪 zły, niedobry, nikczemny, łajdak, łotr, fałszywy, błędny
 悲 zmartwienie, smutek, smutny, ubolewanie, żal
-悳 etyka, moralność, cnota*
+悳 etyka, moralność, cnota 💡
 悴 stanie się wychudzonym 💡, wybiedzonym, wynędzniałym, wycieńczonym; syn
 悵 bycie smutnym
 悶 bycie w agonii / męczarni; zmartwienie, niepokój
@@ -1669,7 +1669,7 @@
 惇 szczery, miły, życzliwy, uprzejmy
 惑 omamienie, zwiedzenie, zwodzenie; zabłądzenie, zmieszanie, ambaras, konsternacja
 惓 pełen szacunku, poważania; rosnące zmęczenie
-惘 niejasny*, niezrozumiały; bycie zdziwionym, zdumionym, zaskoczonym
+惘 niejasny 💡, niezrozumiały; bycie zdziwionym, zdumionym, zaskoczonym
 惚 zakochanie się w; podziwianie; starzenie się
 惜 żal, smutek, litość, współczucie; oszczędzanie, skąpy
 惟 rozważanie, zastanawianie się, myślenie, reflektowanie
@@ -1682,21 +1682,21 @@
 惱 zirytowany, rozzłoszczony, pełen nienawiści
 想 pomysł, myśl, koncepcja, pojęcie
 惴 lęk, strach, obawianie / lękanie / banie się
-惶 obawa, lęk, strach*
-惷 zamieszanie*, zamęt, chaos; głupi, niemądry, nierozumny, nierozsądny
+惶 obawa, lęk, strach 💡
+惷 zamieszanie 💡, zamęt, chaos; głupi, niemądry, nierozumny, nierozsądny
 惹 przyciąganie*, wabienie, kuszenie, ujęcie, urzekanie, czarowanie
 惺 realizowanie
 惻 bycie smutnym 💡
 愀 respekt, podziw*, szacunek, poważanie
 愁 ból, cierpienie, rozpacz, martwienie się, lament(owanie), opłakiwanie, niepokój, bycie zaniepokojonym
-愃 obfity, bujny, bogaty*, liczny; hojny, szczodry, sowity
-愆 błąd, pomyłka; obraza*, wykroczenie, przewinienie
+愃 obfity, bujny, bogaty 💡, liczny; hojny, szczodry, sowity
+愆 błąd, pomyłka; obraza 💡, wykroczenie, przewinienie
 愈 być wyższy rangą, stanowiskiem, stopniem; leczenie; coraz więcej / bardziej; w końcu, wreszcie, nareszcie; poza wszelkimi wątpliwościami, ponad wszelką wątpliwość
 愉 przyjemność, radość; szczęśliwy, zadowolony, radowanie / cieszenie się
-愍 żal, litość, współczucie*; miłosierdzie, łaska
+愍 żal, litość, współczucie 💡; miłosierdzie, łaska
 愎 postępowanie wbrew, niesłuchanie się, bycie nieposłusznym
 意 pomysł, myśl, idea; umysł, rozum, serce; gust, upodobanie, pragnienie, wola, opieka
-愕 zdziwiony*, zaskoczony; przerażony, przestraszony
+愕 zdziwiony 💡, zaskoczony; przerażony, przestraszony
 愚 durni, głupi, głupota, niedorzeczność, absurdalność, niemądry, nierozsądny
 愛 miłość, uczucie; ulubiony
 感 emocje, uczucia, czucie, doznanie, wrażenie
@@ -1705,48 +1705,48 @@
 愨 pełen szacunku, poważania; szczerze, serdecznie
 愬 narzekanie*, skarżenie / żalenie się
 愴 smutny*, wzruszający
-愼 opieka*, dbanie, troszczenie się; czystość, niewinność
+愼 opieka 💡, dbanie, troszczenie się; czystość, niewinność
 愽 rozpacz, wielki smutek*
-愾 złość*, gniew; zadyszka, utrata tchu
+愾 złość 💡, gniew; zadyszka, utrata tchu
 愿 pełen szacunku, poważania, z szacunkiem; uczciwy, szczery, prawy; rzetelny
 慂 wskazywanie drogi, kierowanie; radzenie, doradzanie
 慄 strach, lęk, obawa
-慇 grzeczność, uprzejmość, kurtuazja*
+慇 grzeczność, uprzejmość, kurtuazja 💡
 慈 łaska, miłosierdzie, litość
 慊 satysfakcja, zadowolenie
 態 nastawienie, postawa; stan, figura, wygląd; strona (czasownika)
 慌 zakłopotany, zmieszany, bycie zdezorientowanym, bycie zagubionym; stracenie głowy
-慍 bycie złym*, rozgniewanym, wzburzonym
+慍 bycie złym 💡, rozgniewanym, wzburzonym
 慎 pokora, skromność; bycie ostrożnym,  uważnym, dyskretny, rozważny, roztropny, przezorny
 慓 szybki, prędki*
 慕 cierpiący, marniejący; pragnienie, tęsknienie za; kochanie z całego serca, adorowanie, wielbienie
 慘 smutny, przykry, żałosny, nędzny, lichy; litościwy; bezlitosny, okrutny, srogi
 慙 zawstydzony, wstydzący się, zażenowany, upokorzony, poniżony
-慚 wstydzenie się*, czucie się zawstydzonym, zażenowanym
-慝 zły*, nikczemny; katastrofa, klęska, nieszczęście
+慚 wstydzenie się 💡, czucie się zawstydzonym, zażenowanym
+慝 zły 💡, nikczemny; katastrofa, klęska, nieszczęście
 慟 bycie smutnym, smucenie / martwienie się, rozpaczanie*
 慢 szyderstwo, kpina, pośmiewisko; lenistwo
 慣 przyzwyczajony, przyzwyczajenie; stanie się doświadczonym
-慥 z pewnością, na pewno, niewątpliwie, bez wątpienia*
-慧 mądry, rozsądny, inteligentny*
+慥 z pewnością, na pewno, niewątpliwie, bez wątpienia 💡
+慧 mądry, rozsądny, inteligentny 💡
 慨 ruta (roślina); bycie smutnym; znak, oznaka, symbol; lament, ubolewanie, opłakiwanie
 慫 radzenie, doradzanie, namawianie*, przekonywanie, perswadowanie
 慮 roztropność, rozwaga, namysł; niepokój, obawa, troska, strach, lęk
-慯 bycie smutnym*, smucenie / martwienie się, rozpaczanie
+慯 bycie smutnym 💡, smucenie / martwienie się, rozpaczanie
 慰 pociecha, pocieszanie, otucha, dodawanie otuchy; rozbawienie, wesołość, rozrywka; uwodzenie, kuszenie; radosny okrzyk, wiwat
 慱 rozpacz(anie), smucenie / martwienie się, wielki smutek
 慳 żal, smutek, ubolewanie, skrucha; skąpstwo, sknerstwo
 慴 obawa, lęk, strach*; (za)grożenie, zagrażanie, straszenie
-慵 ospały, powolny, ociężały*
+慵 ospały, powolny, ociężały 💡
 慶 rozradowanie, radowanie się, bycie szczęśliwym / zadowolonym; (po)gratulowanie
 慷 płakanie, szlochanie*; smucenie / martwienie się, ubolewanie, rozpaczanie
 慾 chciwość, pożądliwość, zachłanność, żądza, pożądanie, namiętność, pasja, ochota, pragnienie
 憂 melancholia, być zaniepokojonym, smutny, nieszczęśliwy, martwienie się, rozpacz, opłakiwanie, lament(owanie)
-憇 odpoczywanie, wypoczywanie*
-憊 zmęczenie*, trud; znudzenie
+憇 odpoczywanie, wypoczywanie 💡
+憊 zmęczenie 💡, trud; znudzenie
 憎 nienawiść, nienawidzenie, czucie wstrętu
 憐 współczucie, litość, (okazać) miłosierdzie
-憑 zależenie, poleganie*; dowód; według; opanowanie, zawładnięcie, nawiedzanie
+憑 zależenie, poleganie 💡; dowód; według; opanowanie, zawładnięcie, nawiedzanie
 憔 chudnąć, (ze)szczupleć
 憖 bezmyślnie, lekkomyślnie, niefrasobliwie
 憙 radowanie się, okrzyk; lubienie, preferowanie
@@ -1756,18 +1756,18 @@
 憩 przerwa, odpoczynek, wypoczynek, relaksowanie się, odprężanie, rozluźnienie
 憫 niepokój, zaniepokojenie, obawa, lęk; miłosierdzie, zmiłowanie, łaska; litość
 憬 tęsknienie za; aspirowanie, dążenie do; podziwianie
-憮 rozczarowanie, zawód*, zawiedzenie
+憮 rozczarowanie, zawód 💡, zawiedzenie
 憶 przypomnienie, wspomnienie; pamiętanie, myślenie
 憺 spokój, cisza, spokojny, cichy, uspokojony, wyciszony; (po)ruszanie, przenoszenie
 憾 wyrzuty sumienia, skrucha, żal, żałowanie, ubolewanie
 懃 uprzejmość, grzeczność, kurtuazja
 懆 niepokój, zaniepokojenie*
 懇 towarzyski, gościnny, serdeczny, uprzejmy, życzliwy
-懈 lenistwo*
+懈 lenistwo 💡
 應 odpowiedź, odpowiadanie; tak, dobrze; przyjmowanie, akceptowanie
 懊 w potrzebie, nędzy, nieszczęściu, cierpieniu, rozpaczy; prowokowanie, rozdrażnianie, drażnienie, irytowanie; niecierpliwy, zirytowany
 懋 usiłowanie, staranie się, dążenie; kwitnienie, rozkwitanie
-懌 radowanie* / cieszenie / weselenie się
+懌 radowanie 💡 / cieszenie / weselenie się
 懍 obawa, lęk, strach, trząść się
 懐 uczucia, emocje; serce; tęsknienie, tęsknić za kimś; bycie przywiązanym do; biust, pierś; kieszeń
 懣 niepokój, zmartwienie, męczarnia, udręka, cierpienie, agonia; gniew, złość
@@ -1785,7 +1785,7 @@
 戀 zakochany, zadurzony; tęsknota, tęsknienie za; kochany
 戈 halabarda, broń, uzbrojenie; festiwalowy wózek, platforma; dzida z frędzlami (komponent)
 戉 wojownik; broń, uzbrojenie; okrutny, brutalny; Ainu
-戊 piąty znak w kalendarzu*
+戊 piąty znak w kalendarzu 💡
 戌 znak na psa; godzina 7-9 wieczorem; jedenasty znak w chińskim zodiaku
 戍 ochrona, zabezpieczenie, protekcja
 戎 wojownik, bojownik, wojak, żołnierz, walczący; broń, oręż; barbarzyńca, Ainu
@@ -1795,7 +1795,7 @@
 戔 uszkodzenie, szkoda, zniszczenie; szczątki, pozostałości; uraza, obraza
 或 pewien, pewny, niejaki, jeden; możliwie
 戚 martwienie się, rozpaczanie, opłakiwanie; krewni
-戛 halabarda*
+戛 halabarda 📖
 戞 kopia, lanca; dotknięcie lub lekkie uderzenie
 戟 halabarda, oręż, broń, uzbrojenie
 戡 zwycięstwo, wiktoria
@@ -1830,12 +1830,12 @@
 扱 zajmowanie; prowadzenie, kierowanie; podejmowanie, goszczenie, zabawianie; zdzieranie, zdejmowanie
 扶 pomoc*, wsparcie, asysta
 批 krytyka; uderzenie, atak
-扼 rozkazywanie, dowodzenie, dominowanie; zapobieganie*, uniemożliwianie, blokowanie, utrudnianie
+扼 rozkazywanie, dowodzenie, dominowanie; zapobieganie 💡, uniemożliwianie, blokowanie, utrudnianie
 找 szukanie, poszukiwanie; wprowadzanie / poczynienie zmian
 承 zgadzanie się; słyszenie, bycie poinformowanym; otrzymywanie, dostawanie
 技 umiejętność, zręczność, kunszt, rzemiosło, zdolność; wyczyn, dokonanie, osiągnięcie
 抂 nieporządek, nieład, bałagan
-抃 uderzenie ręką*
+抃 uderzenie ręką 💡
 抄 wyciąg, wybór, selekcja; podsumowanie; kopia
 抉 (wy)żłobienie, wydrążanie, dłubanie, borowanie, wiercenie, gmeranie
 把 chwyt, uścisk, rączka; pęk, wiązka; licznik pakietów
@@ -1844,7 +1844,7 @@
 抓 ściskanie; streszczanie, podsumowywanie
 抔 i tak dalej
 投 (wy)rzucanie, pozbywanie się, porzucanie, opuszczanie; rzucanie się w; dołączanie; zainwestowanie w, włożenie w coś pieniądze; poddawanie się; sprzedawanie ze stratą
-抖 (po)trząsanie, wstrząsanie*
+抖 (po)trząsanie, wstrząsanie 💡
 抗 opór, sprzeciw, konfrontacja, opieranie się, stawianie oporu, przeciwstawianie się
 折 zginanie, składanie, (z)łamanie; dawanie, przedstawianie
 抛 ciskanie, miotanie, rzucanie
@@ -1855,10 +1855,10 @@
 抱 uścisk, objęcie, obejmowanie, trzymanie w rękach
 抵 opór, opieranie się; osiąganie, dotykanie
 抹 pocieranie, (za)malowanie, usuwanie, wymazywanie
-抻 rozciąganie*, rozszerzanie, przedłużanie
+抻 rozciąganie 💡, rozszerzanie, przedłużanie
 押 pchanie, naciskanie; zatrzymywanie, powstrzymywanie, tłumienie
-抽 zrywanie, wyrywanie, ciągnienie, wyciąganie*; prześciganie; wyróżniać się
-拂 sprzątanie, wymiatanie*, zamiatanie, mycie
+抽 zrywanie, wyrywanie, ciągnienie, wyciąganie 💡; prześciganie; wyróżniać się
+拂 sprzątanie, wymiatanie 💡, zamiatanie, mycie
 担 noszenie na ramieniu, dźwiganie, podnoszenie, podtrzymywanie, znoszenie ciężaru / trudu
 拆 rozdzielanie, rozkładanie; otwieranie
 拇 kciuk
@@ -1867,24 +1867,24 @@
 拊 klaps, klepnięcie, trzepnięcie, uderzenie
 拌 ruszanie i mieszanie
 拍 klaskanie, klaśnięcie, uderzanie (muzyka)
-拏 złapanie, schwytanie*, aresztowanie, zatrzymanie
+拏 złapanie, schwytanie 💡, aresztowanie, zatrzymanie
 拐 porwanie, uprowadzenie; fałszowanie, podrabianie
 拑 zamykanie ust*
 拒 odpychanie, odpieranie, odmawianie, odrzucanie
-拓 oczyszczanie (terenu), uprawianie, zagospodarowywanie terenu
+拓 oczyszczanie (terenu) 💡, uprawianie, zagospodarowywanie terenu
 拔 wyciąganie, wyrywanie; zwędzenie; usuwanie, pomijanie; przytaczanie
 拗 krzywy, zakrzywiony, skrzywiony, pokręcony, skręcony, skrzyżowany
 拘 (areszt)owanie, schwytanie; zaangażowany, zainteresowany; przyleganie / przywieranie do; (po)mimo
 拙 nieudolny, niezdarny, niezręczny, nieporadny, niesprawny
-招 kuszenie*, wabienie, przyciąganie, przywoływanie, zapraszanie
+招 kuszenie 💡, wabienie, przyciąganie, przywoływanie, zapraszanie
 拜 wielbienie, ubóstwianie, czcić, modlenie się do
 拝 wielbienie, ubóstwianie, modlenie się do
 拠 w oparciu o, opieranie się (na czymś); zależeć (od czegoś); podążanie za; dlatego (też), zatem
 拡 rozszerzanie, rozciąganie, przedłużanie, wydłużanie, powiększanie
 括 zamknięcie, (u)wiązanie, aresztowanie, ograniczanie swobody
 拭 wycieranie, ścieranie, czyszczenie, zamiatanie*, szorowanie
-拮 być bliskim, nieuchronnym*, rychłym, nadchodzącym, zbliżającym się
-拯 pomoc
+拮 być bliskim, nieuchronnym 💡, rychłym, nadchodzącym, zbliżającym się
+拯 pomoc 💡
 拱 łuk, sklepienie, krzyżowane ramiona
 拳 pięść
 拵 robienie, przygotowywanie, zorganizowanie
@@ -1897,19 +1897,19 @@
 指 palec, wskazywanie, mierzenie; granie w szachy
 挈 noszenie / dźwiganie na rękach
 按 trzymanie; rozważanie, rozpatrywanie; badanie, dociekanie
-挌 uderzenie, trafienie*, cios, walka
+挌 uderzenie, trafienie 💡, cios, walka
 挑 wyzwanie, rywalizowanie, walczenie o; kochanie się / uprawianie seksu z
-挙 wznoszenie; plan*, projekt; zachowanie, działania, poczynania
+挙 wznoszenie; plan 💡, projekt; zachowanie, działania, poczynania
 挟 szczypanie; (po)między
-挧 japoński kasztan(owiec)\n(kanji-widmo)
-挨 zbliżanie / przybliżanie się*
+挧 japoński kasztan(owiec) 👻
+挨 zbliżanie / przybliżanie się 💡
 挫 miażdżenie, kruszenie, rozbijanie; zwichnięcie, skręcenie; zrażanie, zniechęcanie
 振 trząść się, potrząsanie; fala, falowanie; kiwanie, machanie, kołysanie
 挺 dzielny / odważny ochotnik; licznik pistoletów, patyczków z atramentem, palankinów, riksz
 挽 piła, tokarka, szlifowanie
 挾 kłaść / umieścić pomiędzy, wkładanie, wpychanie, wciskanie; kanapka; zostać złapanym
 挿 wkładanie, wciskanie, włożenie; noszenie (miecza); przeszczep
-捉 złapanie*, schwytanie
+捉 złapanie 💡, schwytanie
 捌 rączka, uchwyt; radzenie z; pozbycie się; sprzedaż, sprzedawanie; bycie poszukiwanym (np. produkt); bycie doczesnym, ziemskim; bycie szczerym; bycie rozsądnym; bycie sensownym;\nbycie towarzyskim; odwadnianie, osuszanie; pobyt na; 8
 捍 bronienie, ochranianie, osłanianie, zabezpieczanie
 捏 ugniatanie, wygniatanie, gnieść; miksowanie
@@ -1933,28 +1933,28 @@
 掉 potrząsanie* i poruszanie
 掌 dłoń; panowanie, rządzenie, administrowanie, prowadzenie
 掎 ciągnienie, szarpanie, wyrywanie; (po)wstrzymywanie, przytrzymanie
-掏 ukradanie*, okradanie
+掏 ukradanie 💡, okradanie
 排 odrzucanie, wykluczanie, pomijanie, wydalanie, wypędzanie, odsuwanie; układanie, ustawianie
 掖 bok ciała; noszenie pod pachą
 掘 (wy)kopanie, odkopanie; jama, nora
 掛 wieszanie, wiszenie, bycie zawieszonym; zależność; przybywanie do; podatek; lanie
-掟 prawo*, przepisy, regulacje, przykazania
-掠 rabowanie*, plądrowanie, grabienie, okradanie; (za)draśnięcie, muśnięcie; oszust(wo), oszukiwanie; aluzja, sugestia
-採 zrywanie*, zbieranie, branie; obejmowanie, zajmowanie
+掟 prawo 💡, przepisy, regulacje, przykazania
+掠 rabowanie 💡, plądrowanie, grabienie, okradanie; (za)draśnięcie, muśnięcie; oszust(wo), oszukiwanie; aluzja, sugestia
+採 zrywanie 💡, zbieranie, branie; obejmowanie, zajmowanie
 探 szukanie, poszukiwanie
-掣 odciąganie*, powstrzymywanie, wstrzymywanie, hamowanie
+掣 odciąganie 💡, powstrzymywanie, wstrzymywanie, hamowanie
 接 dotyk, dotknięcie, kontakt, styczność; dołączenie, przyłączenie, łączenie
 控 wycofanie, powstrzymywanie się od, być powściągliwy
 推 przypuszczenie, przypuszczanie, zgadywanie, wnioskowanie; popieranie, wspieranie
 掩 ukrywanie, chowanie, skrywanie, zakrywanie
 措 odłożenie na bok, odkładanie; poddanie się; przerywanie, wstrzymywanie, zawieszanie, zaprzestawanie; oprócz, poza, z wyjątkiem
-掫 nocna warta / wachta* / straż; grabie
+掫 nocna warta / wachta 💡 / straż; grabie
 掬 nabranie wody dłonią
 掲 rozwieszanie (ogłoszenia), wywieszanie, publikowanie; wciąganie, podciąganie, podnoszenie; opisywanie
 掴 (z)łapanie, (s)chwytanie, trzymanie, chwyt, uścisk, areszt
-掵 aluwialny* tarasowaty teren
-掻 (za)drapanie*; grabie, grzebień; łopatka, wiosło; ścięcie / ucięcie głowy
-掾 pomoc*, wsparcie; podwładny urzędnik, przestarzała ranga urzędników rządowych
+掵 aluwialny 📖 tarasowaty teren
+掻 (za)drapanie 💡; grabie, grzebień; łopatka, wiosło; ścięcie / ucięcie głowy
+掾 pomoc 💡, wsparcie; podwładny urzędnik, przestarzała ranga urzędników rządowych
 揀 wybór, wybieranie, selekcjonowanie
 揃 bycie kompletnym, pełny; mundur, uniform; wszyscy obecni	
 揄 ciągnienie, wyciąganie, pociąganie, wyrywanie; droczenie, dokuczanie; granie / bawienie się z
@@ -1965,27 +1965,27 @@
 插 wkładanie, sadzenie, wtrącanie; roślina
 揖 ukłon ze złączonymi rękoma*; zjednoczenie, zbieranie się
 揚 wznoszenie, podnoszenie, wciąganie, podciąganie; wychwalanie, sławienie; smażenie w głębokim tłuszczu
-換 wymiana*, zamiana, zamienianie, wymienianie, przerabianie, zastępowanie, odnowienie
+換 wymiana 💡, zamiana, zamienianie, wymienianie, przerabianie, zastępowanie, odnowienie
 握 chwyt, uścisk, trzymanie , łapówka; formowanie sushi
 揣 przypuszczenie, domniemanie, domysł
-揩 wycieranie*, ścieranie
+揩 wycieranie 💡, ścieranie
 揮 wymachiwanie, machanie, wywijanie, kołysanie, potrząsanie
 援 pomaganie, ratowanie, obrona
 揶 droczenie się z, dokuczanie komuś; bawienie się / granie z
 揺 kołysanie, huśtanie; potrząsanie, drżenie, drganie, wibrowanie
-搆 ciągnienie, wyciąganie*; przyczyna, powód; sprawa
+搆 ciągnienie, wyciąganie 💡; przyczyna, powód; sprawa
 損 szkoda, krzywda, rana, strata; wada, niekorzyść
 搏 łapanie, chwytanie; uderzenie
 搓 warkocz, splatanie, pleść; cięcie, obcinanie, krojenie
 搖 kiwanie, kołysanie, falowanie, bujanie, wiosło(wanie); machanie, potrząsanie
-搗 walenie, tłuczenie; łuska(nie), łupina*
+搗 walenie, tłuczenie; łuska(nie), łupina 💡
 搜 szukanie, poszukiwanie, dochodzenie, śledztwo
-搦 (po~/za~)wiązanie, nawiązywanie; około, w przybliżeniu*
+搦 (po~/za~)wiązanie, nawiązywanie; około, w przybliżeniu 💡
 搨 ślad
 搬 przewoźnik, transport(owanie), noszenie, dźwiganie
 搭 pokład; ładunek (na pojeździe); jazda
 搴 branie, w(y)ciąganie, podnoszenie; wycofywanie, skurczenie
-搶 (po)pchnięcie, zjednoczenie / połączenie / zebranie się*
+搶 (po)pchnięcie, zjednoczenie / połączenie / zebranie się 💡
 携 przenośny, łatwy do przeniesienia, noszenie (w rękach); bycie uzbrojonym w; przyprowadzanie (kogoś)
 搾 ściskanie, wyciskanie
 摂 zastępczy, zastępstwo, zastępowanie; absorbowanie, pochłanianie
@@ -1994,7 +1994,7 @@
 摘 zakoszenie, wyrywanie, zrywanie, zbieranie, rwanie, przycinanie; podsumowywanie
 摧 łamanie, stłuczenie, kruszenie, rozbicie, rozwalanie, zmiażdżenie, zniszczenie; znajomy, znany, popularny, poufały
 摩 ocieranie, pocieranie, polerowanie, szlifowanie, skrobanie
-摯 podarunek, prezent*; powaga
+摯 podarunek, prezent 💡; powaga
 摶 rolowanie aż do utrzymania kształtu piłeczki (np. ciasto); klaps, klepnięcie
 摸 szukanie, poszukiwanie; imitowanie, naśladowanie, kopiowanie, kopia
 摺 tarcie, pocieranie; fałd, zginanie, składanie; robienie nadruku (na tkaninie)
@@ -2010,16 +2010,16 @@
 撩 nieporządek, nieład, bałagan
 撫 uderzenie, klepnięcie, wygładzanie
 播 roślina; sianie
-撮 fotka, zdjęcie, robienie zdjęcia
+撮 fotka, zdjęcie, robienie zdjęcia 📖
 撰 komponowanie, redagowanie, opracowywanie; wybieranie, selekcjonowanie	
 撲 klaps, klepnięcie, uderzenie, bicie; powiedzenie, mówienie, informowanie
 撹 przeszkadzanie, niepokojenie, zakłócanie, wprowadzanie / robienie zamieszania, zamętu
 撻 bicz, bat, bicie, chłostanie, uderzanie
 撼 ruch, posunięcie, poruszanie*
 擁 ściskanie, przytulanie, obejmowanie; posiadanie; chronienie; prowadzenie
-擂 (po)siekanie*, ucieranie, ścieranie, kruszenie, rozgniatanie
-擅 samopobłażliwy, folgujący sobie*
-擇 wybór, wybieranie, wybranie, obranie*
+擂 (po)siekanie 💡, ucieranie, ścieranie, kruszenie, rozgniatanie
+擅 samopobłażliwy, folgujący sobie 💡
+擇 wybór, wybieranie, wybranie, obranie 💡
 操 manewr, posunięcie, manipulowanie, operowanie, sterowanie, prowadzenie; czystość, niewinność, dziewictwo; wierność
 擒 schwytanie, pojmanie; jeniec, niewolnik
 擔 (z)noszenie, dźwiganie, podjęcie, podejmowanie, przedsięwzięcie
@@ -2051,12 +2051,12 @@
 攪 przeszkadzanie, niepokojenie, zakłócanie, wprowadzanie zamieszania / zamętu
 攫 porywanie, uprowadzanie
 攬 trzymanie w rękach
-支 gałąź (komponent); wsparcie, wspieranie, podtrzymywanie
+支 gałąź (🧩); wsparcie, wspieranie, podtrzymywanie
 攴 uderzenie, trafienie, cios; składane krzesło (komponent)
 攵 uderzanie, trafianie; składane krzesło (komponent)
 收 dochód, przychód, wpływ, zysk
 攷 badanie, sprawdzanie, test(owanie)
-攸 zrelaksowany, rozluźniony, spokojny; miejsce*
+攸 zrelaksowany, rozluźniony, spokojny; miejsce 💡
 改 poprawa, przekształcenie, zreformowanie, zmienianie, odmienianie, modyfikowanie, usprawnianie, naprawianie, odnowienie; badanie, kontrolowanie
 攻 agresja, atak, napadanie; krytyka, krytykowanie; polerowanie, wygładzanie
 放 uwolnienie, oswobodzenie, wypuszczenie, wyzwolenie; ogień, strzał; emitowanie; wypędzenie, przegonienie
@@ -2088,15 +2088,15 @@
 文 zdanie, literatura, tekst literacki; styl; sztuka, dekoracje, ozdoba, plan; figura
 斈 wiedza, nauka, uczenie się, szkoła
 斉 dostosowanie, przystosowanie; podobny (rodzaj); taki sam, jednakowy, równy
-斌 piękny*, wspaniały, śliczny, harmonia wyglądu
+斌 piękny 💡, wspaniały, śliczny, harmonia wyglądu
 斎 oczyszczenie; posiłek (spożywany podczas nabożeństw buddyjskich); pokój, pomieszczenie; wielbienie, czczenie; zapobieganie, omijanie, unikanie; podobnie, jednakowo
 斐 piękny, wzorzysty (o tkaninie)
 斑 plama, plamka, skaza; łatka
 斗 Wielki Wóz (w gwiazdozbiorze Wielkiej Niedźwiedzicy); 10 sho (jednostka); chochla / czerpak do sake; kroki i krzyż (komponent)
 料 opłata; materiał
-斛 miara, dziesięć to*
+斛 miara, dziesięć to 📖
 斜 ukośny, skośny, pochyły
-斟 zanurzanie / maczanie w wodzie; szacowanie*, określanie
+斟 zanurzanie / maczanie w wodzie; szacowanie 💡, określanie
 斡 okrążanie, krążenie; reguła, zasada, przepis; administrowanie, kierowanie, zarządzanie, sprawowanie rządów
 斤 siekiera (+ komponent), topór; kin (jednostka wagi ok. 600 g); kati; licznik bochenków chleba
 斥 odmowa, odrzucanie, wycofanie, odchodzenie, ustępowanie, odpieranie, odpychanie
@@ -2123,20 +2123,20 @@
 旙 flaga, chorągiew, proporzec, sztandar
 旛 flaga
 无 nic, nie istnieć; zakrzywione niebo (komponent)
-旡 łkanie, szlochanie; dławienie, krztuszenie; zakrzywione niebo (komponent)
+旡 łkanie, szlochanie; dławienie, krztuszenie; zakrzywione niebo (🧩)
 既 poprzednio, przedtem, dawno temu; już
 日 dzień; słońce; Japonia; licznik dni
-旦 brzask, świt, poranek*
+旦 brzask, świt, poranek 💡
 旧 stare: czasy, rzeczy, przyjaciel, dawny, były, eks-
 旨 pyszny, wyśmienity, smaczny; wola, myśl; bystry, sprytny; mądry, ekspert, biegły, fachowiec
 早 wczesny, szybki
 旬 dekameron, okres 10 dni, sezon (na określone produkty)
 旭 wschodzące / poranne słońce*
 旱 susza, pora suszy, sucha pogoda / klimat*
-旺 rozkwitający, kwitnący, dobrze prosperujący*; skuteczny, efektywny; piękny; energiczny, pełen wigoru, żywotny
-旻 jesienne niebo*
+旺 rozkwitający, kwitnący, dobrze prosperujący 💡; skuteczny, efektywny; piękny; energiczny, pełen wigoru, żywotny
+旻 jesienne niebo 💡
 昂 wzrost, wzrastanie, podnoszenie, wzbijanie się
-昃 zanik, spadek, zmniejszanie / obniżanie się; zachód słońca*
+昃 zanik, spadek, zmniejszanie / obniżanie się; zachód słońca 💡
 昆 potomstwo; starszy brat; owad
 昇 wznoszenie się	
 昊 niebo; duży
@@ -2145,15 +2145,15 @@
 昏 ciemny, mroczny, ponury; zmierzch, zmrok, wieczór
 易 łatwy, prosty; gotowy na; wróżenie, wróżbiarstwo
 昔 dawno temu, dawne czasy, starożytność, starodawny
-昜 otwieranie, otwarty; słońce*
+昜 otwieranie, otwarty; słońce 💡
 星 gwiazda; plamka, kropka, znak
 映 odbicie, odbijanie, refleks, odblask, projekcja
 春 wiosna, wiosenny sezon
-昧 ciemno, ciemny, głupi, niemądry
+昧 ciemno, ciemny, głupi 💡, niemądry
 昨 wczoraj; poprzedni, wcześniejszy
-昭 świecenie, błyszczenie*, jasny, jaskrawy
+昭 świecenie, błyszczenie 💡, jasny, jaskrawy
 是 tak więc, to;  prawy, sprawiedliwy, sprawiedliwość, poprawny
-昴 Plejady*
+昴 Plejady 📖
 昵 pogodzenie / pojednanie się; zżywanie się, stanie się poufałym, bliskim, zażyłym
 昶 długi dzień; jasny, czysty
 昼 dzień, pora dzienna, południe
@@ -2167,9 +2167,9 @@
 晏 późny, cichy, spokojny, zachód słońca
 晒 wybielacz, oczyszczanie; eksponowanie, odsłanianie, odkrywanie; powietrze
 晝 światło dzienne, pora dzienna, dzień
-晞 suszenie, wystawianie na słońce*
+晞 suszenie, wystawianie na słońce 💡
 晟 czysty, jasny, wyraźny, przejrzysty
-晢 światło gwiazd, połysk, blask*
+晢 światło gwiazd, połysk, blask 💡
 晤 czysty, jasny, wyraźny, przejrzysty
 晦 ciemny, mroczny, ponury; znikanie
 晧 jasny, czysty
@@ -2177,38 +2177,38 @@
 晩 zmierzch, zmrok, wieczór, noc
 普 uniwersalny, powszechny, ogólny; Prusy
 景 sceneria, krajobraz, widok
-晰 jasny, czysty, wyraźny, przejrzysty*
+晰 jasny, czysty, wyraźny, przejrzysty 💡
 晴 oczyszczanie, rozpogadzanie się
 晶 blask, błysk; jasny, wyraźny; kryształ, krystaliczny
 智 mądrość, intelekt, wiedza, rozum, rozsądek
 暁 świt, jutrzenka, ranek; w razie, w przypadku
-暃 bycie oddzielonym, odłączonym, w separacji*
+暃 bycie oddzielonym, odłączonym, w separacji 💡
 暄 ciepła pogoda
 暇 czas (wolny), odpoczynek, wypoczynek, urlop; rozrywka, rekreacja
 暈 otoczka, halo, korona; gaśnięcie, rozmywanie
-暉 światło, połysk*
+暉 światło, połysk 💡
 暎 słońce zaczynające zachodzić, odbicie
 暑 duszny, parny, gorący, letni skwar
-暖 ciepło*
+暖 ciepło 💡
 暗 ciemność, mrok, cień, ciemny, pociemnieć, znikanie, bycie niewidomym; nieformalny
-暘 wschód słońca*, świt
+暘 wschód słońca 💡, świt
 暝 ciemny, ciemność, (z)mrok
 暢 rozciąganie, wyciąganie
 暦 kalendarz
 暫 chwilowo, chwila, moment, tymczasowo; długi czas
-暮 wieczór, zmierzch*; koniec sezonu / pory roku; utrzymanie, środki utrzymania / do życia, zarabianie na życie; spędzanie czasu
-暴 wybuch*; wrzeszczenie, krzyczenie; martwienie się, gryzienie się (z jakiegoś powodu); siła; przemoc, okrucieństwo
+暮 wieczór, zmierzch 💡; koniec sezonu / pory roku; utrzymanie, środki utrzymania / do życia, zarabianie na życie; spędzanie czasu
+暴 wybuch 💡; wrzeszczenie, krzyczenie; martwienie się, gryzienie się (z jakiegoś powodu); siła; przemoc, okrucieństwo
 暸 czysty, jasny, wyraźny, przejrzysty
 暹 wschód słońca, świt
-暼 zachodzące słońce*
-暾 wschód / promienie słońca*
+暼 zachodzące słońce 💡
+暾 wschód / promienie słońca 💡
 曁 i, razem, wraz z; sięganie, osiąganie, dosięganie
 曄 połysk, blask, błysk; kwitnący, rozkwitający
 曇 pochmurna pogoda, zachmurzenie, chmurzenie się
-曉 świt, blask, jutrzenka*; jasny, wyraźny
+曉 świt, blask, jutrzenka 💡; jasny, wyraźny
 曖 ciemny, niejasny
 曙 świt, ranek, brzask, wschód słońca
-曚 ciemność, mrok*, mroczność
+曚 ciemność, mrok 💡, mroczność
 曜 dzień: powszechny, tygodnia, roboczy
 曝 wybielacz, wybielanie; oczyszczanie, rafinowanie; odsłanianie, wietrzenie
 曠 szeroki, obszerny, rozległy; bezwartościowy, bezużyteczny
@@ -2241,7 +2241,7 @@
 朝 rano, (po)ranek; dynastia, rządy, panowanie; epoka, okres; Korea Północna
 朞 jeden okres
 期 okres, czas, data, termin
-朦 ciemny*, przyćmiony, niejasny
+朦 ciemny 💡, przyćmiony, niejasny
 朧 mglistość, niejasność; rozmarzenie, melancholia; przygnębienie, ponurość, smutek
 木 drzewo, drewno
 未 (jeszcze) nie, zaprzeczenie (prefiks); dotychczas, do tej pory, wciąż, nadal, nawet teraz; znak barana, ósmy znak w chińskim zodiaku; godzina 1-3 (w nocy) 
@@ -2251,9 +2251,9 @@
 朮 rodzaj prosa, ziela, trawy
 朱 cynober, wermut, szkarłatny, krwisty, czerwony
 朴 prosty, nieskomplikowany; skromny, zwyczajny; potulny, uległy, posłuszny
-朶 gałąź*
+朶 gałąź 💡
 朷 rodzaj drzewa
-朸 koromysło*
+朸 koromysło 📖
 机 biurko, stół
 朽 rozkładanie / psucie się, gnicie; pozostanie w odosobnieniu
 朿 cierń, kolec
@@ -2273,8 +2273,8 @@
 杠 dźwignia, lewarek, łom; drążek, drąg, kij, tyczka; noszenie na ramionach
 条 artykuł / klauzula (+ ich licznik), paragraf, itp.; rzecz, przedmiot; gałązka; pasek, prążek, pasemko
 杢 stolarz, cieśla
-杣 drewno, tarcica*; drwal
-杤 rodzaj dębu; stabilny, stały, trwały, mocny*
+杣 drewno, tarcica 📖; drwal
+杤 rodzaj dębu; stabilny, stały, trwały, mocny 💡
 来 przybywanie, przychodzenie, nadchodzenie; przyczyna, powód; stawanie się*
 杪 gałązka; wierzchołek drzewa
 杭 kołek, palik, słup(ek)
@@ -2288,7 +2288,7 @@
 杼 kursowanie
 松 sosna
 板 deska, płyta, tablica, scena
-枅 krokiew (dachowa)*; nazwa miejsca
+枅 krokiew (dachowa) 📖; nazwa miejsca
 枇 nieśplik japoński (roślina); łyżka, łyżeczka
 枉 z(a)gięcie, zakręt, łuk, krzywa; odchylony, nachylony, przechylony, przewrotny, przekorny, perwersyjny; za pomocą siły, wbrew własnej woli, przymusowo
 枋 tratwa, łódka, łódź
@@ -2302,20 +2302,20 @@
 枠 rama, ramka, szkielet; struktura; wrzeciono, szpula, szpulka, zwój; pole; ograniczenia, granica, obramowanie
 枡 pudełko pomiarowe
 枢 zawias, oś, trzpień, sworzeń; drzwi; środek rzeczy
-枦 woskowe drzewo, sumak*
+枦 woskowe drzewo, sumak 📖
 枩 sosna, jodła
 枯 usychanie, więdnąć, suszenie, być wysuszony	m
 枳 trójlistne drzewo pomarańczy; cierniste drzewo używane do żywopłotu, ogrodzenia
 枴 laska, kij, kostur
 架 rama, struktura, podstawa, wsparcie, podpora, półka, konstrukcja
-枷 kajdany, kajdanki, pęta, więzy, okowy, łańcuchy
+枷 kajdany, kajdanki, pęta, więzy, okowy, łańcuchy 💡
 枸 drzewo pigwy
 枹 pałeczka do gongu / bębnów; rodzaj drzewa
 柁 ster, drążek sterowy, rumpel, rudel, kierownica
-柄 projekt*, wzór, deseń; model, konstrukcja; natura, charakter; uchwyt, rękojeść, gałka, trzonek
+柄 projekt 💡, wzór, deseń; model, konstrukcja; natura, charakter; uchwyt, rękojeść, gałka, trzonek
 柆 wygięte / złamane drzewo
 柊 ostrokrzew
-柎 tratwa*; kielich (kwiatu)
+柎 tratwa 💡; kielich (kwiatu)
 柏 dąb; cyprys
 某 taki owaki, pewien, jeden; ta osoba
 柑 cytrus, pomarańcza
@@ -2351,7 +2351,7 @@
 栩 rodzaj dębu
 株 zasoby, akcja, udział; pień (drzewa); licznik małych roślin
 栫 jaz, tama
-栲 sumak (roślina); materiał utkany z włókien drzew*
+栲 sumak (roślina); materiał utkany z włókien drzew 💡
 栴 klon (gatunek drzewa); kolorowe jesienne liście
 核 jądro, rdzeń
 根 korzeń, rdzeń, podstawa; główka (pryszcza)
@@ -2363,21 +2363,21 @@
 桃 brzoskwinia
 框 rama, struktura, szkielet, podstawa, konstrukcja
 案 plan, szkic, projekt, sugestia, propozycja, pomysł; zmartwienie, niepokój, strach; stół, ławka
-桍 rodzaj drzewa; pusty*
+桍 rodzaj drzewa; pusty 💡
 桎 kajdany, okowy, więzy, pęta
-桐 pawłownia*
+桐 pawłownia 📖
 桑 morwa
 桓 znakujący słupek
 桔 używane w nazwach roślin
-桙 halabarda*
+桙 halabarda 📖
 桜 wiśnia*, kwiat wiśni
 桝 skrzynia / pudełko pomiarowe
 桟 rusztowanie, rama; zatrzask; pomost, molo; rygiel / zasuwka (na drzwi)
-档 półka na książki*, biblioteczka; archiwum
+档 półka na książki 💡, biblioteczka; archiwum
 桧 cyprys japoński
 桴 pałeczki (do bębna); tratwa
 桶 wanna, balia; wiadro, wiaderko
-桷 krokiew
+桷 krokiew 💡
 桾 rodzaj drzewa owocowego
 桿 tarcza, osłona; słup, pręt, drąg, kij
 梁 jaz (budowla hydrotechniczna); więcierz (pułapka na ryby); belka, dźwigar
@@ -2394,7 +2394,7 @@
 梠 rodzaj pigwy
 梢 wierzchołek / korona drzewa; gałązka
 梦 sen, marzenie; wizjoner, marzyciel, fantasta; pragnący, życzeniowy, mający życzenia
-梧 firmiana simplex - drzewo ozdobne; drewno o doskonałych właściwościach akustycznych wykorzystuje się do wyrobu tradycyjnych chińskich instrumentów muzycznych, takich jak guqin i guzheng*
+梧 firmiana simplex - drzewo ozdobne; drewno o doskonałych właściwościach akustycznych wykorzystuje się do wyrobu tradycyjnych chińskich instrumentów muzycznych, takich jak guqin i guzheng 📖
 梨 drzewo gruszy
 梭 prom, wahadłowiec; kursowanie
 梯 drabina, schody; nienasycone picie
@@ -2403,9 +2403,9 @@
 梳 grzebień do włosów
 梵 sanskryt; Buddyzm; czystość, niewinność
 梶 wiosło(wanie), wioślarstwo
-梹 orzech areki (palmy betelowej)*
+梹 orzech areki (palmy betelowej) 📖
 梺 podstawa góry
-梼 blok drewna; tuman, dureń, głupiec, głupi*
+梼 blok drewna; tuman, dureń, głupiec, głupi 💡
 棄 porzucanie, wyrzucanie, pozbywanie się, zrezygnowanie, odrzucanie, poświęcanie
 棆 cynamonowiec kamforowy
 棉 bawełna
@@ -2413,12 +2413,12 @@
 棋 figura szachowa; japońskie szachy, shogi
 棍 laska
 棒 drąg, drążek, kij, laska, palik, tyczka, słupek
-棔 albicja biało-różowa / jedwabista*
-棕 szorstkowiec*
-棗 głożyna / jujuba*
+棔 albicja biało-różowa / jedwabista 📖
+棕 szorstkowiec 📖
+棗 głożyna / jujuba 📖
 棘 cierń, kolec, drzazga; dzika róża; kąśliwe / ostre / cięte słowa
 棚 półka
-棟 kalenica (dachu)*, grzbiet
+棟 kalenica (dachu) 📖, grzbiet
 棠 drzewo dzikiej jabłoni / dzikiej gruszy
 棡 belka poprzeczna masztu
 棣 kwitnący migdał; migdałowiec / migdałek trójklapowy
@@ -2447,12 +2447,12 @@
 椢 dno, dół, spód; pudełko, pudło, skrzynia; rodzaj dębu
 椣 rodzaj liściastej brzozy
 椥 typ wiecznie zielonego drzewa
-椦 koszykarstwo, wyplatanie koszy, wyroby wyplatane*
+椦 koszykarstwo, wyplatanie koszy, wyroby wyplatane 👻
 椨 typ wiecznie zielonego drzewa kamforowego
-椪 nazwa miejsca w Indiach, Pune*
+椪 nazwa miejsca w Indiach, Pune 📖
 椰 drzewo kokosowe
 椴 jodła, jedlina
-椶 szorstkowiec*
+椶 szorstkowiec 📖
 椹 rodzaj cyprysu
 椽 krokiew dachowa; ganek, przedsionek, weranda
 椿 kamelia (roślina)
@@ -2487,32 +2487,32 @@
 榊 święte shintoistyczne drzewo
 榎 drzewo lotosu / pokrzywy; wiązowiec; obrostnica
 榑 drzewo bez kory
-榔 drzewo areka katechu*
+榔 drzewo areka katechu 📖
 榕 morwa biała, wiecznie zielona morwa*
 榛 orzech laskowy
 榜 ster, wiosło; tabliczka z nazwiskiem
 榠 rodzaj drzewa
-榧 torreja orzechowa, głowocis japoński*
+榧 torreja orzechowa, głowocis japoński 📖
 榮 dobrze prosperować, dobra koniunktura, pomyślność; honor, zaszczyt, cześć, poważanie, szacunek; chwała, sława; wspaniałość, świetność
 榱 krokiew dachowa
 榲 pigwa, pigwowiec
 榴 granat (owoc)
-榻 krzesło*
-榾 drzazgi, wióry, skrawki (drewna)*
-榿 olsza, olcha*
+榻 krzesło 💡
+榾 drzazgi, wióry, skrawki (drewna) 💡
+榿 olsza, olcha 📖
 槁 usychanie (o roślinach)
-槃 wanna, balia*
-槊 halabarda*
+槃 wanna, balia 💡
+槊 halabarda 📖
 構 postawa, postura, budowa ciała, sylwetka; przyjmowanie postawy, nastawienie, stanowisko; budowla, budowanie, konstruowanie
 槌 młot(ek), pobijak
 槍 dzida, włócznia, lanca, oszczep
-槎 tratwa*; skośne cięcie
+槎 tratwa 💡; skośne cięcie
 槐 rodzaj perełkowca japońskiego\n(gatunek drzewa)
 槓 dźwignia, lewarek
 様 Szanowny, Wielmożny Pan, Pani, sufiks uprzejmości; sposób zachowania, maniera; sytuacja
 槙 gałązka; ozdobna roślina wiecznie zielona
-槝 dąb; słupek cumowniczy*; znak używany w nazwach własnych
-槞 klatka*
+槝 dąb; słupek cumowniczy 💡; znak używany w nazwach własnych
+槞 klatka 👻
 槧 drukowana książka
 槨 wierzchnia skrzynia pełniąca rolę trumny
 槫 karawan
@@ -2521,28 +2521,28 @@
 槹 żuraw studzienny
 槻 brzostownica japońska*
 槽 cysterna, kadź, zbiornik, pojemnik
-槿 „róża Szaronu”*
+槿 „róża Szaronu” 📖
 樂 muzyka; komfort, wygoda
 樅 jodła, jedlina
 樊 klatka, siatka, płot, zagroda, ogrodzenie
 樋 wodociąg, kanał wodny, rynsztok, rynna pionowa
 樌 gaj, zagajnik, lasek
-樒 drzewo, którego gałęzie umieszczane są w buddyjskich grobach*
+樒 drzewo, którego gałęzie umieszczane są w buddyjskich grobach 💡
 樓 wieża, wieżyczka
 樔 gniazdo; nabranie, nabieranie, czerpanie, zaczerpnięcie; dojście do końca
 樗 japońska melia (gatunek drzewa)
 標 drogowskaz; pieczęć, pieczątka; ślad, odcisk; symbol, znak towarowy; dowód, dowody; pamiątka; cel
-樛 zginanie, wyginanie, uginanie; zwisanie; falowanie; splatanie, oplatanie; bycie ubranym / odzianym w
-樞 oś; obrót, obracanie się*; drzwi
+樛 zginanie 💡, wyginanie, uginanie; zwisanie; falowanie; splatanie, oplatanie; bycie ubranym / odzianym w
+樞 oś; obrót, obracanie się 💡; drzwi
 樟 kamfora
 模 imitacja, kopia, sztuczny, podrobiony
 樢 rodzaj ptaka; winorośl, pnącze
-樣 Wielmożny Pan, przyrostek oznaczający formę uprzejmą; sposób, metoda, maniera; sytuacja, położenie
+樣 Wielmożny Pan 💡, przyrostek oznaczający formę uprzejmą; sposób, metoda, maniera; sytuacja, położenie
 権 władza, siła, moc, prawa
 横 bok, strona; poziomy, horyzontalny; szerokość; niedorzeczny; nierozsądny; przewrotny; perwersyjny
 樫 dąb wiecznie zielony
 樮 rodzaj drzewa
-樵 ścinanie drzew, drwal(nictwo)*
+樵 ścinanie drzew, drwal(nictwo) 💡
 樶 sęk w drewnie
 樸 kora drzewa
 樹 drzewo, drewno; ustalenie, ustawienie, zakładanie, tworzenie
@@ -2570,28 +2570,28 @@
 檜 cyprys japoński
 檠 wyprostowany łuk; stojak na lampę
 檢 sprawdzanie, kontrolowanie, egzaminowanie, badanie
-檣 maszt*
-檪 dąb używany jako węgiel drzewny*
+檣 maszt 💡
+檪 dąb używany jako węgiel drzewny 📖
 檬 drzewo cytrynowe
 檮 pień; głupi, głupiec, durny, niemądry
-檳 areka katechu*
+檳 areka katechu 📖
 檸 drzewo cytrynowe
-檻 zagroda (dla zwierząt), korral*, klatka, cela, więzienie
-櫁 japoński badian właściwy, japoński anyż gwiazdkowy / gwiaździsty*
+檻 zagroda (dla zwierząt), korral 📖, klatka, cela, więzienie
+櫁 japoński badian właściwy, japoński anyż gwiazdkowy / gwiaździsty 💡
 櫂 wiosło
 櫃 kufer, skrzynia, szkatułka
-櫑 ozdobna beczka wina*; ozdobna rękojeść miecza
+櫑 ozdobna beczka wina 💡; ozdobna rękojeść miecza
 櫓 wiosło; wieża
 櫚 rodzaj pigwy
 櫛 grzebień
 櫞 rodzaj drzewa cytrynowego
-櫟 dąb na węgiel drzewny*
-櫨 woskowe drzewo; sumak*
+櫟 dąb na węgiel drzewny 💡
+櫨 woskowe drzewo; sumak 📖
 櫪 żłób, koryto (paszowe), stodoła dla konia
 櫺 krata, kratka; siatka
 櫻 wiśnia
 欄 kolumna (w gazecie); poręcz; przestrzeń
-欅 keyaki; brzostownica japońska*
+欅 keyaki; brzostownica japońska 📖
 權 władza, kontrola; siła, moc; prawo
 欒 miodła; melia; okrągły; harmonijny; zgodny
 欖 chińskie drzewo oliwne
@@ -2629,10 +2629,10 @@
 歯 ząb (na kole zębatym)
 歳 koniec roku; wiek; sposobność, okazja, możliwość
 歴 program nauczania; kontynuacja; upływ czasu
-歸 powrót do domu*, przybywanie / przyjeżdżanie / (do)prowadzenie do; skutkowanie, spowodowanie
+歸 powrót do domu 💡, przybywanie / przyjeżdżanie / (do)prowadzenie do; skutkowanie, spowodowanie
 歹 naga kość; zły, błędny, nieprawidłowy, niewłaściwy; śmierć (komponent)
 死 śmierć, umieranie
-歿 umieranie*
+歿 umieranie 💡
 殀 umieranie młodo
 殃 niepowodzenie, nieszczęście, katastrofa, klęska, kataklizm
 殄 wszystko, zupełnie, kompletnie, całkowicie
@@ -2642,7 +2642,7 @@
 残 reszta, pozostałość; saldo, balans
 殍 umieranie z głodu
 殕 pleśnieć
-殖 powiększanie*, zwiększanie, wzrost, mnożenie, zwielokrotnienie
+殖 powiększanie 💡, zwiększanie, wzrost, mnożenie, zwielokrotnienie
 殘 pozostałość, resztki, saldo
 殞 upadanie, umieranie, umarcie
 殤 umieranie w młodym wieku
@@ -2650,8 +2650,8 @@
 殫 stanie się wyczerpanym, zmęczonym, przemęczonym; wszystko
 殯 kłamanie w oświadczeniu / orzeczeniu; niepogrzebana trumna
 殱 masakra, rzeź, jatka, pogrom
-殲 masakra, rzeź, jatka, pogrom*
-殳 pika (włócznia); znowu wietrznie (komponent)
+殲 masakra, rzeź, jatka, pogrom 💡
+殳 pika (włócznia); znowu wietrznie (🧩)
 殴 atak, napad, napaść; uderzenie, bicie
 段 szczebel, stopień, schody, kroki
 殷 kwitnienie, rozkwitanie
@@ -2661,7 +2661,7 @@
 殿 pan, władca; sala, mieszkanie, rezydencja, pałac, świątynia
 毀 rozbicie, złamanie, połamanie, uszkodzenie, zniszczenie, zrujnowanie; bycie uszkodzonym, zarysowanym, wyszczerbionym, popsutym, zrujnowanym; krytykowanie, potępianie
 毅 silny, mocny
-毆 bić, uderzanie, trafienie, walka na pięści, bójka, bijatyka, burda, awantura*
+毆 bić, uderzanie, trafienie, walka na pięści, bójka, bijatyka, burda, awantura 💡
 毋 nie być, nie (musieć) robić; matka (komponent)
 母 matka
 毎 (w) każdy, za każdym razem
@@ -2674,16 +2674,16 @@
 毟 rwanie, zrywanie, zbieranie, skubanie
 毫 cienkie włosy, szczotka, pędzel; wcale nie, bynajmniej, skądże, gdzie by tam
 毬 rzep; piłka, kula
-毯 wełniany dywanik*
+毯 wełniany dywanik 💡
 毳 puch, meszek
-氈 wełniana tkanina lub dywanik*
+氈 wełniana tkanina lub dywanik 💡
 氏 nazwisko (rodowe); klan, rodzina, ród
 民 lud, ludzie, naród, nacja, poddani
 氓 ludzie, lud, naród
 气 duch; para wodna (komponent)
-気 duch, umysł; powietrze, atmosfera, nastrój, stan
+気 duch, umysł; powietrze, atmosfera, nastrój, stan 📖
 氛 powietrze, atmosfera, pogoda
-氣 duch, umysł; powietrze, atmosfera, nastrój, stan
+氣 duch, umysł; powietrze, atmosfera, nastrój, stan 📖
 氤 ożywiony, energiczny
 水 woda
 氷 sopel, lód, grad; zamarzanie, zastyganie, kostnienie
@@ -2702,58 +2702,91 @@
 江 dopływ, zato(cz)ka
 池 staw, sadzawka, basen, zbiornik
 汢 bagno, moczary, mokradło, podmokły teren
+汨 tonięcie, zatapianie; nazwa chińskiej rzeki
 汪 całkowicie zalany 💡, obszar wody, szeroki, głęboki
 汰 mycie, pranie; przesiewanie, filtrowanie; luksus(owy)
 汲 czerpanie wody, nabieranie; chochla, chochelka; pompowanie
+汳 nazwa własna
 決 postanawianie, decydowanie, ustalanie, uzgadnianie, dogadanie, wyznaczanie
 汽 mgła; para wodna
-沂 nazwa chińskiej rzeki
+汾 nazwa chińskiej rzeki
+沁 przenikanie, penetrowanie, wsiąkanie, wchłanianie
+沂 nazwa chińskiej rzeki 💡
 沃 płodność, urodzajność, żyzność
 沈 tonięcie, zatapianie, bycie zanurzonym, opadanie, iść na dół; aloes
 沌 chaos pierwotny
 沍 zamykanie się, zamarzanie, zastyganie, krzepnięcie
+沐 mycie, przemywanie, pranie
+沒 nie (mieć), nic, żaden; tonąć, topić
 沓 but(y), obuwie
 沖 otwarte, pełne morze; wznoszenie się wysoko w stronę nieba
 沙 piasek, piach
 沚 brzeg, wybrzeże, mielizna, płycizna
+沛 duży deszcz; bagno, mokradło, moczary
 没 tonąć, topić się, zatopienie; chowanie, ukrywanie; wpadanie w, znikanie; umieranie
 沢 bagno, moczary, mokradło; błyskotliwość, gracja
 沫 plusk, (roz)bryzg, pluśnięcie, piana
+沮 zatrzymywanie, zapobieganie, uniemożliwianie; pokonany, przegrany; przygnębiony, przybity; rozczarowany, zawiedziony
+沱 płynące łzy
 河 rzeka
 沸 kipienie, gotowanie się, wrzenie; niepokój, oburzenie
 油 olej, tłuszcz
+沺 rozległe, wzburzone wody 💡
 治 panowanie, rządzenie; bycie w pokoju, uspokojenie, opanowanie; tłumienie, poskromienie; rząd, władza; wyzdrowienie, leczenie; konserwowanie, zachowanie
 沼 bagno, błoto, moczary, trzęsawisko; jezioro, staw, sadzawka
+沽 cena; kupowanie i sprzedawanie
+沾 zwilżanie, nawilżanie, skrapianie, zmoczenie, namoczenie; dotyk, dotknięcie, kontakt
 沿 biec / leżeć wzdłuż
 況 kondycja, stan, sytuacja
+泄 wyciek, przeciek, nieszczelność
+泅 pływanie 💡
 泉 źródło, strumyk
 泊 nocleg, nocowanie, miejsce do spania; miejsce postoju, zatrzymywanie się; kotwiczenie, stanie na kotwicy
 泌 muł, szlam; przepływ; namoczenie; wsiąkanie, przenikanie; wydzielanie
+泓 głęboka czysta woda
 法 metoda, prawo, reguła, zasada, sposób,, model, system , doktryna
+泗 nazwa chińskiej rzeki; łkanie, chlipanie, mazgajenie
+泙 wezbrana woda 💡
+泛 dryfowanie, znoszenie z prądem 💡; unoszenie się na wodzie, pływanie; nieostrożny, nierozważny, niedbały, niestaranny, lekkomyślny
+泝 iść pod prąd / w górę rzeki 💡
 泡 piana, bańka (mydlana, powietrzna)
 波 fale; Polska
 泣 płakanie, szlochanie, jęczenie, lamentowanie
 泥 błoto, bagno, muł; przyleganie / przywieranie do
 注 polewanie, wlewanie, nalewanie; nawadnianie, irydowanie; wylanie łez; wpływanie do; skoncentrowanie na, uwaga; notatki; komentarz, adnotacja
+泪 łzy, płacz, płakanie 💡
+泯 wymieranie, zanikanie 💡, przygasanie, ściemnianie
 泰 spokojny, opanowany; pokój; łatwy, prosty; nadmierny, krańcowy, ekstremalny; wielki, ogromny, duży; Tajlandia
+泱 chmury kłębiaste; głęboki i szeroki
 泳 pływanie
 洋 ocean, morze; zagraniczny, zachodni styl
+洌 czysty, niewinny, dziewiczy 💡, szczery
 洒 moczenie, zraszanie, spryskiwanie, kropienie
 洗 mycie, pranie; dochodzenie / dociekanie do, badanie
+洙 nazwa chińskiej rzeki 💡
 洛 Kioto; stolica
 洞 nora, wykop, jaskinia
+洟 łza; wydzielina z nosa 💡
 津 przystań, port; prom
 洩 ujście, wyciek, przeciek, nieszczelność
-洪 potop, powódź; obszerny, ogromny, rozległy
+洪 potop 💡, powódź; obszerny, ogromny, rozległy
+洫 rów, kanał
 洲 kontynent, wyspa, kraj; mielizna
+洳 mokry, wilgotny; moczenie, zwilżanie
 洵 podobny; taki sam, jednakowy; prawda
+洶 wytryśnięcie 💡, wzrastanie, przepływ
 洸 woda gazowana
 活 żywy, żyjący, pełen życia, tętniący życiem; resuscytacja; bycie pomocnym
+洽 długi i rozległy
 派 frakcja, grupa, partia, klika, sekta, szkoła
 流 prąd, strumień, potok; grzywna, strata, konfiskata
 浄 czysty; oczyszczanie, egzorcyzmowanie, wypędzanie (złych duchów); Dynastia Manchu
 浅 płytki, pobieżny, powierzchowny; lekkomyślny, frywolny; haniebny
+浙 nazwa chińskiej rzeki
+浚 pogłębianie, dragowanie 📖; czyszczenie, sprzątanie
 浜 plaża, wybrzeże, przybrzeże, brzeg morski
+浣 mycie, przemywanie, pranie 💡
+浤 podnoszenie się poziomu wody; czysta głęboka woda
 浦 zatoka, zatoczka; plaża, wybrzeże, przybrzeżny; dopływ
 浩 szeroka przestrzeń; dostatek, obfitość; pełen wigoru, energiczny
 浪 wędrowanie, włóczenie się; fala, fale; nieostrożny, nierozważny; swobodny, nieograniczony, niepohamowany
@@ -2762,70 +2795,138 @@
 浴 kąpanie; być ulubionym; rozkoszowanie się
 海 morze, ocean
 浸 zanurzony, namoczony, nasiąknięty, mokry, zwilżanie, podtopienie
+浹 daleki i rozległy; cykl, okres
+涅 czarnoziemy, czarna ziemia / gleba
 消 gaszenie, tłumienie, wyłączanie, neutralizowanie, anulowanie, kasowanie, skreślanie
 涌 gotowanie, wrzenie, kipienie; hałas, zgiełk; rasa
+涎 ślina
+涓 spadanie, opadanie, upadanie; kapanie; czysty, dziewiczy
+涕 łzy; współczucie
 涙 łza; współczucie
 涛 fale, falowanie
 涜 kalanie, bluźnienie, sprofanowanie; rów
 涯 horyzont, brzeg, wybrzeże; limit, granica
 液 płyn, ciecz, sok, wydzielina
+涵 zanurzanie, zagłębianie
+涸 wyschnięty, wysuszony 💡; dojrzały, dorosły
 涼 odświeżający, pokrzepiający, orzeźwiający, miły i chłodny
 淀 basen, sadzawka; wir
+淅 płukanie / kąpanie ryżu
+淆 mętność, mglistość; (wy)mieszanie, miksowanie
+淇 nazwa chińskiej rzeki 💡
 淋 bezludny, opuszczony, opustoszały, pusty
-淑 pełen gracji*, wdzięku; delikatny, łagodny, grzeczny, uprzejmy; czysty
+淌 przepływ, potok
+淑 pełen gracji 💡, wdzięku; delikatny, łagodny, grzeczny, uprzejmy; czysty
+淒 ostre zimno; smutny, przygnębiony, posępny, ponury
+淕 deszcz ze śniegiem, breja, błoto pośniegowe; nazwa terenu podmokłego
 淘 wybór, selekcja
+淙 dźwięk / odgłos płynącej wody
+淞 nazwa chińskiej rzeki 💡
 淡 cienki, chudy, słaby, nikły, blady; chwilowy, krótkotrwały, przelotny
+淤 błoto 💡, muł, szlam, osad; zat(y)kanie, zapychanie, blokowanie
+淦 woda zęzowa 📖
+淨 czysty, przejrzysty, niezepsuty
+淪 tonięcie, topienie; falowanie, pluskanie, marszczenie się
 淫 lubieżność, sprośność, pożądliwość, rozwiązłość, rozwiązłość, zmysłowość
-深 głęboki*; podnoszenie, podwyższanie, powiększanie, potęgowanie, wzmacnianie, umacnianie, pogłębianie
+淬 wyżarzanie, hartowanie 💡
+淮 nazwa chińskiej rzeki 💡
+深 głęboki 💡; podnoszenie, podwyższanie, powiększanie, potęgowanie, wzmacnianie, umacnianie, pogłębianie
 淳 czysty, prawdziwy
 淵 otchłań, przepaść, głębia, głęboki basen, czeluść; krawędź, brzeg
 混 mieszanie, pogmatwanie, zagmatwanie
+淹 zanurzenie, namaczanie, moczenie; zatrzymywanie, odwlekanie, ociąganie się, zwlekanie
+淺 płytki 💡, niegłęboki, powierzchowny
 添 dołączony, dołączenie, dodawanie, przymocowanie, przytwierdzanie, towarzyszenie; poślubienie; pasowanie, satysfakcjonowanie; ozdoba; naśladowanie, imitowanie
 清 czysty, czystość, oczyszczanie, wypędzanie złej duchów; dynastia Manchu
-渇 pragnienie; (wy)schnięcie
+渇 pragnienie 💡; (wy)schnięcie
 済 uregulowanie (np. długu); uwolnienie (np. z obciążenia); (za)kończenie; wybaczalny, do przebaczenia; nie musieć
 渉 bród (płycizna na rzece umożliwiająca jej przekroczenie); przechodzenie, przeprawianie się, przekraczanie, przejazd; prom; importowanie; absorbowanie, wciąganie
-渋 uszczypliwy, cierpki; wahanie się, niechętny; mieć biegunkę
+渊 krawędź, brzeg
+渋 uszczypliwy 💡, cierpki; wahanie się, niechętny; mieć biegunkę
 渓 górski potok / strumień; dolina
+渕 krawędź, skraj, brzeg
+渙 rozrzucanie, rozpraszanie. rozproszenie, rozsypanie
 渚 brzeg, wybrzeże, plaża
 減 kurczenie / zmniejszanie się, malenie, redukowanie, obniżanie, spadek, ograniczanie; zgłodnieć
+渝 zmiana, zmienianie, bycie zmienionym, przekształconym
+渟 stop, zatrzymywanie 💡
 渠 rów, kanał; zamek, zamknięcie
 渡 przejazd, przeprawa, przechodzenie, przeprawianie się; migrowanie; importowanie, sprowadzanie, dostarczanie; średnica
+渣 osad, fusy, resztki, męty
+渤 nazwa miejsca 💡
 渥 dobroć, życzliwość, uprzejmość; zwilżanie, skrapianie
-渦 wir (wodny), zawirowanie
+渦 wir (wodny) 💡, zawirowanie
 温 ciepły, ciepło, ogrzewanie, podgrzewanie
+渫 pogłębianie, wyprzątanie, wyczyszczenie
 測 pojęcie, zrozumienie; plan, schemat; środek
+渭 nazwa chińskiej rzeki 💡
+渮 nazwa chińskiej rzeki 💡
 港 port, przystań
-湊 port*, przystań
+游 pływanie
+渺 niewielki, drobny, malutki, maleńki; bezgraniczny, bezkresny, nieograniczony, nieskończony
+渾 wszyscy, wszystko; mętność, zmętnienie
+湃 odgłos fal
+湊 port 💡, przystań
+湍 progi rzeczne
+湎 tonąć, topienie się, zanurzenie, być zanurzonym
 湖 jezioro
 湘 nazwa chińskiej rzeki, rzeka Sagami
 湛 wypełnianie, zapełnianie; nosić (uśmiech); czysty, wyraźny; gęsty; głęboki
+湟 fosa, rów obronny; mokradło, bagno, obszar podmokły; nazwa chińskiej rzeki
 湧 gotowanie, wrzenie, kipienie; fermentowanie;  oburzenie, zgiełk; hodowanie
+湫 tereny podmokłe, bagno, moczary, błoto
+湮 (u)tonąć, zatapiać, topić
 湯 gorąca woda / kąpiel / źródło
+湲 płynąca woda
+湶 źródło
 湾 zato(cz)ka; przesmyk
 湿 wilgotny
 満 pełny, pełnia, obfitość, wystarczająco, dostatecznie dużo, satysfakcja, satysfakcjonowanie, zaspokojenie
+溂 przeciwny, stronniczy, tendencyjny, uprzedzony
 溌 odrobina; pełen życia / wigoru, żywy, ożywiony, energiczny, krzepki
+溏 błoto
 源 źródło, pochodzenie, geneza
 準 pół-, odpowiadanie / proporcjonalny do, dopasowany, dostosowany; imitowanie, naśladowanie
+溘 nagły, raptowny, niespodziewany, nieoczekiwany
 溜 zbieranie, gromadzenie; bycie dłużnym
 溝 rynsztok, ściek; rów, kanał; 10**32
+溟 ciemny, ciemność; ocean
 溢 zalanie, zalewanie, przelewanie, wylewanie
+溥 daleki i szeroki 💡
+溪 dolina
+溯 iść pod prąd; odtwarzanie przeszłości, prześledzić przeszłość
+溲 mocz
 溶 topnienie, roztapianie, rozpuszczanie się
+溷 pobrudzenie się błotem 💡
 溺 topienie, tonięcie; pozwalanie, pobłażanie
+溽 wilgotny, mokry 💡
+滂 przepływ; obszerny, rozległy, ogromny
+滄 ocean 💡
 滅 niszczenie, burzenie, rujnowanie, obalanie, upadanie, ruina
 滉 głęboki i szeroki; woda
 滋 odżywczy, pożywny; więcej i więcej; bycie bujnym, obfitym, gęstość; sadzenie, sianie
+滌 płukanie, opłukiwanie, przemywanie, obmywanie, mycie, pranie 💡
 滑 śliski, ślizganie się, poślizgnięcie; oblanie, oblewanie egzaminu
+滓 osad, fusy
+滔 przepełnienie, przelewanie, nadmiar
+滕 wzrastająca / podnosząca się woda
 滝 wodospad, kaskada
 滞 stagnacja, bycie w zastoju / opóźnionym; zaległości, zaleganie z opłatami
+滬 jaz, tama; inna nazwa na Szanghaj
+滯 blokowanie, utrudnianie, zapychanie, zatykanie, zastój, stojący, stagnacja
+滲 przepojony, przepełniony, przesiąknięty
 滴 kropla, kąpanie, ściekanie
+滷 morska / słona woda, solanka 💡
+滸 sąsiedztwo, okolica, pobliże
+滾 przepływ, płynięcie; gotowanie, wrzenie
+滿 pełny, wypełniony; usatysfakcjonowany
 漁 wędkarstwo, rybołówstwo, łowienie ryb
 漂 dryfowanie, pływanie
 漆 lakier, werniks; 7
-漉 wyrób papierowy*; przeciekanie, przenikanie
+漉 wyrób papierowy 💡; przeciekanie, przenikanie
 漏 przeciekanie, wyciek, ujawnianie; czas
 漑 lanie, nalewanie, wlewanie
+漓 kapanie; wsiąkanie, wchłanianie; namoczenie w
 演 przedstawienie, spektakl, występ, sztuka teatralna, akt, gra, aktorstwo
 漕 wiosło(wanie), wioślarstwo
 漠 niejasny, niewyraźny, nieokreślony, mało precyzyjny; pustynia; szeroki, olbrzymi, bezgraniczny
@@ -2834,51 +2935,118 @@
 漫 film animowany, rysunkowy; mimowolnie, odruchowo; swobodny, nieograniczony; wbrew sobie, skorumpowanie, zepsucie
 漬 marynowanie, kiszenie, namaczanie, namoczenie, zwilżanie, skrapianie
 漱 płukanie gardła / ust
+漲 nadmiar 💡, przepełnienie, przelew, wylew, zalanie
 漸 stopniowo, stopniowy postęp; ostatecznie, w końcu, ledwie, ledwo, prawie nie
+漾 pływanie, płynięcie z prądem, znoszenie, dryfowanie 💡
+漿 picie, napój 💡
+潁 nazwa chińskiej rzeki
 潅 wlewanie / wpływanie do, nawodnienie, nawadnianie, irygowanie; ronienie łez; koncentrowanie / skupianie się na
-潔 niezbezczeszczony*; czysty, prawy, szarmancki
+潔 niezbezczeszczony 💡; czysty, prawy, szarmancki
+潘 woda, w której umyto ryż
+潛 ukrywanie, skrywanie, chowanie; ściszanie (głosu), uciszanie, cisza
 潜 skrywanie, ukrywanie, chowanie; uciszanie, niższy (głos), cisza
 潟 laguna, zalew, mała zatoka
 潤 moczenie, namaczanie, być namoczonym, wilgotnym, mokrym; przynoszenie korzyści; przychylność
+潦 intensywny deszcz / opady, ulewa; spływ, odpływ
+潭 głęboka woda, głębia
 潮 pływ, fala, słona woda; okazja, szansa, możliwość
+潯 brzeg, wybrzeże
 潰 miażdżenie, kruszenie, rozgniatanie; rozbicie, połamanie, zniszczenie
+潴 staw, sadzawka, rozlewisko
+潸 płynące łzy
+潺 dźwięk płynącej wody 💡
+潼 wysoki 💡
+澀 uszczypliwy, cierpki; szorstki, srogi, zajadły; surowy, chropowaty
+澁 uszczypliwy, cierpki; szorstki, srogi; nierówny, chropowaty
+澂 czysta i spokojna woda
 澄 jasność; przezroczystość, bycie przezroczystym / przejrzystym; jasny, przezroczysty; wyjaśnianie, ustalanie, rozstrzyganie; wyglądać poważnie
+澆 odrobina, szczypta; rzecz; płytki, powierzchowny; frywolny, lekkomyślny 💡, błahy
+澎 niespokojna / wzburzona woda 💡
+澑 ślizganie się, śliski, sunięcie
 澗 dolina rzeki; 10**36 (dziesięć do potęgi 36)
+澡 mycie 💡, przemywanie, pranie
+澣 mycie, przemywanie, pranie 💡
+澤 bagno, moczary, mokradła
 澪 szlak / trasa wodna, kanał żeglugowy
-澱 osad, fusy; zastały, stojący; ziemia, grunty*
+澱 osad, fusy; zastały, stojący; ziemia, grunty 💡
+澳 zakrzywiona linia brzegowa, łuk rzeki
+澹 spokój, spokojny, cisza, cichy; mdły, nijaki; kołysanie, falowanie; wystarczanie, zadowalanie
 激 gwałtowny, brutalny, ostry, nagły, podekscytowany, wściekły, rozwścieczony, zirytowany, zdenerwowany; podburzanie, podżeganie, naleganie, zachęcanie
 濁 dźwięczny, brzmiący; nieczystość, zły, błędny, nieprawidłowy; nigori
+濂 nazwa chińskiej rzeki
 濃 skoncentrowany, skupiony; gęsty, gruby, mocny; ciemny
+濆 tryśnięcie / wytryskanie do przodu
+濔 dużo, wiele, licznie
+濕 mokry, wilgotny; choroba
+濘 mętność, mulistość, błotnistość
+濛 ciemno(ść), (z)mrok
+濟 pomoc, pomaganie, wsparcie; uśmierzanie, złagodzenie; prom; krzyż
 濠 fosa, rów, kanał; Australia
 濡 wilgotny, mokry, (z)moknąć; uprawianie miłości	
 濤 fala, fale, kłęby	
-濫 nadmiar*, nadmierny, przepełniony, przekraczający; rozciągający się
+濫 nadmiar 💡, nadmierny, przepełniony, przekraczający; rozciągający się
+濬 głębia, głęboki, głębokość, pogłębianie, dragowanie 📖
+濮 nazwa chińskiej rzeki 💡
 濯 pranie, mycie, płukanie
+濱 plaża 💡, brzeg rzeki, brzeg morza, wybrzeże
+濳 (s)chowanie, skrywanie 💡, ukrywanie; tajny, sekretny
+濺 zraszanie, skropienie, mżawka; plusk, (roz)bryzg, rozprysk
+濾 filtr(owanie) 💡; przenikanie. przesączanie
+瀁 pływanie, płynięcie z prądem 💡, dryfowanie, znoszenie; przelewanie się; obszerny, ogromny, rozległy
+瀉 opróżnianie 💡, wypróżnianie
+瀋 sok; rosół, bulion
+瀏 czysty, jasny. wyraźny, przejrzysty
+瀑 wodospad 💡
 瀕 brzeg, krawędź, kraniec
+瀘 nazwa rzeki w Chinach
+瀚 szeroki i duży
+瀛 ocean, morze; bagno 💡, mokradło, moczary, trzęsawisko
+瀝 spadanie, opadanie, kapanie, padanie
 瀞 czysta woda; mały staw w rzece
+瀟 czysty
 瀦 basen, sadzawka, kałuża, bajoro, rozlewisko
-瀧 wodospad, kaskada
+瀧 wodospad 💡, kaskada
 瀬 strumień, potok, silny prąd rzeczny, bystrze, mielizna, płycizna
+瀰 obfity przepływ, szeroki strumień płynącej wody; szeroki, obszerny, rozległy
+瀲 napełnianie po brzegi; falowanie, marszczenie się
+瀾 ogromne fale
+灌 nalewanie, wlewanie 💡
+灑 odrobina; mycie, pranie; wolny i łatwy, swobodny
 灘 otwarte / pełne morze
+灣 zatoka, wlot
 火 ogień
 灯 lampa (+ ich licznik), światło; mapka
 灰 popiół, popioły, prochy, kremowanie
-灸 kara, chłosta; moksybucja*
+灸 kara, chłosta; moksybucja 📖
 灼 cudowny, nadprzyrodzony
 災 katastrofa, klęska, nieszczęście, cierpienie, przekleństwo, zło
 炉 palenisko, piec, reaktor
 炊 gotowanie
 炎 zapalenie, płomień, pożar
 炒 pieczenie, opiekanie, przypiekanie, smażenie
+炙 piec, opiekanie, smażenie, grilowanie, przypalanie
 炬 pochodnia; sygnał nadawany z użyciem ognia
 炭 węgiel (drzewny)
+炮 palenie, płonięcie 💡
+炯 jasny, czysty, oczywisty
+炳 czysty i jasny 💡
+炸 smażenie; detonacja, eksplozja, wybuch
 点 kropka (dziesiętna), punkt, punkcik
 為 robienie, tworzenie; zmiana; korzyść, pożytek, być użytecznym; próbowanie, praktyka; koszt; służenie jako; dobry; w wyniku, jako rezultat
 烈 gorliwy, żarliwy, zaciekły, agresywny, gwałtowny, porywczy, wściekły, rozwścieczony, srogi, surowy, ekstremalny, skrajny, intensywny
+烋 przechwalanie się, chlubienie się; szczęśliwy, pomyślny; piękny, śliczny
 烏 kruk; wrona
+烙 palenie, płonięcie; oparzenie, przypalenie
+烝 dużo, wiele; oferta, oferowanie, poświęcanie, dedykowanie; parowanie
+烟 dym, palenie
+烱 jasny 🌞, czysty
 烹 gotowanie, wrzenie
+烽 ogień sygnałowy
+焉 jak, dlaczego; wtedy
 焔 płomień, ogień, blask
+焙 ogień, piec
 焚 palenie, płonąć, zapalanie, rozpalanie (ognia); gotowanie
+焜 świecenie 💡, połyskanie
 無 nicość, pustka, nic, pusty
 焦 spieszenie się, niecierpliwość, rozdrażnienie; palenie, przypalenie, przypiekanie
 然 coś w tym stylu, tak, taki, tak jak, w takim razie, w takim wypadku, w takiej sytuacji, więc, zatem
@@ -2886,28 +3054,45 @@
 煉 rafinacja metali, kucie metali nad ogniem
 煌 (po)blask, poświata, błyszczenie, świecenie
 煎 opiekanie, przypiekanie, piec, gotowanie
+煕 świecenie, błyszczenie
+煖 ciepło, ocieplanie, podgrzewanie, ogrzewanie
 煙 dym
+煢 zupełnie sam, samiutki, samiuteńki, bez rodziny; zmartwienie, niepokój
 煤 sadza
+煥 świecenie 💡, błyszczenie
+煦 ciepło
 照 świecenie, błyszczenie, oświecanie; porównywanie; wstydliwy, nieśmiały
 煩 niepokój, obawa, lęk; kłopot, zmartwienie; ból, chory, cierpienie, dolegliwość; denerwowanie, podrażnienie, niedogodność, męczenie, utrapienie
+煬 piec, palić 💡, płonąć
 煮 gotowanie
-煽 wachlarz*; trzepot(anie); namawianie, nawoływanie, agitowanie, wspieranie; (po)łykanie
+煽 wachlarz 💡; trzepot(anie); namawianie, nawoływanie, agitowanie, wspieranie; (po)łykanie
+熄 przerwa(nie) 💡, zaprzestanie, wstrzymanie, ustanie
+熈 połysk 💡, blask, błyszczenie
 熊 niedźwiedź
+熏 dym, mgła, zamglenie, para
 熔 topienie, rozpuszczanie
+熕 armata, działo
 熙 jasny, słoneczny, pogodny, pomyślny, radosny, wesoły
 熟 dojrzewanie, dojrzały, dorosły, nabywanie umiejętności
+熨 żelazko 💡, wygładzanie, rozprostowanie
+熬 piec(zenie) 💡, spiekanie
 熱 ciepło, upał, gorąc; temperatura, gorączka; mania, namiętność, pasja, entuzjazm
+熹 palenie się, płonięcie, spalanie; słabe światło
+熾 rozpalanie ognia
 燃 palić, płonąć, jarzyć
 燈 lampa (+ ich licznik), lampka
+燉 ognisty, płomienny
 燎 palenie, zapalanie; ognisko
 燐 fosfor
 燕 jaskółka
+燗 podgrzane / rozgrzewające sake
 營 obóz, obozowisko*; wykonywanie; budowa, konstrukcja; prowadzenie (interesu)
 燥 suszenie, wysychanie*
 燦 błyskotliwy, genialny, znakomity, lśniący, wspaniały
 燭 światło(ść)
 燮 umiarkowany, (z)łagodzony; gotowanie na małym ogniu
 燵 kapcie, podgrzewacze stóp
+燻 tlić się; utlenianie się; wściekanie się, kipienie ze złości, denerwowanie się
 燿 połysk, blask, błyszczenie
 爆 bomba, wybuch; pękanie, podzielenie, rozdzielenie się
 爪 pazur, szpon, paznokieć
@@ -2926,7 +3111,7 @@
 牛 krowa
 牝 żeński, kobiecy
 牟 źrenica (oka); muu (dźwięk wydawany przez krowy)
-牡 mężczyzna; samiec
+牡 mężczyzna; samiec 🐮
 牢 więzienie, areszt; twardość, wytrzymałość
 牧 pastwisko, pasterz, pastuch, wypasanie
 物 rzecz, przedmiot, kwestia, sprawa
@@ -2949,13 +3134,14 @@
 狸 szop
 狼 wilk
 狽 wilk; bycie zdenerwowanym / poruszonym
-猛 dziki, gwałtowny, zaciekły, wściekły, entuzjastyczny; szaleństwo, siła
+猛 dziki, gwałtowny 💡, wściekły, zaciekły, szaleństwo, siła; entuzjastyczny
 猟 polowanie, strzelanie
 猪 dzik, knur
 猫 kot
 献 ofiarowywanie, oferowanie, wręczanie; prezent; dawanie; licznik drinków
 猶 co więcej, ponadto; wciąż, nadal, ciągle; jeszcze (więcej)
 猷 plan, schemat, wykres; sposób, metoda; kierunek
+猿 małpa
 獄 więzienie, areszt
 獅 lew
 獣 zwierzę, zwierz, bestia
@@ -2971,7 +3157,7 @@
 珊 koral(owiec); centymetr
 珍 rzadki, ciekawy, dziwny
 珠 perła, perełka, cacko, klejnot
-珪 nefrytowe berło*
+珪 nefrytowe berło 📖
 班 drużyna, ekipa, korpus, jednostka, grupa
 現 obecność, teraźniejszość, istnienie; rzeczywisty, faktyczny
 球 piłka, kula, sfera
@@ -3038,7 +3224,7 @@
 疫 epidemia
 疲 wyczerpany, wykończony, męczyć
 疹 odra, choroba
-疾 szybki, gwałtowny
+疾 szybki, gwałtowny 📖
 病 chory, (za)chorowanie
 症 symptomy, objawy choroby; choroba
 痔 hemoroidy
@@ -3047,7 +3233,7 @@
 痛 ból, czucie bólu, zadawanie bólu, ranienie, krzywdzenie
 痢 biegunka
 痩 chudnąć
-痴 głupi, tępy, durny*
+痴 głupi, tępy, durny 💡
 瘍 nabrzmienie, opuchlizna, obrzęk, czyrak, guz, nowotwór
 療 leczenie, kuracja, lekarstwo
 癌 rak, nowotwór, rakowe zło
@@ -3063,19 +3249,20 @@
 皇 cesarz
 皐 bagno, moczary, mokradła; brzeg, wybrzeże; piąty miesiąc
 皓 biały, czysty
-皮 skóra (zwierzęca; komponent)
+皮 skóra (zwierzęca; 🧩)
 皿 naczynie, talerz; porcja
 盃 szklanka*, filiżanka, kubek, miseczka, garnuszek
 盆 zlewisko, dorzecze; festiwal latarni; taca
 盈 obfitość, pełnia, wystarczająco, dostatecznie dużo, zaspokojenie; duma, satysfakcja
 益 korzyść, pożytek, zysk
 盍 przyjście razem,\n(z)gromadzenie / zbieranie / zjednoczenie się, spotkanie; osłona, pokrywa
-盗 (u)kraść, rabowanie, okradanie, zwędzenie, obrabowanie*
-盛 hossa, prosperowanie*, rozwijanie się pomyślnie; kopulowanie
+盗 (u)kraść, rabowanie, okradanie, zwędzenie, obrabowanie 💡
+盛 hossa, prosperowanie 💡, rozwijanie się pomyślnie; kopulowanie
 盜 złodziej, kraść, okradanie
 盟 przymierze, sojusz; przysięga
 監 nadzorowanie; urzędnik, funkcjonariusz; reguła, zasada, przepis; administrowanie, kierowanie
 盤 taca, półmisek, pojemnik; tablica; zapis fonograficzny
+盧 chata, chatka, chałupa, szałas
 目 oko, spojrzenie, wgląd; klasa; doświadczenie; ostrożność, dbałość; uznanie, względy
 盲 niewidomy (człowiek), ślepiec; ignorant
 直 natychmiast, od razu; prawość, uczciwość; szczerość, otwartość; naprawa, naprawianie
@@ -3091,7 +3278,7 @@
 眺 wpatrywanie / gapienie się, patrzenie, spoglądanie, przypatrywanie się bacznie, widzenie
 眼 gałka oczna
 着 noszenie, ubieranie się, zakładanie, przywdzianie, przybranie, przybieranie, osiąganie, przybywanie, przychodzenie, przyjeżdżanie, docieranie, licznik garniturów
-睡 senny, śpiący*, sen, spanie; umrzeć
+睡 senny, śpiący 💡, sen, spanie; umrzeć
 督 trener, trenowanie*; komenda, polecenie, dowodzenie, kierowanie, prowadzenie, nadzorowanie, kontrolowanie; popędzanie
 睦 intymny, zażyły, bliski, przyjacielski, życzliwy, harmonijny
 瞥 rzut okiem, zerknięcie, zajrzenie
@@ -3101,7 +3288,7 @@
 矛 halabarda, broń; festiwalowa platforma
 矢 strzała, strzałka
 知 wiedza, znajomość, mądrość, rozsądek
-矧 pióro (strzały)*
+矧 pióro (strzały) 💡
 矩 władca; ekierka stolarska
 短 krótki, krótkotrwały; wada, defekt, słaby punkt
 矯 naprawianie, prostowanie, poprawianie, korygowanie, wyleczenie; reformowanie; kontrolowanie; udawanie, fałszowanie
@@ -3109,7 +3296,7 @@
 砂 piasek
 研 polerowanie, szlifowanie; ostrzenie; studiowanie, uczenie
 砕 rozbijanie, tłuczenie, rozwalanie, (po)łamanie, miażdżenie; poufały; popularny, powszechny
-砥 szlifierka, osełka, kamień do ostrzenia*
+砥 szlifierka, osełka, kamień do ostrzenia 💡
 砦 fort, forteca, twierdza, bastion, okop
 砧 bryła do folowania sukna (folusznictwo)
 砲 armata, działo
@@ -3150,11 +3337,11 @@
 祝 świętowanie, gratulowanie
 神 bóg, bóstwo, bogowie; umysł, rozum; dusza
 祢 odziedziczona po przodkach, świątynia (przodków)
-祥 pomyślny, powodzenie*; dobry znak / omen; obiecujący; szczęście, błogość
+祥 pomyślny, powodzenie 🐑; dobry znak / omen; obiecujący; szczęście, błogość
 票 głosowanie, bilet; metka, etykietka; znak, tabliczka
 祭 uroczystość, jej obchodzenie, święto(wanie); rytuał, ofiarowanie modlitwy; ubóstwianie, otaczanie czcią, wielbienie, czcić
 祷 modlenie się
-禁 zakaz, zabranianie*
+禁 zakaz, zabranianie 💡
 禄 lenno, feudum; dodatek, zasiłek, emerytura, grant; szczęście, radość
 禅 Zen; siedzenie w milczeniu
 禍 klęska, katastrofa, nieszczęście, tragedia; zło, przekleństwo, klątwa
@@ -3187,7 +3374,7 @@
 稟 wynagrodzenie / płaca w ryżu
 種 gatunek, rodzaj, klasa, typ, odmiana; nasienie, ziarno
 稲 ryż, sadzonka ryżu
-稼 zarobki, dochody; praca, pracowanie, zarabianie pieniędzy
+稼 zarobki, dochody 💡; praca, pracowanie, zarabianie pieniędzy
 稽 myślenie, sądzenie, rozważanie, rozpatrywanie, zastanawianie się (nad czymś)
 稿 szkic, brudnopis, rękopis, manuskrypt, kopia; słoma
 穀 zboże, rośliny zbożowe; wyroby mączne
@@ -3195,8 +3382,8 @@
 穆 pełen szacunku / poważania; łagodny, umiarkowany; piękny, śliczny
 積 ilość, wielkość; w matematyce: wynik, rezultat; iloczyn; powierzchnia; miara; zawartość; (układanie w) stos, sterta; ładowanie; gromadzenie
 穎 kłos zboża; spryt, inteligencja, zręczność
-穏 spokojny, opanowany, cichy, łagodny*
-穐 jesień*
+穏 spokojny, opanowany, cichy, łagodny 💡
+穐 jesień 💡
 穣 dobre zbiory / plony; pomyślność, szczęście, powodzenie; 10**28
 穫 plony, zbiory, zbieranie plonów
 穴 dziura, dół, otwór; jaskinia, nora; szpara, szczelina
@@ -3240,12 +3427,12 @@
 筈 nacięcie strzały; powinien (być), musieć; spodziewany, oczekiwany, przewidywany
 等 itd., i tym samym; klasa (pierwsza), jakość; równy, jednakowy, taki sam, podobny
 筋 mięsień*, ścięgno, włókno; plan; zejście, schodzenie
-筏 tratwa*
+筏 tratwa 💡
 筑 starożytny instrument muzyczny
 筒 cylinder, rur(k)a, lufa (od pistoletu, karabinu itp.), rękaw
 答 rozwiązanie, odpowiedź
 策 program, plan, zasady; krok, środki
-箆 szpatułka; brzechwa*
+箆 szpatułka; brzechwa 💡
 箇 artykuły (licznik)
 箋 papier; metka, etykieta; list; kompozycja
 箔 folia, pozłota (warstewka złota, którą powleka się inny tańszy materiał, np. srebro, drzewo), złocenie
@@ -3253,7 +3440,7 @@
 算 liczenie, obliczanie, kalkulowanie; liczba, numer; liczydło, abakus; odgadywanie, prawdopodobieństwo
 管 rura, tuba, instrument dęty; rozmowa po pijanemu; kontrola, nadzór; jurysdykcja
 箪 bambusowy kosz na ryż
-箭 strzała*
+箭 strzała 💡
 箱 pudełko, skrzynka, kaseta, szkatułka; wagon kolejowy
 箸 pałeczki
 節 węzeł; pora, okres; sposobność, okazja; zwrotka, wers; paragraf, klauzula; zaszczyt, honor; staw; złącze, kostka u ręki; gałka; melodia
@@ -3275,7 +3462,7 @@
 粁 kilometr
 粂 używany w nazwach własnych
 粉 mąka, proszek, kurz
-粋 szyk*, elegancja, (styl)owy; czystość, nieskazitelność; istota, esencja, sedno, kwintesencja; elitarny, wyborowy
+粋 szyk 💡, elegancja, (styl)owy; czystość, nieskazitelność; istota, esencja, sedno, kwintesencja; elitarny, wyborowy
 粍 milimetr
 粒 ziarno; kropla; licznik małych cząstek
 粕 świstek, strzęp, wycinek, odpady
@@ -3290,7 +3477,7 @@
 糎 centymetr
 糖 cukier
 糞 gówno, kupa, fekalia, kał, odchody, stolec; ekskrementy
-糟 osad; ziemia, grunt*
+糟 osad; ziemia, grunt 💡
 糠 otręby* ryżowe
 糧 zaopatrzenie, prowiant*, jedzenie, żywność, pożywienie, chleb
 糸 nić, nitka, wątek
@@ -3360,7 +3547,7 @@
 縁 bliskość, pokrewieństwo, relacja, związek, połączenie; krawędź, brzeg, granicą, skraj
 縄 słomkowa lina, sznur(ek)
 縛 powstrzymywanie, związanie, areszt(owanie)
-縞 pas, pasek, pręga*
+縞 pas, pasek, pręga 💡
 縦 pion; długość; wysokość; folgowanie sobie; dziwaczny; kapryśny; krnąbrny
 縫 szycie, ścieg, szew, wyszywanie, haftowanie
 縮 kurczenie, zmniejszanie, malenie, redukowanie, marszczenie
@@ -3377,7 +3564,7 @@
 纂 kompilowanie, opracowanie, edytowanie, redagowanie
 纏 noszenie; owijanie; krawat; podążanie za; zbieranie, kolekcjonowanie
 缶 puszka; pojemnik; dzban (komponent)
-罒 sieć (komponent)
+罒 sieć (🧩)
 罪 wina, grzech, przestępstwo, zbrodnia, wykroczenie; obwinianie; obraza
 罫 liniatura*
 置 położenie, umiejscowienie, umieszczenie, złożenie, zdeponowanie, pozostawienie, zastawianie, oddanie w zastaw
@@ -3397,8 +3584,8 @@
 翁 czcigodny stary człowiek
 翌 następny
 習 uczenie się*, ćwiczenie
-翔 lecieć*, unosić się do góry, wznoszenie / unoszenie się
-翠 zielony; zimorodek*
+翔 lecieć 💡, unosić się do góry, wznoszenie / unoszenie się
+翠 zielony; zimorodek 💡
 翫 czerpanie przyjemności z; granie na instrumencie
 翰 litery; pędzel pisarski
 翻 fala, falowanie; powiewanie; odwracanie, zmienianie (np. opinii, przekonań)
@@ -3419,7 +3606,7 @@
 聯 klika, brygada, paczka, zespół, grupa
 聴 słuchanie, słyszenie; nieustępliwy; nieposłuszny, niesforny; dokładnie zapytać
 職 stanowisko, zatrudnienie, praca
-聾 głuchota*, głucha / niesłysząca osoba, ogłuszanie
+聾 głuchota 💡, głucha / niesłysząca osoba, ogłuszanie
 肇 początek, rozpoczęcie
 肉 mięso
 肋 żebro
@@ -3432,7 +3619,7 @@
 肥 nawóz, obornik; (przy)tycie; żyzny, urodzajny; wzbogacanie; pielęgnowanie
 肩 ramię, bark
 肪 otyły, gruby
-肯 porozumienie, ugoda*, zgoda; stosowanie się do
+肯 porozumienie, ugoda 💡, zgoda; stosowanie się do
 肱 zdolność, talent, umiejętność; ramię, łokieć
 育 wycho(wy)wanie, dorastanie
 肴 dodatek serwowany razem z napojem
@@ -3490,10 +3677,10 @@
 舊 stare: czasy, rzeczy. przyjaciel; dawne, byłe, ex-
 舌 język; serce dzwonu
 舎 chata, gospoda, zajazd, dom, dworek
-舒 rozciąganie, rozluźnianie, poluzowanie, odprężenie, relaksowanie; otwieranie; wspominanie*; napominanie
+舒 rozciąganie, rozluźnianie, poluzowanie, odprężenie, relaksowanie; otwieranie; wspominanie 💡; napominanie
 舗 sklep; brukowanie
 舘 rezydencja, willa, pałac, duży budynek
-舛 taniec (komponent)
+舛 taniec (🧩)
 舜 rodzaj porannej chwały; róża Sharon; malwa
 舞 taniec, śmiganie, kręcenie się; koło
 舟 łódź, statek
@@ -3527,7 +3714,7 @@
 苅 cięcie trawy
 苑 ogród; farma; park
 苒 kwitnący, kwiecisty, bujny, obfity
-苓 roślina; ziele, zioło*; grzyb
+苓 roślina; ziele, zioło 💡; grzyb
 苔 mech, porost
 苗 sadzonka (drzewa), młoda roślina, kiełek, pęd
 苛 męczenie, dręczenie, torturowanie, znęcanie się, prześladowanie; łajanie, udzielanie ostrej nagany
@@ -3540,7 +3727,7 @@
 茂 zarośnięty, rosnąć gęsto, bujnie, być bujnym, obfitym
 茄 bakłażan, oberżyna
 茅 trzcina miskant
-茉 jaśmin*
+茉 jaśmin 📖
 茎 łodyga
 茜 marzanna barwierska; czerwony barwnik, turecka czerwień
 茨 wrzosiec, dzika róża, kolcolist, ciernisty krzew
@@ -3553,7 +3740,7 @@
 荘 willa, rezydencja, dwór feudalny; gospoda, zajazd, chata; poważny, uroczysty, dostojny
 荷 bagaż, obciążenie, ładunek
 荻 trzcina, sitowie
-莉 jaśmin*
+莉 jaśmin 📖
 莞 uśmiechanie się; trzcina wykorzystywana do pokrycia tatami
 莫 nie musieć; nie robić; nie być
 莱 komosa, lebioda (rodzaj rośliny)
@@ -3563,18 +3750,18 @@
 菓 cukierek, cukierki, słodycze, ciasto, ciastka; owoc(e)
 菖 irys (roślina)
 菜 warzywo, zielenina; dodatek do dania głównego
-菟 kanianka*
+菟 kanianka 📖
 菩 rodzaj trawy; święte drzewo
 菫 fiolet
 華 wspaniałość, zjawiskowość; kwiat, płatek; połysk, blask; ostentacyjny, krzykliwy, barwny, jaskrawy, kolorowy
-菰 trzcina użyta jako mata*
+菰 trzcina użyta jako mata 💡
 菱 diament (kształt), romb; kotewka (orzech wodny)
 萄 winorośl, dzikie winogrono
 萌 pokazywanie objaw; młody pęd, kiełek, pąk, pączek; słód*
 萎 usychanie, więdnąć, słabnąć; opadanie; kulawy, ułomny
 萩 lespedeza (rodzaj kwiatu)
 萱 miskant (roślina)
-落 spadek, upadek; upuszczanie, zrzucanie, opadanie*; wieś, wioska, osada
+落 spadek, upadek; upuszczanie, zrzucanie, opadanie 💡; wieś, wioska, osada
 葉 liść; płaszczyzna, płat; igła, ostrze, dzida , włócznia; licznik płaskich przedmiotów; fragment, część, kawałek
 葎 roślina płożąca / pnąca / ścieląca się, pnącze, winorośl
 著 sławny, słynny, głośny; dzieło literackie; publikowanie, pisanie; niezwykły, wybitny, fenomenalny, wyjątkowy, nadzwyczajny; zakładanie, przywdzianie; przybycie, przyjazd; ukończyć wyścig; licznik ubrań
@@ -3585,7 +3772,7 @@
 葬 pochówek, chowanie / grzebanie zmarłego; odkładanie, odłożenie
 葱 por, walijska cebula
 葵 malwa
-葺 strzecha*, słoma, sitowie, (słomiane) pokrycie,, poszycie, gont, dachówka
+葺 strzecha 💡, słoma, sitowie, (słomiane) pokrycie,, poszycie, gont, dachówka
 蒋 trzcina
 蒐 zbieranie, gromadzenie
 蒔 sianie, obsiewanie, sadzenie
@@ -3595,7 +3782,7 @@
 蒸 para (wodna), parowanie; ciepło, upał, gorąco; duszny, parny; pachnący stęchlizną, stęchły; wzniecanie
 蒼 niebieski; blady
 蓄 gromadzenie, zbieranie, akumulowanie, magazynowanie, przechowywanie, zapas
-蓋 przykrycie, nakrycie, okrycie; pokrywka*, klapka, wieko, wieczko
+蓋 przykrycie, nakrycie, okrycie; pokrywka 💡, klapka, wieko, wieczko
 蓑 słomiany płaszcz przeciwdeszczowy
 蓬 szałwia lekarska, piołun, bylica (roślina)
 蓮 lotos
@@ -3625,7 +3812,7 @@
 薪 paliwo, drewno opałowe, podpałka
 薫 pachnieć, rozsiewanie przyjemnej woni, aromatyczny, wonny, pachnący; palenie tytoniu
 薬 lek(arstwo); chemiczny; szkliwo; proch strzelniczy; korzyść, pożytek, benefit
-薮 gąszcz, gęstwina, zarośla; gaj, zagajnik; krzak*; podszycie / podszyt (w lesie)
+薮 gąszcz, gęstwina, zarośla; gaj, zagajnik; krzak 💡; podszycie / podszyt (w lesie)
 薯 ziemniak, kartofel
 藁 słoma
 藍 indygo
@@ -3669,12 +3856,13 @@
 蝦 krewetka; homar
 蝶 motyl
 蝿 mucha
-融 rozpuszczanie, roztapianie, topienie*
+融 rozpuszczanie, roztapianie, topienie 💡
 螺 mały, jadalny, spiralny słodkowodny mięczak
 蟹 krab
 蟻 mrówka
 血 krew
 行 iść, jechanie, podróż; przeprowadzanie, realizowanie, robienie, czynienie, wykonywanie; linia (w tekście), wiersz; bank
+衍 przepełnienie, przelewanie, nadmiar
 術 sztuka, technika, umiejętności, sposoby, środki; podstęp, trik, magia; zasoby
 街 bulwar, ulica, centrum miasta
 衛 obrona, bronienie, zabezpieczenie
@@ -3697,7 +3885,7 @@
 装 strój, ubiór, przebranie; udawanie
 裏 tył, tylna część; wśród, pośród, pomiędzy, w, wewnątrz; odwrócony; dłoń; podeszwa, podszewka; zła strona
 裕 obfity, bogaty, żyzny, płodny
-補 dodatek, uzupełnienie*; naprawianie, bonifikowanie, rekompensowanie; asystent, pomocnik, uczeń
+補 dodatek, uzupełnienie 💡; naprawianie, bonifikowanie, rekompensowanie; asystent, pomocnik, uczeń
 裟 buddyjska komża
 裡 odwrotność; wewnątrz, wewnętrzna część dłoni; podeszwa stopy; tył, tylna część; podszewka; zła strona
 裳 spódnica
@@ -3711,13 +3899,13 @@
 襖 nieprzezroczyste przesuwne drzwi
 襟 kołnierz, klapa (marynarki); swoje wewnętrzne uczucia / emocje
 襲 atak(owanie), nacieranie, najeżdżanie; osiąganie celu; stos, sterta
-西 zachód geograficzny; Hiszpania*
+西 zachód geograficzny; Hiszpania 💡
 要 potrzeba, potrzebowanie; główny punkt, istota, sedno, klucz do
 覆 wywrotka, wywracanie się; przykrywanie, okrywanie, osłanianie; bycie zrujnowanym
 覇 hegemonia, dominacja, zwierzchnictwo, przywództwo, kierownictwo, szefostwo; mistrz, czempion
 見 widzenie, patrzenie, oglądanie; pokazywanie; widoczny; mieć nadzieję, szanse, okazje; pojęcie, wyobrażenie, opinia, pogląd
 規 miara
-視 inspekcja*, kontrola; uważanie na; patrzenie, oglądanie, widzenie
+視 inspekcja 💡, kontrola; uważanie na; patrzenie, oglądanie, widzenie
 覗 podglądanie, zaglądanie. zerkanie, spoglądanie
 覚 zapamiętywanie, uczenie się (na pamięć); pojmowanie; budzenie się, trzeźwienie
 覧 dokładne przyglądanie się, patrzenie na, widzenie
@@ -3736,7 +3924,7 @@
 訓 instrukcja, polecenie; japoński sposób czytania (wymowa) chińskich znaków; wyjaśnianie; czytanie
 託 powierzanie, zawierzanie; proszenie; udawanie, robienie aluzji
 記 skryba; relacja, sprawozdanie; narracja
-訟 oskarżanie, podawanie do sądu
+訟 oskarżanie 💡, podawanie do sądu
 訣 separacja, oddzielenie, rozdzielenie; część; tajemnica, sekret
 訪 wizyta, wizytowanie, odwiedzanie; oferowanie współczucia
 設 zakładanie, utworzenie, ustanowienie, przygotowywanie, organizowanie; świadczenie, dostarczanie, zaopatrywanie
@@ -3747,7 +3935,7 @@
 註 notatka, komentarz, adnotacja
 証 dowód, dowody, świadectwo, certyfikat, dyplom
 詐 kłamstwo, oszustwo, okłamywanie, oszukiwanie, udawanie
-詑 oszukiwanie, zwodzenie, łudzenie*
+詑 oszukiwanie, zwodzenie, łudzenie 💡
 詔 edykt cesarski
 評 ocenianie, szacowanie; krytyka; komentarz
 詞 część mowy, wyraz, słowo, poezja
@@ -3794,7 +3982,7 @@
 諳 uczenie się na pamięć, zapamiętywanie; recytowanie / mówienie z pamięci
 諸 (prze)różny, rozmaity; dużo, wiele; kilka, parę; razem
 諺 przysłowie
-諾 zgoda, przyzwolenie*, akceptacja
+諾 zgoda, przyzwolenie 💡, akceptacja
 謀 spiskowanie, oszukiwanie; nadużywanie; \nplan(owanie), opracowanie, obmyślanie, wymyślanie; mieć na myśli
 謁 audiencja (u kogoś ważnego)
 謂 powód, przyczyna; źródło, pochodzenie, geneza, początek; historia, przekaz / opowieść ustna
@@ -3861,6 +4049,7 @@
 賦 podatek, cło, danina, opłata, rata; oda, proza, wiersz, poemat
 質 substancja; jakość; sprawa; temperament
 賭 ryzyko, hazard, stawka, zakład
+購 subskrypcja, kupowanie, nabywanie
 贈 prezenty; prezentowanie czegoś, wysyłanie, dawanie, podarowanie, nagradzanie, przyznawanie
 贋 falsyfikat, podróbka, podrabianie, fałszowanie, fałszerstwo
 赤 czerwony
@@ -3884,7 +4073,7 @@
 踊 przeskok, podskok; taniec
 踏 krok; szacowanie, wycenianie; uchylanie się od zapłaty
 踪 pozostałość, trop, ślad / odcisk (stopy), wskazówka
-蹄 kopyto*
+蹄 kopyto 💡
 蹟 szczątki, ślady, pozostałości; odcisk / ślad stopy
 蹴 kopnięcie*, kopniak
 躍 (pod)skok, podskakiwanie, skakanie, taniec*
@@ -3894,10 +4083,10 @@
 軌 bruzda, koleina; koło; tor; model, norma, sposób robienia
 軍 armia, wojsko, siły, oddziały, żołnierze; wojna, bitwa
 軒 mieszkanie, licznik domów, okap dachu
-軟 miękki*
+軟 miękki 💡
 転 obracanie, kręcenie, toczenie, odwracanie przewracanie; zmienianie, odmienianie
 軸 oś*, trzpień, sworzeń; (licznik książkowych) zwoje; łodyga
-軽 lekki*, błahy, mało znaczący, nieistotny, nieważny
+軽 lekki 💡, błahy, mało znaczący, nieistotny, nieważny
 較 kontrast(owanie), porównywanie
 載 jazda, jechanie; wsiadanie; miejsce; rozkładanie, rozłożenie; 10**44; rekord, zapis, publikowanie
 輔 pomoc
@@ -3909,8 +4098,8 @@
 輿 palankin*; nosze pogrzebowe; opinia publiczna; ziemia
 轄 kontrola, nadzór; zarządzanie, administracja; klin
 轍 koleina, wyżłobienie, ślady kół
-轟 ryk*, ryczeń, grzmot, odgłos wybuchu
-轡 wędzidło*
+轟 ryk 💡, ryczeń, grzmot, odgłos wybuchu
+轡 wędzidło 📖
 辛 korzenny, pieprzny, ostry, gorzki, cierpki, pikantny, gryzący
 辞 rezygnacja; słowo, termin, określenie, wyrażenie
 辣 ostry, pieprzny, pikantny; okrutny, srogi, bezlitosny
@@ -3944,7 +4133,7 @@
 逃 ucieczka, uciekanie, umykanie, uchylanie się; ignorowanie; uwolnienie, oswobodzenie
 逆 odwrotnie, przeciwnie, przeciwieństwo; nikczemny, okropny
 透 przezroczysty; przenikanie, przebijanie, przedzieranie się; filtr(owanie)
-逐 ściganie, gonienie*, rozpędzanie, wyganianie; wykonanie, osiągnięcie, zdobycie
+逐 ściganie, gonienie 💡, rozpędzanie, wyganianie; wykonanie, osiągnięcie, zdobycie
 逓 zmiana, tura, na zmianę, po kolei; wysyłanie, przesyłanie
 途 droga, trasa, ścieżka
 逗 stop, zatrzymywanie
@@ -3960,7 +4149,7 @@
 進 postępowanie, postępować, posuwanie się, przesuwanie (do przodu), promowanie
 逸 odchylanie się, zbaczanie, odbieganie; bezczynność, czas wolny, wypoczynek, rekreacja; nietrafienie, niezdołanie osiągnąć; ignorowanie, pomijanie; odparowanie, odpieranie; różnienie się, rozchodzenie się
 逼 popędzanie, ponaglanie, naglenie; zmuszanie, wymuszanie; groźny
-遁 uciekanie, ucieczka*, umykanie, \nuchylanie się; uwolnienie, uwalnianie, oswobodzenie
+遁 uciekanie, ucieczka 💡, umykanie, \nuchylanie się; uwolnienie, uwalnianie, oswobodzenie
 遂 osiąganie, zdobywanie, realizowanie, finalizowanie; popełnienie samobójstwa
 遅 (po)wolny, opóźniony, późny, zaległy, odwlekanie
 遇 spotkanie, napotykanie, zetknięcie; wywiad; branie, przyjmowanie, zajmowanie; zabawianie
@@ -3969,7 +4158,7 @@
 遍 wszędzie; szeroko, ogólnie; czasy
 過 przesadzanie, przekraczanie; błąd, pomyłka
 道 droga, ulica, jezdnia; dzielnica; podróż, kurs; lekcja, morał , moralny, nauki, nauczanie
-達 osiąganie, zdobywanie, przybywanie*
+達 osiąganie, zdobywanie, przybywanie 💡
 違 różnica
 遜 pokorny, skromny
 遠 daleki, odległy
@@ -4017,13 +4206,13 @@
 醇 czyste sake; czystość, nieskazitelność; uczucie, miłość, przywiązanie
 醍 serwatka; dobre buddyjskie nauczanie
 醐 gotowane masło
-醒 obudzenie się, trzeźwienie, otrzeźwienie, wytrzeźwienie, bycie pozbawionym złudzeń
-醗 fermentacja, piwowarstwo, browarnictwo*
+醒 obudzenie się, (o~/wy~)trzeźwienie, bycie pozbawionym złudzeń
+醗 fermentacja, piwowarstwo, browarnictwo 💡
 醜 brzydki, okropny, wstrętny, nieczysty, źle wyglądający; wstyd
 醤 rodzaj miso
 醸 warzenie (piwa); zaparzanie (herbaty); przyczyna, powód
 釀 napar, browar, wywar; przyczyna, powód
-釆 dzielenie, podział, rozdzielanie, separowanie; ryż ze składnikami na wierzchu (komponent)
+釆 dzielenie, podział, rozdzielanie, separowanie; ryż ze składnikami na wierzchu (🧩)
 采 kości do gry; forma, kształt, wygląd, kolorystyka; branie, zbieranie, gromadzenie
 釈 tłumaczenie, wyjaśnianie
 里 ri (jednostka miary, ok. 3,9 km); wioska; dom rodziców; liga
@@ -4057,7 +4246,7 @@
 銭 sen (jednostka monetarna, ¹⁄₁₀₀ jena), moneta, pieniądze
 鋏 nożyczki
 鋒 sztylet; czubek miecza; samochód festiwalowy; unoszenie się na wodzie
-鋤 pług, łopata*
+鋤 pług, łopata 💡
 鋪 sklep
 鋭 ostro zakończony, szpiczasty, ostry, ostrze, broń; przenikliwy (wzrok)
 鋲 nit, pineska, gwóźdź
@@ -4092,7 +4281,7 @@
 鏑 ostrze / grot strzały
 鏡 lustro, zwierciadło; wierzch beczki; oferowanie okrągłego ciasteczka ryżowego
 鐘 dzwon, gong
-鐙 strzemię*, strzemiączko
+鐙 strzemię 💡, strzemiączko
 鐸 duży ręczny dzwon
 鑄 rzucanie; bicie, wybijanie
 鑑 próbka; wyciągnąć przestrogę z, wziąć sobie do serca ostrzeżenie; uczenie się od
@@ -4123,7 +4312,7 @@
 限 limit, ograniczenie; najlepiej jak się potrafi
 陛 wysokość / wyniosłość / stopnie (do tronu)
 院 instytucja, świątynia, posiadłość, budynek, szkoła
-陣 obóz*, obozowisko; szyk bojowy, szeregi, żołnierze, pozycja armii; nagły, niespodziewany; krótki czas
+陣 obóz 💡, obozowisko; szyk bojowy, szeregi, żołnierze, pozycja armii; nagły, niespodziewany; krótki czas
 除 wyłączanie, wykluczanie, pomijanie, usuwanie, pozbywanie się, anulowanie; dzielenie (x/3)
 陥 zawalanie, runięcie, upadanie, upadek (zamku); wpadanie w, schwytanie w pułapkę / sidła
 陪 hołd, głęboki ukłon; podążanie, iść za, towarzyszenie, służenie, zajmowanie się
@@ -4134,7 +4323,7 @@
 陷 wpadanie w, zawalenie się, upadek zamku, pogrążenie się
 陸 ziemia, ląd, teren; 6
 険 stromy, spadzisty, urwisty; niedostępne, trudne do zdobycia miejsce; bystre oczy
-陽 światło słoneczne*; dzień, pora dzienna; zasada yang, (pierwiastek) pozytywny, (element) męski; niebo
+陽 światło słoneczne 💡; dzień, pora dzienna; zasada yang, (pierwiastek) pozytywny, (element) męski; niebo
 隅 kąt, róg, narożnik, wnęka, nisza
 隆 garb; wysoki, szlachetny; pomyślność, powodzenie, dobrze prosperujący
 隈 róg, zaułek, zakątek, wnęka, nisza
@@ -4149,7 +4338,7 @@
 隣 sąsiedztwo, sąsiedni, sąsiadujący, po sąsiedzku, przyległy
 險 niezdobyte, niedostępne, strome miejsce; niezagrożona pozycja; bystre oko
 隷 niewolnik, sługa, służący; więzień, kryminalista, przestępca; stronnik
-隹 ptak, stary ptak (komponent)
+隹 (stary) ptak (komponent)
 隻 okręt, statek (+ ich licznik); ryba; ptaki; strzały; jedna para
 隼 sokół
 雀 wróbel
@@ -4188,7 +4377,7 @@
 面 maska; twarz, rysy twarzy, cechy; powierzchnia
 革 skóra; reforma; spoważnienie, stanie się poważnym
 靭 miękki, giętki, elastyczny; trzepotanie, drganie
-靴 buty
+靴 buty 💡
 鞄 waliz(k)a, torba, torebka
 鞍 siodło, siodełko
 鞘 pochwa, futerał; osłona; powłoka, skorupka, łupina (fasoli), roślina
@@ -4224,7 +4413,7 @@
 顕 pojawianie / ukazywanie się; istnienie, egzystowanie
 願 petycja, prośba, życzenie; przysięga; nadzieja
 顛 przewrót, przewrócenie, wywracanie; szczyt, wierzchołek; źródło, początek, geneza
-類 rodzaj, typ, klasa*
+類 rodzaj, typ, klasa 💡
 顧 oglądanie się za siebie, odwrócenie się, patrzenie wstecz, przegląd, sprawdzanie siebie
 風 wiatr, powietrze; styl, sposób, wygląd, zwyczaj, moda, rodzaj
 颯 nagły, niespodziewany, szybki, prędki; odgłos wiatru
@@ -4280,7 +4469,7 @@
 髭 zarost, wąsy, broda
 鬱 przygnębienie, smutek, depresja, melancholia; bujny, obfity
 鬼 zły duch, diabeł, demon
-魁 pionier, prekursor*
+魁 pionier, prekursor 💡
 魂 dusza, duch
 魅 fascynacja, zachwyt, oczarowanie, czar, urok
 魔 wiedźma, czarownica; demon, diabeł, zły duch
@@ -4301,7 +4490,7 @@
 鰐 aligator, krokodyl
 鰭 płetwa
 鰯 sardynka
-鰹 bonito*
+鰹 bonito 💡
 鰻 węgorz; piskorz
 鱈 dorsz
 鱒 pstrąg tęczowy
@@ -4357,4 +4546,4 @@
 齊 podobny; taki sam, jednakowy, równy; Saito
 齢 wiek, lata
 龍 smok; imperium, imperialny, cesarski
-龝 jesień*
+龝 jesień 💡

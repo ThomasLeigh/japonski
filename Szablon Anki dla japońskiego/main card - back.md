@@ -81,7 +81,7 @@ if ($('.Kanji').text().includes('何で') && $('#przod').text().includes('laczeg
   $('#SideNotes').append('<li><strong>~<ruby>何で？<rt>なんで？</rt></ruby></strong> „dlaczego?” najbardziej potocznie.<br /><br /><small><a href=https://t.me/askplexbot>źródło »</a></small></li>');
 }
 
-if ($('#przod').text().includes('młodzież')) {
+if ($('#przod').text().includes('młodzież') || $('#przod').text().includes('wszystko')) {
 } else {
 if ($('#tyl').text().includes('kamo')) {
   $('#SideNotes').append('<li><strong>「kamo (shiremasen / shirenai)」</strong><br /><strong>„być może (może (tak jest), choć nie mam pewności)”</strong> - prawdopodobieństwo ok. 30%; uprzejmie. Samego 「kamo」 nie można łączyć z 「-kara」.</li>');
@@ -140,7 +140,7 @@ if ($('#tyl').text().includes('-de')) {
 }
 
 if ($('#tyl').text().includes('-ka.')) {
-  $('#SideNotes').append('<li><strong>Partykuła 「-ka.」</strong><br />W formalnym japońskim <strong>ekwiwalent znaku zapytania</strong> (w nieformalnym może brzmieć apodyktycznie).</li>');
+  $('#SideNotes').append('<li><strong>Partykuła 「-ka.」</strong><br />W formalnym japońskim <strong>ekwiwalent znaku zapytania</strong> (w nieformalnym może brzmieć apodyktycznie).<br /><br />Między rzeczownikami: „lub” / „czy”.</li>');
 }
 
 if ($('#tyl').text().includes('-ka na.')) {
@@ -182,11 +182,11 @@ if ($('#tyl').text().includes('-ni')) {
 if ($('#przod').text().includes('gdyż można')) {
 } else {
 if ($('#tyl').text().includes('-no')) {
-  $('#SideNotes').append('<li><strong>Partykuła 「-no」</strong><br />Oznacza , że <strong>coś przynależy do czegoś</strong> (do czego jest przyklejona).<br /><br /><strong>W języku nieformalnym</strong> często wieńczy pytania.<br /><br /><strong>Kończąc zdanie</strong>, wyraża emocje lub pragnienia.</li>');
+  $('#SideNotes').append('<li><strong>Partykuła 「-no」</strong><br />Oznacza , że <strong>coś przynależy do czegoś</strong> (do czego jest przyklejona).<br /><br /><strong>W języku nieformalnym</strong> często wieńczy pytania, wyrażając emocje lub pragnienia.</li>');
   }
 }
 
-if ($('#tyl').text().includes('chikara')) {
+if ($('#tyl').text().includes('chikara') || $('#tyl').text().includes('karate')) {
 } else {
 if ($('.Kanji').text().includes('から')) {
   $('#SideNotes').append('<li><strong>Partykuła 「-kara」</strong><br /><strong>„od” / „po” / „z”</strong> (skądś, z czegoś)<br /><br />Często poprzedzane jest formą nieoficjalną.<br /><br />To takie <strong>„bo”</strong> z emocją i bezpośredniością. Jest bardziej bezpośrednie, mocne i subiektywne, <strong>często używane w mowie potocznej</strong>. Można powiedzieć, że wyraża przyczynę z punktu widzenia mówiącego. <sup><a href="https://t.me/askplexbot">źródło »</a></sup></li>');
@@ -212,7 +212,7 @@ if (
 }
 
 if ($('#tyl').text().includes('-wo')) {
-  $('#SideNotes').append('<li><strong>Partykuła 「-wo」 (tzw. dopełnienie bliższe)</strong><br />Doklejana do czasowników ruchu, gdy podmiot zdania się po czymś przemieszcza (np. 「aruku」, 「wataru」, 「sanpo-suru」).</li>');
+  $('#SideNotes').append('<li><strong>Partykuła 「-wo」 (tzw. dopełnienie bliższe)</strong><br />Nieco bardziej formalna i używana w piśmie (wliczając rzeczowniki-suru).<br /><br />Doklejana do czasowników ruchu, gdy podmiot zdania się po czymś przemieszcza (np. 「aruku」, 「wataru」, 「sanpo-suru」).</li>');
 }
 
 if ($('#tyl').text().includes('-ya')) {
@@ -249,6 +249,18 @@ if ($('.Kanji').text().includes('られま')) {
 
 if ($('.Kanji').text().includes('何か')) {
   $('#SideNotes').append('<li><strong>Zaimki nieokreślone</strong> (np. „coś”, „ktoś”).<br />Zdarza się, że partykuła 「-ka」 występuje po pytajnikach, nadając im charakter zaimków nieokreślonych.<br /><br /><small>Źródło: <em>Język japoński dla początkujących</em> (Ewa Krassowska-Mackiewicz)</small></li>');
+}
+
+if ($('.Kanji').text().includes('何れ')) {
+  $('#SideNotes').append('<li><strong>何れ</strong> (どれ):<br />który? (odnośnie ⩾ 3 pozycji)</li>');
+}
+
+if ($('.Kanji').text().includes('何の')) {
+  $('#SideNotes').append('<li><strong>何の</strong> (どの):<br />który? / jaki?</li>');
+}
+
+if ($('.Kanji').text().includes('何方')) {
+  $('#SideNotes').append('<li><strong>何方</strong> (どちら lub potocznie どっち):<br />który? / kto? / gdzie? (odnośnie 2 pozycji)</li>');
 }
 
 $('.Kanji').html($('.Kanji').html().replace(/か？/g, 'か。'));

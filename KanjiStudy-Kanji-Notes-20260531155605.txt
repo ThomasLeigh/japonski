@@ -52,7 +52,7 @@
 勒 Wygląda trochę, jak powieszona osoba (po lewej).
 儂 „Schylony smok” (prawe komponenty).
 勸 Siła (prawy komponent) perswazji wielkiego ptaka (lewy dolny).
-匏 Pnąca roślina tropikalna z rodziny dyniowatych.
+匏 Rodzaj jednorocznych, pnących roślin tropikalnych z rodziny dyniowatych.
 剃 Młodszy brat z mlekiem pod nosem, a już się goli ;) .
 冑 Przypomina rycerski hełm.
 剳 Po lewej stodółka na siano skoszone sierpem po prawej ;) .
@@ -64,11 +64,14 @@
 擅 Woli wstawać gdy słońce jest wysoko na niebie, niż o brzasku.
 扶 Pomocna dłoń męża.
 画 Pędzel zanurzony w wiadrze z farbą.
+疂 Licznik.
 弗 Czy 「弗」 zawsze oznaczało dolara?\n\nOtóż - przynajmniej wg sztucznej inteligencji (https://t.me/askplexbot) - okazuje się, że nie: pierwej w Chinach (w starochińskim) znak ów oznaczał „nie” lub „zaprzeczenie” (etymologia z okresu oracle bone script, gdzie łączy się elementy „nie” ze „strzałą” symbolizującą brak lub odmowę).\n\nW XIX wieku, w kontekście kontaktów handlowych z Zachodem oraz podobieństwa dotychczasowej wymowy tego znaku (fú) do wymowy franka (waluta; frāngkè) Chińczycy zaczęli używać 「弗」 również w znaczeniu tejże waluty.\n\nNa początku XX wieku w Republice Chińskiej postąpiono krok dalej i rozszerzono znaczenie o „dolara” (choć zdaje się to już niemal niezwiązane z fonetyką, a co najwyżej podobieństwem kształtu).
 樗 Gatunek drzewa.
 煽 Wzmaganie ognia wachlowaniem.
 勃 Nagła (siła po prawej) śmierć dziecka.
 稼 Tak wysokie, że stać mnie na haute couture.
+疊 Licznik.
+甕 Z leciwym ptakiem.
 魁 Lucyfer „Gwiazda Zaranna”
 陽 Miejsce nasłonecznione promieniami słońca.
 琢 Szmatka do polerowania klejnotu.
@@ -124,6 +127,7 @@
 穏 Bezpiecznie otulony.
 嫁 Panna młoda w welonie.
 蓋 Do kompletu razem z talerzem pokrywka.
+括 Niczym dżina w urnie.
 渇 Chcę mi się pić w kinie.
 患 ...z powodu przejedzenia na grillu ;) .
 換 Wymiana firanek.
@@ -165,6 +169,7 @@
 棟 Górna pozioma krawędź dachu stanowiąca przecięcie połaci dachowych.
 盗 Zabierać z czyjegoś talerza.
 督 Wujek dzielący się swoim doświadczeniem.
+曇 Chmura przesłaniająca słońce.
 嵜 Ląd mocno wysunięty w morze lub inny zbiornik wodny.
 怖 „Kurczaczek” boi się, widząc coś strasznego: ktoś przebrał się za ducha, narzucając na siebie prześcieradło :) .
 柄 Projekt trzeciej klasy.
@@ -213,6 +218,7 @@
 嗄 Ochrypły od letnich igraszek.
 嘖 Łajanie za czyjąś winę.
 嘶 Rżący ze śmiechu koń spowodował pauzę w rozmowie (prawy komponent) ;) .
+噤 Znak zakazu wstępu do lasu.
 嚆 Daleko (wysoko) niosący się głos.
 囁 Nadstawiać uszu.
 圉 Odebrane (zamknięte) szczęście.
@@ -252,6 +258,7 @@
 孀 Kobieta, której zmroziło serce (prawy komponent).
 孥 Kobieta, ponadto (prawy komponent) z dzieckiem.
 孺 Dziecko jest zwykle istotą bardziej w potrzebie (prawy komponent).
+宀 Komponent.
 尅 Pokonać śmierć (urna z nóżkami ;) ).
 屮 Komponent.
 岾 Góra Przepowiedni.
@@ -329,11 +336,13 @@
 筏 Bambusowa tratwa przecina wodę.
 誹 Błędna mowa.
 戈 Komponent.
+瓢 Rodzaj jednorocznych, pnących roślin tropikalnych z rodziny dyniowatych.
 斌 Wojownik sztuki.
 葺 Wejście po drabinie pod samą strzechę.
 箆 Tylna część pocisku (strzały, bomby), zapewniająca mu stabilizację podczas lotu w powietrzu.
 戊 Pięć pociągnięć.
 萌 Skiełkowane ziarno zbóż, głównie jęczmienia, bogate w enzymy; podstawowy surowiec w piwowarstwie, a także w produkcji odżywczych ekstraktów słodowych.
+卜 Komponent.
 湊 Portowa, pełna muzyki tawerna.
 薮 Siła krzaków :) .
 鑓 Coś metalowego i wysłanego (w powietrze).
@@ -355,6 +364,7 @@
 梼 Głupi jak kloc.
 櫨 Rodzaj roślin należący do rodziny nanerczowatych.
 釆 Komponent.
+桧 Drzewo spotkań.
 榔 Drzewo z rodziny palm, o dużych pierzastych liściach wyrastających ze szczytu pnia, uprawiane w Azji i Malezji (Archip. Malajski).\n\nZ owoców wytwarza się używkę do żucia, z nasion lek na robaki; uprawiana także w szklarniach jako roślina ozdobna.
 豫 Zrelaksowany i spokojny słoń ^.^
 舒 Wspominanie poprzedniego domu.
@@ -363,6 +373,8 @@
 僞 <a href="https://jaktamjaponski.blogspot.com/2025/01/smaczek-dla-studiujacych-kanji-ten-znak.html ">„Kłamstwo” z manierą Shina ;) »</a>
 營 Światła pola namiotowego.
 殳 Komponent.
+彝 Z wątkiem nici.
+彜 Z minutą.
 彑 Komponent.
 爿 Komponent.
 弖 Najmniejsza jednostka mowy rozróżnialna dla użytkowników danego języka.
@@ -397,7 +409,7 @@
 惶 Strach przed cesarzem.
 惷 Wiosenne zamieszanie budzącej się do życia natury.
 愀 Podziw piękna jesieni.
-愃 Ovwieszcza wszem I wobec własne bogactwo.
+愃 Obwieszcza wszem I wobec własne bogactwo.
 惻 Być smutnym z zasady.
 愍 Co naprawdę znaczy być człowiekiem.
 慇 Kurtuazyjnie z sercem rozkładam obrus.
@@ -596,4 +608,21 @@
 琅 Dobry kamień.
 瑯 Syn klejnotem rodziny.
 珸 Mój ssskarb ;) .
+琿 Violet Evergarden klejnotem armii.
 瑟 Instrument muzyczny.
+瓠 Rodzaj jednorocznych, pnących roślin tropikalnych z rodziny dyniowatych.
+甃 O jesiennym fasonie.
+甎 Ekskluzywne.
+甞 Wciąż liże coś słodkiego.
+甦 Odnowienie życia.
+畩 Szata katolickich duchownych i ministrantów, zakładana do pełnienia czynności liturgicznych.\n\nBiała, luźna, sięgająca do kolan, lniana, z szerokimi, prostymi rękawami, niekiedy artystycznie ozdobiona; jej odmianą jest rokieta, przysługująca wyższym duchownym.\n\n(czes. komze, z łac. camisia koszula)
+疔 Występująca najczęściej na karku, grupa znajdujących się blisko siebie czyraków.\n\n<a href="https://pl.wikipedia.org/wiki/Czyrak">źródło »</a>
+疚 Mogą ciągnąć się długi czas.
+痂 Zewnętrzna część powłoki ciała zwierząt zrzucana przy linieniu (np. zrogowaciałe warstwy naskórka gadów).
+疽 Występująca najczęściej na karku, grupa znajdujących się blisko siebie czyraków.\n\n<a href="https://pl.wikipedia.org/wiki/Czyrak">źródło »</a>
+疼 Dreszcze z zimna.
+痍 Barbarzyńca zadał obrażenia.
+痊 Całkowite wyleczenie.
+痾 Mogła znaleźć swój zakątek, by się zadomowić.
+癜 Brak lub niedobór barwników melaninowych u człowieka i zwierząt.
+癩 Przewlekła choroba zakaźna; powoduje zniekształcenia skóry i tkanek oraz ich zniszczenie; trąd.\n\n(gr. lépra)

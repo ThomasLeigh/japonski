@@ -1,13 +1,293 @@
 {
   "version": "1.0",
   "entityType": "phrase",
-  "exportDate": "2026-05-17T12:34:36.377Z",
-  "itemCount": 1752,
+  "exportDate": "2026-05-31T13:58:23.531Z",
+  "itemCount": 1787,
   "filters": {
     "tags": [],
     "sort": "sortNewestFirst"
   },
   "items": [
+    {
+      "literal": "小学生のとき、良く友達を家に連れて来て、一緒に絵を描きました。",
+      "decomposed": "[[\"小学\",\"しょうがく\"],[\"生\",\"せい\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"良く\",\"よく\"],[\"友達\",\"ともだち\"],[\"を\",\"を\"],[\"家\",\"いえ\"],[\"に\",\"に\"],[\"連れ\",\"つれ\"],[\"て\",\"て\"],[\"来\",\"き\"],[\"て\",\"て\"],[\"、\",\"\"],[\"一緒\",\"いっしょ\"],[\"に\",\"に\"],[\"絵\",\"え\"],[\"を\",\"を\"],[\"描き\",\"えがき\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"小学\",\"生\",\"の\",\"とき\",\"良く\",\"友達\",\"を\",\"家\",\"に\",\"連れる\",\"て\",\"来る\",\"て\",\"一緒\",\"に\",\"絵\",\"を\",\"描く\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłem uczennicą szkoły podstawowej, często przyprowadzałam do domu przyjaciółkę i rysowałyśmy razem obrazki.",
+      "tags": [],
+      "exportId": 1806
+    },
+    {
+      "literal": "子供のとき、私は猫を家に連れて来ました。",
+      "decomposed": "[[\"子供\",\"こども\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"私\",\"わたし\"],[\"は\",\"は\"],[\"猫\",\"ねこ\"],[\"を\",\"を\"],[\"家\",\"いえ\"],[\"に\",\"に\"],[\"連れ\",\"つれ\"],[\"て\",\"て\"],[\"来\",\"き\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"子供\",\"の\",\"とき\",\"私\",\"は\",\"猫\",\"を\",\"家\",\"に\",\"連れる\",\"て\",\"来る\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłem dzieckiem, przyniosłem do domu kota.",
+      "tags": [],
+      "exportId": 1805
+    },
+    {
+      "literal": "良かったです。",
+      "decomposed": "[[\"良かっ\",\"よかっ\"],[\"た\",\"た\"],[\"です\",\"です\"],[\"。\",\"\"]]",
+      "base": "[\"良い\",\"た\",\"です\"]",
+      "meaning": "Miło mi to słyszeć. / Świetnie.",
+      "tags": [],
+      "exportId": 1804
+    },
+    {
+      "literal": "五歳のとき、母は犬を家に連れて来ました。",
+      "decomposed": "[[\"五\",\"ご\"],[\"歳\",\"さい\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"母\",\"はは\"],[\"は\",\"は\"],[\"犬\",\"いぬ\"],[\"を\",\"を\"],[\"家\",\"いえ\"],[\"に\",\"に\"],[\"連れ\",\"つれ\"],[\"て\",\"て\"],[\"来\",\"き\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"五\",\"歳\",\"の\",\"とき\",\"母\",\"は\",\"犬\",\"を\",\"家\",\"に\",\"連れる\",\"て\",\"来る\",\"ます\",\"た\"]",
+      "meaning": "Kiedy miałem pięć lat, moja mama przyniosła do domu psa.",
+      "tags": [],
+      "exportId": 1803
+    },
+    {
+      "literal": "天気が良いとき、父は家族をキャンプに連れて行きます。",
+      "decomposed": "[[\"天気\",\"てんき\"],[\"が\",\"が\"],[\"良い\",\"いい\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"父\",\"ちち\"],[\"は\",\"は\"],[\"家族\",\"かぞく\"],[\"を\",\"を\"],[\"キャンプ\",\"きゃんぷ\"],[\"に\",\"に\"],[\"連れ\",\"つれ\"],[\"て\",\"て\"],[\"行き\",\"いき\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"天気\",\"が\",\"良い\",\"とき\",\"父\",\"は\",\"家族\",\"を\",\"キャンプ\",\"に\",\"連れる\",\"て\",\"行く\",\"ます\"]",
+      "meaning": "Kiedy pogoda jest dobra, mój tato zabiera rodzinę na kemping.",
+      "tags": [],
+      "exportId": 1802
+    },
+    {
+      "literal": "寿司が好きだからです。",
+      "decomposed": "[[\"寿司\",\"すし\"],[\"が\",\"が\"],[\"好き\",\"すき\"],[\"だ\",\"だ\"],[\"から\",\"から\"],[\"です\",\"です\"],[\"。\",\"\"]]",
+      "base": "[\"寿司\",\"が\",\"好き\",\"だ\",\"から\",\"です\"]",
+      "meaning": "Ponieważ lubię sushi. 📖",
+      "tags": [],
+      "exportId": 1801
+    },
+    {
+      "literal": "小さいとき、父は私を海に連れて行きました。",
+      "decomposed": "[[\"小さい\",\"ちいさい\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"父\",\"ちち\"],[\"は\",\"は\"],[\"私\",\"わたし\"],[\"を\",\"を\"],[\"海\",\"うみ\"],[\"に\",\"に\"],[\"連れ\",\"つれ\"],[\"て\",\"て\"],[\"行き\",\"いき\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"小さい\",\"とき\",\"父\",\"は\",\"私\",\"を\",\"海\",\"に\",\"連れる\",\"て\",\"行く\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłem mały, mój tato zabierał mnie nad morze.",
+      "tags": [],
+      "exportId": 1800
+    },
+    {
+      "literal": "東京の方が大阪より大きいです。",
+      "decomposed": "[[\"東京\",\"とうきょう\"],[\"の\",\"の\"],[\"方\",\"ほう\"],[\"が\",\"が\"],[\"大阪\",\"おおさか\"],[\"より\",\"より\"],[\"大きい\",\"おおきい\"],[\"です\",\"です\"],[\"。\",\"\"]]",
+      "base": "[\"東京\",\"の\",\"方\",\"が\",\"大阪\",\"より\",\"大きい\",\"です\"]",
+      "meaning": "Tokio jest większe niż Osaka.",
+      "tags": [],
+      "exportId": 1799
+    },
+    {
+      "literal": "バスで学校え行きます。",
+      "decomposed": "[[\"バス\",\"ばす\"],[\"で\",\"で\"],[\"学校\",\"がっこう\"],[\"え\",\"え\"],[\"行き\",\"いき\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"バス\",\"で\",\"学校\",\"え\",\"行く\",\"ます\"]",
+      "meaning": "Do szkoły jeżdżę autobusem.",
+      "tags": [],
+      "exportId": 1798
+    },
+    {
+      "literal": "来週はテストが九つあります。",
+      "decomposed": "[[\"来週\",\"らいしゅう\"],[\"は\",\"は\"],[\"テスト\",\"てすと\"],[\"が\",\"が\"],[\"九\",\"ここの\"],[\"つ\",\"つ\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"来週\",\"は\",\"テスト\",\"が\",\"九\",\"つ\",\"ある\",\"ます\"]",
+      "meaning": "W przyszłym tygodniu jest dziewięć testów.",
+      "tags": [],
+      "exportId": 1797
+    },
+    {
+      "literal": "日本語の授業は何曜日ですか。",
+      "decomposed": "[[\"日本\",\"にほん\"],[\"語\",\"ご\"],[\"の\",\"の\"],[\"授業\",\"じゅぎょう\"],[\"は\",\"は\"],[\"何曜\",\"なんよう\"],[\"日\",\"ひ\"],[\"です\",\"です\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"日本\",\"語\",\"の\",\"授業\",\"は\",\"何曜\",\"日\",\"です\",\"か\"]",
+      "meaning": "W jakie dni są zajęcia z języka japońskiego?",
+      "tags": [],
+      "exportId": 1796
+    },
+    {
+      "literal": "宿題が沢山あります。",
+      "decomposed": "[[\"宿題\",\"しゅくだい\"],[\"が\",\"が\"],[\"沢山\",\"たくさん\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"宿題\",\"が\",\"沢山\",\"ある\",\"ます\"]",
+      "meaning": "Mam dużo pracy domowej.",
+      "tags": [],
+      "exportId": 1795
+    },
+    {
+      "literal": "木曜日は早く大学に行きます。",
+      "decomposed": "[[\"木曜\",\"もくよう\"],[\"日\",\"ひ\"],[\"は\",\"は\"],[\"早く\",\"はやく\"],[\"大学\",\"だいがく\"],[\"に\",\"に\"],[\"行き\",\"いき\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"木曜\",\"日\",\"は\",\"早い\",\"大学\",\"に\",\"行く\",\"ます\"]",
+      "meaning": "We czwartek jadę wcześnie na uniwersytet.",
+      "tags": [],
+      "exportId": 1794
+    },
+    {
+      "literal": "明日は授業が沢山あります。",
+      "decomposed": "[[\"明日\",\"あした\"],[\"は\",\"は\"],[\"授業\",\"じゅぎょう\"],[\"が\",\"が\"],[\"沢山\",\"たくさん\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"明日\",\"は\",\"授業\",\"が\",\"沢山\",\"ある\",\"ます\"]",
+      "meaning": "Jutro jest dużo zajęć.",
+      "tags": [],
+      "exportId": 1793
+    },
+    {
+      "literal": "小さいとき、良く歌を歌いました。",
+      "decomposed": "[[\"小さい\",\"ちいさい\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"良く\",\"よく\"],[\"歌\",\"うた\"],[\"を\",\"を\"],[\"歌い\",\"うたい\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"小さい\",\"とき\",\"良く\",\"歌\",\"を\",\"歌う\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłam mała, często śpiewałam piosenki.",
+      "tags": [],
+      "exportId": 1792
+    },
+    {
+      "literal": "暇なとき、良く図書館に行きました。",
+      "decomposed": "[[\"暇\",\"ひま\"],[\"な\",\"な\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"良く\",\"よく\"],[\"図書\",\"としょ\"],[\"館\",\"かん\"],[\"に\",\"に\"],[\"行き\",\"いき\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"暇\",\"だ\",\"とき\",\"良く\",\"図書\",\"館\",\"に\",\"行く\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłem wolny, często chodziłem do biblioteki.",
+      "tags": [],
+      "exportId": 1791
+    },
+    {
+      "literal": "小さいとき、迚も静かでした。",
+      "decomposed": "[[\"小さい\",\"ちいさい\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"迚も\",\"とても\"],[\"静か\",\"しずか\"],[\"でし\",\"でし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"小さい\",\"とき\",\"迚も\",\"静か\",\"です\",\"た\"]",
+      "meaning": "Kiedy byłem mały, byłem bardzo cichy.",
+      "tags": [],
+      "exportId": 1790
+    },
+    {
+      "literal": "学生のとき、福岡に引っ越しました。",
+      "decomposed": "[[\"学生\",\"がくせい\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"福岡\",\"ふくおか\"],[\"に\",\"に\"],[\"引っ越し\",\"ひっこし\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"学生\",\"の\",\"とき\",\"福岡\",\"に\",\"引っ越す\",\"ます\",\"た\"]",
+      "meaning": "Kiedy byłem studentem, przeprowadziłem się do Fukouki.",
+      "tags": [],
+      "exportId": 1789
+    },
+    {
+      "literal": "十八歳のとき、高校を卒業しました。",
+      "decomposed": "[[\"十八\",\"じゅうはっ\"],[\"歳\",\"さい\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"高校\",\"こうこう\"],[\"を\",\"を\"],[\"卒業\",\"そつぎょう\"],[\"し\",\"し\"],[\"まし\",\"まし\"],[\"た\",\"た\"],[\"。\",\"\"]]",
+      "base": "[\"十八\",\"歳\",\"の\",\"とき\",\"高校\",\"を\",\"卒業\",\"する\",\"ます\",\"た\"]",
+      "meaning": "Kiedy miałam 18 lat, skończyłam szkołę średnią.",
+      "tags": [],
+      "exportId": 1788
+    },
+    {
+      "literal": "子供のとき、パン屋で働きたかったです。",
+      "decomposed": "[[\"子供\",\"こども\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"パン\",\"ぱん\"],[\"屋\",\"や\"],[\"で\",\"で\"],[\"働き\",\"はたらき\"],[\"たかっ\",\"たかっ\"],[\"た\",\"た\"],[\"です\",\"です\"],[\"。\",\"\"]]",
+      "base": "[\"子供\",\"の\",\"とき\",\"パン\",\"屋\",\"で\",\"働く\",\"たい\",\"た\",\"です\"]",
+      "meaning": "Kiedy byłem dzieckiem, chciałem pracować w piekarni.",
+      "tags": [],
+      "exportId": 1787
+    },
+    {
+      "literal": "子供のとき、先生に成りたかったです。",
+      "decomposed": "[[\"子供\",\"こども\"],[\"の\",\"の\"],[\"とき\",\"とき\"],[\"、\",\"\"],[\"先生\",\"せんせい\"],[\"に\",\"に\"],[\"成り\",\"なり\"],[\"たかっ\",\"たかっ\"],[\"た\",\"た\"],[\"です\",\"です\"],[\"。\",\"\"]]",
+      "base": "[\"子供\",\"の\",\"とき\",\"先生\",\"に\",\"成る\",\"たい\",\"た\",\"です\"]",
+      "meaning": "Kiedy byłem dzieckiem, chciałem zostać nauczycielem.",
+      "tags": [],
+      "exportId": 1786
+    },
+    {
+      "literal": "アンドリューさんはどの言語を話しますか。",
+      "decomposed": "[[\"アンドリュー\",\"あんどりゅー\"],[\"さん\",\"さん\"],[\"は\",\"は\"],[\"どの\",\"どの\"],[\"言語\",\"げんご\"],[\"を\",\"を\"],[\"話し\",\"はなし\"],[\"ます\",\"ます\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"アンドリュー\",\"さん\",\"は\",\"どの\",\"言語\",\"を\",\"話す\",\"ます\",\"か\"]",
+      "meaning": "アンドリューさんはどの言語を話しますか。",
+      "tags": [],
+      "exportId": 1785
+    },
+    {
+      "literal": "今日四時にテニスの練習があります。",
+      "decomposed": "[[\"今日\",\"きょう\"],[\"四\",\"よ\"],[\"時\",\"じ\"],[\"に\",\"に\"],[\"テニス\",\"てにす\"],[\"の\",\"の\"],[\"練習\",\"れんしゅう\"],[\"が\",\"が\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"今日\",\"四\",\"時\",\"に\",\"テニス\",\"の\",\"練習\",\"が\",\"ある\",\"ます\"]",
+      "meaning": "Dzisiaj o czwartej jest trening tenisa.",
+      "tags": [],
+      "exportId": 1784
+    },
+    {
+      "literal": "レッスンは三時頃始まります。",
+      "decomposed": "[[\"レッスン\",\"れっすん\"],[\"は\",\"は\"],[\"三\",\"さん\"],[\"時\",\"じ\"],[\"頃\",\"ころ\"],[\"始まり\",\"はじまり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"レッスン\",\"は\",\"三\",\"時\",\"頃\",\"始まる\",\"ます\"]",
+      "meaning": "Lekcja zaczyna się ok. trzeciej.",
+      "tags": [],
+      "exportId": 1783
+    },
+    {
+      "literal": "テニスの記事を書きます。",
+      "decomposed": "[[\"テニス\",\"てにす\"],[\"の\",\"の\"],[\"記事\",\"きじ\"],[\"を\",\"を\"],[\"書き\",\"かき\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"テニス\",\"の\",\"記事\",\"を\",\"書く\",\"ます\"]",
+      "meaning": "Napiszę artykuł o tenisie.",
+      "tags": [],
+      "exportId": 1782
+    },
+    {
+      "literal": "来週授業が六つあります。",
+      "decomposed": "[[\"来週\",\"らいしゅう\"],[\"授業\",\"じゅぎょう\"],[\"が\",\"が\"],[\"六\",\"むっ\"],[\"つ\",\"つ\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"来週\",\"授業\",\"が\",\"六\",\"つ\",\"ある\",\"ます\"]",
+      "meaning": "W przyszłym tygodniu jest sześć zajęć.",
+      "tags": [],
+      "exportId": 1781
+    },
+    {
+      "literal": "今日の授業は四時に終わります。",
+      "decomposed": "[[\"今日\",\"きょう\"],[\"の\",\"の\"],[\"授業\",\"じゅぎょう\"],[\"は\",\"は\"],[\"四\",\"よ\"],[\"時\",\"じ\"],[\"に\",\"に\"],[\"終わり\",\"おわり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"今日\",\"の\",\"授業\",\"は\",\"四\",\"時\",\"に\",\"終わる\",\"ます\"]",
+      "meaning": "Dzisiejsze zajęcia kończą się o czwartej.",
+      "tags": [],
+      "exportId": 1780
+    },
+    {
+      "literal": "明日は山口先生の授業があります。",
+      "decomposed": "[[\"明日\",\"あした\"],[\"は\",\"は\"],[\"山口\",\"やまぐち\"],[\"先生\",\"せんせい\"],[\"の\",\"の\"],[\"授業\",\"じゅぎょう\"],[\"が\",\"が\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"明日\",\"は\",\"山口\",\"先生\",\"の\",\"授業\",\"が\",\"ある\",\"ます\"]",
+      "meaning": "Jutro są zajęcia profesora Yamaguchi.",
+      "tags": [],
+      "exportId": 1779
+    },
+    {
+      "literal": "明日は英語の授業が二つあります。",
+      "decomposed": "[[\"明日\",\"あした\"],[\"は\",\"は\"],[\"英語\",\"えいご\"],[\"の\",\"の\"],[\"授業\",\"じゅぎょう\"],[\"が\",\"が\"],[\"二\",\"ふた\"],[\"つ\",\"つ\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"明日\",\"は\",\"英語\",\"の\",\"授業\",\"が\",\"二\",\"つ\",\"ある\",\"ます\"]",
+      "meaning": "Jutro mam dwa zajęcia z języka angielskiego.",
+      "tags": [],
+      "exportId": 1778
+    },
+    {
+      "literal": "毎晩シャワーを浴びますか。",
+      "decomposed": "[[\"毎晩\",\"まいばん\"],[\"シャワー\",\"しゃわー\"],[\"を\",\"を\"],[\"浴び\",\"あび\"],[\"ます\",\"ます\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"毎晩\",\"シャワー\",\"を\",\"浴びる\",\"ます\",\"か\"]",
+      "meaning": "Czy każdego wieczoru bierzesz prysznic?",
+      "tags": [],
+      "exportId": 1777
+    },
+    {
+      "literal": "お茶は好きですか。",
+      "decomposed": "[[\"お\",\"お\"],[\"茶\",\"ちゃ\"],[\"は\",\"は\"],[\"好き\",\"すき\"],[\"です\",\"です\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"お\",\"茶\",\"は\",\"好き\",\"です\",\"か\"]",
+      "meaning": "Lubisz herbatę?",
+      "tags": [],
+      "exportId": 1776
+    },
+    {
+      "literal": "今週は授業が沢山ありますか。",
+      "decomposed": "[[\"今週\",\"こんしゅう\"],[\"は\",\"は\"],[\"授業\",\"じゅぎょう\"],[\"が\",\"が\"],[\"沢山\",\"たくさん\"],[\"あり\",\"あり\"],[\"ます\",\"ます\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"今週\",\"は\",\"授業\",\"が\",\"沢山\",\"ある\",\"ます\",\"か\"]",
+      "meaning": "Czy w tym tygodniu jest dużo zajęć?",
+      "tags": [],
+      "exportId": 1775
+    },
+    {
+      "literal": "近くの公園で太鼓のイベントを見ます。",
+      "decomposed": "[[\"近く\",\"ちかく\"],[\"の\",\"の\"],[\"公園\",\"こうえん\"],[\"で\",\"で\"],[\"太鼓\",\"たいこ\"],[\"の\",\"の\"],[\"イベント\",\"いべんと\"],[\"を\",\"を\"],[\"見\",\"み\"],[\"ます\",\"ます\"],[\"。\",\"\"]]",
+      "base": "[\"近く\",\"の\",\"公園\",\"で\",\"太鼓\",\"の\",\"イベント\",\"を\",\"見る\",\"ます\"]",
+      "meaning": "Oglądam wydarzenie taiko w pobliskim parku.",
+      "tags": [],
+      "exportId": 1774
+    },
+    {
+      "literal": "大学は毎日何時に終わりますか。",
+      "decomposed": "[[\"大学\",\"だいがく\"],[\"は\",\"は\"],[\"毎日\",\"まいにち\"],[\"何時\",\"なんどき\"],[\"に\",\"に\"],[\"終わり\",\"おわり\"],[\"ます\",\"ます\"],[\"か\",\"か\"],[\"。\",\"\"]]",
+      "base": "[\"大学\",\"は\",\"毎日\",\"何時\",\"に\",\"終わる\",\"ます\",\"か\"]",
+      "meaning": "O której godzinie codziennie kończy się uczelnia?",
+      "tags": [],
+      "exportId": 1773
+    },
+    {
+      "literal": "砂糖は余り食べません。",
+      "decomposed": "[[\"砂糖\",\"さとう\"],[\"は\",\"は\"],[\"余り\",\"あまり\"],[\"食べ\",\"たべ\"],[\"ませ\",\"ませ\"],[\"ん\",\"ん\"],[\"。\",\"\"]]",
+      "base": "[\"砂糖\",\"は\",\"余り\",\"食べる\",\"ます\",\"ぬ\"]",
+      "meaning": "Raczej nie jadam cukru.",
+      "tags": [],
+      "exportId": 1772
+    },
     {
       "literal": "饂飩の方がラーメンより美味しいですか。",
       "decomposed": "[[\"饂飩\",\"うどん\"],[\"の\",\"の\"],[\"方\",\"ほう\"],[\"が\",\"が\"],[\"ラーメン\",\"らーめん\"],[\"より\",\"より\"],[\"美味しい\",\"おいしい\"],[\"です\",\"です\"],[\"か\",\"か\"],[\"。\",\"\"]]",
@@ -5252,7 +5532,7 @@
       "literal": "友達は親切だ。",
       "decomposed": "[[\"友達\",\"ともだち\"],[\"は\",\"\"],[\"親切\",\"しんせつ\"],[\"だ。\",\"\"]]",
       "base": "[\"友達\",\"は\",\"親切\",\"だ\"]",
-      "meaning": "Mój przyjaciel jest uprzejmy.",
+      "meaning": "(Mój) przyjaciel jest uprzejmy.",
       "tags": [],
       "exportId": 1106
     },
@@ -9235,8 +9515,8 @@
     {
       "literal": "去年は沖縄に行ったから、今年は広島に行きたいです。",
       "decomposed": "[[\"去年\",\"きょねん\"],[\"は\",\"\"],[\"沖縄\",\"おきなわ\"],[\"に\",\"\"],[\"行っ\",\"いっ\"],[\"たから、\",\"\"],[\"今年\",\"ことし\"],[\"は\",\"\"],[\"広島\",\"ひろしま\"],[\"に\",\"\"],[\"行き\",\"いき\"],[\"たいです。\",\"\"]]",
-      "base": "[\"去年\",\"沖縄\",\"行っ\",\"今年\",\"広島\",\"行き\"]",
-      "meaning": "Ponieważ w zeszłym roku pojechałem do Okinawy, w tym roku chcę pojechać do Hiroszimy.",
+      "base": "[\"去年\",\"は\",\"沖縄\",\"に\",\"行く\",\"た\",\"から\",\"今年\",\"は\",\"広島\",\"に\",\"行く\",\"たい\",\"です\"]",
+      "meaning": "W tym roku chcę pojechać do Hiroszimy, bo w zeszłym roku pojechałem do Okinawy.",
       "tags": [],
       "exportId": 482
     },
@@ -14059,487 +14339,497 @@
       "tempId": "ant_1",
       "title": "Note for 猫がいます。",
       "content": "Odpowiedź na pytanie 「Tana-no naka-ni nani-ga imasu-ka.」",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_2",
       "title": "Note for 来年は韓国に旅行に行きたいと思います。",
       "content": "Myślę, że chcę udać się na wycieczkę do Korei Płd. w przyszłym roku.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_3",
       "title": "Note for お先にどうぞ。",
       "content": "Uprzejmie; dosłownie „Proszę przejść przed”.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_4",
       "title": "Możliwa wymowa.",
       "content": "„konbini **niku**”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T14:38:57.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T13:38:57.000Z"
     },
     {
       "tempId": "ant_5",
       "title": "Note for 何名様ですか。",
       "content": "Np. pytanie względem rezerwacji, zadawane przez obsługę restauracji.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_6",
       "title": "Note for 明日はレストランに行ったり、映画を見たりします。",
       "content": "Jutro będę robił takie rzeczy, jak pójście do restauracji i oglądanie filmów.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_7",
       "title": "Możliwa wymowa.",
       "content": "„atskatta”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:16:34.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:16:34.000Z"
     },
     {
       "tempId": "ant_8",
       "title": "Note for あのお寿司屋さんは人気だから、予約しなければいけません。",
       "content": "Aby określić sklep w sposób uprzejmy, zazwyczaj po 屋 dodaje się さん, a w zależności od rzeczownika można również użyć prefiksu お.\n\nźródło:\nhttps://play.google.com/store/apps/details?id=com.busuu.android.enc",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_9",
       "title": "Note for 母を手伝わなければいけないから、家に帰ります。",
       "content": "Własna wola.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_10",
       "title": "Note for 何がいますか。",
       "content": "Pytając o zwierzę.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_11",
       "title": "Możliwa wymowa.",
       "content": "„hośkunai”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:17:41.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:17:41.000Z"
     },
     {
       "tempId": "ant_12",
       "title": "Note for 家に入る前に、靴を脱がなければなりません。",
       "content": "czynnością",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_13",
       "title": "Note for 午前八時に起きなければなりません。",
       "content": "Podyktowane zewnętrznym czynnikiem.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_14",
       "title": "Note for 毎日、この薬を飲まなければなりません。",
       "content": "Tu dosł. „wypijać”.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_15",
       "title": "Note for それは何ですか。",
       "content": "Blisko osoby słuchającej.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_16",
       "title": "Note for 何がありますか？",
       "content": "Pytając o rzecz.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_17",
       "title": "Note for 夏休みは何処にも行きませんでした。",
       "content": "W przypadku partykuły 「-ni」 możliwe jest zestawienie jej z 「-mo」 lub wyelimonowanie tej pierwszej (tak jest częściej w mowie potocznej).\n\nźródło:\n„Język japoński dla początkujących” (Ewa Krassowska-Mackiewicz)",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_18",
       "title": "Note for 分かりました。",
       "content": "Jeśli uważasz, że może to zabrzmieć zbyt chłodno, zacznij od Hai...",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_19",
       "title": "Note for それは良くないです。",
       "content": "Blisko adresata wypowiedzi.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_20",
       "title": "Dopowiedzenie.",
       "content": "Np. o deszczu.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-03-13T15:34:49.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-03-13T14:34:49.000Z"
     },
     {
       "tempId": "ant_21",
       "title": "Note for お会計をお願いします。",
       "content": "「を」 można pominąć w mniej formalnych sytuacjach.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_22",
       "title": "Note for 泣いているんですか。",
       "content": "Z akcentem na poznanie przyczyny.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_23",
       "title": "Note for 私の前に車を使わないで下さい。",
       "content": "Zanim ja tego nie zrobię.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_24",
       "title": "Note for どうして恋人と別れたんですか。",
       "content": "Powiedz mi koniecznie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_25",
       "title": "Note for 行って来ます。",
       "content": "Uprzejmie; w sytuacji, gdy wychodzę z domu, pracy, itd., ale niedługo wrócę.\n\nDosłownie: \"Idę / Pójdę i wrócę\". - często odpowiada się na to \"Itte rasshai!\".",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_26",
       "title": "Note for 映画は何時から何時までですか。",
       "content": "Bardziej dosł. \"Film jest od której do której?\".",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_27",
       "title": "Note for 漫画は読んだことがないです。",
       "content": "Bardziej przyjaźnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_28",
       "title": "Możliwa wymowa.",
       "content": "„gaikoku nitta koto”; bardziej przyjaźnie",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:19:58.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:19:58.000Z"
     },
     {
       "tempId": "ant_29",
       "title": "Możliwa wymowa.",
       "content": "„nee”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:20:22.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:20:22.000Z"
     },
     {
       "tempId": "ant_30",
       "title": "Note for 無理していませんか。",
       "content": "Sprawdzenie, czy wszystko w porządku.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_31",
       "title": "Note for 今日は十二時から雪です。",
       "content": "Dziś od 12:00 będzie (padał) śnieg.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_32",
       "title": "Note for 失礼します。",
       "content": "1. Np. podczas wchodzenia do pokoju.\n2. Formalnie lub do kogoś starszego od nas, lub o wyższym statusie.\n\nDosłownie: \"Źle się zachowuję\". - stąd wyważenia tego możemy również użyć, by powiedzieć \"Przepraszam\".",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_33",
       "title": "Note for 行って来ます！",
       "content": "Uprzejmie; w sytuacji, gdy wychodzę z domu, pracy, itd., ale niedługo wrócę.\n\nDosłownie: \"Idę / Pójdę i wrócę\". - często odpowiada się na to \"Itte rasshai!\".",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_34",
       "title": "Note for 昼休みは彼女と一緒に昼食を食べます。",
       "content": "formalnie",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_35",
       "title": "Note for いいえ、違います。",
       "content": "Japończycy wystrzegają się przeczenia wprost, uważając to za zbyt obcesowe, niegrzeczne.\n\nW związku z tym rzadko słyszy się lakoniczną odpowiedź przeczącą „Nie”. Czasami nawet zamiast zaprzeczyć, Japończyk przytaknie (zapewniając w ten sposób, że zrozumiał pytanie), aby zaraz potem grzecznie czegoś odmówić lub delikatnie zanegować.\n\nJedną z takich delikatniejszych form negacji jest użycie czasownika znaczącego „jest inaczej”, „nie zgadza się”, „różni się”, tak jak w powyższej wypowiedzi.\n\nźródło:\n_Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_36",
       "title": "Note for お大事に！",
       "content": "Dosł. „cenić to”.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_37",
       "title": "Note for 明日は日曜日だけど、仕事に行く。",
       "content": "Jutro jest niedziela, ale idę do pracy.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_38",
       "title": "Note for 私は二人兄弟です。",
       "content": "Dosł. \"Jestem w dwójce rodzeństwa\".",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_39",
       "title": "Note for 私は東京に住んでいます。",
       "content": "Mieszkam w Tokio.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_40",
-      "title": "Note for 友達は親切だ。",
+      "title": "Dopowiedzenie.",
       "content": "Wypowiedź mężczyzny.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-05-24T13:59:48.000Z"
     },
     {
       "tempId": "ant_41",
       "title": "Note for 良いお年を！",
       "content": "Skrót; wypowiadane przed Nowym Rokiem.\n\nW wymowie (z audycji w japońskim radio NHK 1) potrafi przypominać „Yoyotoshio!”.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_42",
       "title": "Note for その漢字を忘れちゃった。",
       "content": "Bardzo nieformalnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_43",
       "title": "Note for お菓子を食べ過ぎちゃいけないよ？",
       "content": "Bardzo przyjaźnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_44",
       "title": "Note for 学校で走っちゃいけないよ。",
       "content": "Bardzo przyjaźnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_45",
       "title": "Note for すみません、この荷物を送りたいですが...?",
       "content": "Wydźwięk: „Chciałbym wysłać paczkę, ale nie wiem, jak to zrobić, co dalej robić, proszę mi pomóc...itp.”\n\nChęć zrobienia czegoś wyrażona z końcową partykułą 「-ga」 („zmiękczającą” wypowiedź, wprowadzającą element niepewności i bezradności) jest najbardziej typową i uniwersalną metodą zwrócenia się do kogoś o pomoc.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_46",
       "title": "Możliwa wymowa.",
       "content": "„-no jeni”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:20:44.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:20:44.000Z"
     },
     {
       "tempId": "ant_47",
       "title": "Note for 貴方の名前は何？",
       "content": "nieformalnie",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_48",
       "title": "Note for 私は日本語を話します。",
       "content": "W znaczeniu: znam ten język.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_49",
       "title": "Note for これは本です。",
       "content": "Blisko osoby mówiącej.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_50",
       "title": "Note for 慧くんは携帯電話を無くしちゃった。",
       "content": "Bardzo nieformalnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_51",
       "title": "Note for これは何ですか。",
       "content": "Blisko osoby mówiącej.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_52",
       "title": "Możliwa wymowa.",
       "content": "„koueniku”",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2026-01-29T19:21:16.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2026-01-29T18:21:16.000Z"
     },
     {
       "tempId": "ant_53",
       "title": "Note for 家族と住んでいます。",
       "content": "W mowie naturalnej możliwe brzmienie niemal bez „u”: „kazok to”)",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_54",
       "title": "Note for お元気ですか。",
       "content": "Dosł. „Czy jesteś zdrowa / zdrowy?”.\n\n「O」 to tutaj opcjonalny uprzejmy przedrostek.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_55",
       "title": "Note for 元気？",
       "content": "Dosł. „Czy jesteś zdrowa / zdrowy?”.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_56",
       "title": "Note for この本は幾らですか。",
       "content": "Którą trzymasz w dłoniach, pytając o jej cenę.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_57",
       "title": "Note for 私は母に花を上げます。",
       "content": "Podaruję kwiaty (mojej) mamie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_58",
       "title": "Note for コートを着ない。",
       "content": "Jeszcze bardziej nieoformalnie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_59",
       "title": "Note for 誕生日に母に貰ったんだよ。",
       "content": "Jako wyjaśnienie.",
-      "createdAt": "2025-12-22T18:06:05.000Z",
-      "updatedAt": "2025-12-22T18:06:05.000Z"
+      "createdAt": "2025-12-22T17:06:05.000Z",
+      "updatedAt": "2025-12-22T17:06:05.000Z"
     },
     {
       "tempId": "ant_60",
       "title": "Partykuła 「-ni」.",
       "content": "- Wskazuje kierunek lub lokalizację w czasie.\n\n- Tworzy formę celowości od czasowników (np. „aby czytać”, „aby kupić”, itp.; temat 「~masu」 czasownika + 「-ni」).\n\n- Tworzy przysłówki od przymiotników 「-na」 (poprzez zamianę ich końcówki fleksyjnej 「-na」 na 「-ni」.\n\nNp. 「kirei-na」 » 「kirei-ni」,\n「shizuka-na」 » 「shizuka-ni」).\n\nŹródło: _Język japoński dla początkujących_ (Ewa Krassowska-Mackiewicz)",
-      "createdAt": "2026-01-29T11:01:19.000Z",
-      "updatedAt": "2026-01-29T11:01:49.000Z"
+      "createdAt": "2026-01-29T10:01:19.000Z",
+      "updatedAt": "2026-01-29T10:01:49.000Z"
     },
     {
       "tempId": "ant_61",
       "title": "Partykuła 「-wa」.",
       "content": "Ekwiwalent polskiego „Jeśli o [tu to, do czego jest doklejona] chodzi... / Odnośnie []...”.",
-      "createdAt": "2026-01-29T14:02:47.000Z",
-      "updatedAt": "2026-01-29T14:02:47.000Z"
+      "createdAt": "2026-01-29T13:02:47.000Z",
+      "updatedAt": "2026-01-29T13:02:47.000Z"
     },
     {
       "tempId": "ant_62",
       "title": "Dopowiedzenie.",
       "content": "Dosł. „Czy Twoja matka jest w dobrym zdrowiu?”.",
-      "createdAt": "2026-01-30T20:48:31.000Z",
-      "updatedAt": "2026-01-30T20:48:31.000Z"
+      "createdAt": "2026-01-30T19:48:31.000Z",
+      "updatedAt": "2026-01-30T19:48:31.000Z"
     },
     {
       "tempId": "ant_63",
       "title": "Dopowiedzenie.",
       "content": "Użycie partykuły 「を」 znamionuje zapytanie o to, co przekraczamy: np. którą ulicę, rzekę?",
-      "createdAt": "2026-02-15T13:17:08.000Z",
-      "updatedAt": "2026-02-15T13:17:08.000Z"
+      "createdAt": "2026-02-15T12:17:08.000Z",
+      "updatedAt": "2026-02-15T12:17:08.000Z"
     },
     {
       "tempId": "ant_64",
       "title": "Źródło - Busuu.",
       "content": "[Busuu »](https://play.google.com/store/apps/details?id=com.busuu.android.enc)",
-      "createdAt": "2026-02-21T19:29:02.000Z",
-      "updatedAt": "2026-02-21T19:29:02.000Z"
+      "createdAt": "2026-02-21T18:29:02.000Z",
+      "updatedAt": "2026-02-21T18:29:02.000Z"
     },
     {
       "tempId": "ant_65",
       "title": "Dopowiedzenie.",
       "content": "Jeszcze bardziej nieoformalnie.",
-      "createdAt": "2026-02-24T12:24:11.000Z",
-      "updatedAt": "2026-02-24T12:24:11.000Z"
+      "createdAt": "2026-02-24T11:24:11.000Z",
+      "updatedAt": "2026-02-24T11:24:11.000Z"
     },
     {
       "tempId": "ant_66",
       "title": "Dopowiedzenie.",
       "content": "W Japonii wiek emerytalny wynosi 65 lat, jednak w przyszłości rząd planuje podnieść go do 70 lat. Japonia jest jednym z krajów o najwyższej średniej długości życia i niektórzy decydują się kontynuować pracę w ramach systemu ponownego zatrudnienia, nawet po przejściu na emeryturę.",
-      "createdAt": "2026-03-11T11:16:19.000Z",
-      "updatedAt": "2026-03-11T11:16:19.000Z"
+      "createdAt": "2026-03-11T10:16:19.000Z",
+      "updatedAt": "2026-03-11T10:16:19.000Z"
     },
     {
       "tempId": "ant_67",
       "title": "Dopowiedzenie.",
       "content": "Jeśli rzeczownik chcemy opisać za pomocą czasownika, czasownik musi być w formie podstawowej, czyli takiej jakiej używamy w mowie potocznej.",
-      "createdAt": "2026-03-15T20:58:02.000Z",
-      "updatedAt": "2026-03-15T20:58:02.000Z"
+      "createdAt": "2026-03-15T19:58:02.000Z",
+      "updatedAt": "2026-03-15T19:58:02.000Z"
     },
     {
       "tempId": "ant_68",
       "title": "Dopowiedzenie.",
       "content": "[moje nagranie o tym zdaniu »](https://jaktamjaponski.blogspot.com/2026/04/bagaz-czy-dobytek.html)",
-      "createdAt": "2026-04-19T18:52:41.000Z",
-      "updatedAt": "2026-04-19T18:53:01.000Z"
+      "createdAt": "2026-04-19T16:52:41.000Z",
+      "updatedAt": "2026-04-19T16:53:01.000Z"
     },
     {
       "tempId": "ant_69",
       "title": "Dopowiedzenie.",
       "content": "Możliwa wymowa: „rame yori”.",
-      "createdAt": "2026-05-16T08:22:31.000Z",
-      "updatedAt": "2026-05-16T08:22:31.000Z"
+      "createdAt": "2026-05-16T06:22:31.000Z",
+      "updatedAt": "2026-05-16T06:22:31.000Z"
+    },
+    {
+      "tempId": "ant_70",
+      "title": "Dopowiedzenie.",
+      "content": "Bez 「Sushi-ga」 znaczy w domyśle „Ponieważ je lubię”.",
+      "createdAt": "2026-05-26T10:19:36.000Z",
+      "updatedAt": "2026-05-26T10:19:36.000Z"
     }
   ],
   "annotations": {
+    "寿司が好きだからです。": [
+      "ant_70"
+    ],
     "饂飩の方がラーメンより美味しいですか。": [
       "ant_69"
     ],

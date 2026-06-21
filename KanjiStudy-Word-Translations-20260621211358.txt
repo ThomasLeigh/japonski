@@ -1,7 +1,7 @@
 1000060 symbol powtórzenia Kanji*
 1000920 Witaj. / Cześć. (mniej formalne, wśród przyjaciół)
 1000930 Zapraszamy. ; Witamy.*
-1001390 powoli gotowane w lekkim bulionie dashi różne składniki (np. rzodkiew japońska, jajka na twardo, ciasteczka rybne czy korzeń konjaku)*
+1001390 powoli gotowane w lekkim bulionie dashi różne składniki (np. rzodkiew japońska, jajka na twardo, ciasteczka rybne czy korzeń konjaku) 📖
 1001620 kuleczki lub trójkąciki ryżowe, zwykle ze słonym<sup>*</sup> farszem*
 1001710 słodycze
 1001770 szanowny klient
@@ -11,7 +11,7 @@
 1001890 pikantny placek lub naleśnik, składający się z wielu różnych składników i pieczonych na rozgrzanej blasze
 1001990 (czyjaś) starsza siostra*
 1002000 (czyjeś) dziecko (honoryfikatywnie)
-1002100 toaleta; łazienka (uprzejmie)*
+1002100 toaleta; łazienka (uprzejmie) 📖
 1002120 policjant*
 1002320 (czyjś) dziadek
 1002330 babcia
@@ -21,7 +21,7 @@
 1002590 czyjś tata, ojciec 📖
 1002600 brać kąpiel
 1002610 brzuch (uprzejmie), brzuszek; żołądek
-1002650 czyjaś matka, mama*
+1002650 czyjaś matka, mama 📖
 1002690 obchodzone w lipcu lub sierpniu (w zależności od regionu) w Japonii, buddyjskie Święto Zmarłych*
 1002970 być może (prawdopodobieństwo ok. 30%)
 1002975 być może (prawd. ok. 30%; uprzejmie)
@@ -51,6 +51,7 @@
 1012810 w każdym razie, tak czy owak,&nbsp;tak czy siak
 1012840 niebezpieczny; kapitalne, zdumiewające; szalony, stuknięty*
 1013100 witamy
+1013110 jak\n\n<center><small>lub</small></center>\nmodlę się (o to), mam nadzieję (że)
 1015840 Azja
 1021160 Wielka Brytania; Anglia
 1021360 Włochy
@@ -100,6 +101,7 @@
 1151840 zły człowiek, drań, łajdak
 1151910 błędne koło
 1152680 najpopularniejsza (obok maki-zushi) postać tej potrawy*
+1152790 wschodzące słońce
 1153520 cukierek
 1153670 tani
 1153890 ukojenie, spokój duszy, ulga
@@ -125,6 +127,7 @@
 1161310 jeden raz
 1161380 pierwsze piętro
 1162120 styczeń
+1163380 z całych sił, desperacko, rozpaczliwie
 1163400 razem
 1163420 razem
 1163930 trochę, troszeczkę; jeden sun (ok. 3 cm)
@@ -136,6 +139,7 @@
 1166950 rzut oka
 1167180 lista
 1167610 przelewać się (przez brzegi)
+1168060 znak, symbol
 1168190 druk(owanie)
 1169250 ciągnąć
 1169340 przeprowadzać się
@@ -160,6 +164,7 @@
 1173710 odbijać się, być odzwierciedlonym, być wyświetlanym
 1173720 film
 1173750 kino
+1174190 wieczność; dożywotni posiadacz tytułu 📖
 1174340 pływać
 1174380 angielska konwersacja
 1174420 język angielski
@@ -186,7 +191,7 @@
 1181700 król (honoryfikatywnie)
 1181720 tradycyjne japońskie nieprzezroczyste drzwi przesuwne*
 1182030 żółty
-1182060 żółtko („żółty ktoś”)
+1182060 żółtko (漢字: „żółty ktoś”)
 1182580 najmłodsza 📖, najbardziej tropikalna część Japonii, najbardziej na południu
 1182600 prefektura Okinawa
 1182700 dach
@@ -219,9 +224,9 @@
 1189240 Którego dnia...?
 1189250 Ile lat?; Którego roku?
 1189360 kto? (bardziej uprzejme, niż 「dare?」)
-1190860 śmieszny, zabawny, komiczny; dziwny, osobliwy, ekscentryczny
+1190860 śmieszny, zabawny, komiczny; dziwny, osobliwy, ekscentryczny; niewłaściwy, nieodpowiedni, niestosowny
 1191060 możliwe
-1191320 lato
+1191320 lato 📖
 1191420 letnie wakacje
 1191460 letnie przesilenie
 1191730 dom, mieszkanie; rodzina, gospodarstwo domowe
@@ -241,7 +246,7 @@
 1194050 skała magmowa
 1194290 wtorek
 1194360 podgrzewany, niski drewniany stół, przykryty grubym kocem (futon) 📖
-1194480 licznik miesięcy 💡
+1194480 licznik miesięcy 📖
 1194500 kwiat
 1194560 kwiaciarnia
 1194580 sztuczne ognie, fajerwerki
@@ -263,6 +268,7 @@
 1198600 przywitanie; lekki ukłon*
 1198660 miejsce wydarzenia 📖
 1198770 przewodnicząca, przewodniczący
+1199200 odszyfrowywanie, dekodowanie
 1199330 licznik wystąpień 📖
 1199510 częstotliwość
 1199640 rotacja, obrót, krążenie, skręcanie, slalom
@@ -326,11 +332,12 @@
 1207590 trwać (o czasie)
 1208270 wigor, energia, żywotność
 1208360 aktywność, działalność, działanie
-1208460 odmiana*
+1208460 odmiana 📖
 1208910 torba
 1208980 spółka akcyjna
 1209240 ugryźć
 1210360 zimny (o pogodzie, klimacie)
+1210510 roślinna żelatyna z krasnorostów 📖
 1210520 fala zimna, oziębienie (漢字: „zimna fala”)
 1211200 zrolować; zwinąć
 1213140 (czytanie) Kan’on*
@@ -345,6 +352,7 @@
 1214840 zwiedzanie, turystyka krajoznawcza
 1215230 pomiędzy
 1215320 błąd, pomyłka
+1216010 region składający się z Tokio i okolicznych prefektur 📖
 1216170 Korea Południowa
 1216250 przyrostek do nazw statków 📖
 1216290 okrągłość
@@ -369,6 +377,8 @@
 1220240 flaga
 1220560 termin, okres, limit, ramy czasowe
 1220570 oczekiwanie, spodziewanie się, nadzieja
+1220640 zawodowy gracz w shougi / go
+1220650 zapis gry 📖
 1220930 nastrój, samopoczucie, stan ducha, zdrowie
 1221260 droga powrotna
 1221270 wracać, wrócić, iść (do domu)
@@ -386,6 +396,7 @@
 1222820 słówko przywołujące na myśl konkretną porę roku, zwykle wykorzystywane w haiku 📖
 1222840 pora roku
 1223010 regulacje, rozporządzenia
+1223150 pamięć
 1223240 artykuł, temat (w wiadomościach), sprawozdanie, relacja
 1223250 reporter, dziennikarz, sprawozdawca
 1223340 pamiątka
@@ -399,7 +410,7 @@
 1224880 oficjalna, bardzo grzeczna forma przymiotnika 「ii」 / 「yoi」 („dobry”)
 1224890 Miło mi było Cię poznać. 📖
 1225710 jeden z najsłynniejszych letnich festiwali w Japonii, ma miejsce w Kioto*
-1225780 słówko w Kanji, którego znaczenie autor umyślnie poszerza poprzez dodanie alternatywnego czytania*
+1225780 słówko w Kanji, którego znaczenie autor umyślnie poszerza poprzez dodanie alternatywnego czytania 📖
 1225910 kształcenie obowiązkowe*
 1225920 obowiązek, poczucie obowiązku, przyzwoitość, uprzejmość
 1225930 czekoladki podarowane mężczyźnie w Walentynki z uprzejmości lub poczucia obowiązku
@@ -431,7 +442,10 @@
 1233320 cesarska stolica*
 1233970 męstwo
 1236070 silny, mocny
+1236140 mocna strona / punkt
+1236500 złodziej, rabuś; kradzież, rabunek
 1236900 uczyć, nauczać
+1236920 uczeń, student 📖
 1236950 edukacja („uczenie I wychowanie”)
 1237020 podręcznik
 1237030 kościół
@@ -440,7 +454,7 @@
 1237680 ciasny, wąski
 1237820 klatka piersiowa
 1238410 ogólne zainteresowanie jakąś dziedziną 📖
-1238460 japoński makaron z mąki gryczanej*; makaron w chińskim stylu
+1238460 japoński makaron z mąki gryczanej 📖; makaron w chińskim stylu
 1238550 lustro
 1239700 utwór muzyczny
 1239730 skręcać
@@ -457,6 +471,7 @@
 1241880 napięcie, stres, zdenerwowanie (np. nadchodzącym egzaminem)
 1242130 bliski, blisko (odległość)
 1242160 bliski, blisko, pobliże
+1242350 sąsiedztwo
 1242750 złota rybka
 1242970 bogacz
 1243320 piątek
@@ -470,6 +485,7 @@
 1244470 słaby, kiepski, niezbyt dobry w; nie przepadać (za czymś)
 1245280 puste
 1245290 niebo
+1245370 (na)daremne, próżne
 1245470 powietrze
 1245570 port lotniczy, lotnisko
 1245620 karate
@@ -485,10 +501,11 @@
 1247260 Mówiąc do naszych przyjaciół lub osób od nas młodszych, zamiast 「-san」 do męskich imion możemy dodać 「-kun」.
 1247310 wy (raczej do dzieci)
 1247450 <b>rdzennie japońskie</b> (pochodzące ze starego języka japońskiego) <b>czytanie Kanji</b> 📖
-1247590 archipelag: grupa wysp tworząca krąg, mieszana grupa wysp („grono wysp”)*
+1247590 archipelag: grupa wysp tworząca krąg, mieszana grupa wysp (漢字: „grono wysp”) 📖
 1249900 (mój) starszy brat (pokornie, formalnie)
 1249960 rodzeństwo (bracia lub brat, siostra)
 1250090 wzór, typ, formuła. konwencja, tradycja; ustalona sekwencja pozycji i ruchów w sztukach walki; styl (w kabuki, no, itp.) 📖
+1250320 formalne, oficjalne
 1250430 przymiotnik
 1250450 przymiotnik odrzeczownikowy*
 1250680 noszenie (przy sobie lub w dłoni); telefon komórkowy
@@ -530,6 +547,7 @@
 1260230 formy uniżone, pokorne w języku honoryfikatywnym, wyrażające skromność*
 1260490 klucz
 1260720 zdrowy; pełen energii; zdrowie
+1262880 zjawa
 1263400 drzwi wejściowe, wejście; przedpokój
 1263650 obecnie (漢字: „teraźniejsze istnienie”)
 1263960 zwrot, wyrażenie
@@ -537,6 +555,7 @@
 1264520 słowa i czyny, mowa i postępowanie
 1264540 język, dialekt, mowa, sposób mówienia; słowo
 1264570 mistyczna moc tkwiąca w słowach, duch języka
+1264600 powiedzenie, przysłowie
 1265070 stary
 1265460 spisane w 712 roku przez Ō no Yasumaro na rozkaz cesarzowej Gemmei dzieło, mające stanowić oficjalną historię Japonii 📖
 1266440 (przy)wołać, wezwać
@@ -554,8 +573,8 @@
 1268570 piąty dzień miesiąca
 1268990 po południu; wieczorem (przed godziną)
 1269060 do południa; nad ranem (przed godziną)
-1269130 da(wa)ć, podarować*
-1269180 (czytanie) Go’on*
+1269130 da(wa)ć, podarować 📖
+1269180 (czytanie) Go’on 📖
 1269320 po, później (czas)
 1269350 później, potem
 1269410 za, z tyłu (położenie)
@@ -570,6 +589,7 @@
 1270670 przepraszam, wybacz mi, proszę o wybaczenie
 1270840 oświecenie, duchowe przebudzenie, zrozumienie, olśnienie
 1270910 język, mowa; słowo
+1271240 gra słów
 1271620 żebrak, żebranie
 1271650 karp
 1272280 ruch (drogowy, kolejowy, itp.), komunikacja
@@ -577,6 +597,7 @@
 1272870 honor(owy), zaszczyt(ny)
 1273270 park
 1273820 wzór matematyczny
+1274450 akredytacja, urzędowe upoważnienie
 1275130 efekt, skutek, rezultat
 1275640 usta; buzia (dziecka)
 1275780 z ust do ust*
@@ -585,7 +606,9 @@
 1276110 szminka
 1276220 pretekst, wymówka, wykręt, usprawiedliwienie
 1276270 nieświeży oddech
-1276610 ton (głosu)
+1276610 ton (głosu; 漢字: „ton ust”)
+1276850 pocałunek (漢字: „zetknięcie, złączenie ust”)
+1276860 całować, pocałować (漢字: „zetknąć, złączyć usta”)
 1277290 słonecznik
 1277450 lubić; ulubiony; ukochany
 1277790 ulubione potrawa lub jedzenie
@@ -597,7 +620,7 @@
 1279590 dyrektor szkoły
 1279990 port, przystań
 1280770 czarna herbata
-1281000 pomysł, myśl*
+1281000 pomysł, myśl 📖
 1281020 zastanawiać się, wnioskować, sądzić*
 1281360 poczta, przesyłka lotnicza
 1281690 wers, wiersz, linia tekstu*
@@ -613,7 +636,7 @@
 1286290 flaga narodowa
 1286370 język narodowy
 1286590 krajowej (japońskiej) produkcji
-1286650 stricte japońskie Kanji 📖
+1286650 stricte japońskie Kanji (漢字: „krajowy znaki”) 📖
 1286920 autostrada krajowa
 1286930 w kraju, krajowy
 1287410 czerń
@@ -638,7 +661,7 @@
 1291980 płaska, zwykle prostokątna, poduszka, używana do siedzenia lub klęczenia
 1292300 znowu, jeszcze raz, powtórnie (przysłówek)
 1292390 ponowne spotkanie / połączenie
-1292490 restart, reboot, ponowne uruchomienie
+1292490 ponowne uruchomienie (np. komputera)
 1292960 odtwarzanie
 1293780 niedawne
 1293810 koniec, zakończenie („najbardziej z tyłu”)
@@ -682,9 +705,10 @@
 1303440 ryż z różnymi dodatkami
 1303450 „sushi rozsypane, rozrzucone”: miseczka z ryżem i ułożonymi na nim kawałkami (np.) cienkiego omletu, grzybów shiitake, korzeni lotosu, krewetek, ryb, krabów, warzyw, tofu*
 1303620 spacer, przechadzka
+1304410 nowatorskie, innowacyjne, oryginalne
 1304680 szkoda
 1304970 praca
-1305380 zakończyć, zrobić w całości, całkowicie\n\nlub\n\nzrobić coś nieumyślnie, przypadkiem
+1305380 zakończyć, zrobić w całości, całkowicie; zrobić coś nieumyślnie, przypadkiem 📖
 1305950 sposób użycia
 1305990 użyć; skorzystać
 1306200 zastosowanie, użycie
@@ -713,7 +737,7 @@
 1310640 ustać, przestać
 1310680 zatrzymać
 1310720 śmierć
-1310730 umierać*
+1310730 umierać 📖
 1310890 Śmierć, bóstwo śmierci, Ponury Żniwiarz
 1311110 ja; w kobiecym lub dziecięcym języku
 1311125 ja
@@ -736,13 +760,13 @@
 1315240 świątynia buddyjska
 1315720 trzymać; mieć, posiadać*
 1315840 czas
-1315920 czas, okres czasu
+1315920 czas, okres czasu; godzina
 1316140 zegar(ek)
 1316150 sklep z zegarkami
 1316220 czas, godzina
 1316380 następne
 1317170 ucho, słuch
-1317260 kolczyki
+1317260 kolczyki (漢字: „ucha dekorowanie”)
 1317650 przedstawienie się
 1318090 natura
 1318290 rower
@@ -752,13 +776,14 @@
 1318880 niezależność
 1318950 rzucić (np. pracę)
 1319030 jeleń
-1319210 7
+1319210 7 📖
 1319280 lipiec
 1319370 siedmiokrotnie
 1320230 niegrzeczność, nieuprzejmość; przepraszam; pożegnanie, do widzenia
 1320760 zdanie pytające
 1320830 Prawdę mówiąc... ; Właściwie...
 1320900 dom rodzinny, dom rodziców
+1320970 eksperyment, doświadczenie
 1321040 uruchomienie
 1321610 trawnik; darnina, darń
 1321820 być fotografowanym; wyjść (o zdjęciu)
@@ -846,7 +871,7 @@
 1343950 pisać; malować
 1344060 formatowanie, forma pisma
 1344130 kaligrafia (szczególnie Kanji) - jedna z tradycyjnych sztuk japońskich 📖
-1344330 archipelag: jakakolwiek grupa wysp („rozmaite wyspy”)*
+1344330 archipelag (漢字/ „rozmaite wyspy”) 📖
 1344410 pomagać
 1344500 pomocnik 📖
 1344680 poparcie, popieranie, posiłki
@@ -882,7 +907,7 @@
 1350460 pieczone słodkie ziemniaczki
 1351000 choroba, stan chorobowy, objawy choroby
 1351830 słoń
-1351980 „Najlepiej spożyć przed...”*
+1351980 „Najlepiej spożyć przed...” 📖
 1352030 dzwon
 1352090 półprzeźroczyste tradycyjne japońskie drzwi przesuwne 📖
 1352130 na, nad, ponad, powyżej, na górze
@@ -890,6 +915,7 @@
 1352320 dawać
 1352570 wspinać się
 1352710 na górze i na dole; 1 i 2 tom; 2-częściowy strój*; ocena z 2-częściowego egzaminu
+1352980 przyjazd do stolicy
 1353020 niebo na dużej wysokości
 1353080 górny limit
 1353260 przełożony, szef
@@ -916,6 +942,8 @@
 1360140 sypialnia
 1360320 zaspanie
 1360930 zmartwienie, niepokój
+1361000 psychika
+1361010 psychologia
 1361150 sposób przeczytania Kanji, dopisany drobnym druczkiem w Kanie powyżej lub poniżej 📖
 1361490 nowy
 1361590 szybka kolej
@@ -942,6 +970,8 @@
 1366770 człowiek, istota ludzka, rodzaj ludzki
 1367010 popularność 📖
 1367300 populacja, ludność
+1367380 stworzone przez człowieka, sztuczne, syntetyczne
+1367560 sztuczna inteligencja
 1367800 marchew(ka)
 1368110 tłum, frekwencja
 1368740 ludzie
@@ -965,7 +995,7 @@
 1373860 świat
 1373880 najlepszy na świecie
 1374190 pokolenie, generacja
-1374530 z całą pewnością, na pewno*
+1374530 z całą pewnością, na pewno 📖
 1374550 Niesamowite!; Fantastycznie!
 1375290 charakter, osobowość
 1375610 stać się, stawać się, zostać
@@ -1016,6 +1046,7 @@
 1386340 koniec zimy 📖 w tradycyjnym kalendarzu japońskim (3 lub 4 lutego - obchodzone 2 lub 3-ego)\n\nlub\n\nceremonia rozrzucania fasoli\n\nlub\n\nostatni dzień dowolnej pory roku* wg tradycyjnego kalendarza japońskiego
 1386460 objaśnienie, wyjaśnienie, wytłumaczenie, naświetlenie
 1386500 śnieg, opady śniegu
+1386610 Śnieżna Kobieta 📖
 1386690 lawina śnieżna, obsunięcie się śniegu
 1386960 beznadzieja (漢字: „zaprzestanie pragnień”)
 1387240 najpierw
@@ -1044,7 +1075,7 @@
 1396850 dziadkowie
 1396860 (moja) babcia (formalnie)
 1397300 cudowny, niezwykły (漢字: „pogodne z zasady”) 📖
-1397350 cudowny, piękny
+1397350 cudowny, piękny, wspaniały
 1399610 wyobrażenie 📖
 1399790 sprzątanie
 1400240 szybka mowa
@@ -1059,7 +1090,8 @@
 1402730 wysyłać (np. paczkę)
 1403830 obok, pobliże
 1404390 mój syn
-1404400 czyjś syn (honoryfikatywnie)
+1404400 (czyjś) syn (honoryfikatywnie)
+1404430 relaksacja, odpoczynek, branie chwili wytchnienia
 1404630 stopa, noga
 1404770 odgłos kroków (漢字: „stóp dźwięk”)
 1404840 kostka (u nogi)
@@ -1081,6 +1113,7 @@
 1409020 tanie słodycze, cukierki - pakowane pojedynczo
 1409140 ciało
 1409540 masa, waga ciała
+1409580 gimnastyka
 1409620 długość ciała (zwierzęcia)
 1410410 pas do kimono
 1410590 czekać
@@ -1113,6 +1146,7 @@
 1414650 prezydent kraju
 1414890 wielki pomnik Buddy, mający co najmniej 4,8 m. wysokości
 1415000 trudne, ciężkie, poważne; straszne; wielce, strasznie
+1415510 sokół, jastrząb
 1415870 bardzo; dużo, sporo
 1416010 grzyby
 1416170 pukać
@@ -1121,9 +1155,9 @@
 1416700 półka
 1416770 szop
 1416830 kto?
-1416840 ktoś*
+1416840 ktoś 📖
 1416850 każdy, ktokolwiek
-1416860 nikt*
+1416860 nikt 📖
 1417330 słownictwo, zasób słów
 1418620 krótki, krótkotrwały
 1418630 krótka pieśń lub wiersz – jedna z najstarszych form poezji japońskiej 📖
@@ -1141,6 +1175,7 @@
 1420410 powiadamiać, informować
 1420470 znać, poznać, wiedzieć, dowiedzieć się
 1420590 wiedza, znajomość, informacja
+1420680 inteligencja, intelekt, rozum
 1420840 podziemie
 1420900 metro
 1420970 kula ziemska
@@ -1162,7 +1197,7 @@
 1422720 (jasny) brąz
 1422770 japońska ceremonia parzenia i picia herbaty 📖
 1422970 przybyć
-1423000 zakładać, ubierać się, ubrać się, nosić*
+1423000 zakładać, ubierać się, ubrać się, nosić 📖
 1423240 japońskie tradycyjne ubranie
 1423280 lądowanie
 1423310 w środku, środek, średni
@@ -1212,6 +1247,7 @@
 1436130 ogród
 1436200 czyjś młodszy brat (honoryfikatywnie)
 1436560 zamykać się, być zamkniętym
+1437210 kropla
 1437230 kapać, ściekać; przepełniać świeżością, pięknem itp.
 1437440 umiarkowany
 1437500 zastosowanie, wcielanie w życie
@@ -1257,13 +1293,13 @@
 1446070 zima 📖
 1446090 ferie zimowe
 1446150 sen zimowy 📖
-1446650 (czytanie) Touon*
+1446650 (czytanie) Touon 📖
 1447430 wschodnia Japonia 📖
 1447440 wschód geograficzny
 1447690 stolica i największe miasto Japonii*
 1447910 wschód i zachód (geograficzne)
 1447930 wschód, zachód, południe i północ
-1448030 południowy-wschód*
+1448030 południowy-wschód 📖
 1448290 biała brzoskwinia
 1448580 gorąca woda
 1448590 czytanie mieszane typu kun-on
@@ -1285,6 +1321,7 @@
 1451730 taki sam, identyczny
 1451750 taki sam
 1453580 kolega / koleżanka z pracy
+1453900 oko, źrenica
 1454080 droga (dosłownie i w przenośni), sposób; nauczanie, dziedzina, specjalność
 1454290 droga, ulica, szosa, autostrada
 1454510 mocna strona 📖
@@ -1301,6 +1338,7 @@
 1457940 premier
 1458510 sekret
 1458770 wewnętrzna część
+1459640 -ąc 📖
 1459720 garnek
 1459730 rozgrzewające jednogarnkowe dania
 1459870 południe geograficzne
@@ -1375,8 +1413,10 @@
 1476960 warzywniak
 1477170 rozmowa
 1477310 odkrycie
+1477660 idea, pomysł, koncepcja
 1477950 włosy
 1478750 połowa, (w) pół (do którejś)
+1479640 połowiczne
 1479890 pół, połowa
 1481240 żagiel
 1481280 przegrzebek*
@@ -1407,6 +1447,8 @@
 1486720 nos
 1487660 potrzebny
 1487770 pióro lub pędzel do pisania lub malowania
+1487800 notowanie
+1487810 egzamin pisemny
 1487820 Kanji uproszczone w piśmie odręcznym 📖
 1488000 100*
 1488090 dom towarowy
@@ -1430,6 +1472,7 @@
 1496840 tkanina, materiał
 1496890 tradycyjne japońskie posłanie 📖
 1497610 (mój) tato
+1497630 opiekunowie
 1497680 (mój) tato 📖
 1497690 (moi) ojciec i matka, (moi) rodzice
 1498380 rodzina / klasa samurajów
@@ -1477,6 +1520,7 @@
 1508590 zamykać
 1508720 zamknięcie sklepu (na dzień); zaprzestanie, zakończenie działalności
 1508750 łuskane ziarna ryżu
+1508780 ※ - japoński znak interpunkcyjny oznaczający dopisek
 1509480 nieszczególnie, niespecjalnie
 1510640 dziwny, dziwna, dziwne
 1510650 zmieniać
@@ -1568,7 +1612,7 @@
 1531330 (nadane) imię
 1531550 wizytówka (漢字: „imienna wizytówka”)
 1531570 rzeczownik (漢字: „część mowy będąca nazwą”)
-1531630 japońskie czytanie Kanji używane w imionach i nazwiskach, albo nazwach geograficznych*
+1531630 japońskie czytanie Kanji używane w imionach i nazwiskach, albo nazwach geograficznych 📖
 1531680 mistrz, ekspert (profesjonalny tytuł)
 1531710 imię i nazwisko; nazwa
 1532160 rozkaz
@@ -1587,7 +1631,7 @@
 1535690 krople do oczu
 1535700 być wyraźnym, widocznym
 1535780 oczywiście, z pewnością
-1535790 fikuśne, mięciutkie i sprężyste, ryżowe kuleczki z nadzieniem*
+1535790 fikuśne, mięciutkie i sprężyste, ryżowe kuleczki z nadzieniem 📖
 1535880 (za)wracać
 1535910 dostawać, otrzymywać
 1536010 problem, zagadnienie, kwestia
@@ -1599,7 +1643,7 @@
 1537370 warzywa
 1537980 być przydatnym, pomocnym, pożytecznym, użytecznym
 1538130 obietnica
-1538160 lekarstwo; narkotyk
+1538160 lekarstwo; narkotyk 📖
 1538170 apteka, drogeria (nieformalnie)
 1538200 apteka, drogeria (formalnie)
 1538250 palec serdeczny (trzeci), czwarty w grze na fortepianie lub czwarty u nogi
@@ -1610,6 +1654,7 @@
 1539740 odwaga
 1540170 przyjaciółka, przyjaciel*
 1540380 tajemnicza głębia, ciche piękno, subtelne i głębokie
+1541530 osoba posiadająca stopień dan
 1541620 sławny, słynny
 1542160 bawić się, grać
 1542430 urząd, placówka pocztowa
@@ -1628,7 +1673,9 @@
 1546000 zachodnie jedzenie
 1546020 odzież w zachodnim stylu / ubrania zza oceanu
 1546220 przygotowanie
+1546240 przyrząd, narzędzie, instrument
 1546450 piec do wypalania cegły, porcelany, ceramiki
+1546540 mocno skondensowana galaretka na bazie agaru i pasty z fasoli 📖
 1546880 taniec
 1547330 chcący, pragnący, życzący sobie
 1547450 brać (np. prysznic, kąpiel), polewać się (np. wodą)
@@ -1655,13 +1702,14 @@
 1552750 student zagraniczny
 1553120 podróż, wycieczka, wędrówka
 1553130 tradycyjny japoński zajazd
-1553170 podróż
+1553170 wyjazd turystyczny, wycieczka, wakacje 📖
 1553590 historyczne centrum zapasów sumo w Tokio
 1554230 akademik
 1554280 opłata, koszt
 1554310 danie; gotowanie
 1554370 chłodno
 1554430 pies myśliwski, gończy
+1554840 zdolność, umiejętność, sprawność
 1555020 siłacz
 1555300 zieleń (kolor)
 1555320 zielony (kolor)
@@ -1677,7 +1725,7 @@
 1557630 0
 1558050 historia
 1558390 archipelag: łańcuch, linia, łuk wysp (漢字: „rząd wysp”) 📖
-1558800 miłość*
+1558800 miłość 📖
 1558920 sympatia, ukochana / ukochany, partner(ka)
 1559040 list miłosny
 1559160 praktyka, ćwiczenia, trening
@@ -1693,12 +1741,12 @@
 1562020 tradycyjne japońskie wyroby cukiernicze
 1562060 japońska wołowina
 1562110 tradycyjny japoński pokój (pomieszczenie)
-1562140 stworzone, wykonane w Japonii („w Japonii wyprodukowane”)
+1562140 stworzone, wykonane w Japonii (漢字: „w Japonii wyprodukowane”)
 1562190 tradycyjna japońska odzież
 1562350 rozmawiać, dyskutować
 1562640 krokodyl
 1562870 zegarek na rękę
-1562970 miseczka ryżu z różnymi dodatkami (mięso, ryby, itp.) na wierzchu*
+1562970 miseczka ryżu z różnymi dodatkami (mięso, ryby, itp.) na wierzchu 📖
 1567450 kieszonkowiec
 1568370 gorzka pomarańcza*
 1568950 smażony ryż po chińsku
@@ -1706,10 +1754,12 @@
 1571460 truskawka
 1571760 róża
 1573140 ofiara pieniężna
+1573270 uklęknąć (z szacunkiem), ukłonić się
 1573410 nauczanie manier, dyscyplina
 1573820 nożyczki
 1574430 japońskie lub tradycyjne chińskie pierożki
 1574470 rodzaj grubego, miękkiego, japońskiego makaronu klusek z mąki pszennej
+1574480 gotowana na parze, słodkawa bułka z nadzieniem z fasoli
 1575200 żyrafa
 1575460 łasica
 1575680 przywiązanie (szczególnie do rzeczy), sentyment, sympatia
@@ -1727,7 +1777,7 @@
 1576870 ja (tylko nieformalnie) 📖
 1576900 dźwięk, brzmienie, odgłos
 1577100 co? / ile?
-1577120 dlaczego?; jak?; po co?; z jakiego powodu?
+1577120 dlaczego?; jak?; po co?; z jakiego powodu? 📖
 1577130 w każdej chwili, cały czas
 1577140 gdzie?, dokąd?
 1577200 uroczy, słodki, śliczny
@@ -1759,7 +1809,7 @@
 1579470 4
 1579490 siostry
 1579630 siódmy dzień miesiąca
-1579640 Festiwal Gwiazd*
+1579640 Festiwal Gwiazd 📖
 1579690 wynajęty dom, dom do wynajęcia
 1579720 samotny
 1579840 10
@@ -1775,7 +1825,7 @@
 1581710 za dnia, w ciągu dnia; czas od wschodu do zachodu słońca
 1581900 golić
 1581930 (mój) młodszy brat
-1582020 Droga Mleczna („Niebiańska / Boska Rzeka”)
+1582020 Droga Mleczna (漢字: „Niebiańska / Boska Rzeka”)
 1582030 cesarz (Japonii)
 1582120 sklep
 1582200 po drodze
@@ -1814,6 +1864,7 @@
 1586820 dzięki
 1586910 zapamiętywanie, uczenie się na pamięć
 1587040 mówić, powiedzieć
+1587180 japońska sztuka układania kwiatów
 1587610 nielubiący, niechętny, niemiły, nieprzyjemny
 1587730 zatoka, zatoczka
 1587840 pojemnik
@@ -1831,7 +1882,7 @@
 1589450 japońska sztuka składania papieru
 1589500 wysiadać (np. z samochodu)
 1589590 koniec, zakończenie*
-1589600 (s)kończyć
+1589600 (s)kończyć (się)
 1589730 zakupy
 1590090 wiszący zwój, na którym umieszcza się kaligrafię lub obraz
 1590145 cień, sylwetka
@@ -1852,7 +1903,7 @@
 1592340 zachmurzenie, pochmurna pogoda
 1592500 zdrowie, kondycja, stan organizmu
 1592900 szczeniak; mały pies
-1592910 flaga w kształcie karpia („karpiowa flaga”)
+1592910 flaga w kształcie karpia (漢字: „karpiowa flaga”) 📖
 1593260 zagajnik, skupisko / kępa drzew
 1593480 straszny
 1593670 szukać
@@ -1876,17 +1927,19 @@
 1597150 papierosy
 1597170 zwinięty omlet; jajko sadzone
 1597350 stopniowo
+1597380 krótsza droga, skrót
 1597790 chodzić z kimś, być w związku, spędzać czas
 1597890 robić, tworzyć, przygotowywać
 1598220 zabrać ze sobą 📖
+1598360 ręcznie wykonane; domowej roboty
 1598430 Pieczenie lub grillowanie mięsa lub ryb w specjalnej marynacie, zwanej tare (japońska technika kulinarna).\n\nlub\n\nGrillowane mięso lub tofu z glazurą.
 1598500 waga
-1598550 wybrać się, wychodzić, wyruszać, wyjechać
+1598550 wybrać się, wychodzić, wyruszać, wyjechać 📖
 1598680 czasami 📖
 1598750 starsza osoba
 1599120 transakcja, interes, biznes
 1599165 podejmować, zajmować się
-1599200 Niemcy*
+1599200 Niemcy 📖
 1599390 naprawić
 1599590 wszystko
 1599760 zapach
@@ -1943,7 +1996,7 @@
 1606680 ekscytować się
 1606685 odczuwać emocje (radość, odwagę itp.)
 1606760 piękno, które można znaleźć w ubóstwie i prostocie; radość ze spokojnego życia
-1607050 my*
+1607050 my 📖
 1607070 wujek
 1607100 ciocia
 1607260 zakładać, wkładać (poniżej pasa; 漢字: „bliżej butów niż czapki”) 📖
@@ -1951,6 +2004,7 @@
 1608030 szintoistyczne, jak i buddyjskie bóstwo płodności, ryżu, rolnictwa, lisów, przemysłu i powodzenia 📖
 1608090 dzielnica biznesowa Tokio, z miejskim ogrodem, zwanym oazą w centrum miasta
 1608140 edukacja żywieniowa
+1608720 gonić, ścigać
 1609080 rzeczy do umycia (np. naczynia, pranie)
 1610170 kolor pomarańczowy
 1610460 przynieść, przyprowadzić 📖
@@ -1959,6 +2013,7 @@
 1611030 wszystko; cokolwiek
 1611130 wszystko, całkowicie, zupełnie, kompletnie, bez wyjątku
 1611250 język mówiony, potoczny
+1611340 przyrządy do pisania 📖
 1611360 nocą
 1611580 naprawdę
 1611910 umysł wolny od przeszkadzających myśli
@@ -1978,7 +2033,7 @@
 1631530 japońska szkoła obrony (zwłaszcza przed atakiem z zaskoczenia) oraz ewentualnego kontrataku, w każdych (zwłaszcza nie typowo walecznych) okolicznościach - zorientowana jednak przede wszystkim na ambicji zniechęcenia agresora do jego zapędów bez konieczności dobywania broni
 1632670 wydmuchiwać nos
 1633620 łąka
-1633690 poziom, stopień, klasa
+1633690 ranga ilustrująca stopień <strong>mistrzowskiego</strong> zaawansowania w danej dziedzinie 📖
 1634500 rzadko, okazjonalnie, sporadycznie
 1637070 lapsza (🐠)
 1637780 znak diakrytyczny używany do tworzenia dźwięcznej Kany* - małe kółko w prawym górnym rogu litery
@@ -1993,8 +2048,9 @@
 1650920 konewka 📖
 1652350 stolica Japonii od końca VIII w. do 1869 r.
 1652680 Francja
-1665520 „sushi zawijane”*
+1665520 „sushi zawijane” 📖
 1676220 puste pudełko
+1679520 sposób myślenia
 1684900 muzyka klasyczna
 1690520 słabe matcha 📖; jasny brąz
 1691940 dekorowanie świątyni i bramy liną shimenawa na Nowy Rok
@@ -2012,7 +2068,7 @@
 1721230 rodzaj gofra wypełnionego dżemem z fasoli
 1723340 sklep papierniczy
 1728430 ceremonia otwarcia
-1745480 świt*
+1745480 świt 📖
 1748740 dryfująca chmura
 1753790 przez świat (dookoła świata)
 1754080 szczypiorek
@@ -2032,6 +2088,7 @@
 1804190 śnieżny krajobraz (漢字: „srebrny świat”)
 1806020 almanach słówek sezonowych 📖 haiku
 1811920 rysownik mangi
+1812070 oczarowanie, fascynacja; zabawność, rozrywkowość, przyjemność
 1814040 trzy minuty
 1814070 trzy lata
 1815980 kosmologia
@@ -2039,16 +2096,19 @@
 1818340 spanie na trawie na otwartym polu, zostanie na noc podczas podróżowania
 1825510 szpula nici
 1828510 nefrytowy kielich
+1833830 galaretkowy deser owocowy na bazie agaru, z pastą z fasoli i słodkim czarnym syropem 📖
 1841850 Berlin
 1844600 przedwczesna śmierć
 1845200 okrzyk wojenny / bitewny
 1845250 japoński rodzaj wołowej potrawki z dodatkiem cebuli, duszonej w umiarkowanie słodkim sosie na bazie rybnego bulionu dashi, sosu sojowego i mirinu, podawanej w misce na porcji ryżu*
 1849760 na zawsze, na wieczność
+1870420 Order Wschodzącego Słońca 📖
+1873300 Tokio i Yokohama
 1884150 komponent Kanji, nadający mu często znaczenia związanego z drogą, chodzeniem, ruchem lub odległością 📖
 1891810 palić papierosy*
 1898600 sobota i niedziela (weekend)
 1906780 kwiat rycerstwa
-1919590 klasa, stopień, ranga, poziom
+1919590 ranga ilustrująca stopień <strong>uczniowskiego</strong> zaawansowania w danej dziedzinie 📖
 1920240 jaki?; który?
 1929050 Afryka
 1929870 (duży) budynek, budynek publiczny, hala (przyrostek)
@@ -2081,6 +2141,7 @@
 2027780 Chiny (dynastia Han)
 2029460 stać się lepszym, poprawić, ulepszać
 2036380 Hurra!*
+2036740 wszechstronny, 1-tomowy słownik języka japońskiego „Wielki las słów” 📖
 2036870 pragnienie, prośba, życzenie; proszę
 2038570 800
 2038580 osiem minut
@@ -2090,6 +2151,7 @@
 2057830 właśnie tak, zgadza się
 2061530 kojący, relaksujący, uspokajający, uzdrawiający 📖
 2067900 okres czasu*
+2068120 schłodzona galaretka z agaru i pasty z fasoli 📖
 2070660 smażone ciasto o konsystencji przypominającej roztopiony ser, spożywane małymi łopatkami bezpośrednio z grilla 📖
 2070970 kolejny, inny
 2077500 student studiów magisterskich, podyplomowych
@@ -2106,6 +2168,7 @@
 2097700 udar cieplny
 2099360 taniec na powitanie duchów przodków, odwiedzających swych krewnych podczas święta O-bon*
 2100500 ten weekend
+2103940 latarnia ogrodowa
 2108140 akcent typu ‗‗↗‖↘‗‗ 📖
 2108150 akcent typu ‖↘‗‗ 📖
 2108160 akcent przesunięty na ostatnią sylabę, czyli ton wzrasta do końca słowa i opada zaraz po nim
@@ -2133,18 +2196,18 @@
 2153790 bardziej formalny licznik osób
 2157240 rzeczownik, od którego można tworzyć czasowniki -suru (tzw. サ変動詞)*
 2160680 Lepiej będzie, jeśli (nie)...
-2164610 drugie co do wielkości miasto w Japonii, jej największy port morski*
+2164610 drugie co do wielkości miasto w Japonii, jej największy port morski 📖
 2164670 tu znajduje się „pływająca”, gigantyczna brama świątyni Itsukushima, zbudowana w VI w.
 2164710 prefektura w regionie Chūbu w Japonii nad zatoką Suruga*
 2170870 nigdzie, donikąd
-2179420 mały śnieg (astronomia)*
+2179420 mały śnieg (astronomia) 📖
 2180000 długa szata z lekkiego materiału, z kołnierzem, noszona pod kimonem 📖
-2181100 czytać między wierszami, odczytywać atmosferę, wyczuwać nastrój*
+2181100 czytać między wierszami, odczytywać atmosferę, wyczuwać nastrój 📖
 2181410 komponent Kanji, nadający mu często znaczenia związanego z wyrazem lub językiem 📖
 2182670 oszałamiająco przystojny
 2183440 bardzo, wyjątkowo, niezwykle (potocznie)
 2184260 narty / narciarstwo wodne
-2185990 gotowana i potem podsmażana z warzywami wieprzowina*
+2185990 gotowana i potem podsmażana z warzywami wieprzowina 📖
 2199620 zielona żabka (drzewna)
 2219590 poprzedni(o)
 2220420 8000
@@ -2171,12 +2234,12 @@
 2406750 niezdolny do odczytania sytuacji, uchwycenia nastroju rozmowy
 2406930 lokalizacja zapisu
 2407940 rasy psów
-2412230 licznik par odzieży (np. skarpetek, butów, itp.)*
+2412230 licznik par odzieży (np. skarpetek, butów, itp.) 📖
 2414530 instytucja (przyrostek)
 2423480 osamotnienie
 2427850 duży
 2453920 po tym
-2521770 region Kansai 📖
+2521770 region obejmujący Kioto, Osakę, Kobe oraz okoliczne prefektury 📖
 2527600 zaczynać pisać
 2528530 (późna) kolacja
 2534830 czekoladki podarowane mężczyźnie w Walentynki z prawdziwego uczucia
@@ -2199,6 +2262,7 @@
 2710850 droga publiczna
 2716980 japońskie słowo zbudowane z elementów pochodzących z innych języków
 2724310 ile (dużych zwierząt)?
+2746990 imponujący, robiący wrażenie, zdumiewający 📖
 2758380 porządkowanie zasobów (przedmiotów, aktywności, nawyków, czasu, itd.) oraz naszego doń nastawienia*
 2761970 Kanji zapisywane artystycznie: kursywą, płynnie i z połączeniami, niczym odręczne pociągnięcia pędzla*
 2762890 10 lat (wiek)
@@ -2236,14 +2300,18 @@
 2852796 bogini słońca, najważniejsza bogini szintoizmu i przodek japońskiej rodziny cesarskiej 📖
 2853416 męskie liceum
 2853569 miasto, miasteczko, dzielnica 📖
+2854314 oczarować, urzekać, fascynować
 2854752 Tak trzymaj! / Trzymaj tak dalej!
-2858383 otologia (otiatria)*
+2857120 osoba, która nie osiągnęła stopnia dan
+2858383 otologia (otiatria) 📖
 2858384 ja - bardzo nieformalnie; używane przez młode kobiety tylko w formie mówionej
 2858450 wspinaczka na górę 📖 bez zalecanego odpoczynku po drodze
 2859116 zacząć chodzić
 2862000 płatek kwiatu
 2863218 cztery minuty
 2864818 odprawiać, urządzić ceremonię*
+2868700 licencjonowany, certyfikowany psycholog
+2868701 psycholog
 5001664 Księżniczka Kaguya*
 5229259 świątynia zen w Kioto - 3-piętrowa pagoda ze spiczastym dachem*
 5295347 Narodowy Instytut Języka Japońskiego i Lingwistyki

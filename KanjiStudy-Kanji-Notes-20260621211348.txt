@@ -25,6 +25,7 @@
 凾 Gotowe pudełko (od kluczowego komponentu „gotowe”).
 倥 Prostacki = pusty (prawy komponent).
 冤 Ostrze fałszu spoczywa nad biednym zającem.
+凵 komponent
 况 Ciągle kapryśny starszy brat.
 儿 Komponent.
 僣 Dwóch samców (dwoje mężów w prawej górnej części znaku) uzurpuje sobie prawo do jednej szafeczki (niżej) ;) .
@@ -64,13 +65,15 @@
 擅 Woli wstawać gdy słońce jest wysoko na niebie, niż o brzasku.
 扶 Pomocna dłoń męża.
 画 Pędzel zanurzony w wiadrze z farbą.
-疂 Licznik.
+疂 licznik
 弗 Czy 「弗」 zawsze oznaczało dolara?\n\nOtóż - przynajmniej wg sztucznej inteligencji (https://t.me/askplexbot) - okazuje się, że nie: pierwej w Chinach (w starochińskim) znak ów oznaczał „nie” lub „zaprzeczenie” (etymologia z okresu oracle bone script, gdzie łączy się elementy „nie” ze „strzałą” symbolizującą brak lub odmowę).\n\nW XIX wieku, w kontekście kontaktów handlowych z Zachodem oraz podobieństwa dotychczasowej wymowy tego znaku (fú) do wymowy franka (waluta; frāngkè) Chińczycy zaczęli używać 「弗」 również w znaczeniu tejże waluty.\n\nNa początku XX wieku w Republice Chińskiej postąpiono krok dalej i rozszerzono znaczenie o „dolara” (choć zdaje się to już niemal niezwiązane z fonetyką, a co najwyżej podobieństwem kształtu).
 樗 Gatunek drzewa.
 煽 Wzmaganie ognia wachlowaniem.
 勃 Nagła (siła po prawej) śmierć dziecka.
+瞽 Bębenki pełnią większą role.
 稼 Tak wysokie, że stać mnie na haute couture.
 疊 Licznik.
+癶 komponent
 甕 Z leciwym ptakiem.
 魁 Lucyfer „Gwiazda Zaranna”
 陽 Miejsce nasłonecznione promieniami słońca.
@@ -85,8 +88,10 @@
 軟 Miękka tapicerka samochodowa.
 捕 Po raz pierwszy udało się schwytać świetlika w piersiówce.
 昧 (Jeszcze nie) baran.
+袈 Miękka tkanina płaszczowa z wełny wielbłądziej.
 匣 Bento z przegródkami.
 匕 Komponent.
+缶 komponent
 暉 Błyszczący samochód w garażu.
 西 Gdzie leży Hiszpania względem Japonii?\n\nHiszpania leży na zachód od Japonii - z perspektywy japońskiej mapy (często centrowanej na Azji), Hiszpania jest daleko na lewo, za Eurazją i Afryką.\n\nźródło: https://t.me/askplexbot\n\nStąd „Hiszpania” pośród znaczeń znaku 「西」 („zachód”) w istocie ma głębszy sens.
 愼 Dziecko w dziecięcym foteliku samochodowym.
@@ -96,10 +101,11 @@
 卮 Kielich siekiernie mocnego trunku ;) (lewy górny komponent przypomina znak siekiery).
 匸 Komponent.
 念 Teraz czas dla serca.
-阜 Komponent.
+阜 komponent
 量 Duża ilość ryżu.
 類 Spis dużej ilości ryżu.
 営 Pole namiotowe i światło z ogniska.
+格 Np. prawny, gramatyczny.
 禁 Zakaz wstępu do lasu.
 潔 Niezbeszczeszczony agresją (broń złożona pod drzewem).
 件 Sprawa z krową.
@@ -133,8 +139,9 @@
 換 Wymiana firanek.
 偽 <a href="https://jaktamjaponski.blogspot.com/2025/01/smaczek-dla-studiujacych-kanji-ten-znak.html ">„Kłamstwo” z manierą Shina ;) »</a>
 恐 Z lęku schował się pod stołem.
+巾 komponent
 靴 Buty na zmianę.
-碁 gra planszowa rozgrywana przez dwóch graczy czarnymi i białymi kamieniami na kwadratowej tablicy, przy czym celem gry jest blokada kamieni przeciwnika (otoczeniu swoimi pionami jak największego terytorium na planszy)\n\nwywodzi się od starochińskiej gry sprzed 4 tys. lat, uznawana za narodową grę japońską (ostateczne zasady ustalono ok. VIII w. w Japonii)
+碁 Rozgrywana przez dwóch graczy czarnymi i białymi kamieniami na kwadratowej tablicy, przy czym celem gry jest blokada kamieni przeciwnika (otoczeniu swoimi pionami jak największego terytorium na planszy).\n\nWywodzi się od starochińskiej gry sprzed 4 tys. lat, uznawana za narodową grę japońską (ostateczne zasady ustalono ok. VIII w. w Japonii).
 洪 Wylewająca się woda z baseniku.
 綱 Wygląda jak lina kotwiczna.
 肯 Na czym stanęło?
@@ -155,6 +162,7 @@
 睡 Spuszczone powieki.
 粋 Żołnierze w szyku wyborowym równiutko co metr.
 征 Podbój „w słusznej sprawie”.
+双 licznik
 燥 Bukłaki z wodą w letnim skwarze.
 捉 Złapać za nogę.
 怠 Osiąść na laurach po otrzymaniu nagrody.
@@ -166,6 +174,7 @@
 逐 Gonienie świnki.
 抽 Wyciągnij los z pudełka z losami.
 坪 Jednostka powierzchni, około 3,3 m2.
+斗 komponent
 棟 Górna pozioma krawędź dachu stanowiąca przecięcie połaci dachowych.
 盗 Zabierać z czyjegoś talerza.
 督 Wujek dzielący się swoim doświadczeniem.
@@ -188,14 +197,14 @@
 線 Biała woda.
 昭 Błyszczący w świetle słońca miecz na postumencie.
 深 Wodorosty głęboko pod taflą wody z powierzchniowymi glonami.
-皮 Komponent.
+皮 komponent
 習 Biały kołnierzyk uskrzydlonego do nauki ucznia.
 落 Jak kamień w wodę.
 軽 Lekkie UFO lewitujące nad lasem.
 送 Eskortujący samuraj.
 信 Brać coś na słowo.
 挙 Podnoszę dłoń, gdyż mam plan.
-欠 Komponent.
+欠 komponent
 課 Owoc pracy pisarza.
 燵 Osiąganie ciepła.
 掏 Ukraść puszkę.
@@ -221,6 +230,7 @@
 噤 Znak zakazu wstępu do lasu.
 嚆 Daleko (wysoko) niosący się głos.
 囁 Nadstawiać uszu.
+囗 komponent
 圉 Odebrane (zamknięte) szczęście.
 坩 20-litrowy ;) .
 垈 Ziemia, na której można wyzionąć ducha (prawy górny kształt przypominający duszka ludzika po lewej).
@@ -234,7 +244,7 @@
 壥 Kanji-widmo
 壹 Czcigodna fasola jest numerem jeden w Japonii ;) .
 壼 Pałacowe korytarze z mozaiką podłogową.
-夂 Komponent.
+夂 komponent
 夸 Stereotypowe szczycenie się z czegoś dużego i zwisającego, hahaha ;) !
 奐 Duża jasność dochodzi przez widne okno.
 奠 Decyzja obwieszczona przez okno w Watykanie.
@@ -267,7 +277,7 @@
 嵒 Górskie głazy.
 嶝 Pnie się pod górę.
 嶼 Wyspa Wielkanocna z posągami Moai.
-巛 Komponent.
+巛 komponent
 巵 Np. do wina.
 鯵 Konsternująca ryba.
 帑 Banknoty trzyma kobieta.
@@ -276,7 +286,7 @@
 廈 Domek letni (lato w półramce).
 廏 Stodoła z obrusem.
 牡 Krowa przy ziemi ;) .
-禾 Komponent.
+禾 komponent
 鰹 Ryba z usposobienia surowa I twarda (drapieżna ryba morska z rodziny makrelowatych).
 灸 Technika leczenia przy pomocy przyżegań.
 怯 Pierwszy do ucieczki.
@@ -286,6 +296,7 @@
 珪 Symbol władzy.
 慧 „Ucz się ucz, bo nauka to potęgi klucz”.
 罫 Rozmieszczenie, układ linii w zeszytach, księgach handlowych itp.
+爻 komponent
 菰 Osierocona trzcina ;) .
 鈷 Pierwiastek chemiczny.
 梧 Z uwagi na podobieństwo chińskich nazw firmiany z pawłownią, podobnie jak ona, bywa zwane również „drzewem feniksa”.\n\nPochodzi z wschodniej Azji (Chiny, Japonia, Tajwan), poza tym zostało rozprzestrzenione w Europie i Ameryce Północnej.\n\nźródła: [1](https://pl.wikipedia.org/wiki/Firmiana_simplex) + [2](https://t.me/askplexbot)
@@ -301,27 +312,31 @@
 鯖 Niebiesko-zielona ryba.
 鮫 Ryba, która może ostro namieszać ;) .
 餐 Siedząca na rozkładanym krzesełku I jedząca przy rozkładanym stoliku postać.
+疒 Komponent.
 蕊 Serce kwiatu.
 縞 Paski na mundurze, oznaczające wysoką rangę wojskową, stanowiącą efekt ścieżki awansu.
 惹 Młodość przyciąga ;) .
+酉 komponent
 鋤 Pomocne żelastwo.
 樵 Zapalony drwal ;) .
+罒 komponent
 埴 Gliniana doniczka.
-彡 Komponent.
+彡 komponent
 翠 Ptak, który dobrze zdał.
 箭 Na przedzie leci bambusowa strzała.
-舛 Komponent.
+舛 komponent
 賎 Ktoś mocno przekreślony w czyichś oczach.
 掻 Drapię się, bo znowu mnie owad ukąsił.
 糟 Gleba towarzyszem dla ryżu.
 詑 Inne słowo.
 苧 Rodzaj rośliny.
+隹 komponent
 鎚 Gonię gwoździe młotkiem ;) .
 碇 Ustalone jak kamień w wodę ;) .
 蹄 Kąśliwie o stopie władcy.
 甜 Słodkie (słówka) na języku.
 澱 Pałac w mule.
-攵 Komponent.
+攵 komponent
 菟 Rodzaj roślin należący do rodziny powojowatych.
 鍍 Pokrywanie przedmiotów metalowych cienką warstwą innego, zwykle cenniejszego metalu w celu ozdobienia lub zabezpieczenia przed korozją.
 砥 Uszlachetnianie kamienia, by zasługiwał na rodowe nazwisko.
@@ -335,14 +350,14 @@
 醗 Wydzielanie sake.
 筏 Bambusowa tratwa przecina wodę.
 誹 Błędna mowa.
-戈 Komponent.
+戈 komponent
 瓢 Rodzaj jednorocznych, pnących roślin tropikalnych z rodziny dyniowatych.
 斌 Wojownik sztuki.
 葺 Wejście po drabinie pod samą strzechę.
 箆 Tylna część pocisku (strzały, bomby), zapewniająca mu stabilizację podczas lotu w powietrzu.
 戊 Pięć pociągnięć.
 萌 Skiełkowane ziarno zbóż, głównie jęczmienia, bogate w enzymy; podstawowy surowiec w piwowarstwie, a także w produkcji odżywczych ekstraktów słodowych.
-卜 Komponent.
+卜 komponent
 湊 Portowa, pełna muzyki tawerna.
 薮 Siła krzaków :) .
 鑓 Coś metalowego i wysłanego (w powietrze).
@@ -350,20 +365,22 @@
 輿 Zamknięta lektyka umieszczona na drążkach i niesiona tragarzy, stosowana w krajach Dalekiego Wschodu.
 凌 Szlifowany jak diament (prawy komponent występuje w znaku diamentu), znosząc przeciwności losu.
 苓 Dobra roślina.
+牢 Uwięziona pod dachem krowa.
 聾 Smok na ucho nadepnął ;) .
 昴 Najbardziej znana gromada otwarta na niebie.
 龝 Kolory jesieni, to też kolory żółwia.
 壽 Towarzysz w prawdziwej przyjaźni na lata.
-旡 Komponent.
+旡 komponent
 翔 Latająca owca ;) .
 茉 Poza swymi niewątpliwymi walorami wizualnymi i zapachowymi posiada również atut leczniczy: w tradycyjnej medycynie niektórych kultur wykorzystuje się go do <b>łagodzenia objawów stresu, lęku i depresji</b>. Herbata z jaśminu może mieć działanie relaksujące.\n\n[źródło »](https://t.me/GPT4Telegrambot)
 莉 Pożyteczna roślina.\n\nPoza swymi niewątpliwymi walorami wizualnymi i zapachowymi posiada również atut leczniczy: w tradycyjnej medycynie niektórych kultur wykorzystuje się go do <b>łagodzenia objawów stresu, lęku i depresji</b>. Herbata z jaśminu może mieć działanie relaksujące.\n\n[źródło »](https://t.me/GPT4Telegrambot)
 栢 100-letnie drzewo.
-爫 Komponent.
+爫 komponent
 瀧 Wodny smok.
 梼 Głupi jak kloc.
+燈 licznik
 櫨 Rodzaj roślin należący do rodziny nanerczowatych.
-釆 Komponent.
+釆 komponent
 桧 Drzewo spotkań.
 榔 Drzewo z rodziny palm, o dużych pierzastych liściach wyrastających ze szczytu pnia, uprawiane w Azji i Malezji (Archip. Malajski).\n\nZ owoców wytwarza się używkę do żucia, z nasion lek na robaki; uprawiana także w szklarniach jako roślina ozdobna.
 豫 Zrelaksowany i spokojny słoń ^.^
@@ -371,11 +388,12 @@
 弋 Komponent.
 亞 Wojskowa naszywka na pagonach.
 僞 <a href="https://jaktamjaponski.blogspot.com/2025/01/smaczek-dla-studiujacych-kanji-ten-znak.html ">„Kłamstwo” z manierą Shina ;) »</a>
+雙 licznik
 營 Światła pola namiotowego.
-殳 Komponent.
+殳 komponent
 彝 Z wątkiem nici.
 彜 Z minutą.
-彑 Komponent.
+彑 komponent
 爿 Komponent.
 弖 Najmniejsza jednostka mowy rozróżnialna dla użytkowników danego języka.
 弭 Sznurek, tasiemka do wiązania części ubrania.
@@ -549,6 +567,8 @@
 洌 Dziewicza czystość najwyższego rzędu / stopnia.
 浣 By było znów perfekcyjne, doskonałe.
 浚 Oczyszczanie, pogłębianie dna rzeki, kanału, portu itp. za pomocą dragi (pogłębiarki).
+浹 „Jakiego rodzaju przestrzeń oddzielająca człowieka od jego braci sprawia, że czuje się samotny? Jak wiem z doświadczenia, nawet największy wysiłek nóg niewiele przybliży do siebie dwa umysły”. (Henry David Thoreau, „Walden”)
+浙 Rzeka origami.
 淇 Tamta Rzeka.
 淦 Brudna woda gromadząca się na dnie statku.
 涸 Pozbawiona dostępu do wody roślinka.
@@ -600,6 +620,7 @@
 牘 Pieczęć na arkuszu.
 犁 Korzyść z krowy (zaprzężonej do pługa).
 狆 Gatunek psa.
+狄 O ognistym temperamencie.
 猜 Zielony z zazdrości.
 猝 Nagła śmierć żołnierza.
 猴 Udaje markiza.
@@ -624,5 +645,19 @@
 痍 Barbarzyńca zadał obrażenia.
 痊 Całkowite wyleczenie.
 痾 Mogła znaleźć swój zakątek, by się zadomowić.
+痲 Bezwładne, zwiotczałe kończymy.
 癜 Brak lub niedobór barwników melaninowych u człowieka i zwierząt.
 癩 Przewlekła choroba zakaźna; powoduje zniekształcenia skóry i tkanek oraz ich zniszczenie; trąd.\n\n(gr. lépra)
+癧 Z drzewami.
+癰 Występująca najczęściej na karku, grupa znajdujących się blisko siebie czyraków.\n\n<a href="https://pl.wikipedia.org/wiki/Czyrak">źródło »</a>
+皙 Czysta biała siekiera przy drzewie.
+皚 Jak biała fasola.
+皰 Zwierzęca skóra skrywa pryszcza ;) .
+皴 Zagniecenie na zwierzęcej skórze.
+皸 W armii popękała.
+皹 Nabrała szorstkości w armii.
+皺 Pozaginane jak siano.
+瞶 Jak z latarni morskiej.
+矼 Np. przez rzekę.
+硼 Pierwiastek chemiczny.
+磅 Np. funty szterlingi.

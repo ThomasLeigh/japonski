@@ -1,13 +1,1247 @@
 {
   "version": "1.0",
   "entityType": "kanji",
-  "exportDate": "2026-05-31T13:57:46.548Z",
-  "itemCount": 4760,
+  "exportDate": "2026-06-21T19:11:41.297Z",
+  "itemCount": 4872,
   "filters": {
     "tags": [],
     "sort": "sortNewestFirst"
   },
   "items": [
+    {
+      "literal": "咅",
+      "kunyomi": "",
+      "onyomi": "トウ",
+      "meaning": "wypluwanie, wyplunięcie",
+      "tags": [],
+      "nanori": "",
+      "exportId": 4872
+    },
+    {
+      "literal": "彔",
+      "kunyomi": "きざむ",
+      "onyomi": "ロク",
+      "meaning": "rzeźbienie w drewnie",
+      "tags": [],
+      "nanori": "",
+      "exportId": 4871
+    },
+    {
+      "literal": "祟",
+      "kunyomi": "たたる, たたり",
+      "onyomi": "スイ",
+      "meaning": "klątwa, przekleństwo; nękanie, prześladowanie, nawiedzanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4870
+    },
+    {
+      "literal": "祗",
+      "kunyomi": "つつしむ, まさに",
+      "onyomi": "シ",
+      "meaning": "pełen szacunku / poważania",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4869
+    },
+    {
+      "literal": "祠",
+      "kunyomi": "ほこら, まつる",
+      "onyomi": "シ",
+      "meaning": "mała świątynia",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4868
+    },
+    {
+      "literal": "厲",
+      "kunyomi": "といし, とぐ, こする",
+      "onyomi": "レイ, ライ, レツ, レチ",
+      "meaning": "osełka, kamień do ostrzenia; ostrzenie, szlifowanie, temperowanie; zachęcanie, mobilizowanie, namawianie",
+      "tags": [],
+      "nanori": "",
+      "exportId": 4867
+    },
+    {
+      "literal": "祀",
+      "kunyomi": "まつる, まつり",
+      "onyomi": "シ",
+      "meaning": "wielbienie, czczenie, kult, kultywowanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4866
+    },
+    {
+      "literal": "礫",
+      "kunyomi": "つぶて, こいし",
+      "onyomi": "レキ",
+      "meaning": "małe kamienie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4865
+    },
+    {
+      "literal": "礬",
+      "kunyomi": "",
+      "onyomi": "バン, ハン",
+      "meaning": "ałun (minerał)",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4864
+    },
+    {
+      "literal": "礙",
+      "kunyomi": "さまたげる",
+      "onyomi": "ガイ, ゲ",
+      "meaning": "blokowanie, zagradzanie; powstrzymywanie, utrudnianie, odstraszanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4863
+    },
+    {
+      "literal": "礑",
+      "kunyomi": "はた, はたと",
+      "onyomi": "トウ",
+      "meaning": "dół, dno, podstawa, baza; klaps, klepnięcie, walnięcie; huk, trzask; nagle, bez uprzedzenia",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4862
+    },
+    {
+      "literal": "礒",
+      "kunyomi": "いそ, いわお",
+      "onyomi": "ギ, ガ",
+      "meaning": "skała, kamień; plaża, brzeg, wybrzeże",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4861
+    },
+    {
+      "literal": "礇",
+      "kunyomi": "",
+      "onyomi": "イク",
+      "meaning": "klejnot, skarb, biżuteria",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4860
+    },
+    {
+      "literal": "磴",
+      "kunyomi": "",
+      "onyomi": "トウ",
+      "meaning": "kamienne schody / most",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4859
+    },
+    {
+      "literal": "磽",
+      "kunyomi": "",
+      "onyomi": "コウ, キョウ",
+      "meaning": "skalisty, kamienisty, jałowy, nieurodzajny, pustynny",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4858
+    },
+    {
+      "literal": "磚",
+      "kunyomi": "かわら",
+      "onyomi": "セン",
+      "meaning": "płytka, kafelek",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4857
+    },
+    {
+      "literal": "磧",
+      "kunyomi": "かわら",
+      "onyomi": "セキ",
+      "meaning": "obszar piasku; kamienista plaża",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4856
+    },
+    {
+      "literal": "磬",
+      "kunyomi": "",
+      "onyomi": "ケイ",
+      "meaning": "gong w kształcie odwróconego V",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4855
+    },
+    {
+      "literal": "磊",
+      "kunyomi": "",
+      "onyomi": "ライ",
+      "meaning": "wiele kamieni",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4854
+    },
+    {
+      "literal": "磅",
+      "kunyomi": "ぽんど",
+      "onyomi": "ボウ, ホウ",
+      "meaning": "stanie się zablokowanym, zagradzanie, utrudnianie; funt 📖",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4853
+    },
+    {
+      "literal": "碼",
+      "kunyomi": "やーど, やある",
+      "onyomi": "バ, メ",
+      "meaning": "liczba, jard (91.44 cm); nadbrzeże, przystań; agat",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4852
+    },
+    {
+      "literal": "碾",
+      "kunyomi": "ひく, うす",
+      "onyomi": "テン",
+      "meaning": "moździerz, miażdżenie, kruszenie, mielenie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4851
+    },
+    {
+      "literal": "磔",
+      "kunyomi": "さく, はりつけ, ひらく",
+      "onyomi": "タク, チャク",
+      "meaning": "ukrzyżowanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4850
+    },
+    {
+      "literal": "磋",
+      "kunyomi": "みがく",
+      "onyomi": "サ",
+      "meaning": "polerowanie, szlifowanie, połysk",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4849
+    },
+    {
+      "literal": "磆",
+      "kunyomi": "",
+      "onyomi": "カツ",
+      "meaning": "kamienne narzędzie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4848
+    },
+    {
+      "literal": "跪",
+      "kunyomi": "ひざまずく",
+      "onyomi": "キ",
+      "meaning": "klękanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4847
+    },
+    {
+      "literal": "磑",
+      "kunyomi": "うす",
+      "onyomi": "ガイ",
+      "meaning": "moździerz, ręczny młynek",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4846
+    },
+    {
+      "literal": "碯",
+      "kunyomi": "",
+      "onyomi": "ノウ",
+      "meaning": "agat",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4845
+    },
+    {
+      "literal": "碪",
+      "kunyomi": "きぬた",
+      "onyomi": "チン",
+      "meaning": "kamienna płyta służąca do prania ubrań; kowadło",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4844
+    },
+    {
+      "literal": "碵",
+      "kunyomi": "",
+      "onyomi": "",
+      "meaning": "kamień węgielny; duży, wielki, ogromny; wybitny, znakomity",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "せき, ひろ, いしずえ, みつる, みち",
+      "exportId": 4843
+    },
+    {
+      "literal": "碣",
+      "kunyomi": "いしぶみ",
+      "onyomi": "ケツ",
+      "meaning": "okrągły kamień, monument, pomnik",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4842
+    },
+    {
+      "literal": "碌",
+      "kunyomi": "ろくな",
+      "onyomi": "ロク",
+      "meaning": "satysfakcjonujący, zadowalający",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4841
+    },
+    {
+      "literal": "碚",
+      "kunyomi": "",
+      "onyomi": "ハイ",
+      "meaning": "kopiec, kurhan, wzgórek; pąk, pączek",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4840
+    },
+    {
+      "literal": "硼",
+      "kunyomi": "",
+      "onyomi": "ホウ",
+      "meaning": "dźwięk uderzanych o siebie kamieni; bor 📖",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4839
+    },
+    {
+      "literal": "碆",
+      "kunyomi": "",
+      "onyomi": "ハ",
+      "meaning": "ostrze / grot strzały, ciężarek przymocowany do strzały za pomocą sznurka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4838
+    },
+    {
+      "literal": "硴",
+      "kunyomi": "かき",
+      "onyomi": "",
+      "meaning": "ostryga",
+      "tags": [
+        "🍱 料理",
+        "🌸 国字",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4837
+    },
+    {
+      "literal": "硅",
+      "kunyomi": "やぶる",
+      "onyomi": "カク, キャク, ケイ",
+      "meaning": "krzem",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4836
+    },
+    {
+      "literal": "礪",
+      "kunyomi": "あらと, みがく",
+      "onyomi": "レイ",
+      "meaning": "osełka, kamień do ostrzenia, polerowanie, szlifowanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "と",
+      "exportId": 4835
+    },
+    {
+      "literal": "砠",
+      "kunyomi": "",
+      "onyomi": "ソ, ショ",
+      "meaning": "kamienne wzniesienie, kamienna góra",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4834
+    },
+    {
+      "literal": "砒",
+      "kunyomi": "",
+      "onyomi": "ヒ, ヘイ",
+      "meaning": "arsen",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4833
+    },
+    {
+      "literal": "碎",
+      "kunyomi": "くだく, くだける",
+      "onyomi": "サイ",
+      "meaning": "(z)łamanie, połamanie, rozbicie, zniszczenie, zepsucie, popsucie",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "",
+      "exportId": 4832
+    },
+    {
+      "literal": "砌",
+      "kunyomi": "みぎり",
+      "onyomi": "サイ, セイ",
+      "meaning": "czas, okazja, sposobność",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4831
+    },
+    {
+      "literal": "矼",
+      "kunyomi": "",
+      "onyomi": "コウ",
+      "meaning": "kamienie umożliwiające przejście 📖; twardy; poważnie myślący",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "ばし",
+      "exportId": 4830
+    },
+    {
+      "literal": "矮",
+      "kunyomi": "ひくい",
+      "onyomi": "ワイ, アイ",
+      "meaning": "niski; krótki",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4829
+    },
+    {
+      "literal": "矣",
+      "kunyomi": "",
+      "onyomi": "イ",
+      "meaning": "partykuła zdania",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4828
+    },
+    {
+      "literal": "矜",
+      "kunyomi": "あわれむ, つつしむ, ほこる",
+      "onyomi": "キン, キョウ, ケイ",
+      "meaning": "duma, chluba; szacunek, poważanie, respekt",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4827
+    },
+    {
+      "literal": "饅",
+      "kunyomi": "",
+      "onyomi": "マン",
+      "meaning": "pierogi z nadzieniem z fasoli; manjuu",
+      "tags": [
+        "🍱 料理",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4826
+    },
+    {
+      "literal": "羹",
+      "kunyomi": "あつもの",
+      "onyomi": "コウ, カン",
+      "meaning": "gorąca zupa",
+      "tags": [
+        "🍱 料理",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4825
+    },
+    {
+      "literal": "矚",
+      "kunyomi": "みる",
+      "onyomi": "ショク, ソク",
+      "meaning": "patrzenie uważnie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4824
+    },
+    {
+      "literal": "矗",
+      "kunyomi": "なおい",
+      "onyomi": "チョク, シュク, チク",
+      "meaning": "bujność",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4823
+    },
+    {
+      "literal": "矍",
+      "kunyomi": "",
+      "onyomi": "カク",
+      "meaning": "zaskoczenie i zakłopotanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4822
+    },
+    {
+      "literal": "矇",
+      "kunyomi": "くらい, めしい",
+      "onyomi": "モウ, ボウ",
+      "meaning": "ślepy, niewidomy; oślepianie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4821
+    },
+    {
+      "literal": "瞻",
+      "kunyomi": "みる",
+      "onyomi": "セン",
+      "meaning": "patrzenie na, przyglądanie się",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4820
+    },
+    {
+      "literal": "瞽",
+      "kunyomi": "めし.い",
+      "onyomi": "コ",
+      "meaning": "niewidoma / ślepa osoba 💡",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4819
+    },
+    {
+      "literal": "瞼",
+      "kunyomi": "まぶた",
+      "onyomi": "ケン",
+      "meaning": "powieka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4818
+    },
+    {
+      "literal": "瞿",
+      "kunyomi": "おそれる, みる",
+      "onyomi": "ク",
+      "meaning": "nazwisko",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4817
+    },
+    {
+      "literal": "瞹",
+      "kunyomi": "",
+      "onyomi": "アイ",
+      "meaning": "ukryty, skryty, schowany; niejasny, niewyraźny, niepewny",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4816
+    },
+    {
+      "literal": "瞶",
+      "kunyomi": "",
+      "onyomi": "キ",
+      "meaning": "widzieć wszystko 💡",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4815
+    },
+    {
+      "literal": "瞰",
+      "kunyomi": "みる",
+      "onyomi": "カン",
+      "meaning": "patrzenie, widzenie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4814
+    },
+    {
+      "literal": "瞞",
+      "kunyomi": "だます",
+      "onyomi": "マン, モン, バン, ボン",
+      "meaning": "podstęp, oszustwo",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4813
+    },
+    {
+      "literal": "瞠",
+      "kunyomi": "みはる",
+      "onyomi": "ドウ, トウ",
+      "meaning": "uważne wpatrywanie się",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4812
+    },
+    {
+      "literal": "瞑",
+      "kunyomi": "めいする, つぶる, つむる, くらい",
+      "onyomi": "メイ, ベン, ミョウ, ミン, メン",
+      "meaning": "sen, zamknięcie oczu, ciemność",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4811
+    },
+    {
+      "literal": "瞋",
+      "kunyomi": "いかる, いからす",
+      "onyomi": "シン",
+      "meaning": "bycie złym, rozgniewanym, rozzłoszczonym, wściekłym",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4810
+    },
+    {
+      "literal": "酎",
+      "kunyomi": "かもす",
+      "onyomi": "チュウ, チュ",
+      "meaning": "sake, alkohol",
+      "tags": [
+        "🍱 料理",
+        "🏡 常用漢字"
+      ],
+      "nanori": "",
+      "exportId": 4809
+    },
+    {
+      "literal": "瞎",
+      "kunyomi": "めくら, かため",
+      "onyomi": "カツ",
+      "meaning": "ślepe oko, jedno oko",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4808
+    },
+    {
+      "literal": "睹",
+      "kunyomi": "みる",
+      "onyomi": "ト",
+      "meaning": "patrzenie na, widzenie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4807
+    },
+    {
+      "literal": "睾",
+      "kunyomi": "",
+      "onyomi": "コウ",
+      "meaning": "jądra",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4806
+    },
+    {
+      "literal": "睿",
+      "kunyomi": "あきらか",
+      "onyomi": "エイ",
+      "meaning": "inteligencja; cesarski",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4805
+    },
+    {
+      "literal": "睥",
+      "kunyomi": "ながしめ, みる",
+      "onyomi": "ヘイ",
+      "meaning": "piorunowanie kogoś wzrokiem, gniewne spojrzenie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4804
+    },
+    {
+      "literal": "睛",
+      "kunyomi": "ひとみ",
+      "onyomi": "セイ, ショウ",
+      "meaning": "źrenica oka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4803
+    },
+    {
+      "literal": "睫",
+      "kunyomi": "まつげ",
+      "onyomi": "ショウ",
+      "meaning": "rzęsy",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4802
+    },
+    {
+      "literal": "睨",
+      "kunyomi": "にらむ, にらみ",
+      "onyomi": "ゲイ",
+      "meaning": "gniewne spojrzenie na; władza, autorytet, panowanie. rządzenie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4801
+    },
+    {
+      "literal": "睚",
+      "kunyomi": "まなじり",
+      "onyomi": "ガイ",
+      "meaning": "gniewne spojrzenie, rozzłoszczony wzrok",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4800
+    },
+    {
+      "literal": "睇",
+      "kunyomi": "",
+      "onyomi": "テイ, ダイ",
+      "meaning": "patrzenie podejrzliwie / z ukosa na",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4799
+    },
+    {
+      "literal": "眷",
+      "kunyomi": "かえりみる",
+      "onyomi": "ケン",
+      "meaning": "rozglądanie / rozejrzenie się; traktowanie z",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4798
+    },
+    {
+      "literal": "眛",
+      "kunyomi": "くらい",
+      "onyomi": "マイ, バイ",
+      "meaning": "ciemno(ść), (z)mrok",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4797
+    },
+    {
+      "literal": "眦",
+      "kunyomi": "まなじり, めじり",
+      "onyomi": "セ, イシ, サイ, シ, セイ",
+      "meaning": "kącik oka, oczodoły",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4796
+    },
+    {
+      "literal": "歷",
+      "kunyomi": "",
+      "onyomi": "",
+      "meaning": "mieć miejsce, zdarzenie / odbywanie się; przeszłość, historia",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "",
+      "exportId": 4795
+    },
+    {
+      "literal": "賴",
+      "kunyomi": "たのむ, たよる, たより",
+      "onyomi": "ライ",
+      "meaning": "poleganie na; fałszywie oskarżać",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "",
+      "exportId": 4794
+    },
+    {
+      "literal": "眞",
+      "kunyomi": "ま, まこと",
+      "onyomi": "シン",
+      "meaning": "prawda, rzeczywistość; Buddyjska sekta",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "さな, ち, まこ, まさ, まつ",
+      "exportId": 4793
+    },
+    {
+      "literal": "萬",
+      "kunyomi": "よろず",
+      "onyomi": "マン, バン",
+      "meaning": "10 000",
+      "tags": [
+        "🍀 人名用漢字"
+      ],
+      "nanori": "かず, ま, ゆる, よし",
+      "exportId": 4792
+    },
+    {
+      "literal": "眥",
+      "kunyomi": "まなじり, めじり",
+      "onyomi": "セ, イシ, サイ, シ, セイ",
+      "meaning": "zewnętrzny kącik oka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4791
+    },
+    {
+      "literal": "眤",
+      "kunyomi": "てい, い",
+      "onyomi": "ケイ, ダイ",
+      "meaning": "spojrzenie / wejrzenie / rzut oka na",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4790
+    },
+    {
+      "literal": "眩",
+      "kunyomi": "げんす, くるめく, まぶしい, くらむ, まどう, めまい, まばゆい, くれる, まう",
+      "onyomi": "ゲン, カン",
+      "meaning": "omdlenie; zawroty głowy; osłabiony, słaby; oszołomiony, skołowany, zdezorientowany",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4789
+    },
+    {
+      "literal": "眄",
+      "kunyomi": "かえりみる",
+      "onyomi": "ベン, メン",
+      "meaning": "patrzenie podejrzliwie / z ukosa",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4788
+    },
+    {
+      "literal": "眇",
+      "kunyomi": "びょうたる, すがめ",
+      "onyomi": "ビョウ, ミョウ",
+      "meaning": "staranność, szczegółowość, drobiazgowość; zez; mrużenie oczu",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4787
+    },
+    {
+      "literal": "眈",
+      "kunyomi": "にらむ",
+      "onyomi": "タン",
+      "meaning": "uważnie obserwować / przyglądać się / pilnować",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4786
+    },
+    {
+      "literal": "盻",
+      "kunyomi": "にらむ",
+      "onyomi": "ケイ",
+      "meaning": "spojrzenie / zerkanie na; harówka, ciężko pracowanie, trud",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4785
+    },
+    {
+      "literal": "蘯",
+      "kunyomi": "とろかす, あらう, うごく",
+      "onyomi": "トウ",
+      "meaning": "targanie, miotanie, kołysanie, bujanie, huśtanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4784
+    },
+    {
+      "literal": "盪",
+      "kunyomi": "とろかす, あらう, うごく",
+      "onyomi": "トウ",
+      "meaning": "roztapianie, rozpuszczanie, topienie; bycie oczarowanym, zauroczonym, urzeczony, ujęty",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4783
+    },
+    {
+      "literal": "盥",
+      "kunyomi": "たらい, そそぐ",
+      "onyomi": "カン",
+      "meaning": "wanna, balia, kadź; miska, miednica, umywalka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4782
+    },
+    {
+      "literal": "盞",
+      "kunyomi": "さかずき",
+      "onyomi": "サン, セン",
+      "meaning": "miseczka do sake",
+      "tags": [
+        "🍱 料理",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4781
+    },
+    {
+      "literal": "盒",
+      "kunyomi": "さら, ふたもの",
+      "onyomi": "コウ",
+      "meaning": "przykryte naczynie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4780
+    },
+    {
+      "literal": "盖",
+      "kunyomi": "ふた, けだし, おおう, かさ, かこう",
+      "onyomi": "ガイ, カイ, コウ",
+      "meaning": "powłoka, nakrycie, pokrywa, przykrywka, wieczko, klap(k)a, powieka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4779
+    },
+    {
+      "literal": "盂",
+      "kunyomi": "はち",
+      "onyomi": "ウ",
+      "meaning": "miska, miseczka",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4778
+    },
+    {
+      "literal": "皺",
+      "kunyomi": "しわ, しぼ",
+      "onyomi": "シュウ, スウ",
+      "meaning": "zmarszczki 💡, fałdy, zagięcia",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4777
+    },
+    {
+      "literal": "皹",
+      "kunyomi": "ひび, あかぎれ",
+      "onyomi": "クン, キン",
+      "meaning": "pęknięta lub szorstka skóra 💡",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4776
+    },
+    {
+      "literal": "皸",
+      "kunyomi": "ひび, あかぎれ",
+      "onyomi": "クン, キン",
+      "meaning": "pęknięta lub szorstka skóra 💡",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4775
+    },
+    {
+      "literal": "皴",
+      "kunyomi": "ひび, しわ",
+      "onyomi": "シュン",
+      "meaning": "zmarszczki, zagniecenie 💡, zagięcie, załamanie, pęknięcie, rysa",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4774
+    },
+    {
+      "literal": "皰",
+      "kunyomi": "にきび",
+      "onyomi": "ホウ, ビョウ",
+      "meaning": "pryszcz 💡, krosta, wyprysk",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4773
+    },
+    {
+      "literal": "皚",
+      "kunyomi": "しろい, さむい",
+      "onyomi": "ガイ, ギ, ゲ, カイ",
+      "meaning": "biały 💡",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4772
+    },
+    {
+      "literal": "皙",
+      "kunyomi": "しろい",
+      "onyomi": "シャク, セキ",
+      "meaning": "czysty 💡, jasny, wyraźny, przejrzysty",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4771
+    },
+    {
+      "literal": "皖",
+      "kunyomi": "",
+      "onyomi": "カン",
+      "meaning": "Wenus, gwiazda poranna; nazwa miejsca",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4770
+    },
+    {
+      "literal": "皎",
+      "kunyomi": "きよい, しろい",
+      "onyomi": "キョウ, コウ",
+      "meaning": "biały, świecenie, błyszczenie, lśnienie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4769
+    },
+    {
+      "literal": "皋",
+      "kunyomi": "さつき",
+      "onyomi": "コウ",
+      "meaning": "wysoki teren wzdłuż rzeki",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4768
+    },
+    {
+      "literal": "皈",
+      "kunyomi": "かえる, かえす, おくる, とつぐ",
+      "onyomi": "キ",
+      "meaning": "powrót do domu, przybywanie / doprowadzenie do; skutkowanie",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4767
+    },
+    {
+      "literal": "皀",
+      "kunyomi": "",
+      "onyomi": "キュウ, ヒョク, キョウ, コウ",
+      "meaning": "pachnący, wonny, aromatyczny; ziarno, zboże",
+      "tags": [
+        "🍱 料理",
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4766
+    },
+    {
+      "literal": "發",
+      "kunyomi": "たつ, あばく, おこる, つかわす, はなつ",
+      "onyomi": "ハツ, ホツ",
+      "meaning": "odjazd, wyjazd, odejście, odlot; publikowanie, emitowanie; ujawnianie, wyjawianie; rozpoczynanie od",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "ば",
+      "exportId": 4765
+    },
+    {
+      "literal": "癸",
+      "kunyomi": "みずのと",
+      "onyomi": "キ",
+      "meaning": "10-ty znak w kalendarzu",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4764
+    },
+    {
+      "literal": "癶",
+      "kunyomi": "",
+      "onyomi": "ハツ",
+      "meaning": "namiot w kropki (🧩)",
+      "tags": [
+        "🌊検定の表外字",
+        "🧩 部首"
+      ],
+      "nanori": "",
+      "exportId": 4763
+    },
+    {
+      "literal": "癲",
+      "kunyomi": "",
+      "onyomi": "テン",
+      "meaning": "obłęd, szaleństwo, wariactwo, niepoczytalność",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4762
+    },
+    {
+      "literal": "癰",
+      "kunyomi": "はれもの",
+      "onyomi": "ヨウ",
+      "meaning": "wrzód, czyrak, karbunkuł 📖",
+      "tags": [
+        "🌊検定の表外字"
+      ],
+      "nanori": "",
+      "exportId": 4761
+    },
     {
       "literal": "癬",
       "kunyomi": "たむし",
@@ -23,7 +1257,7 @@
       "literal": "癧",
       "kunyomi": "",
       "onyomi": "レキ",
-      "meaning": "obrzęk węzłów chłonnych szyi",
+      "meaning": "obrzęk węzłów chłonnych szyi 📖",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -287,7 +1521,7 @@
       "literal": "痲",
       "kunyomi": "しびれる",
       "onyomi": "マ, バ",
-      "meaning": "odra; paraliż, porażenie, bezwład",
+      "meaning": "odra; paraliż, porażenie, bezwład 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -863,7 +2097,7 @@
       "literal": "甕",
       "kunyomi": "かめ, みか",
       "onyomi": "オウ",
-      "meaning": "dzban(ek), zbiornik 💡",
+      "meaning": "dzban(ek), zbiornik 📖",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -1739,7 +2973,7 @@
       "literal": "狄",
       "kunyomi": "えびす",
       "onyomi": "テキ",
-      "meaning": "barbarzyńca, dzikus",
+      "meaning": "barbarzyńca 💡, dzikus",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -2616,7 +3850,7 @@
       "literal": "盧",
       "kunyomi": "",
       "onyomi": "ロ",
-      "meaning": "chata, chatka, chałupa, szałas",
+      "meaning": "chat(k)a, chałupa, szałas",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -3147,7 +4381,7 @@
       "literal": "漾",
       "kunyomi": "ただよう",
       "onyomi": "ヨウ",
-      "meaning": "pływanie, płynięcie z prądem, znoszenie, dryfowanie 💡",
+      "meaning": "pływanie, płynięcie z prądem, znoszenie, dryfowanie 🐑",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -3907,7 +5141,7 @@
       "literal": "浙",
       "kunyomi": "",
       "onyomi": "セツ",
-      "meaning": "nazwa chińskiej rzeki",
+      "meaning": "nazwa chińskiej rzeki 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -3918,7 +5152,7 @@
       "literal": "浹",
       "kunyomi": "あまねし",
       "onyomi": "ショウ",
-      "meaning": "daleki i rozległy; cykl, okres",
+      "meaning": "daleki i rozległy 💡; cykl, okres",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -4594,7 +5828,7 @@
       "literal": "殲",
       "kunyomi": "つくす, ほろぼす",
       "onyomi": "セン",
-      "meaning": "masakra, rzeź, jatka, pogrom*",
+      "meaning": "masakra, rzeź, jatka, pogrom 📖",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -8089,7 +9323,7 @@
       "literal": "隹",
       "kunyomi": "とり",
       "onyomi": "サイ, スイ",
-      "meaning": "(stary) ptak 🧩",
+      "meaning": "(leciwy) ptak 🧩",
       "tags": [
         "🌊検定の表外字",
         "🧩 部首"
@@ -8893,7 +10127,7 @@
       "literal": "挂",
       "kunyomi": "かける",
       "onyomi": "ケイ, カイ, ケ",
-      "meaning": "wiszenie*, wieszanie, powieszenie",
+      "meaning": "wiszenie 💡, wieszanie, powieszenie",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10118,7 +11352,7 @@
       "literal": "愾",
       "kunyomi": "ためいき",
       "onyomi": "ガイ, キ, ケ, キツ",
-      "meaning": "złość*, gniew; zadyszka, utrata tchu",
+      "meaning": "złość 💡, gniew; zadyszka, utrata tchu",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10129,7 +11363,7 @@
       "literal": "慇",
       "kunyomi": "",
       "onyomi": "イン",
-      "meaning": "grzeczność, uprzejmość, kurtuazja*",
+      "meaning": "grzeczność, uprzejmość, kurtuazja 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10195,7 +11429,7 @@
       "literal": "愍",
       "kunyomi": "あわれむ",
       "onyomi": "ビン, ミン",
-      "meaning": "żal, litość, współczucie*; miłosierdzie, łaska",
+      "meaning": "żal, litość, współczucie 💡; miłosierdzie, łaska",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10272,7 +11506,7 @@
       "literal": "愀",
       "kunyomi": "",
       "onyomi": "シュウ, ショウ",
-      "meaning": "respekt, podziw*, szacunek, poważanie",
+      "meaning": "respekt, podziw 💡, szacunek, poważanie",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10283,7 +11517,7 @@
       "literal": "惷",
       "kunyomi": "",
       "onyomi": "シュン",
-      "meaning": "zamieszanie*, zamęt, chaos; głupi, niemądry, nierozumny, nierozsądny",
+      "meaning": "zamieszanie 💡, zamęt, chaos; głupi, niemądry, nierozumny, nierozsądny",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10294,7 +11528,7 @@
       "literal": "惶",
       "kunyomi": "おそれる",
       "onyomi": "コウ",
-      "meaning": "obawa, lęk, strach*",
+      "meaning": "obawa, lęk, strach 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10305,7 +11539,7 @@
       "literal": "愆",
       "kunyomi": "あやまる",
       "onyomi": "ケン",
-      "meaning": "błąd, pomyłka; obraza*, wykroczenie, przewinienie",
+      "meaning": "błąd, pomyłka; obraza 💡, wykroczenie, przewinienie",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10318,6 +11552,7 @@
       "onyomi": "サク",
       "meaning": "ocet; kwaśny, cierpki, kwas",
       "tags": [
+        "🍱 料理",
         "🏡 常用漢字"
       ],
       "nanori": "",
@@ -10327,7 +11562,7 @@
       "literal": "愕",
       "kunyomi": "おどろく",
       "onyomi": "ガク",
-      "meaning": "zdziwiony*, zaskoczony; przerażony, przestraszony",
+      "meaning": "zdziwiony 💡, zaskoczony; przerażony, przestraszony",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10338,7 +11573,7 @@
       "literal": "慍",
       "kunyomi": "いかる, いかり, うらむ",
       "onyomi": "ウン, オン",
-      "meaning": "bycie złym*, rozgniewanym, wzburzonym",
+      "meaning": "bycie złym 💡, rozgniewanym, wzburzonym",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10349,7 +11584,7 @@
       "literal": "惘",
       "kunyomi": "あきれる",
       "onyomi": "ボウ, モウ",
-      "meaning": "niejasny*, niezrozumiały; bycie zdziwionym, zdumionym, zaskoczonym",
+      "meaning": "niejasny 💡, niezrozumiały; bycie zdziwionym, zdumionym, zaskoczonym",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10537,7 +11772,7 @@
       "literal": "悒",
       "kunyomi": "ふさぐ, うれえる",
       "onyomi": "ユウ",
-      "meaning": "być przygnębionym, przybitym*",
+      "meaning": "być przygnębionym, przybitym 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10548,7 +11783,7 @@
       "literal": "悗",
       "kunyomi": "",
       "onyomi": "バン, マン",
-      "meaning": "bycie zakłopotanym, zmieszanym*",
+      "meaning": "bycie zakłopotanym, zmieszanym 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10559,7 +11794,7 @@
       "literal": "悖",
       "kunyomi": "もとる",
       "onyomi": "ハイ, ボツ",
-      "meaning": "bycie przeciwieństwem*, odwrotnością",
+      "meaning": "bycie przeciwieństwem 💡, odwrotnością",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10660,7 +11895,7 @@
       "literal": "悃",
       "kunyomi": "まごころ",
       "onyomi": "コン",
-      "meaning": "szczerość*",
+      "meaning": "szczerość 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10891,7 +12126,7 @@
       "literal": "恃",
       "kunyomi": "たのむ",
       "onyomi": "ジ, シ",
-      "meaning": "poleganie na*, zależeć od",
+      "meaning": "poleganie na 💡, zależeć od",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10924,7 +12159,7 @@
       "literal": "恟",
       "kunyomi": "おそれる",
       "onyomi": "キョウ",
-      "meaning": "strach*, lęk, obawa",
+      "meaning": "strach 💡, lęk, obawa",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10968,7 +12203,7 @@
       "literal": "恚",
       "kunyomi": "いかる",
       "onyomi": "イ",
-      "meaning": "złość, gniew*",
+      "meaning": "złość, gniew 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -10979,7 +12214,7 @@
       "literal": "怺",
       "kunyomi": "こらえる",
       "onyomi": "",
-      "meaning": "znoszenie*, cierpienie, wytrzymywanie",
+      "meaning": "znoszenie 💡, cierpienie, wytrzymywanie",
       "tags": [
         "🌸 国字",
         "🌊検定の表外字"
@@ -10991,7 +12226,7 @@
       "literal": "旦",
       "kunyomi": "あきらか, あきら, ただし, あさ, あした",
       "onyomi": "タン, ダン",
-      "meaning": "brzask, świt, poranek*",
+      "meaning": "brzask, świt, poranek 💡",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -11024,7 +12259,7 @@
       "literal": "怫",
       "kunyomi": "",
       "onyomi": "フツ, ハイ, ヒ",
-      "meaning": "złość*, gniew",
+      "meaning": "złość 💡, gniew",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -11035,7 +12270,7 @@
       "literal": "怕",
       "kunyomi": "おそれる",
       "onyomi": "ハク, ヒャク, ハ",
-      "meaning": "strach, przestraszenie*, lęk; pełen obaw, zmartwienie",
+      "meaning": "strach, przestraszenie 💡, lęk; pełen obaw, zmartwienie",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -11113,7 +12348,7 @@
       "literal": "怱",
       "kunyomi": "にわか, あわてる",
       "onyomi": "ソウ",
-      "meaning": "pędzenie, spieszenie się, gnanie*; bycie zdenerwowanym",
+      "meaning": "pędzenie, spieszenie się, gnanie 💡; bycie zdenerwowanym",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -11531,7 +12766,7 @@
       "literal": "妊",
       "kunyomi": "はらむ, みごもる",
       "onyomi": "ニン, ジン",
-      "meaning": "ciąża*",
+      "meaning": "ciąża 💡",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -11642,7 +12877,7 @@
       "literal": "督",
       "kunyomi": "",
       "onyomi": "トク",
-      "meaning": "trener, trenowanie*; komenda, polecenie, dowodzenie, kierowanie, prowadzenie, nadzorowanie, kontrolowanie; popędzanie",
+      "meaning": "trener, trenowanie 💡; komenda, polecenie, dowodzenie, kierowanie, prowadzenie, nadzorowanie, kontrolowanie; popędzanie",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -11764,7 +12999,7 @@
       "literal": "彑",
       "kunyomi": "",
       "onyomi": "ケイ",
-      "meaning": "świńska głowa (komponent)",
+      "meaning": "świńska głowa",
       "tags": [
         "🌊検定の表外字",
         "🧩 部首"
@@ -11899,7 +13134,7 @@
       "literal": "弋",
       "kunyomi": "いぐるみ",
       "onyomi": "ヨク",
-      "meaning": "gromadzenie; ceremonia (komponent)",
+      "meaning": "gromadzenie; ceremonia (🧩)",
       "tags": [
         "🌊検定の表外字",
         "🧩 部首"
@@ -12576,7 +13811,7 @@
       "literal": "營",
       "kunyomi": "いとなむ, いとなみ",
       "onyomi": "エイ",
-      "meaning": "obóz, obozowisko*; wykonywanie; budowa, konstrukcja; prowadzenie (interesu)",
+      "meaning": "obóz, obozowisko 💡; wykonywanie; budowa, konstrukcja; prowadzenie (interesu)",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -12599,7 +13834,7 @@
       "literal": "雙",
       "kunyomi": "たぐい, ならぶ, ふたつ, ふた-",
       "onyomi": "ソウ",
-      "meaning": "para (+ ich licznik); zbiór, zestawienie, porównanie",
+      "meaning": "para (🧮); zbiór, zestawienie, porównanie",
       "tags": [
         "🧮 liczniki",
         "🌊検定の表外字"
@@ -12655,7 +13890,7 @@
       "literal": "筋",
       "kunyomi": "すじ",
       "onyomi": "キン",
-      "meaning": "mięsień*, ścięgno, włókno; plan; zejście, schodzenie",
+      "meaning": "mięsień 💡, ścięgno, włókno; plan; zejście, schodzenie",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -12909,7 +14144,7 @@
       "literal": "亞",
       "kunyomi": "つぐ",
       "onyomi": "ア",
-      "meaning": "ranga*, szereg; podążanie, postępowanie, następowanie",
+      "meaning": "ranga 💡, szereg; podążanie, postępowanie, następowanie",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -13276,7 +14511,7 @@
       "literal": "燈",
       "kunyomi": "ひ, ほ-, ともしび, ともす, あかり",
       "onyomi": "トウ",
-      "meaning": "lampa (+ ich licznik), lampka",
+      "meaning": "lampa (🧮), lampka",
       "tags": [
         "🧮 liczniki",
         "🍀 人名用漢字"
@@ -13387,7 +14622,7 @@
       "literal": "梼",
       "kunyomi": "",
       "onyomi": "トウ",
-      "meaning": "blok drewna; tuman, dureń, głupiec, głupi*",
+      "meaning": "blok drewna; tuman, dureń, głupiec, głupi 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -13816,7 +15051,7 @@
       "literal": "穐",
       "kunyomi": "あき, とき",
       "onyomi": "シュウ",
-      "meaning": "jesień*",
+      "meaning": "jesień 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -13993,7 +15228,7 @@
       "literal": "坪",
       "kunyomi": "つぼ",
       "onyomi": "ヘイ",
-      "meaning": "obszar składający się z dwóch mat tsubu*",
+      "meaning": "obszar składający się z dwóch mat tsubu 📖",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -14106,7 +15341,7 @@
       "meaning": "jesień 💡",
       "tags": [
         "🌊検定の表外字",
-        "🎉 Najbardziej zwariowane znaki."
+        "🎉 najbardziej zwariowane znaki"
       ],
       "nanori": "",
       "exportId": 3487
@@ -14303,7 +15538,7 @@
       "literal": "暉",
       "kunyomi": "かがやく",
       "onyomi": "キ",
-      "meaning": "światło, połysk*",
+      "meaning": "światło, połysk 💡",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -14347,7 +15582,7 @@
       "literal": "昴",
       "kunyomi": "すばる",
       "onyomi": "コウ, ボウ",
-      "meaning": "Plejady*",
+      "meaning": "Plejady 📖",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -14881,7 +16116,7 @@
       "literal": "聾",
       "kunyomi": "ろうする, つんぼ, みみしい",
       "onyomi": "ロウ",
-      "meaning": "głuchota*, głucha / niesłysząca osoba, ogłuszanie",
+      "meaning": "głuchota 💡, głucha / niesłysząca osoba, ogłuszanie",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -14892,7 +16127,7 @@
       "literal": "牢",
       "kunyomi": "かたい, ひとや",
       "onyomi": "ロウ",
-      "meaning": "więzienie, areszt; twardość, wytrzymałość",
+      "meaning": "więzienie 💡, areszt; twardość, wytrzymałość",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -16615,7 +17850,7 @@
       "literal": "灯",
       "kunyomi": "ひ, ほ-, ともしび, ともす, あかり",
       "onyomi": "トウ",
-      "meaning": "lampa (+ ich licznik), światło; mapka",
+      "meaning": "lampa (🧮), światło; mapka",
       "tags": [
         "🧮 liczniki",
         "🏡 常用漢字"
@@ -23599,7 +24834,7 @@
       "literal": "賎",
       "kunyomi": "いやしい, いやしむ, いやしめる, しず, やすい",
       "onyomi": "セン, ゼン",
-      "meaning": "gardzenie, pogardzanie, wzgardzanie 💡; margines społeczny, środowisko przestępcze, bieda, ubóstwo, nędza",
+      "meaning": "gardzenie, pogardzanie, wzgardzanie; margines społeczny, środowisko przestępcze 💡, bieda, ubóstwo, nędza",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -23821,7 +25056,7 @@
       "literal": "袈",
       "kunyomi": "",
       "onyomi": "ケ, カ",
-      "meaning": "szorstki kamlot (miękka tkanina płaszczowa z wełny wielbłądziej)",
+      "meaning": "szorstki kamlot 📖",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -23832,7 +25067,7 @@
       "literal": "旭",
       "kunyomi": "あさひ",
       "onyomi": "キョク",
-      "meaning": "wschodzące / poranne słońce*",
+      "meaning": "wschodzące / poranne słońce 💡",
       "tags": [
         "🍀 人名用漢字"
       ],
@@ -23865,7 +25100,7 @@
       "literal": "丹",
       "kunyomi": "に",
       "onyomi": "タン",
-      "meaning": "rdzawy, czerwony, minia*; piguły; szczerość",
+      "meaning": "rdzawy, czerwony, minia 📖; piguły; szczerość",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -27125,7 +28360,7 @@
       "literal": "盍",
       "kunyomi": "おおう, なんぞ",
       "onyomi": "コウ",
-      "meaning": "przyjście razem,\n(z)gromadzenie / zbieranie / zjednoczenie się, spotkanie; osłona, pokrywa",
+      "meaning": "zjednoczenie się; przyjście razem, (z)gromadzenie / zbieranie się, spotkanie; osłona, pokrywa",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -27648,7 +28883,7 @@
       "literal": "碁",
       "kunyomi": "",
       "onyomi": "ゴ",
-      "meaning": "Go (narodowa gra planszowa Japonii)*",
+      "meaning": "Go (narodowa gra planszowa Japonii) 📖",
       "tags": [
         "🇯🇵 面白い",
         "🏡 常用漢字"
@@ -27825,7 +29060,7 @@
       "literal": "酉",
       "kunyomi": "とり",
       "onyomi": "ユウ",
-      "meaning": "zachód; ptak, znak na ptaka; 17-19 (godzina); symbol koguta; dziesiąty znak w chińskim zodiaku; sake (komponent)",
+      "meaning": "zachód; ptak, znak na ptaka; 17-19 (godzina); symbol koguta; dziesiąty znak w chińskim zodiaku; sake (🧩)",
       "tags": [
         "🍱 料理",
         "🍀 人名用漢字",
@@ -28304,7 +29539,7 @@
       "meaning": "słupek, pręcik (kwiatu) 💡",
       "tags": [
         "🌊検定の表外字",
-        "🎉 Najbardziej zwariowane znaki."
+        "🎉 najbardziej zwariowane znaki"
       ],
       "nanori": "",
       "exportId": 2206
@@ -28736,7 +29971,7 @@
       "literal": "怠",
       "kunyomi": "おこたる, なまける",
       "onyomi": "タイ",
-      "meaning": "zaniedbanie, zaniedbywanie, lekceważenie, lenistwo*",
+      "meaning": "zaniedbanie, zaniedbywanie, lekceważenie, lenistwo 💡",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -29982,7 +31217,7 @@
       "literal": "尽",
       "kunyomi": "つきる, つくす, つかす, -づく, -ずく, ことごとく",
       "onyomi": "ジン, サン",
-      "meaning": "zużycie, zużywanie, wyczerp(yw)anie*; okazywanie przyjaźni; służenie",
+      "meaning": "zużycie, zużywanie, wyczerp(yw)anie 💡; okazywanie przyjaźni; służenie",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -30693,7 +31928,7 @@
       "literal": "巾",
       "kunyomi": "おおい, ちきり, きれ",
       "onyomi": "キン, フク",
-      "meaning": "ręcznik; wiszący zwój; szerokość;\ntkanina (komponent), materiał",
+      "meaning": "ręcznik; wiszący zwój; szerokość;\ntkanina (🧩), materiał",
       "tags": [
         "🏡 常用漢字",
         "🧩 部首"
@@ -31392,7 +32627,7 @@
       "meaning": "przygnębienie, smutek, depresja, melancholia; bujny, obfity",
       "tags": [
         "🏡 常用漢字",
-        "🎉 Najbardziej zwariowane znaki."
+        "🎉 najbardziej zwariowane znaki"
       ],
       "nanori": "",
       "exportId": 1928
@@ -32265,7 +33500,7 @@
       "literal": "麹",
       "kunyomi": "こうじ",
       "onyomi": "キク",
-      "meaning": "słód*; drożdże",
+      "meaning": "słód 📖; drożdże",
       "tags": [
         "🍱 料理",
         "🌊検定の表外字"
@@ -32476,7 +33711,7 @@
       "literal": "糠",
       "kunyomi": "ぬか",
       "onyomi": "コウ",
-      "meaning": "otręby* ryżowe",
+      "meaning": "otręby 📖 ryżowe",
       "tags": [
         "🍱 料理",
         "🌊検定の表外字"
@@ -32488,7 +33723,7 @@
       "literal": "鈷",
       "kunyomi": "",
       "onyomi": "コ",
-      "meaning": "kobalt*",
+      "meaning": "kobalt 📖",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -37163,7 +38398,7 @@
       "meaning": "ryk, wycie; recytować emocjonalnie;\nudawanie obojętności, bierności",
       "tags": [
         "🌊検定の表外字",
-        "🎉 Najbardziej zwariowane znaki."
+        "🎉 najbardziej zwariowane znaki"
       ],
       "nanori": "",
       "exportId": 1409
@@ -39841,7 +41076,7 @@
       "literal": "儡",
       "kunyomi": "",
       "onyomi": "ライ",
-      "meaning": "porażka, klęska, przegrana, niepowodzenie*",
+      "meaning": "porażka, klęska, przegrana, niepowodzenie 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -39896,7 +41131,7 @@
       "literal": "儂",
       "kunyomi": "わし, かれ",
       "onyomi": "ドウ, ノウ",
-      "meaning": "ja, mój, mnie (używane przez starsze osoby*); on, jego",
+      "meaning": "ja, mój, mnie (używane przez starsze osoby 💡); on, jego",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -40301,7 +41536,7 @@
       "literal": "倚",
       "kunyomi": "よる, たのむ",
       "onyomi": "イ, キ",
-      "meaning": "opieranie się o*, bycie zależny od",
+      "meaning": "opieranie się o 💡, bycie zależny od",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -44698,7 +45933,7 @@
       "literal": "格",
       "kunyomi": "",
       "onyomi": "カク、コウ、キャク、ゴウ",
-      "meaning": "statut, ranga, stanowisko; znak; przypadek (np. prawny, gramatyczny)",
+      "meaning": "statut, ranga, stanowisko; znak; przypadek 📖",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -45481,7 +46716,7 @@
     {
       "literal": "砂",
       "kunyomi": "すな",
-      "onyomi": "ザ、シャ",
+      "onyomi": "サ、シャ",
       "meaning": "piasek",
       "tags": [
         "🏡 常用漢字"
@@ -47679,7 +48914,7 @@
       "literal": "桜",
       "kunyomi": "さくら",
       "onyomi": "オウ、ヨウ",
-      "meaning": "wiśnia*, kwiat wiśni",
+      "meaning": "wiśnia 💡📖, kwiat wiśni",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -47723,7 +48958,7 @@
       "literal": "剃",
       "kunyomi": "まい、そる、する",
       "onyomi": "テイ",
-      "meaning": "golenie*",
+      "meaning": "golenie 💡",
       "tags": [
         "🌊検定の表外字"
       ],
@@ -51226,8 +52461,7 @@
       "onyomi": "二、ジ",
       "meaning": "2 📚",
       "tags": [
-        "🏡 常用漢字",
-        "czytanie z udziałem Nanori"
+        "🏡 常用漢字"
       ],
       "nanori": "",
       "exportId": 737
@@ -51855,7 +53089,7 @@
       "literal": "線",
       "kunyomi": "すじ",
       "onyomi": "セン",
-      "meaning": "linia, szlak, tor*",
+      "meaning": "linia, szlak, tor 💡",
       "tags": [
         "🏡 常用漢字"
       ],
@@ -52862,10 +54096,10 @@
     },
     {
       "tempId": "ant_7",
-      "title": "Note for 剃",
+      "title": "Skojarzenie.",
       "content": "Młodszy brat z mlekiem pod nosem, a już się goli ;) .",
       "createdAt": "2025-12-22T17:06:02.000Z",
-      "updatedAt": "2025-12-22T17:06:02.000Z"
+      "updatedAt": "2026-06-12T21:14:08.000Z"
     },
     {
       "tempId": "ant_8",
@@ -52925,10 +54159,10 @@
     },
     {
       "tempId": "ant_16",
-      "title": "Note for 線",
+      "title": "Skojarzenie.",
       "content": "Biała woda.",
       "createdAt": "2025-12-22T17:06:02.000Z",
-      "updatedAt": "2025-12-22T17:06:02.000Z"
+      "updatedAt": "2026-06-09T19:27:45.000Z"
     },
     {
       "tempId": "ant_17",
@@ -53016,10 +54250,10 @@
     },
     {
       "tempId": "ant_29",
-      "title": "Note for 倚",
+      "title": "Skojarzenie.",
       "content": "Jak na krześle (znak przypomina Kanji krzesła: 椅).",
       "createdAt": "2025-12-22T17:06:02.000Z",
-      "updatedAt": "2025-12-22T17:06:02.000Z"
+      "updatedAt": "2026-06-21T09:39:48.000Z"
     },
     {
       "tempId": "ant_30",
@@ -53100,10 +54334,10 @@
     },
     {
       "tempId": "ant_41",
-      "title": "Note for 儂",
+      "title": "Skojarzenie.",
       "content": "„Schylony smok” (prawe komponenty).",
       "createdAt": "2025-12-22T17:06:02.000Z",
-      "updatedAt": "2025-12-22T17:06:02.000Z"
+      "updatedAt": "2026-06-09T22:41:19.000Z"
     },
     {
       "tempId": "ant_42",
@@ -53114,10 +54348,10 @@
     },
     {
       "tempId": "ant_43",
-      "title": "Note for 儡",
+      "title": "Skojarzenie.",
       "content": "Padł z wycieńczenia z zza dużej ilości pola do orki.",
       "createdAt": "2025-12-22T17:06:02.000Z",
-      "updatedAt": "2025-12-22T17:06:02.000Z"
+      "updatedAt": "2026-06-05T21:24:30.000Z"
     },
     {
       "tempId": "ant_44",
@@ -53709,10 +54943,10 @@
     },
     {
       "tempId": "ant_128",
-      "title": "Note for 鈷",
+      "title": "Dopowiedzenie.",
       "content": "Pierwiastek chemiczny.",
       "createdAt": "2025-12-22T17:06:03.000Z",
-      "updatedAt": "2025-12-22T17:06:03.000Z"
+      "updatedAt": "2026-06-08T09:25:54.000Z"
     },
     {
       "tempId": "ant_129",
@@ -53730,10 +54964,10 @@
     },
     {
       "tempId": "ant_131",
-      "title": "Note for 麹",
+      "title": "Dopowiedzenie.",
       "content": "Skiełkowane ziarno zbóż; podstawowy surowiec w piwowarstwie, pomocniczy w gorzelnictwie.",
       "createdAt": "2025-12-22T17:06:03.000Z",
-      "updatedAt": "2025-12-22T17:06:03.000Z"
+      "updatedAt": "2026-06-12T06:24:40.000Z"
     },
     {
       "tempId": "ant_132",
@@ -53947,10 +55181,10 @@
     },
     {
       "tempId": "ant_162",
-      "title": "Note for 怠",
+      "title": "Skojarzenie.",
       "content": "Osiąść na laurach po otrzymaniu nagrody.",
       "createdAt": "2025-12-22T17:06:03.000Z",
-      "updatedAt": "2025-12-22T17:06:03.000Z"
+      "updatedAt": "2026-06-17T10:57:31.000Z"
     },
     {
       "tempId": "ant_163",
@@ -53982,10 +55216,10 @@
     },
     {
       "tempId": "ant_167",
-      "title": "Note for 碁",
-      "content": "gra planszowa rozgrywana przez dwóch graczy czarnymi i białymi kamieniami na kwadratowej tablicy, przy czym celem gry jest blokada kamieni przeciwnika (otoczeniu swoimi pionami jak największego terytorium na planszy)\n\nwywodzi się od starochińskiej gry sprzed 4 tys. lat, uznawana za narodową grę japońską (ostateczne zasady ustalono ok. VIII w. w Japonii)",
+      "title": "Dopowiedzenie.",
+      "content": "Rozgrywana przez dwóch graczy czarnymi i białymi kamieniami na kwadratowej tablicy, przy czym celem gry jest blokada kamieni przeciwnika (otoczeniu swoimi pionami jak największego terytorium na planszy).\n\nWywodzi się od starochińskiej gry sprzed 4 tys. lat, uznawana za narodową grę japońską (ostateczne zasady ustalono ok. VIII w. w Japonii).",
       "createdAt": "2025-12-22T17:06:03.000Z",
-      "updatedAt": "2025-12-22T17:06:03.000Z"
+      "updatedAt": "2026-06-12T06:16:29.000Z"
     },
     {
       "tempId": "ant_168",
@@ -54066,10 +55300,10 @@
     },
     {
       "tempId": "ant_179",
-      "title": "Note for 旭",
+      "title": "Skojarzenie.",
       "content": "Słońce o dziewiątej.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T10:12:05.000Z"
     },
     {
       "tempId": "ant_180",
@@ -54339,24 +55573,24 @@
     },
     {
       "tempId": "ant_218",
-      "title": "Note for 聾",
+      "title": "Skojarzenie.",
       "content": "Smok na ucho nadepnął ;) .",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-02T18:11:42.000Z"
     },
     {
       "tempId": "ant_219",
-      "title": "Note for 昴",
+      "title": "Dopowiedzenie.",
       "content": "Najbardziej znana gromada otwarta na niebie.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-04T18:12:36.000Z"
     },
     {
       "tempId": "ant_220",
-      "title": "Note for 暉",
+      "title": "Skojarzenie.",
       "content": "Błyszczący samochód w garażu.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-04T18:13:16.000Z"
     },
     {
       "tempId": "ant_221",
@@ -54367,10 +55601,10 @@
     },
     {
       "tempId": "ant_222",
-      "title": "Note for 坪",
+      "title": "Dopowiedzenie.",
       "content": "Jednostka powierzchni, około 3,3 m2.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-03T09:33:53.000Z"
     },
     {
       "tempId": "ant_223",
@@ -54381,10 +55615,10 @@
     },
     {
       "tempId": "ant_224",
-      "title": "Note for 梼",
+      "title": "Skojarzenie.",
       "content": "Głupi jak kloc.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-07T10:48:31.000Z"
     },
     {
       "tempId": "ant_225",
@@ -54395,10 +55629,10 @@
     },
     {
       "tempId": "ant_226",
-      "title": "Note for 亞",
+      "title": "Skojarzenie.",
       "content": "Wojskowa naszywka na pagonach.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-09T18:46:33.000Z"
     },
     {
       "tempId": "ant_227",
@@ -54451,10 +55685,10 @@
     },
     {
       "tempId": "ant_234",
-      "title": "Note for 怱",
+      "title": "Skojarzenie.",
       "content": "Rwące, pędzące, gnające dokądś / do kogoś serce.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T07:52:41.000Z"
     },
     {
       "tempId": "ant_235",
@@ -54465,17 +55699,17 @@
     },
     {
       "tempId": "ant_236",
-      "title": "Note for 怕",
+      "title": "Skojarzenie.",
       "content": "Przestraszył się czegoś białego ;) .",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T07:54:36.000Z"
     },
     {
       "tempId": "ant_237",
-      "title": "Note for 怫",
+      "title": "Skojarzenie.",
       "content": "Złości mnie koncept pieniądza.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T07:56:01.000Z"
     },
     {
       "tempId": "ant_238",
@@ -54486,10 +55720,10 @@
     },
     {
       "tempId": "ant_239",
-      "title": "Note for 旦",
+      "title": "Skojarzenie.",
       "content": "Słońce nad płaską ziemią.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T07:56:56.000Z"
     },
     {
       "tempId": "ant_240",
@@ -54507,45 +55741,45 @@
     },
     {
       "tempId": "ant_242",
-      "title": "Note for 恟",
+      "title": "Skojarzenie.",
       "content": "Boi się drania, choć ten jest już zawinięty w całun.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T23:07:14.000Z"
     },
     {
       "tempId": "ant_243",
-      "title": "Note for 恃",
+      "title": "Skojarzenie.",
       "content": "Chodzę do świątyni, gdyż polegam na Bogu.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T23:08:31.000Z"
     },
     {
       "tempId": "ant_244",
-      "title": "Note for 悃",
+      "title": "Skojarzenie.",
       "content": "Szczerość może wprawiać w zakłopotanie, czy wręcz rozdrażnienie.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-16T23:11:24.000Z"
     },
     {
       "tempId": "ant_245",
-      "title": "Note for 悖",
+      "title": "Skojarzenie.",
       "content": "Kometa rozświetla ciemność.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T14:44:16.000Z"
     },
     {
       "tempId": "ant_246",
-      "title": "Note for 悗",
+      "title": "Skojarzenie.",
       "content": "Czyjeś wybaczenie wprawiło kogoś w zmieszanie.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T14:45:15.000Z"
     },
     {
       "tempId": "ant_247",
-      "title": "Note for 悒",
+      "title": "Skojarzenie.",
       "content": "Przybity, że mieszka na wsi.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T14:46:04.000Z"
     },
     {
       "tempId": "ant_248",
@@ -54577,24 +55811,24 @@
     },
     {
       "tempId": "ant_252",
-      "title": "Note for 愆",
+      "title": "Skojarzenie.",
       "content": "Emocjonalna kłótnia.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T21:14:26.000Z"
     },
     {
       "tempId": "ant_253",
-      "title": "Note for 惶",
+      "title": "Skojarzenie.",
       "content": "Strach przed cesarzem.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T21:15:18.000Z"
     },
     {
       "tempId": "ant_254",
-      "title": "Note for 惷",
+      "title": "Skojarzenie.",
       "content": "Wiosenne zamieszanie budzącej się do życia natury.",
       "createdAt": "2025-12-22T17:06:04.000Z",
-      "updatedAt": "2025-12-22T17:06:04.000Z"
+      "updatedAt": "2026-06-18T21:18:02.000Z"
     },
     {
       "tempId": "ant_255",
@@ -54619,17 +55853,17 @@
     },
     {
       "tempId": "ant_258",
-      "title": "Note for 愍",
+      "title": "Skojarzenie.",
       "content": "Co naprawdę znaczy być człowiekiem.",
       "createdAt": "2025-12-22T17:06:05.000Z",
-      "updatedAt": "2025-12-22T17:06:05.000Z"
+      "updatedAt": "2026-06-18T21:19:24.000Z"
     },
     {
       "tempId": "ant_259",
-      "title": "Note for 慇",
+      "title": "Skojarzenie.",
       "content": "Kurtuazyjnie z sercem rozkładam obrus.",
       "createdAt": "2025-12-22T17:06:05.000Z",
-      "updatedAt": "2025-12-22T17:06:05.000Z"
+      "updatedAt": "2026-06-18T21:21:46.000Z"
     },
     {
       "tempId": "ant_260",
@@ -57563,14 +58797,199 @@
       "content": "Niczym dżina w urnie.",
       "createdAt": "2026-05-31T11:02:51.000Z",
       "updatedAt": "2026-05-31T11:02:51.000Z"
+    },
+    {
+      "tempId": "ant_679",
+      "title": "Skojarzenie.",
+      "content": "Bezwładne, zwiotczałe kończymy.",
+      "createdAt": "2026-06-01T11:18:11.000Z",
+      "updatedAt": "2026-06-01T11:18:11.000Z"
+    },
+    {
+      "tempId": "ant_680",
+      "title": "Skojarzenie.",
+      "content": "O ognistym temperamencie.",
+      "createdAt": "2026-06-01T11:23:39.000Z",
+      "updatedAt": "2026-06-01T11:23:39.000Z"
+    },
+    {
+      "tempId": "ant_681",
+      "title": "Skojarzenie.",
+      "content": "> „Jakiego rodzaju przestrzeń oddzielająca człowieka od jego braci sprawia, że czuje się samotny? Jak wiem z doświadczenia, nawet największy wysiłek nóg niewiele przybliży do siebie dwa umysły”.\n\n(Henry David Thoreau, _Walden_)",
+      "createdAt": "2026-06-02T07:53:41.000Z",
+      "updatedAt": "2026-06-02T07:53:41.000Z"
+    },
+    {
+      "tempId": "ant_682",
+      "title": "Dopowiedzenie.",
+      "content": "Miękka tkanina płaszczowa z wełny wielbłądziej.",
+      "createdAt": "2026-06-02T07:57:32.000Z",
+      "updatedAt": "2026-06-02T07:57:32.000Z"
+    },
+    {
+      "tempId": "ant_683",
+      "title": "Skojarzenie.",
+      "content": "Uwięziona pod dachem krowa.",
+      "createdAt": "2026-06-02T18:10:25.000Z",
+      "updatedAt": "2026-06-02T18:10:25.000Z"
+    },
+    {
+      "tempId": "ant_684",
+      "title": "Skojarzenie.",
+      "content": "Zagniecenie na zwierzęcej skórze.",
+      "createdAt": "2026-06-09T07:25:05.000Z",
+      "updatedAt": "2026-06-09T07:25:05.000Z"
+    },
+    {
+      "tempId": "ant_685",
+      "title": "Skojarzenie.",
+      "content": "Jak biała fasola.",
+      "createdAt": "2026-06-09T07:26:25.000Z",
+      "updatedAt": "2026-06-09T07:26:25.000Z"
+    },
+    {
+      "tempId": "ant_686",
+      "title": "Skojarzenie.",
+      "content": "Czysta biała siekiera przy drzewie.",
+      "createdAt": "2026-06-09T07:27:57.000Z",
+      "updatedAt": "2026-06-09T07:27:57.000Z"
+    },
+    {
+      "tempId": "ant_687",
+      "title": "Skojarzenie.",
+      "content": "Zwierzęca skóra skrywa pryszcza ;) .",
+      "createdAt": "2026-06-09T07:30:12.000Z",
+      "updatedAt": "2026-06-09T07:30:12.000Z"
+    },
+    {
+      "tempId": "ant_688",
+      "title": "Skojarzenie.",
+      "content": "W armii popękała.",
+      "createdAt": "2026-06-09T07:32:36.000Z",
+      "updatedAt": "2026-06-09T07:32:36.000Z"
+    },
+    {
+      "tempId": "ant_689",
+      "title": "Skojarzenie.",
+      "content": "Pozaginane jak siano.",
+      "createdAt": "2026-06-10T08:32:18.000Z",
+      "updatedAt": "2026-06-10T08:32:18.000Z"
+    },
+    {
+      "tempId": "ant_690",
+      "title": "Skojarzenie.",
+      "content": "Nabrała szorstkości w armii.",
+      "createdAt": "2026-06-10T08:37:03.000Z",
+      "updatedAt": "2026-06-10T08:37:03.000Z"
+    },
+    {
+      "tempId": "ant_691",
+      "title": "Dopowiedzenie.",
+      "content": "Np. przez rzekę.",
+      "createdAt": "2026-06-13T09:35:28.000Z",
+      "updatedAt": "2026-06-13T09:35:28.000Z"
+    },
+    {
+      "tempId": "ant_692",
+      "title": "Skojarzenie.",
+      "content": "Rzeka origami.",
+      "createdAt": "2026-06-13T09:58:00.000Z",
+      "updatedAt": "2026-06-13T09:58:00.000Z"
+    },
+    {
+      "tempId": "ant_693",
+      "title": "Dopowiedzenie.",
+      "content": "Pierwiastek chemiczny.",
+      "createdAt": "2026-06-15T08:15:53.000Z",
+      "updatedAt": "2026-06-15T08:15:53.000Z"
+    },
+    {
+      "tempId": "ant_694",
+      "title": "Skojarzenie.",
+      "content": "Jak z latarni morskiej.",
+      "createdAt": "2026-06-16T07:17:01.000Z",
+      "updatedAt": "2026-06-16T07:17:01.000Z"
+    },
+    {
+      "tempId": "ant_695",
+      "title": "Skojarzenie.",
+      "content": "Bębenki pełnią większą role.",
+      "createdAt": "2026-06-16T07:20:07.000Z",
+      "updatedAt": "2026-06-16T07:20:07.000Z"
+    },
+    {
+      "tempId": "ant_696",
+      "title": "Dopowiedzenie.",
+      "content": "Np. funty szterlingi.",
+      "createdAt": "2026-06-18T10:44:57.000Z",
+      "updatedAt": "2026-06-18T10:44:57.000Z"
+    },
+    {
+      "tempId": "ant_697",
+      "title": "Dopowiedzenie.",
+      "content": "Np. prawny, gramatyczny.",
+      "createdAt": "2026-06-18T10:57:09.000Z",
+      "updatedAt": "2026-06-18T10:57:09.000Z"
+    },
+    {
+      "tempId": "ant_698",
+      "title": "Dopowiedzenie.",
+      "content": "Z drzewami.",
+      "createdAt": "2026-06-20T09:22:26.000Z",
+      "updatedAt": "2026-06-20T09:22:26.000Z"
     }
   ],
   "annotations": {
+    "磅": [
+      "ant_696"
+    ],
+    "硼": [
+      "ant_693"
+    ],
+    "矼": [
+      "ant_691"
+    ],
+    "瞽": [
+      "ant_695"
+    ],
+    "瞶": [
+      "ant_694"
+    ],
+    "皺": [
+      "ant_689"
+    ],
+    "皹": [
+      "ant_690"
+    ],
+    "皸": [
+      "ant_688"
+    ],
+    "皴": [
+      "ant_684"
+    ],
+    "皰": [
+      "ant_687"
+    ],
+    "皚": [
+      "ant_685"
+    ],
+    "皙": [
+      "ant_686"
+    ],
+    "癰": [
+      "ant_668"
+    ],
+    "癧": [
+      "ant_698"
+    ],
     "癩": [
       "ant_677"
     ],
     "癜": [
       "ant_676"
+    ],
+    "痲": [
+      "ant_679"
     ],
     "痾": [
       "ant_672"
@@ -57646,6 +59065,9 @@
     ],
     "猜": [
       "ant_648"
+    ],
+    "狄": [
+      "ant_680"
     ],
     "狆": [
       "ant_647"
@@ -57799,6 +59221,12 @@
     ],
     "淇": [
       "ant_558"
+    ],
+    "浙": [
+      "ant_692"
+    ],
+    "浹": [
+      "ant_681"
     ],
     "浚": [
       "ant_455"
@@ -58439,6 +59867,9 @@
     "聾": [
       "ant_218"
     ],
+    "牢": [
+      "ant_683"
+    ],
     "凌": [
       "ant_217"
     ],
@@ -58665,6 +60096,9 @@
     ],
     "翠": [
       "ant_180"
+    ],
+    "袈": [
+      "ant_682"
     ],
     "旭": [
       "ant_179"
@@ -59433,6 +60867,9 @@
     "巴": [
       "ant_522",
       "ant_368"
+    ],
+    "格": [
+      "ant_697"
     ],
     "輝": [
       "ant_541",
